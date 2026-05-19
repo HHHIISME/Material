@@ -1,0 +1,54 @@
+# FastAPI Framework
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+python-multipart==0.0.18
+
+# Database
+sqlalchemy==2.0.36
+asyncpg==0.30.0
+psycopg2-binary==2.9.10
+redis==5.2.1
+
+# Vector Database
+pymilvus==2.5.0
+
+# LLM & AI
+openai==1.57.0
+zhipuai==2.1.0
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-openai==0.3.0
+
+# Embedding
+sentence-transformers==3.3.1
+
+# Document Processing
+pymupdf==1.25.3
+python-docx==1.1.2
+pdfplumber==0.11.4
+pytesseract==0.3.13
+Pillow==11.0.0
+
+# PPT Generation
+python-pptx==1.0.2
+
+# Object Storage
+minio==7.2.14
+
+# Utilities
+pydantic==2.10.4
+pydantic-settings==2.7.0
+python-dotenv==1.0.1
+httpx==0.28.1
+aiofiles==24.1.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Celery for async tasks
+celery==5.4.0
+
+# Development
+pytest==8.3.4
+pytest-asyncio==0.25.0
+black==24.10.0
+isort==5.13.2
