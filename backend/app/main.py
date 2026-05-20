@@ -1,6 +1,14 @@
 """
 材料学院智能学习平台 - FastAPI 主入口
 """
+import os
+from pathlib import Path
+from dotenv import load_dotenv
+
+# 加载.env文件（从backend目录的上级目录）
+env_path = Path(__file__).parent.parent.parent / ".env"
+load_dotenv(env_path)
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.core.config import settings
@@ -40,6 +48,11 @@ async def health_check():
 
 
 # 注册路由
+from app.api import zhipu, documents
+app.include_router(zhipu.router, prefix="/api/v1")
+app.include_router(documents.router, prefix="/api/v1")
+
+# TODO: 添加更多路由
 # from app.api.v1 import chat, images, ppt, auth
 # app.include_router(chat.router, prefix="/api/v1/chat", tags=["chat"])
 # app.include_router(images.router, prefix="/api/v1/images", tags=["images"])

@@ -20,7 +20,7 @@ services:
       timeout: 5s
       retries: 5
 
-  # Redis 缓存
+  # Redis 缓存 (同时作为 Celery 消息队列)
   redis:
     image: redis:7-alpine
     container_name: material_redis
@@ -35,7 +35,7 @@ services:
       timeout: 5s
       retries: 5
 
-  # Milvus 向量数据库
+  # Milvus 向量数据库 - etcd
   etcd:
     image: quay.io/coreos/etcd:v3.5.16
     container_name: material_etcd
@@ -54,6 +54,7 @@ services:
       timeout: 20s
       retries: 3
 
+  # Milvus 向量数据库 - MinIO (存储)
   minio:
     image: minio/minio:latest
     container_name: material_minio
@@ -73,6 +74,7 @@ services:
       timeout: 20s
       retries: 3
 
+  # Milvus 向量数据库
   milvus:
     image: milvusdb/milvus:v2.5.0
     container_name: material_milvus
@@ -88,35 +90,12 @@ services:
     depends_on:
       - etcd
       - minio
+    command: ["milvus", "run", "standalone"]
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:9091/healthz"]
       interval: 30s
       timeout: 20s
       retries: 3
-
-  # 后端 API 服务
-  backend:
-    build:
-      context: ./backend
-      dockerfile: Dockerfile
-    container_name: material_backend
-    restart: unless-stopped
-    environment:
-      - POSTGRES_SERVER=postgres
-      - REDIS_HOST=redis
-      - MILVUS_HOST=milvus
-      - MINIO_ENDPOINT=minio:9000
-    ports:
-      - "8000:8000"
-    volumes:
-      - ./backend:/app
-    depends_on:
-      postgres:
-        condition: service_healthy
-      redis:
-        condition: service_healthy
-      milvus:
-        condition: service_healthy
 
 volumes:
   postgres_data:
