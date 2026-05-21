@@ -63,13 +63,12 @@ def migrate_entities(entities_file: str, db: Session) -> dict:
     return id_mapping
 
 
-def migrate_relationships(relationships_file: str, id_mapping: dict, db: Session):
+def migrate_relationships(relationships_file: str, db: Session):
     """
     迁移关系数据
     
     Args:
         relationships_file: relationships.parquet 文件路径
-        id_mapping: 实体ID映射字典
         db: 数据库会话
     """
     print("\n📊 开始迁移关系数据...")
@@ -78,15 +77,24 @@ def migrate_relationships(relationships_file: str, id_mapping: dict, db: Session
     relationships_df = pd.read_parquet(relationships_file)
     print(f"   找到 {len(relationships_df)} 个关系")
     
+    # 构建实体名称到ID的映射
+    from sqlalchemy import func
+    entities = db.query(Entity).all()
+    entity_name_to_id = {entity.name: entity.id for entity in entities}
+    print(f"   加载 {len(entity_name_to_id)} 个实体名称映射")
+    
     # 统计
     success_count = 0
     skip_count = 0
     
     # 批量插入
     for idx, row in tqdm(relationships_df.iterrows(), total=len(relationships_df), desc="导入关系"):
-        # 获取映射后的ID
-        source_id = id_mapping.get(row.get('source'))
-        target_id = id_mapping.get(row.get('target'))
+        # 根据实体名称查找ID
+        source_name = row.get('source')
+        target_name = row.get('target')
+        
+        source_id = entity_name_to_id.get(source_name)
+        target_id = entity_name_to_id.get(target_name)
         
         # 检查ID是否存在
         if source_id is None or target_id is None:
@@ -97,8 +105,8 @@ def migrate_relationships(relationships_file: str, id_mapping: dict, db: Session
         relationship = Relationship(
             source_id=source_id,
             target_id=target_id,
-            relation_type=row.get('type', 'RELATED_TO')[:200],
-            description=row.get('description', ''),
+            relation_type=row.get('type', 'RELATED_TO')[:200] if pd.notna(row.get('type')) else 'RELATED_TO',
+            description=str(row.get('description', '')),
             weight=float(row.get('weight', 1.0)) if pd.notna(row.get('weight')) else 1.0,
             source_doc=row.get('source_doc', '')[:100] if pd.notna(row.get('source_doc')) else None
         )
@@ -171,7 +179,7 @@ def main():
         id_mapping = migrate_entities(str(entities_file), db)
         
         # 迁移关系
-        migrate_relationships(str(relationships_file), id_mapping, db)
+        migrate_relationships(str(relationships_file), db)
         
         # 验证迁移
         entity_count, relationship_count = verify_migration(db)
