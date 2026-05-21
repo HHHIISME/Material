@@ -1,0 +1,300 @@
+# 1-s2.0-S0749603615000622-main
+
+Electrospun SiO2 ‘‘necklaces’’ on unglazed ceramic
+tiles: a planarizing strategy
+Alessandro Di Mauro, Maria Elena Fragalà ⇑
+Dipartimento di Scienze Chimiche and INSTM UdR Catania, Università di Catania, Viale Andrea Doria, 6, 95100 Catania, Italy
+a r t i c l e
+i n f o
+Article history:
+Received 24 September 2014
+Received in revised form 9 December 2014
+Accepted 18 January 2015
+Available online 7 February 2015
+Keywords:
+Ceramic tiles
+Electrospinning
+PVP
+Spin on glass
+Surface planarization
+a b s t r a c t
+Silica based nanoﬁbres have been deposited on unglazed ceramic
+tiles by combining electrospinning and sol–gel processes. Poly(vi-
+nyl pyrrolidone) (PVP) alcoholic solutions and commercial spin
+on glass (Accuglass) mixtures have been used to obtain composite
+ﬁbrous non-woven mats totally converted, after thermal annealing
+at 600 C, to SiO2 microsphere ‘‘necklaces’’. The possibility to get an
+uniform ﬁbres coverage onto the tile surface conﬁrms the validity
+of electrospinning (easily scalable to large surface samples) as
+coating strategy to cover the macroscopic defects typical of the
+polished unglazed tile surface and improve surface planarization.
+ 2015 Elsevier Ltd. All rights reserved.
+1. Introduction
+Nowadays, a new generation of ceramic tiles, obtained by a designed chemical–physical modula-
+tion of surface properties and functionalities, offers performances well beyond the traditional market
+expectation, thus making possible the idea of use them as smart architectural element or advanced
+coating [1]. In fact, photovoltaic cells and sensors integrated in ceramic tiles for BIPV (Building
+Integrated Photovoltaic) applications and self-cleaning materials having peculiar photo-catalytic
+properties represent an advanced class of materials in continuous development [2,3]. Nanotechnology
+[4] offers many insights about the potentialities of ceramic tiles as support for functional and/or
+hybrid materials having speciﬁc properties to address the need of the ceramic industry. Accordingly,
+inorganic nanostructures, like metal or semiconductor oxide nanoparticles (i.e. SiO2, TiO2) are largely
+http://dx.doi.org/10.1016/j.spmi.2015.01.027
+0749-6036/ 2015 Elsevier Ltd. All rights reserved.
+⇑Corresponding author. Tel.: +39 095 7385095; fax: +39 095 580138.
+E-mail address: me.fragala@unict.it (M.E. Fragalà).
+Superlattices and Microstructures 81 (2015) 265–271
+Contents lists available at ScienceDirect
+Superlattices and Microstructures
+jo urnal ho mepage: www.elsevier.com/l ocate/superlattices
+employed as coating material to improve the self-cleaning ability of exposed surface (i.e. glass, ceram-
+ic tiles, porcelainised stoneware tiles) or their antibacterial properties [5,6]. However, fabrication
+strategies and production costs must be compatible with tile manufacturing processes and, even more
+important, do not alter the aesthetic aspect. Spray-coating or air-brushing are examples of techniques
+used to deposit nanoparticle dispersions on the tile surface [7,8].
+Electrospinning is a widely employed technique to obtain non- woven mats of polymers or ceramic
+materials, self-supported or deposited on a large variety of substrates [9]. This techniques, that relies
+on an electric ﬁeld to draw a spinnable solution towards a collector of lower potential, represents a
+versatile bottom-up processing strategy to produce micro- and/or nano-ﬁbres. Initial precursor solu-
+tions were comprised of an organic polymer that provides the backbone of long and usually entangled
+organic chains required to draw out ﬁbres from a high viscosity solution. The electrostatic forces dis-
+tort the solution from a spherical pendant drop to a Taylor cone. Once the electrostatic forces over-
+come the surface tension, a charged jet is ejected and subsequently elongated due to bending and
+splaying. As a consequence, a non-woven structure of continuous ﬁbres with diameters ranging from
+a few nanometres to several microns is deposited on a collector plate. Ceramic precursors or particle
+suspensions can be combined with organic polymers to obtain, post calcination, polymer-free ceramic
+ﬁbres [10,11].
+Herein, we demonstrate the successful use of electrospinning to coat ceramic tiles. In particular,
+silica based microﬁbres are obtained by a combined electrospinning and sol–gel process [12] that uses,
+as spinning solution, poly(vinyl pyrrolidone) (PVP) and commercial spin on glass (SOG–Accuglass)
+alcholic solutions. Alkoxysilanes are popular single source precursors [13] for SiO2 since high quality
+oxides can be produced by pyrolysis at relatively low temperature. Moreover, polymer-modiﬁed sili-
+cates are very important in sol–gel chemistry and for organic–inorganic hybrid material applications
+[14]. Films deposited by alkoxysilanes are widely utilised as protective layer coatings, electronic sen-
+sors, chemically modiﬁed electrodes, thin ﬁlm optics, and antireﬂection coatings [15,16].
+The obtained PVP–Accuglass ﬁbrous non-woven mats are totally converted, after thermal anneal-
+ing at 600 C, to pure SiO2 microsphere ‘‘necklaces’’. A complete surface characterisation is provided by
+using Field Emission Scanning Electron Microscopy (FE-SEM) and X-Rays Photoelectrons Spectroscopy
+(XPS).
+2. Experimental
+10 ml of a PVP (Mw = 143000 Dalton) ethanolic solution (v/v 10%) is mixed to 10 ml of Accuglass
+(Honeywell accuglass T-12B spin-on glass) solution and let under continuous stirring (at T = 60 C)
+for 6 hrs. This commercial methylsiloxane contains about 15% of –CH3 groups bonded to Si–O back-
+bone and its curing is accomplished by heating the Accuglass ﬁlm at a temperature of at least
+400 C and for a time period ranging from 10 min to several hours.
+After a waiting time of 24 hrs, the resulting solution is electrospun on substrate surfaces, using a
+commercial electrospinning apparatus (EC-DIG Electrospinning, IME Technologies). PVP/Accuglass
+composite ﬁbres are ejected from the needle of a syringe when an electrical ﬁeld, as high as several
+kV/cm, is applied and collected (stationary mode) on the surface of a substrate clamped on top of a
+conductive circular collector. Electrospinning parameters change according to the nature of the sub-
+strates and related conductivity (i.e. moving from semiconductive substrates to insulators), as shown
+in Table 1.
+Unglazed polished tile samples (1  1 cm2) have been provided by SITI-B&T (Formigine, Italy) and
+used as received. Silicon (100) substrates have been used as comparison: in particular, ﬁbres surface
+Table 1
+Electrospinning condition to deposit SiO2 nanoﬁbres on different substrates.
+Collector
+Distance (cm)
+Flow rate (ll/min)
+Negative voltage (V)
+Positive voltage (V)
+Time (s)
+Silicon
+14.5
+11.0
+4
+21
+30
+Ceramic tile
+18.0
+9.0
+4
+19
+30
+266
+A. Di Mauro, M.E. Fragalà / Superlattices and Microstructures 81 (2015) 265–271
+characterisation by X-Rays Photoelectron Spectroscopy is less inﬂuenced by charging issues if electri-
+cally non-insulating substrates are used. The obtained electrospun PVP–Accuglass ﬁbres have been
+kept under ambient condition to dry and to allow the alkoxysilane precursor to completely turn into
+gel [16] by the moisture in the atmosphere. After annealing in a hot-wall horizontal furnace at 600 C
+for 6 hrs, the complete degradation of PVP and conversion of Accuglass to SiO2 occurs, thus resulting in
+the formation of pure SiO2 ‘‘necklace’’ like microﬁbres. The morphologies of the electrospun mats have
+been further characterised with Leo-Supra VP 550 Field Emission scanning electron microscope
+(ZEISS) and NT-MDT AFM (working in contact mode). XPS data have been accumulated on PHI
+ESCA/SAM 5600 multy technique spectrometer equipped with a monochromatized Al Ka X-ray
+source.
+The binding energies have been calibrated by referencing C1s to 285 eV.
+3. Results and discussion
+Fig. 1 shows the surface morphology of a ceramic tile before (Fig. 1a) and after (Fig. 1b) the depo-
+sition of PVP–Accuglass composite microﬁbres.
+SEM images reveal, after ﬁbres deposition, a smoother and more regular tile surface than that of the
+untreated sample: in fact, the homogeneous and continuous ﬁbres coverage is able to cover the sur-
+face unevenness and asperity typical of unglazed tiles.
+A more detailed morphological characterisation of the electrospun ﬁbres is shown in Fig. 2, that
+reveals the complex microstructure of the obtained microﬁbres (Fig. 2a).
+Fig. 1. Unglazed tile before (a) and after (b) electrospinning of PVP–Accuglass ﬁbres (scale bar is 100 lm).
+Fig. 2. SEM images (high magniﬁcation) of PVP–Accuglass ﬁbres.
+A. Di Mauro, M.E. Fragalà / Superlattices and Microstructures 81 (2015) 265–271
+267
+The average ﬁbres dimension is about 1 micron and spherical particles are included inside the poly-
+meric ‘‘skin’’, as clearly shown in Fig. 2b. In fact, alkoxisilanes are able to form perfect spherical silica
+nanoparticles [16–19] by hydrolysis/condensation catalysed by PVP [18].
+AFM analysis of ceramic tile surface, before and after electrospinning (Fig. 3), provides further
+details about the surface morphology. In particular, before electrospinning (Fig. 3a) the surface of
+unglazed tiles is characterised by the presence of craters having a depth of about 1 micron (as clearly
+indicated by the Z scale of the AFM image). After electrospinning, the ﬁbres entanglement completely
+changes the surface morphology (Fig. 2b): the granular appearance is the result of the homogeneous
+ﬁbre coverage, in good agreement with SEM analysis. The overall Z range, after electrospinning, is
+about 500 nm, lower than that recorded before treatment, thus conﬁrming a more uniform tile
+surface.
+As to the formation of silica microspheres within the PVP ﬁbres, despite most of the used approach-
+es to form SiO2 nanoparticles exploit the hydrolysis and condensation in water using ammonia as cat-
+alyst, herein we achieve the formation of silica speres using a water free solvent mixture. The
+composition of the used commercial Accuglass is reported in Table 2 (Honeywell MSDS Number:
+PDIF-00464).
+No water is present in the mixture. It has to be reminded that a ﬂat and uniform SiO2 ﬁlm is
+required for microelectronics applications of spin of glass (SOG) [20] and therefore, formation of
+microspheres must be deﬁnitively avoided. Accordingly, the SiO2 microspheres absence during the
+preparation of the PVP–Accuglass precursor solution is conﬁrmed by the aspect of the ﬁnal solution
+that remains clear (no turbidity or colour change is observed). Therefore, we have to assume that
+microspheres formation is promoted by the electrospinning process [21]. Noteworthy, during electro-
+spinning a fast solvent evaporation, accompanied by jet stretching, is responsible for the ﬁnal dia-
+meter and structure of nanoﬁbres. As we run electrospinning in atmosphere, we assume (work is
+on going) that humidity (RH) might be responsible for the formation of SiO2 microspheres within
+the PVP ﬁbres skin [22].
+Fig. 3. AFM images of (a) untreated tile surface and (b) tile surface after PVP–Accuglass electrospinning.
+Table 2
+Accuglass composition.
+Methyl siloxane
+8–17%
+Acetone
+8–19%
+Ethanol
+28–42%
+Isopropanol
+20–35%
+268
+A. Di Mauro, M.E. Fragalà / Superlattices and Microstructures 81 (2015) 265–271
+Annealing of PVP–Accuglass microﬁbres at 600 C for 6 hrs leads to complete degradation of both
+PVP and carbonaceous components of spin on glass alkoxysilane, thus converting the polymeric com-
+posite in a ‘‘necklace’’ like arrangement of SiO2 microspheres (Fig. 4).
+SOG materials are conventionally used for microelectronic device planarization to ﬁll narrow gaps
+in the sub-dielectric surface [20]. Unfortunately, the spin-on process cannot easily integrated in the
+ceramic tiles manufacturing, since the dimension of the tiles are not suitable for spin coating process.
+Moreover, the surface irregularities, typical of ceramic tiles, are larger and structurally different with
+respect to the regular (in shape and depth) trenches opened in the semiconductor interlayers. In fact,
+the whole surface of unglazed ceramic tile is not smooth and pores, craters, large ﬁssures, large frac-
+tures, pits are typically observed. Accordingly, only very thick SOG layers might provide a smooth pla-
+nar surface over rough topographies, thus affecting the aesthetic of the ceramic tiles.
+By considering all these drawbacks, electrospinning provides an alternative and more efﬁcient
+solution to ﬁll voids, pores and cracks present at the tile surfaces, by using electrospun microﬁbres
+networks that can be converted, by annealing treatments, into SiO2 microspheres arrangement.
+To probe the complete degradation of the polymeric component and the related compositions of
+obtained silica ‘‘necklace’’, stepwise XPS analyses is performed. Surface atomic composition of PVP–
+Accuglass electrospun ﬁbres (collected on silicon substrates to control charging effects), before and
+after annealing, is reported on Table 3.
+Accuglass nominally contains 15 wt% CH3 (methyl) groups bonded to Si atoms in the Si–O back-
+bone, thus explaining the carbon presence (also related to adventitious carbon) in the spin coated
+sample. The composition of composite PVP–Accuglass microﬁbres is characterised, as expected, by
+the presence of N1s peak, originating from amide groups of PVP. Moreover, the C content is drastically
+increased due to carbon based polymer chains of PVP. Finally, surface composition of annealed PVP–
+Accuglass provides a clear evidence of the complete degradation of PVP, as indicated by the absence of
+nitrogen as well as the signiﬁcant reduction of carbon content and the formation of stoichiometric
+SiO2.
+Fig. 4. Low magniﬁcation (a) and high magniﬁcation (b) SEM image of PVP–Accuglass ﬁbres after thermal treatment.
+Table 3
+XPS atomic composition of electrospun ﬁbres, before and after annealing (the composition of a spin coated Accuglass layer has
+been reported for comparison).
+Sample
+N
+Si
+O
+C
+Spin coated Accuglass
+0
+29
+50
+21
+ES PVP–Accuglass
+5
+18
+34
+43
+ES PVP–Accuglass after annealing
+0
+32
+63
+5
+A. Di Mauro, M.E. Fragalà / Superlattices and Microstructures 81 (2015) 265–271
+269
+The ability of electrospun PVP–Accuglass microﬁbres to completely cover the ceramic tile surface
+and to form, after annealing, silica microparticles suggest us their possible application as tile surface
+planarizing strategy. In fact, microﬁbres and microspheres are able to control the defectivity of pol-
+ished tiles, related to machining procedure that induces widespread damage and uncovers the closed
+or bulk porosity.
+Fig. 5 reports the morphology of tile surface before and after electrospinning/annealing treatment.
+Large and deep ﬂaws are clearly visible before coating with electrospun microﬁbres, as shown in
+Fig. 5a. After electrospinning and annealing, these defective areas are ﬁlled by silica microspheres,
+thus resulting in a more homogeneous surface (Fig. 5b–d).
+4. Conclusions
+Herein, we propose electrospinning of PVP–Accuglass mixtures as an efﬁcient approach to obtain
+silica (SiO2) based coating to apply on the ceramic tile surfaces. The uniform ﬁbres coverage conﬁrms
+the validity of the technique (easily scalable to large surface samples) as coating strategy to ﬁll ceram-
+ic tiles defectivity. In fact, the capability of the microﬁbres to cover the microscopic defectivity, typical
+of the polished unglazed tile surface, offers an interesting potentiality as planarizing strategy. Par-
+ticular attention has been paid to preserve the aesthetical aspect of the tiles, which remains
+unchanged after both electrospinning and following thermal treatments, these latter used to convert
+the composite PVP–Accuglass microﬁbres to SiO2 microsphere ‘‘necklaces’’.
+Acknowledgements
+Authors thank Ministero dell’Ambiente e della Tutela del Territorio e del Mare (MATTM) within the
+project Building Integrated Photovoltaics (BIPV) and Ministero dell’ Istruzione, dell’Università e della
+Ricerca (MIUR) within the FIRB project RENAME for ﬁnancial support.
+Fig. 5. Unglazed polished tile before (a) and after (b) electrospinning and annealing of PVP–Accuglass ﬁbres.
+270
+A. Di Mauro, M.E. Fragalà / Superlattices and Microstructures 81 (2015) 265–271
+References
+[1] A.M. Berto, Ceramic tiles: above and beyond traditional applications, J. Eur. Ceram. Soc. 27 (2007) 1607–1613.
+[2] P. São Marcos, J. Marto, T. Trindade, J.A. Labrincha, Screen-printing of TiO2 photocatalytic layers on glazed ceramic tiles, J.
+Photochem. Photobiol. A 197 (2008) 125–131.
+[3] E. Rego, J. Marto, P. São Marcos, J.A. Labrincha, Decolouration of Orange II solutions by TiO2 and ZnO active layers screen-
+printed on ceramic tiles under sunlight irradiation, Appl. Catal. A 355 (2009) 109–114.
+[4] T. Fleischer, M. Decker, U. Fiedeler, Assessing emerging technologies – methodological challenges and the case of
+nanotechnologies, Technol. Forecast. Soc. Chang. 72 (2005) 1112–1121.
+[5] L. Pinho, M.J. Mosquera, Photocatalytic activity of TiO2–SiO2 nanocomposites applied to buildings: inﬂuence of particle size
+and loading, Appl. Catal. B 134–135 (2013) 205–221.
+[6] L. Pinho, F. Elhaddad, D.S. Facio, M.J. Mosquera, A novel TiO2–SiO2 nanocomposite converts a very friable stone into a self-
+cleaning building material, Appl. Surf. Sci. 275 (2013) 389–396.
+[7] S. de Niederhãusern, M. Bondi, Self-cleaning and antibacteric ceramic tile, Surf. Int. J. Appl. Ceram. Technol. 10 (2013) 949–
+956.
+[8] F. Bondioli, R. Taurino, A.M. Ferrari, Functionalization of ceramic tile surface by sol–gel technique, J. Colloid Interface Sci.
+334 (2009) 195–201.
+[9] Z.-M. Huang, Y.-Z. Zhang, M. Kotakic, S. Ramakrishna, A review on polymer nanoﬁbers by electrospinning and their
+applications in nanocomposites, Compos. Sci. Technol. 63 (2003) 2223–2253.
+[10] A. Bianco, I. Cacciotti, M.E. Fragalà, F.R. Lamastra, A. Speghini, F. Piccinelli, G. Malandrino, G. Gusmano, Eu-doped titania
+nanoﬁbers: processing, thermal behaviour and luminescent properties, J. Nanosci. Nanotechnol. 10 (2010) 5183–5190.
+[11] M.E. Fragalà, I. Cacciotti, Y. Aleeva, R. Lo Nigro, A. Bianco, G. Malandrino, C. Spinella, G. Pezzotti, G. Gusmano, Core–shell Zn-
+doped TiO2–ZnO nanoﬁbers fabricated via a combination of electrospinning and metal–organic chemical vapour
+deposition, CrystEngComm 12 (2010) 3858–3865.
+[12] S.-S. Choi, S. Goo Lee, S. Soon Im, S. Hun Kim, Y.L. Joo, Silica nanoﬁbers from electrospinning/sol–gel process, J. Mater. Sci.
+Lett. 22 (2003) 891–893.
+[13] J. Wen, G.L. Wilkes, Organic/inorganic hybrid network materials by the solgel approach, Chem. Mater. 8 (1996) 1667–
+162281.
+[14] G. Schottner, Hybrid solgel-derived polymers: applications of multifunctional materials, Chem. Mater. 13 (2001) 3422–
+3435.
+[15] G.L. Wituck, A silane primer: chemistry and applications of aikoxy silanes, J. Coat. Technol. 65 (1993) 57–60.
+[16] W. Stöber, A. Fink, E. Bohn, Controlled growth of monodisperse silica spheres in the micron size range, J. Colloid Interface
+Sci. 26 (1968) 62–69.
+[17] L.L. Hench, J.K. West, The sol–gel process, Chem. Rev. 90 (1990) 33–72.
+[18] Y. Xu, D. Wu, Y. Sun, W. Chen, H. Yuan, F. Deng, Z. Wu, Effect of polyvinylpyrrolidone on the ammonia-catalyzed sol–gel
+process of TEOS: Study by in situ 29Si NMR, scattering, and rheology, Colloid Surf. A: Physicochem. Eng. Aspects 305 (2007)
+97–104.
+[19] J. Cha, P. Cui, J.-K. Lee, A simple method to synthesize multifunctional silica nanocomposites, NPs@SiO2, using
+polyvinylpyrrolidone (PVP) as a mediator, J. Mater. Chem. 20 (2010) 5533–5537.
+[20] S.K. Gupta, R.L. Chin, Characterization of Spin-On Glass Films as a Planarizing Dielectric, Microelectronics Processing:
+Inorganic Materials Characterization, vol. 295(22), ACS Symposium Series, 1986. pp. 349–365.
+[21] M.P. Dvores, G. Marom, S. Magdassi, Formation of organic nanoparticles by electrospinning of volatile microemulsions,
+Langmuir 28 (2012) 6978–6984.
+[22] S. De Vrieze, T. Van Camp, A. Nelvig, B. Hagström, P. Westbroek, K. De Clerck, The effect of temperature and humidity on
+electrospinning, J. Mater. Sci. 44 (2009) 1357–1362.
+A. Di Mauro, M.E. Fragalà / Superlattices and Microstructures 81 (2015) 265–271
+271

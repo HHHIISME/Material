@@ -1,0 +1,878 @@
+# Wang-2018-Encapsulating Silica_Antimony into P
+
+Encapsulating Silica/Antimony into Porous
+Electrospun Carbon Nanoﬁbers with Robust
+Structure Stability for High-Eﬃciency Lithium
+Storage
+Hongkang Wang,*,†
+Xuming Yang,‡ Qizhen Wu,† Qiaobao Zhang,*,§ Huixin Chen,∥Hongmei Jing,⊥
+Jinkai Wang,†,# Shao-Bo Mi,⊥
+Andrey L. Rogach,*,‡
+and Chunming Niu†
+†Center of Nanomaterials for Renewable Energy (CNRE), State Key Lab of Electrical Insulation and Power Equipment, School of
+Electrical Engineering, Xi’an Jiaotong University, Xi’an 710049, People’s Republic of China
+‡Department of Materials Science and Engineering, and Centre for Functional Photonics (CFP), City University of Hong Kong, 83
+Tat Chee Avenue, Kowloon, Hong Kong SAR, People’s Republic of China
+§Department of Materials Science and Engineering, College of Materials, Xiamen University, Xiamen, Fujian 361005, People’s
+Republic of China
+∥Xiamen Institute of Rare Earth Materials, Haixi Institutes, Chinese Academy of Sciences, Xiamen 361005, People’s Republic of China
+⊥State Key Laboratory for Mechanical Behavior of Materials & School of Microelectronics, Xi’an Jiaotong University, Xi’an 710049,
+People’s Republic of China
+#State Key Laboratory of Silicon Materials, Zhejiang University, Hangzhou 320027, People’s Republic of China
+*
+S Supporting Information
+ABSTRACT: To address the volume-change-induced pulverization problems
+of electrode materials, we propose a “silica reinforcement” concept, following
+which silica-reinforced carbon nanoﬁbers with encapsulated Sb nanoparticles
+(denoted as SiO2/Sb@CNFs) are fabricated via an electrospinning method.
+In this composite structure, insulating silica ﬁllers not only reinforce the
+overall structure but also contribute to additional lithium storage capacity;
+encapsulation of Sb nanoparticles into the carbon−silica matrices eﬃciently
+buﬀers the volume changes during Li−Sb alloying−dealloying processes upon
+cycling and alleviates the mechanical stress; the porous carbon nanoﬁber
+framework allows for fast charge transfer and electrolyte diﬀusion. These
+advantageous characteristics synergistically contribute to the superior lithium
+storage performance of SiO2/Sb@CNF electrodes, which demonstrate
+excellent cycling stability and rate capability, delivering reversible discharge
+capacities of 700 mA h/g at 200 mA/g, 572 mA h/g at 500 mA/g, and 468 mA h/g at 1000 mA/g each after 400 cycles. Ex
+situ as well as in situ TEM measurements conﬁrm that the structural integrity of silica-reinforced Sb@CNF electrodes can
+eﬃciently withstand the mechanical stress induced by the volume changes. Notably, the SiO2/Sb@CNF//LiCoO2 full cell
+delivers high reversible capacities of ∼400 mA h/g after 800 cycles at 500 mA/g and ∼336 mA h/g after 500 cycles at 1000
+mA/g.
+KEYWORDS: silica reinforcement, Sb nanoparticles, porous carbon nanoﬁbers, robust structure stability, lithium storage
+L
+ithium ion batteries (LIBs) have been commercially
+employed in a wide range of portable electronics, such
+as cell phones and laptops.1−8 With the increasing
+requirements for large-scale energy storage in emerging electric
+vehicles and smart grids, LIBs with higher capacity, higher rate
+capability, and higher energy density are required. However, the
+graphite anodes in the present commercial LIBs show relatively
+low theoretical gravimetric and volumetric capacities of ∼372
+mA h/g and ∼840 mA h/cm3, respectively, and also suﬀer from
+safety problems owing to the low Li+ insertion/deposition
+potential. As a promising alternative anode material, alloying-
+type antimony (Sb) possesses higher theoretical gravimetric
+and volumetric capacities of 660 mA h/g and 1750 mA h/cm3,
+Received:
+December 23, 2017
+Accepted:
+April 11, 2018
+Published: April 11, 2018
+Article
+www.acsnano.org
+Cite This: ACS Nano 2018, 12, 3406−3416
+© 2018 American Chemical Society
+3406
+DOI: 10.1021/acsnano.7b09092
+ACS Nano 2018, 12, 3406−3416
+Downloaded via TSINGHUA UNIV on November 8, 2018 at 08:30:32 (UTC). 
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles. 
+respectively, and operates on the reversible alloying/dealloying
+reaction Sb + 3Li+ + 3e−↔Li3Sb.9−15 However, alloying-type
+anodes suﬀer from a large volume expansion as a result of the
+lithiation, so that the transformation of Sb to Li3Sb is
+accompanied by a ∼150% volume increase.15 Such a large
+volume change often results in electrode pulverization and
+contact losses with the current collector, ﬁnally causing a rapid
+capacity fading.16−20 Moreover, the volume changes cause the
+repeated construction−destruction of the solid electrolyte
+interphase (SEI) coating on such anode materials, while fresh
+SEI formation would result in continuous lithium consumption,
+which is detrimental for long-term cycle stability. Many studies
+have thus been devoted to ﬁnding eﬃcient strategies allowing
+for buﬀering the volume changes and keeping the structural
+integrity of alloying-type electrode materials.21,22
+One widely adopted approach is to combine Sb with other
+electrochemically active or inactive components, such as
+carbonaceous materials like carbon nanotubes, graphene, and
+carbon nanoﬁbers (CNFs).15,23−30 These carbonaceous materi-
+als not only serve as a buﬀer matrix to alleviate the large volume
+changes of Li−Sb alloying/dealloying but also provide
+additional lithium storage capacity and improve the electrode
+conductivity. On the other hand, silica (SiO2) has been
+generally regarded as an electrochemically inactive component
+in such composites, until ﬁndings of Gao et al., who reported
+that SiO2 nanoparticles with a size of 7 nm could react with Li
+in the voltage range of 0−1.0 V (vs Li/Li+) and deliver a
+reversible capacity of 400 mA h/g.31 Silica has thus been also
+considered as an alternative anode material for LIBs because of
+its potentially high (albeit controversial) speciﬁc capacity of
+1965 mA h/g32 and low discharge potentials.31−39 Guo et al.
+reported a composite made of nano-SiO2 (24 wt %) and hard
+carbon made via a hydrothermal method and subsequent
+carbonization at 1000 °C, which delivered a reversible capacity
+of 630 mA h/g (namely, 1675 mA h/g for SiO2). Yao et al.
+reported the synthesis of carbon-coated SiO2 (50 wt %) by
+carbonizing the nano-SiO2-sucrose at 900 °C, which exhibited a
+discharge capacity of 500 mA h/g after the 50 cycles at 50 mA/
+g.38 Sasidharan et al. synthesized hollow silica nanospheres
+(size: ∼30 nm), which exhibited a reversible discharge capacity
+of 336 mA h/g after 500 cycles at 1C current density.40 Yan et
+al. prepared hollow porous SiO2 nanocubes, which exhibited a
+reversible capacity of 919 mA h/g over 30 cycles at 100 mA/
+g.32 Favors et al. reported the template synthesis of SiO2
+nanotubes, which delivered a stable reversible capacity of
+1266 mA h/g after 100 cycles at 50 mA/g.39 Therefore, silica
+holds a great potential in the capacity improvement, which
+relies on a delicate structure design with the aim to alleviate the
+volume expansion eﬀect and enhance the conductivity. Besides,
+silica is an important industrial material with low cost and rich
+abundance on Earth and has been widely used as a ﬁller in
+composites, owing to its reinforcing eﬀect on the dynamic-
+mechanical and physical properties of the composites.41
+Figure 1. Structural characterization of the SiO2/Sb@CNF composite. (a−c) SEM images at diﬀerent magniﬁcation; (d) TEM image of a
+single SiO2/Sb@CNF and (e, f) HRTEM images of two representative Sb nanoparticles that are embedded within the ﬁber. (g) HAADF-
+STEM image of a single ﬁber with corresponding EDS maps of (h) Sb, (i) C, (j) Si, (k) O, and (l) N elements. (m) SEM and (n) TEM images
+of the macroporous CNFs obtained by etching SiO2/Sb@CNF composites with an aqueous HF solution.
+ACS Nano
+Article
+DOI: 10.1021/acsnano.7b09092
+ACS Nano 2018, 12, 3406−3416
+3407
+Relying on the potential reinforcement eﬀect of silica on the
+mechanical strength in silica-based composites, as well as
+diﬀerent working potentials of silica (0−1.0 V vs Li/Li+) and Sb
+(0.5−1.0 V vs Li/Li+), we herein designed a composite SiO2/
+Sb@CNF structure consisting of silica and Sb nanoparticles,
+which were integrated into the electrospun porous CNFs via a
+facile electrospinning method and a subsequent annealing
+under an inert atmosphere. Silica with a low density (similar to
+that of graphite) possesses a high compatibility with CNFs and
+greatly reinforces the ﬁber strength. When used as anode
+materials for LIBs, the SiO2/Sb@CNF electrodes show
+excellent lithium storage performance including high speciﬁc
+capacity, superior cycling stability, and good rate capability,
+while their structural characteristics are demonstrated to greatly
+enhance the stability and eﬃciently resist the volume-change-
+induced mechanical strain.
+RESULTS AND DISCUSSION
+The fabrication process of the SiO2/Sb@CNF composite is
+schematically shown in Figure S1. A precursor solution
+prepared by dissolving polyvinylpyrrolidone (PVP), SbCl3,
+and tetrathylorthosilicate (TEOS) in N,N-dimenthyformaide
+(DMF) was used as the ﬂuid for electrospinning (see
+Experimental Section for details). The electrospun PVP/
+SbCl3/TEOS ﬁbers (scanning electron microscopy (SEM)
+and energy-dispersive X-ray spectroscopy (EDS) data pre-
+sented in Figure S2) were ﬁrst stabilized at 300 °C in air (the
+phase evolution is shown by X-ray diﬀraction (XRD) patterns
+given in Figure S3) and then annealed at 700 °C in Ar. During
+the annealing process, a number of processes are supposed to
+happen. PVP serving as a carbon/nitrogen source undergoes
+carbonization with simultaneous N-doping; ionic Sb species are
+reduced to metallic Sb nanoparticles by the carbonized CNFs,
+which at the same time serve as encapsulating matrix; TEOS
+decomposes into silica nanoparticles, which also become
+embedded within the CNFs. We note that both the electrospun
+SbCl3/PVP and TEOS/PVP nanoﬁbers are not able to
+maintain the ﬁbrous morphology after annealing under the
+same conditions (SEM data given in Figure S4), indicating that
+TEOS-derived silica nanoparticles as well as SbCl3-derived Sb
+nanoparticles synergistically enhance the structural stability and
+maintain the structural integrity of the resulting SiO2/Sb@CNF
+composite.
+The SiO2/Sb@CNF composite has been investigated by
+SEM. Figure 1a shows the low-magniﬁcation SEM image of the
+SiO2/Sb@CNFs, illustrating multiple ﬁbers with a length
+reaching hundreds of micrometers. As shown in Figure 1b, the
+ﬁber diameters are mostly in the range of 500−700 nm, while
+thinner ones with diameters of ∼100 nm could also be
+observed. Diﬀerent from the smooth surface of the precursor
+ﬁbers (Figure S2), the surfaces of SiO2/Sb@CNFs are wrinkled
+after annealing, and the fractured sections are rough, indicating
+the presence of cavities within the ﬁbers (Figure 1c).
+Transmission electron microscopy (TEM) and high-
+resolution (HR) TEM analyses were further performed to
+reveal the microstructures of the SiO2/Sb@CNFs. Figure 1d
+displays the TEM image of a single SiO2/Sb@CNF ﬁber,
+revealing that Sb nanoparticles with sizes ranging from several
+Figure 2. (a) XRD pattern, (b) EDS spectrum, and (c) survey XPS spectrum of the SiO2/Sb@CNF composite, with insets in (c) showing the
+high-resolution XPS spectra of N 1s and Si 2p. (d) Raman spectrum of the SiO2/Sb@CNF composite, with the inset showing the enlarged part
+in the range of 400−2000 cm−1.
+ACS Nano
+Article
+DOI: 10.1021/acsnano.7b09092
+ACS Nano 2018, 12, 3406−3416
+3408
+nanometers to several tens of nanometers are fully embedded
+inside. HRTEM images taken from two representative particles
+show well-resolved lattice fringes with the same spacing of 0.31
+nm (Figure 1e,f), which can be assigned to the (012) plane of
+the metallic Sb. A high-angle annular dark ﬁeld scanning
+transmission electron microscopy (HAADF-STEM) study
+further conﬁrms the porous structure of SiO2/Sb@CNFs
+(Figure 1g); white dots on that image correspond to Sb
+nanoparticles, which is well consistent with the TEM analysis.
+The EDS elemental maps reveal the presence of Sb, C, Si, O,
+and N elements (Figure 1h−l, respectively), which are equally
+distributed within the SiO2/Sb@CNF. We note that both Sb
+and silica can be easily removed by etching with HF aqueous
+solution, resulting in macroporous CNFs (denoted as mp-
+CNFs). As shown in Figure 1m, the mp-CNFs shrink due to
+the removal of both SiO2 and Sb. Their TEM image displays
+highly porous structures with a pore size up to hundreds of
+nanometers (Figure 1n). These large pores are mostly located
+within the inner parts of the ﬁbers, which further conﬁrms full
+encapsulation of Sb and silica nanoparticles within CNFs.
+Brunauer−Emmett−Teller (BET) measurements (Figure S5)
+reveal that etched CNFs exhibit a much larger surface area of
+∼488 m2/g than that of SiO2/Sb@CNFs (∼91 m2/g).
+The crystallographic structure of the SiO2/Sb@CNF
+composite was examined by XRD analysis (Figure 2a); all the
+prominent diﬀraction peaks can be indexed to the rhombohe-
+dral phase of crystalline Sb (JCPDS No. 35-0732). No peaks
+belonging to silica are observed, but the EDS spectrum clearly
+reveals the presence of Si element (Figure 2b), indicating the
+amorphous nature of the silica that is embedded within the
+electrospun CNFs. X-ray photoelectron spectroscopy (XPS)
+was performed to investigate the composition and the chemical
+states of the elements constituting SiO2/Sb@CNFs. Figure 2c
+shows the survey XPS spectrum with insets presenting the high-
+resolution XPS spectra of N 1s and Si 2p. The survey XPS
+spectrum reveals the presence of Sb, Si, C, N, and O elements.
+The peaks in the N 1s XPS spectrum can be deconvoluted into
+three components centered at 401.0, 400.0, and 398.3 eV,
+Figure 3. Electrochemical properties of SiO2/Sb@CNF electrodes. (a) CV curves at 0.2 mV/s, with an inset showing the subsequent CV curve
+at 0.1 mV/s. (b) Galvanostatic discharge/charge proﬁles, with an inset showing the diﬀerential capacity (dQ/dV) proﬁles at the 100th cycle.
+(c) Cycle performance at diﬀerent current densities. (d) Comparison of rate performances between SiO2/Sb@CNF and Sb@C electrodes. (e)
+Nyquist plots of the SiO2/Sb@CNF electrodes before and after cycling. (f) CV curves of the SiO2/Sb@CNF electrode at diﬀerent scan rates
+and (g) plots of the evolutions of the anodic/cathodic peak currents along with scan rates. (h) Comparison of the speciﬁc capacities of various
+Sb-based anode materials at diﬀerent current densities.
+ACS Nano
+Article
+DOI: 10.1021/acsnano.7b09092
+ACS Nano 2018, 12, 3406−3416
+3409
+which are related to the graphitic (N-Q), pyrrolic (N-5), and
+pyridinic (N-6) nitrogen, respectively, indicating N-doping of
+the CNFs.42 The Si 2p peak centered at 103.5 eV can be
+assigned to the silica (SiO2) with the oxidization state of Si4+.
+The relative contents of silica, Sb, and carbon were roughly
+estimated by thermogravimetric analysis (TGA, Figure S6) and
+EDS (Table S1), which are approximately 42, 18, and 40 wt %
+in the resulting SiO2/Sb@CNF composites.
+Figure 2d shows the Raman spectrum of the SiO2/Sb@
+CNFs, in which four peaks are observed. The one located at
+around 150 cm−1 can be indexed to the A1g band from the Sb
+phase,43 while the one at around 260 cm−1 can be related to the
+SiO2 phase.44 Notably, two typical bands located at 1360 and
+1589 cm−1 can be attributed to the D and G bands of graphite,
+respectively. The D band is the A1g ring-breathing mode, which
+relates to the defects or lattice disorders in the graphene
+structure but is an indicator of graphitic ring structure, while
+the G band is the E2g vibration mode corresponding to the
+relative motion of sp2 carbon atoms.45 The relative intensity ID/
+IG is widely used to reﬂect the disorder degree in graphite,24
+and the ID/IG ratio in the SiO2/Sb@CNFs is ∼0.89. Besides,
+both D and G bands are relatively broad, indicating the
+disordered graphitic structure.24 The Raman data thus suggest
+the presence of a short-range graphitic structure in the CNFs,
+even though the long-range graphitic order is absent in the
+SiO2/Sb@CNFs, as no visible graphitic peaks are observed in
+the XRD pattern (Figure 2a).
+Electrochemical properties of SiO2/Sb@CNF electrodes as
+anode materials for LIBs were ﬁrst investigated in half-cells
+using lithium foil as reference and counter electrode. Figure 3a
+shows the cyclic voltammetry (CV) curves of the SiO2/Sb@
+CNF electrode at diﬀerent cycles. There is an apparent
+reduction peak at around 0.53 V in the ﬁrst cathodic scan,
+which disappears in the following CV cycles, indicating an
+irreversible reaction, which is the electrolyte decomposition and
+formation of an SEI ﬁlm.46 In the ﬁrst anodic scan, a prominent
+peak appears at around 1.1 V but with a little shift to lower
+potential in the following cycles, which can be attributed to the
+structural evolution after the ﬁrst CV cycle, related to
+dealloying of Li3Sb. Correspondingly, cathodic peaks appear
+at around 0.82 V in the following CV cycles, which are assigned
+to the Li−Sb alloying reaction. In addition, sharp cathodic
+peaks and broad anodic peaks below 0.5 V can be attributed to
+the reversible lithiation/delithiation of the carbon and silica
+anode materials.6,32,39 The CV curve measured at a scan rate of
+0.1 mV/s shows two cathodic peaks at around 0.32 and 0.49 V
+with corresponding anodic peaks at 0.01 and 0.25 V (inset of
+Figure 3a), which are related to the reversible delithiation−
+lithiation in the silica anode materials according to the reactions
+SiO2 + Li+ + e−↔Li2Si2O5 + Si and Si + xLi+ + xe−↔LixSi,
+consistent with the literature reports.32−34,37
+Figure 3b displays galvanostatic discharge/charge proﬁles of
+the SiO2/Sb@CNF electrode at 200 mA/g. The initial
+discharge and charge capacities are as high as 1390 and 923
+mA h/g, respectively, with an initial Coulombic eﬃciency of
+66.4%, while the large capacity loss can be due to the
+irreversible formation of the SEI ﬁlm and an irreversible
+electrochemical reaction between silica and Li+ ions (such as
+formation of lithium silicates).35 In addition, it is observed that
+the discharge/charge capacities steadily decrease with increas-
+ing cycle number, but become almost constant after 50 cycles.
+The diﬀerential capacity (dQ/dV) proﬁles that are derived from
+the 100th discharge−charge proﬁles are displayed in the inset
+of Figure 3b, from which the lithiation mechanism for the
+SiO2/Sb@CNF electrode can be derived. A pair of pronounced
+lithiation/delithiation peaks are present at ∼0.88/1.04 V, which
+correspond to the Li−Sb alloying and dealloying processes.
+Figure 3c presents the cycling performance of the SiO2/Sb@
+CNF electrode at diﬀerent current densities. It shows excellent
+cycle stability, delivering reversible discharge capacities of 700
+mA h/g at 200 mA/g, 572 mA h/g at 500 mA/g, and 468 mA
+h/g at 1000 mA/g each after 400 cycles. Figure 3d compares
+the rate performances of the SiO2/Sb@CNF and Sb@C
+electrodes at various current densities ranging from 100 to 2000
+mA/g. The discharge capacities for the SiO2/Sb@CNF
+electrode are 867, 775, 688, 614, and 520 mA h/g each after
+10 cycles at 100, 200, 500, 1000, and 2000 mA/g, respectively.
+When recovering the current density to 100 mA/g, a discharge
+capacity of 796 mA h/g is maintained after another 10 cycles,
+indicating the high rate capability. In contrast, the capacities of
+the reference Sb@C electrode with no SiO2 introduced are
+much lower than that of the SiO2/Sb@CNF counterpart
+(Figure 3d), indicating that silica formed as a result of
+decomposition of TEOS greatly enhances the lithium storage
+performance.
+As silica is an insulating oxide, electrochemical impedance
+spectroscopy (EIS) was performed to reveal its eﬀect on the
+electrode charge transfer resistance and the kinetics of the
+electrochemical processes. Figure 3e shows Nyquist plots of the
+fresh SiO2/Sb@CNF electrode and the counterpart electrode
+after 400 cycles, where the semicircle diameter represents the
+charge transfer resistance (Rct). The fresh SiO2/Sb@CNF
+electrode exhibits a low Rct of around 80 Ω, which even
+decreases to around 40 Ω after 400 cycles, indicating that
+introduction of silica does not result in the decrease of the
+conductivity. In addition, the intercept at the real part (Z′)
+represents the resistance of the electrolyte (Rs), and the Rs
+values are measured to be 2.0 and 9.9 Ω for the SiO2/Sb@CNF
+electrodes before cycling and after 400 cycles, respectively. The
+increased resistance of the electrolyte may be due to its
+decomposition and formation of the SEI layer during the long-
+term cycling. The steep inclined lines at low frequency indicate
+the fast lithium ion diﬀusion processes within the electrode.
+For better understanding of the electrochemical kinetics of
+the SiO2/Sb@CNF electrode, CV measurements were
+performed at various scan rates ranging from 0.1 to 2.0 mV/
+s. On the basis of the CV curves (Figure 3f), two ﬁtting straight
+lines can be obtained with the anodic/cathodic peak currents Ip
+as y-axis and v1/2 as x-axis, where v is the scan rate (V/s). The
+calculated line slopes are approximately 0.65 and 0.80 for the
+anodic and cathodic peaks (Figure 3g), which are higher than
+that of the recently reported Sb@C yolk−shell spheres
+(0.54).15 According to the Randles−Sevcik equation Ip = 2.69
+× 105ACD1/2n3/2v1/2 (where A stands for the anode area (cm2),
+C represents the shuttle concentration (mol/cm3), and n is the
+involved electron number),15 the lithium diﬀusion coeﬃcient D
+(cm2/s) is positively proportional to the ﬁtted line slope (Ip/
+v1/2) for a certain electrode (assuming A is a constant). Thus,
+the high slope of our SiO2/Sb@CNFs (BET surface area = 91
+m2/g) may indicate a high lithium diﬀusion coeﬃcient as
+compared to the Sb@C yolk−shell spheres (D = 1.2 × 10−9
+cm2 s−1; BET surface area = 204.9 m2/g).15 To the best of our
+knowledge, our SiO2/Sb@CNFs have demonstrated the
+highest reversible lithium storage capacity as compared with
+various previously reported Sb-based electrode materials
+(Figure 3h and Table S2).
+ACS Nano
+Article
+DOI: 10.1021/acsnano.7b09092
+ACS Nano 2018, 12, 3406−3416
+3410
+The electrochemical behaviors of SiO2/Sb@CNF electrodes
+were further investigated via ex situ TEM, XRD, and XPS
+analyses, in order to reveal the synergistic interaction of each
+component and their eﬀect on the lithium storage. Ex situ TEM
+measurements were performed to uncover the structural
+evolution upon discharging and charging in the ﬁrst cycle
+(Figure 4). As shown in Figure 4a, a discharged SiO2/Sb@CNF
+electrode at 0.01 V in the ﬁrst cycle shows no apparent changes
+in the main body as compared with the unreacted counterpart
+(Figure 1d), while larger particles with a size of 50−70 nm
+emerge at the fractured cross section (Figure 4b), which can be
+attributed to the formation of Li3Sb alloys. This was further
+proved by ex situ XRD (Figure 4d), which reveals the presence
+of Li3Sb (JCPDS No. 65-3011). However, the diﬀraction peaks
+Figure 4. (a, b) TEM and (c) HRTEM images of SiO2/Sb@CNF electrodes that were initially discharged to 0.01 V. (d) Ex situ XRD patterns
+of the discharged SiO2/Sb@CNFs electrode in the ﬁrst cycle. (e) TEM and (f) HRTEM images of SiO2/Sb@CNF electrodes that were initially
+charged to 3.0 V. (g) TEM image of the charged SiO2/Sb@CNF electrode after 400 cycles at 500 mA/g.
+Figure 5. (a) Schematic illustration of the experimental setup used for in situ TEM analysis of the SiO2/Sb@CNF electrodes and (b) TEM
+image of a real pair of SiO2/Sb@CNF//Li/Li2O electrodes used in in situ TEM analysis. (c) Schematic illustration of the relative dimensions
+of Sb and Li3Sb spheres upon alloying/dealloying, with 150% volume expansion for Li3Sb. A sequence of TEM images collected at the
+diﬀerent times depicts the lithiation (d) and delithiation (e) processes of a SiO2/Sb@CNF electrode.
+ACS Nano
+Article
+DOI: 10.1021/acsnano.7b09092
+ACS Nano 2018, 12, 3406−3416
+3411
+of the Li3Sb alloy disappear soon after exposure in air owing to
+the oxidation; thus the lattice fringes with a spacing of 0.21 nm
+(Figure 4c) may be attributed to certain Li3Sb-derived
+compounds. In contrast, when further charging to 3.0 V in
+the ﬁrst cycle, many particles are still fully encapsulated within
+the well-preserved nanoﬁber (Figure 4e). The HRTEM image
+shows lattice spacings of 0.21 and 0.38 nm, which can be
+indexed to the (012) and (003) planes of metallic Sb (Figure
+4f). In addition, in situ XRD analysis was further performed and
+the formation of a Li3Sb alloy was clearly observed in the ﬁrst
+discharging process (Figure S7).
+In order to reveal the structural stability upon long-term
+cycling, TEM analysis was performed on the SiO2/Sb@CNF
+electrode after 400 cycles at 500 mA/g. Figure 4g shows the
+TEM images of a single charged ﬁber, where the 1D ﬁbrous
+structure with a diameter of ∼600 nm is still well preserved and
+appears almost the same as the unreacted SiO2/Sb@CNFs.
+Moreover, small particles are well distributed within the inner
+parts of the ﬁbers, indicating the robust structural stability of
+the SiO2/Sb@CNFs upon long-term lithiation−delithiation
+processes. The ﬁbrous structure can still be well preserved even
+after long-term high rate cycling at 1 A/g after 400 cycles
+(Figure S8a), in which Sb nanoparticles without coarsening
+were eﬃciently conﬁned within the carbon−silica ﬁbers (Figure
+S8b). EDS elemental maps of Sb, C, Si, O, and N elements
+show that they were uniformly distributed within the CNFs,
+which is consistent with the pristine SiO2/Sb@CNFs (Figure
+S8c−h vs Figure 1g−l). Ex situ XPS analysis was performed in
+order to investigate the evolution of the chemical states of the
+Si element. Figure S9 compares the Si 2p XPS spectra of the
+SiO2/Sb@CNF electrodes at diﬀerent discharge/charge states.
+When ﬁrst discharged to 0.01 V, the binding energy shifts to
+102.7 eV, indicating the reduction of SiO2. The broad Si 2p
+peak indicates the coexistence of several chemical states rather
+than a single one. Owing to the coverage of the SEI layer on the
+electrode and the limited detection depth of the XPS technique,
+it is still hard to reveal the exact electrochemical reaction
+pathways between lithium and silica, which have been partially
+discussed in the previous studies but still remain controver-
+sial.32,34,35,37,39
+Figure 6. (a) Discharge/charge curves and (b) cycle performance of the full cell that paired the SiO2/Sb@CNF anode with a commercial
+LiCoO2 cathode at a current density of 500 mA/g. (c) Rate performance of the full cell measured at diﬀerent current densities. (d) Cycle
+performance of the full cell at a high rate of 1000 mA/g. Plots of Coulombic eﬃciencies along with cycle numbers are also shown in (b)−(d).
+ACS Nano
+Article
+DOI: 10.1021/acsnano.7b09092
+ACS Nano 2018, 12, 3406−3416
+3412
+In situ TEM analysis was carried out to follow the structural
+and phase evolution of SiO2/Sb@CNF electrodes during
+lithiation/delithiation processes. The schematic and the real
+architectures of the SiO2/Sb@CNF//Li/Li2O electrodes used
+in in situ TEM analysis are shown in Figure 5a and b,
+respectively. The SiO2/Sb@CNF electrode was loaded on a Au
+tip and connected to Li/Li2O on a W tip. The as-formed Li2O
+on Li served as a solid electrolyte. When applying a negative
+bias at the Au end, the SiO2/Sb@CNF is lithiated, while the
+subsequent delithiation is realized when applying a positive
+bias. As schematically shown in Figure 5c, fully lithiated Li3Sb
+spheres with 150% volume expansion only display a slight
+diameter increase in the in-plane view. Structural changes of the
+SiO2/Sb@CNF electrode during the lithiation and delithiation
+processes are illustrated by a sequence of TEM images in
+Figure 5d and e, respectively, captured from the in situ collected
+videos (Supplementary Videos S1 and S2). As seen from Figure
+5d, upon lithiation, only Sb nanoparticles expand, as evidenced
+by slight volume expansion after a few seconds. It is noted that
+the SiO2/Sb@CNF electrode maintains its intrinsic structure
+well during this fast lithiation process without any other
+structural change. Reversely, the lithiated Sb nanoparticles
+shrank during the delithiation process, as shown in Figure 5e.
+As seen from Figure 5d,e, the carbon−silica matrix eﬃciently
+accommodates the volume changes of Li−Sb alloying−
+dealloying, and the ﬁber itself undergoes little change after
+full lithiation and delithiation. Selected area electron diﬀraction
+(SAED) patterns were recorded to study the phase evolution
+(Figure S10), in which the phase transition between Sb and
+Li3Sb was further conﬁrmed. This is consistent with the in/ex
+situ XRD results.
+To further explore the dynamic changes of the SiO2/Sb@
+CNF electrode, Videos S3 and S4 were recorded under the in
+situ TEM mode for the second lithiation and delithiation cycles.
+During the second lithiation process (Video S3), the tiny Sb
+nanoparticles become coarsened and slightly expand but still
+remain fully embedded within the carbon−silica ﬁber. In the
+second delithiation process, the inner Sb nanoparticles slightly
+decrease in size but the ﬁbrous structure remains similar to that
+in the pristine stage (Video S4). Except for the slight changes of
+Sb nanoparticles, there is no cracking or fracturing happening
+in the SiO2/Sb@CNF electrode during the whole alloying−
+dealloying process. Such robust structure integrity is greatly
+beneﬁcial both for the electrical contact and for the stable
+cycling performance of the anode materials.
+In order to demonstrate the feasibility in practical LIB
+devices, SiO2/Sb@CNF anodes were further examined in full
+cells using commercial LiCoO2 as cathode material. Figure 6a
+shows the discharge/charge proﬁles of the full cell measured at
+a current density of 500 mA/g in the voltage range of 1.0−3.9
+V. The initial charge/discharge capacities are 600/625 mA h/g
+with an initial Coulombic eﬃciency of 96%, which further
+increase to 99.51% and 99.73% for the 100th and 200th cycles,
+respectively. Figure 6b shows the cycle performance of the full
+cells at 500 mA/g, delivering a reversible capacity of ∼450 mA
+h/g after 200 cycles, with a capacity retention of 75%. The rate
+performance of the full cell was also investigated and is shown
+in Figure 6c. The reversible capacities of the SiO2/Sb@CNFs at
+100, 200, 500, 1000, and 2000 mA/g could be preserved at
+869.2, 741.5, 630.2, 510.7, and 361.7 mA h/g each after 10
+cycles, respectively. When steadily increasing the current
+densities, comparable capacities can be recovered. Notably, a
+capacity of ∼400 mA h/g can be still maintained after an
+additional 700 cycles at 500 mA/g. Even at a higher current
+density of 1000 mA/g, the full cell can still deliver a high
+capacity of ∼336 mA h/g after 500 cycles (Figure 6d). These
+results further reveal the superior cycle stability and rate
+capability of the SiO2/Sb@CNFs.
+CONCLUSIONS
+In summary, a robust composite structure of silica−Sb−carbon
+nanoﬁbers (SiO2/Sb@CNFs) is produced via electrospinning
+and subsequent annealing, where both Sb and silica nano-
+particles are encapsulated into CNFs. The in situ generated
+silica nanoparticles, formed during thermal decomposition of
+TEOS, greatly enhance the structural stability of the resultant
+SiO2/Sb@CNF composite. Ex situ and in situ TEM measure-
+ments indicate that the SiO2/Sb@CNF framework can
+eﬃciently maintain the integrity of electrodes, where both
+aggregation of Sb nanoparticles and the volume changes are
+largely alleviated during the repeated alloying−dealloying
+processes, which consequently contribute to the excellent
+lithium storage performance in both half-cell and full-cell tests.
+The structural advantages of the SiO2/Sb@CNF composite can
+be summarized as follows. First, the electrochemically active
+materials of Sb and silica are both encapsulated into the ﬁbrous
+carbon matrices, which eﬃciently buﬀer the volumetric changes
+owing to the conﬁnement eﬀect of CNFs on the lithiation/
+deliathiation reactions between Sb/silica and lithium ions.
+Besides, the diﬀerent work potentials of Sb, silica, and carbon
+allow for the stepwise volume changes of each component in
+the hybrid structure, so that the unreacted components can
+accommodate the strain yielded by the reacted phase. Second,
+the porous CNFs enhance the conductivity and improve the
+charge/electrolyte transfer. Therefore, an excellent lithium
+storage performance including superior cycle stability and high
+rate capability have been achieved for SiO2/Sb@CNF electro-
+des. When used as anode materials for lithium ion batteries,
+SiO2/Sb@CNF electrodes in half-cells demonstrate excellent
+cycling stability and rate capability, delivering reversible
+discharge capacities of 700 mA h/g at 200 mA/g, 572 mA h/
+g at 500 mA/g, and 468 mA h/g at 1000 mA/g each after 400
+cycles. Moreover, the SiO2/Sb@CNF//LiCoO2 full cell can
+maintain a high reversible capacity of ∼336 mA h/g after 500
+cycles at 1000 mA/g. Most importantly, the silica reinforcement
+concept introduced here can be applied to design other hybrid
+electrode materials able to withstand severe volume changes,
+which has demonstrated great potential in electrochemical
+energy storage applications.
+EXPERIMENTAL SECTION
+Fabrication. Silica-reinforced Sb@carbon nanoﬁbers (denoted as
+SiO2/Sb@CNFs) were prepared via the electrospinning method
+followed by annealing. In a typical synthesis, 0.75 g of PVP
+((C6H9NO)n, Mw = 1 300 000, J&K) was dissolved in 4 mL of
+DMF (C3H7NO, J&K, Super-Dry) under magnetic stirring until the
+complete dissolution of PVP. Afterward, 1 mL of TEOS (Si(OC2H5)4)
+and 0.64 g of SbCl3 (Amethyst) were added under vigorous stirring at
+90 °C. The resulting transparent solution was loaded into a plastic
+syringe for electrospinning. The distance between the needle and the
+ﬁber collector was ∼15 cm, and a high voltage of 16 kV was applied to
+initiate the electrospinning. A ﬂow rate of 0.6 mL/h was employed,
+and an aluminum foil was used to collect the ﬁbers. The collected
+ﬁbers were ﬁrst dried at 80 °C and then stabilized at 300 °C for 1 h
+with a heating rate of 5 °C/min, which were further annealed under an
+Ar atmosphere at 700 °C for 2 h with a heating rate of 5 °C/min,
+yielding the ﬁnal SiO2/Sb@CNF product. Besides, in order to reveal
+ACS Nano
+Article
+DOI: 10.1021/acsnano.7b09092
+ACS Nano 2018, 12, 3406−3416
+3413
+the eﬀect of TEOS, a precursor solution containing the same amount
+of SbCl3, PVP, and DMF but without addition of TEOS was also
+prepared for electrospinning under the same conditions. The resulting
+product underwent the same annealing treatments and was denoted as
+Sb@C; its ﬁbrous morphology disappeared after annealing.
+Structural Characterization. Phase structures of the products
+were examined by powder XRD on a Bruker D2 PHASER X-ray
+diﬀractometer using Cu Kα radiation (λ = 1.5418 Å) with a voltage of
+30 kV and current of 10 mA. The morphologies of the products were
+characterized using a scanning electron microscope (FEI Quanta
+250F) and transmission electron microscope (JEOL-2100 TEM and
+JEM-F200 ﬁeld emission TEM). HAADF-STEM was performed on an
+aberration-corrected JEOL ARM200F instrument with EDS for
+elemental analysis. The compositions and chemical states of the
+products were recorded by XPS (Thermo Fisher ESCALAB Xi+).
+TGA was conducted in air with a heating rate of 5 °C/min on a
+Mettler Toledo TGA/DSC thermal analyzer. Raman spectroscopy was
+carried out using a Renishaw Raman RE01 scope with an Ar excitation
+laser at 514 nm. The surface area and pore structures were examined
+using a Quantachrome Autosob IQ analyzer.
+Electrochemical Measurements. The electrochemical properties
+of the samples were evaluated using 2025 coin-type cells using lithium
+foils as counter and reference electrodes, which were assembled in an
+Ar-ﬁlled glovebox with both H2O and O2 contents below 1.0 ppm.
+The working electrode slurry was ﬁrst prepared by mixing active
+materials, namely, conductive acetylene black (Super P) and binder
+(poly(acrylic acid), Mw = 100 000, Sigma-Aldrich) in a weight ratio of
+8:1:1 using water as solvent. The slurry was then coated onto a copper
+foil by the doctor blade method, followed by vacuum-drying at 120 °C
+overnight in order to completely evaporate the absorbed water. The
+areal loading amount was in the range of 0.8−1.0 mg cm−2. A Celgard
+2400 microporous membrane was used as separator. LiPF6 (1 M) in
+dimethyl carbonate/ethylene carbonate (1:1 by volume) was used as
+an electrolyte. Galvanostatic discharge−charge tests were conducted
+on a Neware battery test system (Neware Technology Co., Ltd.,
+China) in the range of 0.01−3 V (vs Li+/Li) in an incubator with
+temperature constant at 25 °C. CV measurements were performed on
+an electrochemical workstation (Autolab PGSTAT 302N) at a scan
+rate of 0.2 mV/s at 0.01−3 V. EIS was carried out on a CHI 660E
+electrochemical workstation (Chenhua, Shanghai) with a voltage
+amplitude of 10 mV in the frequency range of 10 MHz to 0.01 Hz. For
+the full cell test, the cathode electrode was fabricated by mixing a 80 wt
+% commercialized LiCoO2 (LCO) cathode with 10 wt % carbon black
+and 10 wt % polyvinylidene ﬂuoride dissolved in N-methyl-2-
+pyrrolidone to form a slurry, which was then spread onto an Al foil
+current collector and dried under vacuum at 80 °C for 24 h. After
+prelithiation, the half-cells were disassembled and the SiO2/Sb@CNF
+and LCO (Figure S11) electrodes were combined in full cells (CR-
+2025 coin-type cells) in an Ar-ﬁlled glovebox. The electrolytes and
+separator in the full cell were the same as those in the half-cells
+described above. Electrochemical analysis of the full cell was carried
+out in the voltage window between 1.0 and 3.9 V. The full cell was
+designed with an N/P reversible capacity ratio of 1:1, and the capacity
+of the full cell was calculated based on the weight of active materials in
+the anode.
+In Situ TEM Measurements. SiO2/Sb@CNFs were attached to a
+gold wire by scratching the SiO2/Sb@CNF powder. The gold wire was
+then transferred and ﬁxed by inserting it into a tiny-diameter pipe
+welded to the sample holder frame. Fresh Li was attached to an
+electrochemically etched tungsten tip that was inserted into the three-
+dimensional movable part of the piezo-driven holder inside a glovebox.
+The sample holder was then transferred to a TEM within a few
+seconds, with a thin layer of Li2O formed due to the exposure to air.
+The tungsten tip contacted a single SiO2/Sb@CNF with the Li2O
+layer, and the construction of the nanobattery was thus completed.
+Once the contact between a SiO2/Sb@CNF and Li2O layer was
+established, a constant bias of −6 V/6 V was applied to the SiO2/Sb@
+CNF against Li metal to initiate the fast lithiation and delithiation
+processes.
+ASSOCIATED CONTENT
+*
+S
+Supporting Information
+The Supporting Information is available free of charge on the
+ACS Publications website at DOI: 10.1021/acsnano.7b09092.
+Scheme for the synthetic approach; additional XRD
+patterns, EDS, SEM, and TEM images of the
+intermediate products; Si 2p XPS spectra of SiO2/Sb@
+CNFs electrodes; TGA curve of the SiO2/Sb@CNFs; N2
+sorption isotherms of the SiO2/Sb@CNFs and the
+macroporous CNFs; TEM images and EDS elemental
+maps of the SiO2/Sb@CNFs after cycling; tables
+summarizing the EDS data and the electrochemical
+performance of various Sb-based electrodes (PDF)
+Structural changes of the SiO2/Sb@CNF electrode
+during the lithiation and delithiation processes (AVI)
+Structural changes of the SiO2/Sb@CNF electrode
+during the lithiation and delithiation processes (AVI)
+Second lithiation process (AVI)
+Second lithiation process (AVI)
+AUTHOR INFORMATION
+Corresponding Authors
+*E-mail: hongkang.wang@mail.xjtu.edu.cn.
+*E-mail: zhangqiaobao@xmu.edu.cn.
+*E-mail: andrey.rogach@cityu.edu.hk.
+ORCID
+Hongkang Wang: 0000-0003-4893-5190
+Shao-Bo Mi: 0000-0001-5711-850X
+Andrey L. Rogach: 0000-0002-8263-8141
+Notes
+The authors declare no competing ﬁnancial interest.
+ACKNOWLEDGMENTS
+This work was supported by the National Science Foundation
+of China (Grant No. 51402232, 21703185, 51521065, and
+61471307) and by the Fundamental Research Funds for the
+Central Universities (Xiamen University: 20720170042). H.W.
+appreciates the support of the Tang Scholar Program from the
+Cyrus Tang Foundation and the support by State Key
+Laboratory of Electrical Insulation and Power Equipment
+(Grant No. EIPE17308). We thank Dr. Jiao Li from the
+Instrument Analysis Center of Xi’an Jiaotong University for her
+assistance with TEM/EDS analyses. We also appreciate the
+support of State Key Laboratory of Silicon Materials of
+Zhejiang University in the in situ TEM study.
+REFERENCES
+(1) Tarascon, J. M.; Armand, M. Issues and Challenges Facing
+Rechargeable Lithium Batteries. Nature 2001, 414, 359−367.
+(2) Chan, C. K.; Peng, H. L.; Liu, G.; McIlwrath, K.; Zhang, X. F.;
+Huggins, R. A.; Cui, Y. High-Performance Lithium Battery Anodes
+Using Silicon Nanowires. Nat. Nanotechnol. 2008, 3, 31−35.
+(3) Armand, M.; Tarascon, J. M. Building Better Batteries. Nature
+2008, 451, 652−657.
+(4) Arico, A. S.; Bruce, P.; Scrosati, B.; Tarascon, J. M.; Van
+Schalkwijk, W. Nanostructured Materials for Advanced Energy
+Conversion and Storage Devices. Nat. Mater. 2005, 4, 366−377.
+(5) Jiang, H.; Ren, D. Y.; Wang, H. F.; Hu, Y. J.; Guo, S. J.; Yuan, H.
+Y.; Hu, P. J.; Zhang, L.; Li, C. Z. 2D Monolayer MoS2-Carbon
+Interoverlapped Superstructure: Engineering Ideal Atomic Interface
+for Lithium Ion Storage. Adv. Mater. 2015, 27, 3687−3695.
+ACS Nano
+Article
+DOI: 10.1021/acsnano.7b09092
+ACS Nano 2018, 12, 3406−3416
+3414
+(6) Wang, H.; Wang, J.; Cao, D.; Gu, H.; Li, B.; Lu, X.; Han, X.;
+Rogach, A. L.; Niu, C. Honeycomb-Like Carbon Nanoflakes As A
+Host for SnO2 Nanoparticles Allowing Enhanced Lithium Storage
+Performance. J. Mater. Chem. A 2017, 5, 6817−6824.
+(7) Wang, H.; Xi, L.; Tucek, J.; Ma, C.; Yang, G.; Leung, M. K. H.;
+Zboril, R.; Niu, C.; Rogach, A. L. Synthesis and Characterization of
+Tin Titanate Nanotubes: Precursors for Nanoparticulate Sn-Doped
+TiO2 Anodes with Synergistically Improved Electrochemical Perform-
+ance. ChemElectroChem 2014, 1, 1563−1569.
+(8) Chen, S.; Shen, L.; van Aken, P. A.; Maier, J.; Yu, Y. Dual-
+Functionalized Double Carbon Shells Coated Silicon Nanoparticles for
+High Performance Lithium-Ion Batteries. Adv. Mater. 2017, 29,
+1605650.
+(9) Park, C. M.; Kim, J. H.; Kim, H.; Sohn, H. J. Li-Alloy Based
+Anode Materials for Li Secondary Batteries. Chem. Soc. Rev. 2010, 39,
+3115−3141.
+(10) He, M.; Kraychyk, K.; Walter, M.; Kovalenko, M. V.
+Monodisperse Antimony Nanocrystals for High-Rate Li-Ion and Na-
+Ion Battery Anodes: Nano versus Bulk. Nano Lett. 2014, 14, 1255−
+1262.
+(11) Yang, Y. C.; Yang, X. M.; Zhang, Y.; Hou, H. S.; Jing, M. J.; Zhu,
+Y. R.; Fang, L. B.; Chen, Q. Y.; Ji, X. B. Cathodically Induced
+Antimony for Rechargeable Li-Ion and Na-Ion Batteries: The
+Influences of Hexagonal and Amorphous Phase. J. Power Sources
+2015, 282, 358−367.
+(12) Lu, X.; Wang, Z.; Lu, L.; Yang, G.; Niu, C.; Wang, H. Synthesis
+of Hierarchical Sb2MoO6 Architectures and Their Electrochemical
+Behaviors As Anode Materials for Li-Ion Batteries. Inorg. Chem. 2016,
+55, 7012−7019.
+(13) Wang, N.; Bai, Z.; Qian, Y.; Yang, J. Double-Walled Sb@TiO2‑x
+Nanotubes As A Superior High-Rate and Ultralong-Lifespan Anode
+Material for Na-Ion and Li-Ion Batteries. Adv. Mater. 2016, 28, 4126−
+4133.
+(14) Hou, H.; Jing, M.; Yang, Y.; Zhu, Y.; Fang, L.; Song, W.; Pan,
+C.; Yang, X.; Ji, X. Sodium/Lithium Storage Behavior of Antimony
+Hollow Nanospheres for Rechargeable Batteries. ACS Appl. Mater.
+Interfaces 2014, 6, 16189−16196.
+(15) Liu, J.; Yu, L. T.; Wu, C.; Wen, Y. R.; Yin, K. B.; Chiang, F. K.;
+Hu, R. Z.; Liu, J. W.; Sun, L. T.; Gu, L.; et al. New Nanoconfined
+Galvanic Replacement Synthesis of Hollow Sb@C Yolk-Shell Spheres
+Constituting A Stable Anode for High-Rate Li/Na-Ion Batteries. Nano
+Lett. 2017, 17, 2034−2042.
+(16) Yoon, S.; Manthiram, A. Sb-MOx-C (M = Al, Ti, or Mo)
+Nanocomposite Anodes for Lithium-Ion Batteries. Chem. Mater. 2009,
+21, 3898−3904.
+(17) Huggins, R. A. Lithium Alloy Negative Electrodes. J. Power
+Sources 1999, 81, 13−19.
+(18) Limthongkul, P.; Wang, H.; Chiang, Y. M. Nanocomposite Li-
+Ion Battery Anodes Produced by The Partial Reduction of Mixed
+Oxides. Chem. Mater. 2001, 13, 2397−2402.
+(19) Bryngelsson, H.; Eskhult, J.; Nyholm, L.; Herranen, M.; Alm,
+O.; Edstrom, K. Electrodeposited Sb and Sb/Sb2O3 Nanoparticle
+Coatings As Anode Materials for Li-Ion Batteries. Chem. Mater. 2007,
+19, 1170−1180.
+(20) Park, C. M.; Yoon, S.; Lee, S. I.; Kim, J. H.; Jung, J. H.; Sohn, H.
+J. High-Rate Capability and Enhanced Cyclability of Antimony-Based
+Composites for Lithium Rechargeable Batteries. J. Electrochem. Soc.
+2007, 154, A917−A920.
+(21) Wang, M.; Yang, Z.; Wang, J.; Li, W.; Gu, L.; Yu, Y. Sb
+Nanoparticles Encapsulated in A Reticular Amorphous Carbon
+Network for Enhanced Sodium Storage. Small 2015, 11, 5381−5387.
+(22) Liu, X.; Gao, M.; Yang, H.; Zhong, X.; Yu, Y. 2D Sandwich-Like
+Nanosheets of Ultrafine Sb Nanoparticles Anchored to Graphene for
+High-Efficiency Sodium Storage. Nano Res. 2017, 10, 4360−4367.
+(23) Nuli, Y.; Yang, J.; Jiang, M. S. Synthesis and Characterization of
+Sb/CNT and Bi/CNT Composites As Anode Materials for Lithium-
+Ion Batteries. Mater. Lett. 2008, 62, 2092−2095.
+(24) Ramireddy, T.; Rahman, M. M.; Xing, T.; Chen, Y.;
+Glushenkov, A. M. Stable Anode Performance of An Sb-Carbon
+Nanocomposite in Lithium-Ion Batteries and The Effect of Ball
+Milling Mode in The Course of its Preparation. J. Mater. Chem. A
+2014, 2, 4282−4291.
+(25) Ding, Y. L.; Wu, C.; Kopold, P.; van Aken, P. A.; Maier, J.; Yu, Y.
+Graphene-Protected 3D Sb-Based Anodes Fabricated via Electrostatic
+Assembly and Confinement Replacement for Enhanced Lithium and
+Sodium Storage. Small 2015, 11, 6026−6035.
+(26) Fan, L.; Zhang, J. J.; Cui, J. H.; Zhu, Y. C.; Liang, J. W.; Wang, L.
+L.; Qian, Y. T. Electrochemical Performance of Rod-Like Sb-C
+Composite As Anodes for Li-Ion and Na-Ion Batteries. J. Mater. Chem.
+A 2015, 3, 3276−3280.
+(27) Lv, H. L.; Qiu, S.; Lu, G. X.; Fu, Y.; Li, X. Y.; Hu, C. X.; Liu, J. R.
+Nanostructured Antimony/Carbon Composite Fibers As Anode
+Material for Lithium-Ion Battery. Electrochim. Electrochim. Acta
+2015, 151, 214−221.
+(28) Yi, Z.; Han, Q. G.; Cheng, Y.; Wang, F. X.; Wu, Y. M.; Wang, L.
+M. A Novel Strategy to Prepare Sb Thin Film Sandwiched Between
+The Reduced Graphene Oxide and Ni Foam As Binder-Free Anode
+Material for Lithium-Ion Batteries. Electrochim. Electrochim. Acta
+2016, 190, 804−810.
+(29) Yi, Z.; Han, Q. G.; Zan, P.; Wu, Y. M.; Cheng, Y.; Wang, L. M.
+Sb Nanoparticles Encapsulated into Porous Carbon Matrixes for High-
+Performance Lithium-Ion Battery Anodes. J. Power Sources 2016, 331,
+16−21.
+(30) Lu, X.; Wang, P.; Liu, K.; Niu, C.; Wang, H. Encapsulating
+Nanoparticulate Sb/MoOx into Porous Carbon Nanofibers via
+Electrospinning for Efficient Lithium Storage. Chem. Eng. J. 2018,
+336, 701−709.
+(31) Gao, B.; Sinha, S.; Fleming, L.; Zhou, O. Alloy Formation in
+Nanostructured Silicon. Adv. Mater. 2001, 13, 816−819.
+(32) Yan, N.; Wang, F.; Zhong, H.; Li, Y.; Wang, Y.; Hu, L.; Chen, Q.
+Hollow Porous SiO2 Nanocubes towards High-performance Anodes
+for Lithium-Ion Batteries. Sci. Rep. 2013, 3, 1568.
+(33) Sim, S.; Oh, P.; Park, S.; Cho, J. Critical Thickness of SiO2
+Coating Layer on Core@Shell Bulk@Nanowire Si Anode Materials for
+Li-Ion Batteries. Adv. Mater. 2013, 25, 4498−4503.
+(34) Sun, Q.; Zhang, B.; Fu, Z. W. Lithium Electrochemistry of SiO2
+Thin Film Electrode for Lithium-Ion Batteries. Appl. Surf. Sci. 2008,
+254, 3774−3779.
+(35) Guo, B.; Shu, J.; Wang, Z.; Yang, H.; Shi, L.; Liu, Y.; Chen, L.
+Electrochemical Reduction of Nano-SiO2 in Hard Carbon As Anode
+Material for Lithium Ion Batteries. Electrochem. Commun. 2008, 10,
+1876−1878.
+(36) Nan, D.; Wang, J. G.; Huang, Z. H.; Wang, L.; Shen, W.; Kang,
+F. Highly Porous Carbon Nanofibers from Electrospun Polyimide/
+SiO2 Hybrids As An Improved Anode for Lithium-Ion Batteries.
+Electrochem. Commun. 2013, 34, 52−55.
+(37) Chang, W. S.; Park, C. M.; Kim, J. H.; Kim, Y. U.; Jeong, G.;
+Sohn, H. J. Quartz (SiO2): A New Energy Storage Anode Material for
+Li-Ion Batteries. Energy Environ. Sci. 2012, 5, 6895−6899.
+(38) Yao, Y.; Zhang, J.; Xue, L.; Huang, T.; Yu, A. Carbon-Coated
+SiO2 Nanoparticles As Anode Material for Lithium Ion Batteries. J.
+Power Sources 2011, 196, 10240−10243.
+(39) Favors, Z.; Wang, W.; Bay, H. H.; George, A.; Ozkan, M.;
+Ozkan, C. S. Stable Cycling of SiO2 Nanotubes As High-Performance
+Anodes for Lithium-Ion Batteries. Sci. Rep. 2015, 4, 4605.
+(40) Sasidharan, M.; Liu, D.; Gunawardhana, N.; Yoshio, M.;
+Nakashima, K. Synthesis, Characterization and Application for
+Lithium-Ion Rechargeable Batteries of Hollow Silica Nanospheres. J.
+Mater. Chem. 2011, 21, 13881−13888.
+(41) Dierkes, W.; Blume, A. Silica Reinforcement. In Encyclopedia of
+Polymeric Nanomaterials; Kobayashi, S., Müllen, K., Eds.; Springer:
+Berlin, Heidelberg, 2014; pp 1−7.
+(42) Lin, T. Q.; Chen, I. W.; Liu, F. X.; Yang, C. Y.; Bi, H.; Xu, F. F.;
+Huang, F. Q. Nitrogen-Doped Mesoporous Carbon of Extraordinary
+Capacitance for Electrochemical Energy Storage. Science 2015, 350,
+1508−1513.
+ACS Nano
+Article
+DOI: 10.1021/acsnano.7b09092
+ACS Nano 2018, 12, 3406−3416
+3415
+(43) Wang, X.; Kunc, K.; Loa, I.; Schwarz, U.; Syassen, K. Effect of
+Pressure on the Raman Modes of Antimony. Phys. Rev. B: Condens.
+Matter Mater. Phys. 2006, 74, 134305.
+(44) Kobayashi, T.; Hirajima, T.; Hiroi, Y.; Svojtka, M.
+Determination of SiO2 Raman Spectrum Indicating The Trans-
+formation from Coesite to Quartz in Gföhl Migmatitic Gneisses in
+The Moldanubian Zone, Czech Republic. J. Mineral. Petrol. Sci. 2008,
+103, 105−111.
+(45) Arul, R.; Oosterbeek, R. N.; Robertson, J.; Xu, G.; Jin, J.;
+Simpson, M. C. The Mechanism of Direct Laser Writing of Graphene
+Features into Graphene Oxide Films Involves Photoreduction and
+Thermally Assisted Structural Rearrangement. Carbon 2016, 99, 423−
+431.
+(46) Shi, L.; Pang, C.; Chen, S.; Wang, M.; Wang, K.; Tan, Z.; Gao,
+P.; Ren, J.; Huang, Y.; Peng, H.; et al. Vertical Graphene Growth on
+SiO Microparticles for Stable Lithium Ion Battery Anodes. Nano Lett.
+2017, 6, 3681−3687.
+ACS Nano
+Article
+DOI: 10.1021/acsnano.7b09092
+ACS Nano 2018, 12, 3406−3416
+3416

@@ -1,0 +1,677 @@
+# Cylic organic boron compounds IV, B-amino-and
+
+[ 19591 
+Aubrey and LapPert. 
+2927 
+586. Cyclic Organic Boron Compounds. Part 1V.l B-Amino- and 
+B- Alkoxy-boraxoles and their Precursors the Tris( primary amino)borons 
+and (Primary amino)boron Alkoxides. 
+By D. W. AUBREY and M. F. LAPPERT. 
+Interaction of boron trichloride with an excess of primary amine (R in 
+R-NH, = Me, Et, Pri, Bun, Bus, But, cyclohexyl, PhCH,, Ph) afforded the 
+triaminoboron B(NHR),, which on pyrolysis afforded in the first instance the 
+B-aminoborazole (I) and eventually the thermally stable (at least up to 600") 
+polymeric borazole (111). Similarly, the n-butoxyboron chlorides and ethyl- 
+amine gave the primary aminoboron n-butoxides, which when heated gave 
+the B-n-butoxyborazole (IV) . The characterising constants and molecular 
+weights of all the non-polymeric compounds have been determined. 
+THE preparation of trisethylaminoboron, (Et*NH),B, n-butyl bisethylaminoborinate, 
+BunO*B(NHEt),, and di-n-butyl ethylaminoboronate, (BunO)2B*NHEt, has been briefly 
+described; 
+pyrolysis of the triaminoboron gave the borazole (I; R = Et) and eventually 
+polyborazoles, whereas the n-butoxy-compounds gave the borazole (IV) . These experi- 
+ments are now described in detail and also reported are extensions to other monoalkyl- 
+amino-, benzylamino-, and anilino-systems. 
+Addition of boron trichloride to a primary amine in an inert solvent at -78" afforded 
+the triaminoboron in high yield (Table 1) : BCl, + 6R*NH, ---t B(NHR), + 3R*NH2,HC1. 
+The trisethylaminoboron,l and the phenyl,2 +-tolyl,3 and 9-methoxyphenyl compounds 
+TABLE 
+1. 
+Yield 
+B. p./mm. 
+Molar refractivity 
+R 
+(%) 
+(m. P.) 
+diO 
+nDZo 
+Found 
+Calc . * 
+Me .................. 
+71 
+59'133 
+0.8871 
+1.4465 
+30.3 
+30.2 
+Et .................. 
+55 
+62-63'110 
+0.833 
+1.4380 
+44.9 
+44.8 
+Pri .................. 
+81 
+37'11 
+0*8000 
+1.4267 
+59.3 
+58.8 
+Bun .................. 
+91 
+84'/0.005 
+0.8347 
+1.4462 
+72.4 
+72.6 
+Bus .................. 
+92 
+49'/0.1 
+0.8186 
+1.4355 
+72.3 
+72.1 
+Characterisation and yields of the triaminoborons, B(NHR),. 
+But .................. 
+84 
+42'/0.05 
+0.7971 
+1.4272 
+72.8 
+73.4 
+Cyclohexyl ......... 
+90 
+(92-94') 
+Ph 
+Decamp. 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+PhCH, ............ 
+80 
+Decomp. 
+1.0479 
+1.5805 
+104.8 
+103.9 
+.................. 
+81 
+* Based on Vogel's values (" A Text-book of Practical Organic Chemistry," Longmans, Green & 
+Co., London, 1948, p. 900) and the value 3.0 for boron. 
+were the only previously described tris(primary amino)borons. The method hitherto 
+used 2,334 for obtaining these trisarylaminoborons was more laborious than the present one 
+and involved initial preparation of the amine-boron trichloride complex, and treatment of 
+this with more amine under somewhat forcing conditions. In view of the eliminations 
+which the tris-compounds undergo when heated (see below), mild reaction conditions for 
+their preparation are preferable. 
+Reference has been made to trisethylaminoboron 
+(obtained from boron trifluoride, ethylamine, and lithium), but it was not characterised.5 
+The characterising constants of the triaminoborons are shown in Table 1, as are the 
+molar refractivities of the liquid members. Assigning a value of 3.0 for the atomic 
+refractivity of boron gives fair agreement between experimental and calculated values for 
+molar refractivities; the value in trialkyl borates is 2.65.6 The compounds are monomeric 
+(Table 3) and colourless liquids or crystals and are easily hydrolysed by cold water to the 
+Lappert, Proc. Chem. SOC., 1959, 59. 
+2 Jones and Kinney, J. Amer. Chem. SOC., 
+1939, 61, 1378. 
+Kinney and Kolbezen, ibid., 1942, 64, 1584. 
+Kinney and Mahoney, J .  Org. Chem., 1943, 8, 526. 
+Kraus and Brown, J .  Amer. Chem. SOC., 1930, 52, 4414, 
+ti Lappert, J., 1956, 1768. 
+Published on 01 January 1959. Downloaded by Brown University on 20/05/2015 09:18:19. 
+View Article Online / Journal Homepage / Table of Contents for this issue
+2928 
+Aubrey and Lappert: 
+primary amine and boric acid. The aliphatic compounds are soluble in non-polar 
+solvents, such as pentane and benzene, but the benzyl compound was only sparingly 
+soluble in pentane; the trianilinoboron was insoluble in pentane but soluble in hot benzene 
+and chloroform. 
+Interaction of ethylamine and the n-butoxyboron chlorides afforded the ethylamino- 
+boron n-butoxides: 
+(BU~O),BC~,-~ 
++ 2(3 - x)Et.NH, ---t (BunO),B(NHEt),-, + (3 - 
+x)Et*NH,,HCl (x = 1 or 2). These compounds are the first (primary amino)boron 
+alkoxides to be reported, but four (secondary amino)boron alkoxides, (BU*O),B(NR~)~_ 
+are known.'J3 
+At 200" trisethylaminoboron was almost quantitatively converted in 34 hr. into 
+the borazole (I; R = Et). Further heating resulted in elimination of ethylamine, 
+corresponding to formation of the condensation dimer (11), which ultimately at 600" 
+afforded a polymer (111). Spectroscopic evidence (to be detailed later) has been outlined 
+RN/B\NR 
+RN/B\NR 
+RN/B\NR 
+6B(NHR),---) 
+I 
+I 
++ I 
+I
+I
+I
+-
+-
+-
+t
+I
+I
+ 
+B*NHR 
+RHN*B \ N/B-!-B\N/ 
+RHN*B\N,.B*N 
+H R 
+N H R  
+RN/B\NR 
+\ 
+N / 
+B* 
+- N k B  
+N H R  
+N H R  
+TABLE 
+2. 
+R 
+Me .............................. 
+Et .............................. 
+Pr* .............................. 
+Bun .............................. 
+Bus .............................. 
+But .............................. 
+Cyclohexyl ..................... 
+Ph*CH, ........................ 
+Ph .............................. 
+Characterisation of the B-aminoboraxoles (I). 
+B. p./mm. 
+Molar 
+(ma P.) 
+Go 
+nD20 
+Found 
+61.7 
+1lO0/O~1 
+1.016 
+1.5082 
+145-150°/0.1 
+0.933 
+1.4826 
+89.8 
+106"/0*03 
+0.8220 
+1.4628 
+11 8.0 
+158"/0*005 
+0.900 
+1.4730 
+144.3 
+135"/0.01 
+0-892 
+1.4695 
+144-2 
+103"/0*04 
+0.883 
+1.4631 
+144.0 
+(52-55") 
+- 
+- 
+- 
+> 250"/0.005 
+1.156 
+1-642 
+208- 1 
+( 152-1 55") 
+- 
+- 
+- 
+* See footnote to Table 1. 
+refractivity 
+Calc . * 
+61.9 
+89.8 
+117.9 
+145-7 
+144.6 
+147.1 
+209.1 
+- 
+- 
+(RmNHeB-NR),. When heated they polymerised further, except for the compound (I ; 
+R = But; this may be due to steric hindrance making elimination of t-butylamine 
+difficult). The borazoles (I) were soluble in many non-polar organic solvents and, except 
+for the phenyl compound, were easily hydrolysed by cold water; the phenylborazole was 
+hydrolysed by hot water. 
+Gerrard, Lappert, and Pearce, J., 1957, 381, 
+8 Jdem, Chem. and Ind., 1958, 292, 
+Published on 01 January 1959. Downloaded by Brown University on 20/05/2015 09:18:19. 
+View Article Online
+[ 19591 
+Cyclic Organic Boron Comeowads. Part I V .  
+2929 
+Preparation of B-aminoborazoles has previously (except for R = Etl) been described 
+in only one other work: the compounds then being obtained from B-chloroborazoles and 
+amines. The polynuclear borazoles appear to be novel and are of interest because they 
+are polymers having wholly inorganic skeletons, and because polycyclic inorganic com- 
+pounds are virtually unknown. The remarkable thermal stability of the polymer (III; 
+R = Et) is attributed to the absence of organic radicals in the main chain. 
+Pyrolysis of the ethylaminoboron n-butoxides afforded the borazole (IV) ; with di-n- 
+butyl ethylaminoboronate there was no evidence for the presumed intermediate (V). The 
+molecular weight and the infrared spectrum 1 of the intermediate were consistent with its 
+formulation as a B-alkoxyborazole ; such compounds were unknown before our earlier 
+communication. 
+Et 
+N 
+B ~ ~ o - B /  \ B - o B ~ ~  
+~ B U ~ O * B ( N H E ~ ) ~  
++ 
+Et*NH, + 
+1 
+I 
+EtN\B 
+/NEt 
+OBun (IV) 
+-EtNH, 
+~ ( B U ~ O ) ~ B . N H E ~  
+____) [(BU~O),B*N(E~)*B(OBU~)~] 
+__t B(OBun), + & CIV) 
+(V> 
+EXPERIMENTAL 
+General Procedures.-Amines 
+were dried and purified by heating under reflux with, and 
+fractionation from, barium oxide. Analysis for chlorine was by Volhard's method, for boron by 
+Thomas's method,lO for nitrogen either as amino-group by steam distillation from potassium 
+hydroxide and distillation into standard acid, or by the Kjeldahl procedure (for I; R = Ph). 
+Molecular weights were determined ebullioscopically in benzene. The identity of the amines, 
+obtained as pyrolysis products during formation of borazoles, was established by demonstrat- 
+ing their identity with authentic specimens by gas chromatography and infrared spectroscopy. 
+Pre$aration of Triaminoborons.-Boron trichloride (1 mol. ; usually 0.1 mole) in n-pentane 
+(25 c.c.) at - 78" was added slowly from a cooling-jacketed dropping funnel to the amine (6 mol.) 
+in n-pentane (250 c.c.) at - 78". Reaction was invariably highly exothermal and accompanied 
+by formation of a white precipitate. 
+The mixture was set aside for 2 hr. at 20" and then filtered. 
+The precipitate which was exclusively the amine hydrochloride in all except the benzylamine 
+and aniline experiments (when it was a mixture of the amine hydrochloride and triamino- 
+boron) was washed with more solvent, freed from solvent at 20'115 mm., weighed, and analysed; 
+from the filtrate, after removal of solvent, there was obtained the crude triaminoboron which 
+was purified by fractional distillation or crystallisation (the yields shown in Table 1 are of 
+purified product). In the benzylamine and aniline experiments the components of the 
+precipitate were separated by extracting the triaminoboron with hot benzene. Attempted 
+TABLE 
+3. Analysis of the triaminoborons, B(NHR),. 
+Found 
+Required 
+R 
+I C ( % )  H ( % )  &%) 
+B ( % )  M' '(7%) 
+H ( % )  N i % )  B(%) M' 
+Me ..................... 
+35.6 
+11.5 
+41.0 
+11.2 
+106 
+35.7 
+11-9 
+41.7 
+10.7 
+101 
+Pr* ..................... 
+58.3 
+12-5 
+22.5 
+6.8 
+188 
+58.5 
+12.9 
+22.7 
+5.8 
+185 
+Et ..................... 
+50.4 
+12.4 
+29.0 
+7.9 
+146 
+50.3 
+12.7 
+29.4 
+7.7 
+143 
+Bun ..................... 
+62.8 
+13.2 
+18.5 
+4.8 
+217 
+63.4 
+13.2 
+18.5 
+4.8 
+227 
+Bud ..................... 
+64.5 
+13.5 
+18.0 
+4.7 
+231 
+63.4 
+13.2 
+18.5 
+4.8 
+227 
+But ..................... 
+63.7 
+13.2 
+18.3 
+4.7 
+243 
+63.4 
+13.2 
+18.5 
+4.8 
+227 
+Cyclohexyl ............ 71.3 
+12.2 
+13.9 
+3.8 
+302 
+70.8 
+11.8 
+13-9 
+3-5 
+305 
+PhCH, ............... 76.5 
+7.6 
+12.7 
+3.0 
+332 
+76.6 
+7.3 
+12.8 
+3.3 
+329 
+Ph ..................... 
+14.6 
+3.8 
+14.7 
+3-8 
+distillation of trisbenzylaminoboron resulted in elimination of benzylamine, but the undistilled 
+material was pure as shown by analysis and molecular-weight determination. The yields and 
+characterisation of the triaminoborons are shown in Table 1, whilst in Tables 3 and 4 are shown 
+the analytical data for the triaminoborons and the amine hydrochlorides respectively. 
+Gould, U.S.P. 2,754,177/1956. 
+lo Thomas, J., 1946, 820. 
+Published on 01 January 1959. Downloaded by Brown University on 20/05/2015 09:18:19. 
+View Article Online
+2930 
+Cyclic Organic Boron Compounds. Part IV. 
+Preparation of Borazoles (I) .-Only 
+for ethylamino- (83%), cyclohexylamino- (loo%), 
+benzylamino- (100%), and anilino-borazole (100%) do the stated yields have meaning, because 
+in the remaining experiments no separate effort was made to pyrolyse appropriate triamino- 
+borons, the corresponding borazoles [R in (R*NH-B*NR), = Me (4-3%), Pri (14~7%)~ 
+Bun 
+(15.8%), Bus (16.3%), But (18.4%)] being obtained merely as higher-boiling fractions during 
+the preparation of the triaminoborons. 
+TABLE 
+4. 
+Yield and analysis of R*NH,,HCl. 
+Found (%) : 
+Calc. (%): 
+R 
+Yield (mols.) 
+N 
+c1 
+N 
+c1 
+Me ........................... 
+3.12 
+20.5 
+50.0 
+20.7 
+52.5 
+Et ........................... 
+3.02 
+17.3 
+43.3 
+17.2 
+43.6 
+Pr* ........................... 
+2.68 
+14.5 
+37.0 
+14.7 
+37.1 
+Bun ........................... 
+2-98 
+12.6 
+31.9 
+12.8 
+32-4 
+Bum ........................... 
+3.03 
+13.1 
+32.4 
+12.8 
+32.4 
+But ........................... 
+2.89 
+12.6 
+29-5 
+12-8 
+32.4 
+Cyclohexyl .................. 
+3.07 
+10.5 
+24.3 
+10.3 
+26.2 
+PhCH, ..................... 
+3-42 
+9.9 
+23.5 
+9.8 
+24.7 
+Ph ........................... 
+3.27 
+11.3 
+25.5 
+10.8 
+27.4 
+The triaminoborons were pyrolysed under reflux (R = Et at 200" for 3& hr.; R = cyclo- 
+hexyl at 200"/0.1 mm. for 5 hr.; R = PhCH, at 250"/0-005 mm. for 2 hr.; R = Ph at 
+250"/10 mm. for 2 hr,), under conditions such that elimination of amine (collected as a 
+condensate at - 
+78") corresponded to that required for borazole formation. The B-ethylamino- 
+borazole was then distilled, but this was not possible for the others. Characterisation of the 
+borazoles (I) is shown in Table 2, and in Table 5 are the analytical data. 
+TABLE 
+5. Analysis of the B-aminoboraxoles (I). 
+- 
+R 
+c (%I 
+Me ..................... 
+33.4 
+Et ..................... 
+48.5 
+Pri ..................... 
+56.1 
+Bun ..................... 
+62.0 
+Bug ..................... 
+61.8 
+But ..................... 
+61.5 
+Cyclohexyl * ......... 71.3 
+PhCH, * ............ 73.4 
+Ph * .................. 72.1 
+Found 
+H (%I 
+9.8 
+11.0 
+11.5 
+12.4 
+12.1 
+12.0 
+10.8 
+6.6 
+5.8 
+N ( % )  B(%) 
+M' 
+40.0 
+15.7 
+211 
+28.8 
+11.1 
+290 
+22.4 
+8.9 
+365 
+18.1 
+7.3 
+446 
+18.0 
+7.2 
+471 
+18.3 
+7.2 
+445 
+13.4 
+4.9 
+564 
+12.4 
+5.2 
+579 
+13.6 
+6.8 
+541 
+* Undistilled. 
+c (%I 
+34.3 
+49.0 
+57.2 
+62.3 
+62.3 
+62.3 
+69.9 
+75.6 
+74.2 
+Required 
+c 
+H ( % )  N ( % )  B(%) 
+10.1 
+40.1 
+15.5 
+11-2 
+28-6 
+11.3 
+12.0 
+22.2 
+8.6 
+12.4 
+18.2 
+7.0 
+12.4 
+18.2 
+7.0 
+12.4 
+18.2 
+7.0 
+11.3 
+13.8 
+5.3 
+6.8 
+12.6 
+4.9 
+5.7 
+14.4 
+5.6 
+-- 
+M 
+210 
+294 
+378 
+462 
+462 
+462 
+618 
+666 
+582 
+Pyrolysis of the Borazole (I; R = Et).-The borazole (11.40 g.) was not appreciably changed 
+at 200" in 3 hr. At 300", however, ethylamine [0.87 g. Calc., 0.86 g., for formation of (II)] was 
+eliminated during 4 hr. and further heating at 300" had little effect. At 320" evolution of ethyl- 
+amine continued and after 5 hr. the amount corresponded approximately to the formation of 
+the linear decacyclic borazole. A total of 1.65 g. of ethylamine had been evolved and a further 
+loss in weight of 2.36 g. occurred after 9 hr. at -600" to leave the polymer, a section of which is 
+formulated as (111). 
+Interaction of Butyl Dichloroborinate and Ethy1amine.-The 
+dichloroborinate 1~ l2 (1 0-30 g., 
+1 mol.) in n-pentane (20 c.c.) was slowly added to the amine (14.03 g., > 4  mol.) in n-pentane 
+(30 c.c.) at -78". 
+The precipitated ethylamine hydro- 
+chloride (10.53 g., 97%) (Found: N, 17-0; C1, 43.5%) was filtered off and the residue obtained 
+from the filtrate by evaporation was fractionated, to give (i) 4.07 g., b. p. 37-38"/0.2 mm., 
+nD20 1.4223, eo 
+0-826 (Found: N, 12.7; B, 6.9%), (ii) 2.94 g., b. p. 38-39"/0-2 mm., nDZo 
+1.4200, 
+(iii) crude borazole (IV), 3.13 g., b. p. 128-129"/0-1 mm., nD20 1.4595, d2q0 0.935 (Found: N, 
+11.7; B, 9-0%), and a residue (0.84 g.). 
+Components (i) and (ii) 
+were combined and after three successive fractionations, there was obtained n-butyl bisethyl- 
+aminoborinate (3-13 g.: 28%) (Found: C, 55.4; H, 12.2; N, 16.0; By 6.2%; M ,  180. 
+The reaction was highly exothermal. 
+There was no condensate. 
+l1 Gerrard and Lappert, J., 1951, 2545. 
+l2 Idem, J ,  1955, 3084. 
+Published on 01 January 1959. Downloaded by Brown University on 20/05/2015 09:18:19. 
+View Article Online
+[ 19591 
+Dimethyl-o-methy lthio@heny larsine. Part II. 
+2931 
+C,H,,ON,B requires C, 55.8; H, 12.3; N, 16-3; B, 6.3%; M ,  172), b. p. 38-39"/0*2 mm., 
+nD20 1.4280, Go 0.839. Examination of the other fractions indicated that some disproportion- 
+ation, as well as elimination of amine to give the borazole (IV) t2.32 g., obtained from (iii), 
+b. p. 152-154'/0.3 
+mm., nDZo 
+1.4540 (Found : N, 10.9; B, 8.5%)], had also taken place. 
+Interaction of Di-n-butyl Chlovoboronate and Ethy1amine.-By 
+a similar procedure there was 
+obtained from the chloroboronate 
+(27-8 g., 1 mol.) and the amine (16-00 g., >2 mol.) in 
+n-pentane (total 100 c.c.), ethylamine hydrochloride (11.50 g., 98%) (Found: N, 17.1; C1, 
+43.5%) as insoluble product. The filtrate, after several redistillations, afforded di-n-butyl 
+ethylaminoboronate (8.23 g., 28%), b. p. 49-51"/0-1 mm., nDZo 
+1.4178, di0 0-846 (Found: C, 59.9; 
+H, 12.3; N, 7.4; B, 506%; M ,  211. C1,H,,O,NB requires C, 59.7; H, 12.0; N, 7.6; B, 5.47;; 
+M ,  201). Analyses and physical constants of other fractions indicated that disproportionation 
+of the aminoboronate (to give the triaminoboron, the diaminoborinate, and the borate) also 
+occurred; only a trace of (IV) was isolated. 
+Pyrolysis of the Ethylaminoboron n-But0xide.s.-n-Butyl 
+bisethylaminoborinate (4.17 g.) 
+was heated under reflux. After 1 hr. at 160" no ethylamine had been lost, but at 260" (24 hr.) 
+the amine (0.84 g., 77%) (characterised by gas chromatography) was collected as a condensate. 
+The residue, after two distillations, afforded the borazole (IV) (2.06 g., 66%), b. p. 153- 
+156"/0-4 mm., nD20 1-4544, d:' 
+0.935 (Found: C, 56.0; H, 12.1; N, 11.0; B, 8.6%; M ,  394. 
+CI8H4,O3N3B3 requires C, 56.7; H, 11.0; N, 11.0; B, 8.6%; M ,  381). 
+Similarly, from di-n-butyl ethylaminoboronate (13.85 g.) there were obtained (after 5Q hr. 
+at 220') ethylamine (1.24 g., 80y0), tri-n-butyl borate (6.92 g., 87y0), b. p. 48-52"/0.2 mm., 
+nDZo 1.4100 (authentic infrared spectrum), and the borazole (IV) (2.44 g., 56%), b. p. 153- 
+157"/0-4 mm., nDZo 
+1.4530 (Found: N, 10.8; B, 8.5%). The pyrolysis mixture before distil- 
+lation was shown (infrared spectrum) to be a mixture of the borate and borazole. 
+We thank Mr. H. Pyszora for the infrared spectral measurements made at the National 
+College of Rubber Technology (Northern Polytechnic), and Dr. W. Gerrard for his continued 
+encouragement. 
+NORTHERN 
+POLYTECHNIC, 
+HOLLOWAY 
+ROAD, LONDON, 
+N.7. 
+[Received, April 3rd, 1959.1 
+[Present Address (M. F. L.) .-MANCHESTER COLLEGE OF SCIENCE AND TECHNOLOGY]. 
+Published on 01 January 1959. Downloaded by Brown University on 20/05/2015 09:18:19. 
+View Article Online

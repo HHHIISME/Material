@@ -1,0 +1,307 @@
+# Chen-2018-Piezoelectric_photoluminescence effe
+
+Regular article
+Piezoelectric/photoluminescence effect in one-dimensional
+lead-free nanoﬁbers
+Xiaoqiu Chen a, Qing Wang a, Xin Wu b, Tao Wang a, Yanxue Tang a, Zhihua Duan a, Dazhi Sun c,
+Xiangyong Zhao a, Feifei Wang a,⁎, Wangzhou Shi a
+a Key Laboratory of Optoelectronic Material and Device, Department of Physics, Shanghai Normal University, Shanghai 200234, China
+b Shanghai Key Laboratory of Multidimensional Information Processing, Department of Electrical Engineering, East China Normal University, 500 Dongchuan Road, Shanghai 200241, China
+c Key Laboratory of Resource Chemistry of Education Ministry, Department of Chemistry, Shanghai Normal University, 100 Guilin Road, Shanghai 200234, China
+a b s t r a c t
+a r t i c l e
+i n f o
+Article history:
+Received 2 August 2017
+Received in revised form 10 October 2017
+Accepted 13 October 2017
+Available online 18 October 2017
+In present work, a multifunctional piezoelectric/photoluminescence effect, which originated from the combina-
+tion of the piezoelectric properties and the photoluminescence effect, was realized in one-dimensional Er3+
+doped lead-free BaTiO3 nanoﬁbers prepared by a sol-gel based electrospinning method. The X-ray diffraction
+(XRD), scanning electron microscopy (SEM), and high-resolution transmission electron microscopy (HRTEM)
+were utilized to characterize the morphologies and phase structures. The effect of the host crystallization and
+rare-earth concentration on the structure and photoluminescence properties was studied. In addition,
+temperature-dependent PL spectrum exhibited a piezoelectric/photoluminescence coupling effect, characterized
+by the enhanced photoluminescence intensity around the ferroelectric-paraelectric phase transition temperature
+of BaTiO3.
+© 2017 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+Keywords:
+Piezoelectric
+Photoluminescence
+Nanoﬁber
+Recently the development of multifunctional materials attracted
+much scientiﬁc and technological attention due to their outstanding cou-
+pling functions among the mechanical, electric, magnetic, and optical
+properties. Various two-parameter coupling effects have been reported
+in the scientiﬁc community such as electro-magnetic coupling, electro-
+mechanical interactions, magneto-optical, electro-optical interaction,
+and electro-caloric effects [1–5]. With the development of the functional
+material and device, it is attractive to design and explore new coupling
+effects and forms with multiple functions in single-phase materials
+[6–8]. Recently through the product of the piezoelectric effect and the
+electrochemical redox effect, a strong piezo-electro-chemical effect was
+realized in multiferroic BiFeO3 micro-sheets [6]. In addition, a pyro-
+electro-catalysis coupling effect was realized from a combination of the
+pyroelectric effect and the electrochemical oxidation-reduction reaction
+in BiFeO3 nanoparticles [7]. A multiple simultaneous electro-mechano-
+optical conversions was proposed in Pr3+ doped BaTiO3–CaTiO3 system,
+which effectively combined the piezoelectric effect of BaTiO3 and the
+electroluminescent effect of Pr3+ doped CaTiO3 [8]. However, multiple
+function coupling in a single-phase system was quite limited.
+Piezoelectric and photoluminescence (PL) materials are two impor-
+tant smart effects which attracted extensive attentions during the past
+decades and were extensively utilized in sensors, transducers and
+luminescent devices [2,9]. Recently piezoelectric/photoluminescence
+multifunctional systems from the combination of the piezoelectric and
+photoluminescence effects were proposed which exhibited electro-
+mechano-optic effects in single-phase material [10–16]. On one hand,
+the introduction of the rare earth into the piezoelectric host could change
+the crystal lattice, leading to the enhanced piezoelectric and ferroelectric
+performance [11–12]. On the other hand, the piezoelectric or ferroelectric
+host could provide a suitable crystal ﬁeld and the polarization could also
+improve the PL intensity output, which provided a new routine to modu-
+late the PL performance [13–16]. Nevertheless, these previous works
+mainly focused on the bulk or the thin ﬁlm form, one-dimensional
+single-phase nanostructure owning electro-mechano-optic effects was
+seldom studied. Furthermore, compared to the bulk and thin ﬁlm form,
+the ﬁber form owns the advantage of high ﬂexibility, large aspect ratio
+and high strain tolerance. It can effectively reduce the risk of potential
+fracture or damage of the piezoelectric materials and is also particularly
+attractive in ﬂexible electromechanical devices such as sensors and
+energy harvesters [17]. Obtaining one-dimensional piezoelectric/
+photoluminescence nanoﬁbers would be quite favorable for novel ﬂexible
+multifunctional portable device applications. Furthermore, the ﬁber is
+easily accessible and the fabrication process is cost-effective. Therefore,
+in this work, we aim to report a one-dimensional upconversion PL
+Er3+-doped BaTiO3 nanoﬁbers based on a sol-gel based electrospinning
+method. The effect of crystallization and rare-earth concentration on
+the structure and PL performance was studied. The X-ray diffraction
+(XRD), scanning electron microscopy (SEM), and high-resolution
+Scripta Materialia 145 (2018) 81–84
+⁎ Corresponding author.
+E-mail addresses: f_f_w@sohu.com, ffwang@shnu.edu.cn (F. Wang),
+wzshi@shnu.edu.cn (W. Shi).
+https://doi.org/10.1016/j.scriptamat.2017.10.018
+1359-6462/© 2017 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+Contents lists available at ScienceDirect
+Scripta Materialia
+journal homepage: www.elsevier.com/locate/scriptamat
+transmission electron microscopy (HRTEM) were utilized to characterize
+the morphologies and phase structures. Composition-dependent
+photoluminescence spectra were characterized and the piezoelectric/
+photoluminescence coupling behavior was explored and discussed.
+The Er-doped BaTiO3 ﬁbers were prepared using an electrospinning
+technique combined with a sol–gel process. Er ions were introduced
+into the A-site with the formula Ba(1–3x)/2ErxTiO3 (Er-BTO, Er-xBTO) be-
+cause of the superior PL intensity compared to the B-site substitution
+[15]. First, barium acetate was dissolved in acetic acid and stirred at 60
+°C for 0.5 h. Titanium isopropoxide and erbium nitrate was dissolved
+in 2-methoxyethanol and acetylacetone was chosen as ligands. Then,
+the two solutions were mixed under continuous stirring conditions to
+form an Er-BTO precursor solution. The obtained solution was stirred
+for ~24 h with 1:1 volume ratio of ammonium hydroxide and
+monoethanolamine referred to as A. A second solution, referred to as
+B, was obtained by dissolving poly(vinyl pyrrolidone) (PVP, MW =
+630, 000) in ethanol. The solution was mechanically stirred for ~4 h. So-
+lution A and B were then mixed under constant stirring conditions. The
+concentration of the ﬁnal Er-BTO solution was controlled at ~0.2 M.
+The obtained solution was then loaded into a plastic syringe
+equipped with a needle. The electrospinning was performed at 20 kV,
+15 cm spacing between the needle tip and the collector under a feeding
+rate of 0.1 mm/min. The Er-BTO ﬁbers were collected on an aluminum
+foil. The as-spun ﬁbers were then dried at 90 °C for 4 h followed by ther-
+mal annealing between 550 °C and 950 °C for 2 h in air.
+The crystal structures of the annealed ﬁbers were determined from
+X-ray diffraction (XRD) patterns recorded with an X-ray diffractometry
+(D8 Focus, Bruker, Karlsruhe, Germany). A ﬁeld emission scanning elec-
+tron microscope (S-4800, Hitachi, Tokyo, Japan) was used to character-
+ize the ﬁber morphologies. Annealed samples were also studied using
+high-resolution transmission electron microscopy (HRTEM, JEM
+2100F, Japan) at an accelerating voltage of 200 kV. The composition
+and temperature PL spectra were recorded using a ﬂuorescence spectro-
+photometer (Fluorolog-3-P, Jobin Yvon Inc., France).
+Fig. 1(a)–(d) shows the typical surface morphologies for the as-spun
+(Fig. 1(a)) and annealed Er-0.02BTO nanoﬁbers between 550 °C and 950
+°C (here the nanoﬁber annealed at 550 °C, 750 °C, and 950 °C is shown in
+Fig. (b)–(d) and other data is given in the Fig. S1 of the supplementary
+data). The as-spun ﬁbers were smooth, long, and continuous with the
+diameters around 600 nm. During the electrospinning process, it was
+found that the diameter of the ﬁber depended strongly on the applied
+voltage and the concentration of the precursor solution. Higher voltage
+and lower concentration both decreased the ﬁber diameter. After an-
+nealing, the ﬁber kept the long and continuous structure and the ﬁber
+diameter decreased due to the evaporation of the organic polymer.
+With the annealing temperature increasing from 550 °C to 950 °C, the
+Fig. 1. (a)–(d) The typical surface morphologies for the (a) as-spun and annealed Er-0.02BTO nanoﬁbers at (b) 550 °C, (c) 750 °C, and (d) 950 °C. (e) shows the corresponding XRD patterns
+for the Er-0.02BTO ﬁbers annealed under different temperatures in the 2θ range of 20°–70°, and (f)–(h) HRTEM of the ﬁber annealed at 550 °C, 750 °C, and 950 °C, respectively.
+Fig. 2. (a) The upconversion PL spectra of the Er-0.02BTO nanoﬁbers annealed at different temperatures and (b) the energy level diagram of Er3+ ion for illustrating the upconversion
+process.
+82
+X. Chen et al. / Scripta Materialia 145 (2018) 81–84
+diameter decreased from ~500 nm to ~200 nm during the crystalliza-
+tion process and meanwhile better crystallization quality could be ob-
+served from the morphologies at higher temperatures characterized
+by the grainy structure.
+The corresponding phase structures were examined and the XRD
+patterns for the Er-0.02BTO ﬁbers annealed under different tempera-
+tures are shown in Fig. 1(e) in the 2θ range of 20°–70°. For the ﬁber
+annealed at a relatively low temperature of 550 °C, no diffraction
+peaks could be detected from XRD, indicating low annealing tempera-
+ture couldn't form the crystallization structure. With the annealing tem-
+perature increased to above 650 °C, pure perovskite structure could be
+observed in all the samples with no second phases detected. The results
+implied that Er ions were incorporated into BaTiO3 host and the obtain-
+ed ﬁbers were polycrystalline. Furthermore, the increasing of the an-
+nealing temperature could obtain better crystallization characterized
+by the sharper characteristic diffraction peaks of Fig. 1(e), which is
+also consistent with the grainy morphology shown in Fig. (c) and (d).
+HRTEM was further utilized to give an insight into the microstructure
+as shown in Fig. 1(f)–(h), corresponding to the ﬁber annealed at 550
+°C, 750 °C, and 950 °C, respectively (other HRTEM data were shown in
+the Fig. S2 of the supplementary data). For the Er-0.02BTO ﬁbers
+annealed at 550 °C, the high-resolution image and selected area electron
+diffraction (SAED) pattern revealed an amorphous structure, indicating
+the annealing temperature of 550 °C was not enough to form the crystal
+structure. This was also consistent with the macroscopic XRD pattern
+measured at 550 °C (Fig. 1(e)). In comparison, the nanoﬁbers annealed
+at 750 °C and 950 °C exhibited regular atomic arrangement which ver-
+iﬁed that the Er-BTO had good crystallinity. The ferroelectric tetragonal
+phase could also be conﬁrmed both by the selected area electron diffrac-
+tion pattern and high resolution lattice space as shown in Fig. S2(f) and
+(i).
+Fig. 2(a) shows the upconversion PL spectra of the Er-0.02BTO nano-
+ﬁbers annealed at different temperatures. Under the excitation of
+980 nm, strong upconversion emission including the green and red
+emission bands could be observed from the nanoﬁbers. In order to ex-
+plain this emission behavior, the energy level diagram of Er3+ ion for il-
+lustrating the upconversion process is shown in Fig. 2(b). Both excited
+state absorption (ESA) and energy transfer (ET) play important roles
+in the upconversion process of Er3+ [15,18–19]. The green emission
+band contained two emission peaks centered at 523 nm and 552 nm
+which were produced by the transitions from excited state 2H11/2 and
+4S3/2 to 4I15/2. The red emission at 656 nm corresponded to the relaxa-
+tion process 4F9/2 →4I15/2. These emission peaks agreed well with the
+earlier studies on other Er3+ doped system [10,20]. In addition, from
+Fig. 2(a) the intensity of the red and green emission bands increased
+substantially with the annealing temperature increasing and no obvious
+shift of the emission peaks appeared. The enhanced PL intensity under
+higher annealing temperature could be ascribed to the improved crys-
+tallinity. On one hand, at low annealing temperature, the PL emission in-
+tensity was quite weak due to the high concentration of the hydroxyl
+Fig. 3. (a) The XRD patterns for the annealed Er-xBTO ﬁbers with x ranging from 0 to 0.04 in the 2θ range of 20°–70° and (b) the concentration dependence of the PL spectra.
+Fig. 4. (a) The temperature-dependent PL spectra, and (b) a summarization of the temperature-dependent emission peak intensity centered at 523 nm, 552 nm, and 656 nm
+(corresponding to the 2H11/2 →4I15/2, 4S3/2 →4I15/2, 4F9/2 →4I15/2, respectively).
+83
+X. Chen et al. / Scripta Materialia 145 (2018) 81–84
+ions in the host materials, which effectively quenched the Er3+ ions at
+lower levels of 4I11/2 and 4I13/2. On the other hand, it has been found
+that the crystallization size had great inﬂuence on the emission intensi-
+ty [21]. The ﬁber annealed at higher annealing temperature exhibited
+large grain size compared to that annealed at low temperature. The
+nonradioactive processes were effectively suppressed due to the reduc-
+tion in the fraction of atoms at the surface or grain boundaries and led to
+the increase in the emission intensity. Similar results were also ob-
+served in Eu3+ doped Y2O3 system [22].
+In addition, the effect of Er concentration on the structure and PL
+properties were investigated which played an important role in the PL
+performances. Fig. 3(a) shows the XRD patterns for the annealed Er-
+xBTO ﬁbers with x ranging from 0 to 0.04 in the 2θ range of 20°–70°.
+Pure perovskite structure can be observed for all the concentrations
+with sharp crystallization peaks. Similar morphologies could be ob-
+served from the SEM images with the diameter around 200 nm
+(shown in Fig. S3 of the supplementary data). Fig. 3(b) shows the con-
+centration dependence of the PL spectra. Characteristic upconversion
+emission including the green and red emission bands could be observed
+from the nanoﬁbers and no peak shifting could be observed. With the
+concentration x increasing, the PL intensity ﬁrst increased to a maxi-
+mum at x of 0.02 and then decreased with x further increasing,
+exhibiting a concentration quenching effect. When the Er3+ concentra-
+tion was low, “isolated” luminescent centers formed and energy was
+not readily transferred to unexcited ions (quenchers) [23]. In contrast,
+when the concentration of luminescent centers reached a certain
+level, the luminescent centers along the thickness direction were sufﬁ-
+ciently dense to form a “resonant energy transfer net” and energy was
+rapidly transferred to the quenching species and led to the decreased
+PL intensity.
+In addition, a piezoelectric/photoluminescence coupling behavior in
+Er-0.02BTO was investigated through the temperature-dependent PL
+spectra as shown in Fig. 4. With the temperature increasing from 30
+°C to 150 °C, three major emission peaks could be well observed and
+the temperature-dependent emission peak intensity centered around
+523 nm, 552 nm, and 656 nm (corresponding to the 2H11/2 →4I15/2,
+4S3/2 →4I15/2, 4F9/2 →4I15/2, respectively) was summarized in Fig. 4(b).
+An obvious increase in the intensity of the green emission peak can be
+observed at around 130 °C, which corresponded to the ferroelectric te-
+tragonal to paraelectric cubic phase transition temperature of the host
+BaTiO3. Regarding to the intrinsic reason for the enhanced green PL in-
+tensity, it is assumed to be related with the site symmetry change of
+the Er3+ ions with the temperature increasing and similar symmetry-
+dependent PL performance was well investigated and discussed in
+thin ﬁlm and bulk systems [13–14,16,24].
+In
+summary,
+one-dimensional
+multifunctional
+piezoelectric/
+photoluminescence
+Er-BTO
+nanoﬁbers
+were
+prepared
+by
+electrospinning method. Dense, uniform, long nanoﬁbers were obtained
+with diameters of ~200 nm. Results indicated higher annealing
+temperature could result in better crystalline quality, leading to the im-
+proved PL intensity. At x of 0.02, a maximum PL intensity can be ob-
+served from the concentration-dependent PL spectra. In addition,
+temperature-dependent PL spectrum exhibited a piezoelectric/lumi-
+nescence coupling effect and the photoluminescence intensity in-
+creased obviously at ~130 °C, which was assumed to originate from
+the ferroelectric tetragonal to paraelectric cubic phase transition of the
+host BaTiO3.
+This work was supported by the National Natural Science Founda-
+tion of China (Grant Nos. 11574214, 61404085, 51772192 and
+11604211), the National Key Research and Development Program of
+China (2016YFB0701004), and the Science and Technology Commission
+of Shanghai Municipality (Grant Nos. 15JC1401800 and 17070502700).
+Appendix A. Supplementary data.
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.scriptamat.2017.10.018.
+References
+[1] Y. Wang, J.M. Hu, Y.H. Lin, C.-W. Nan, NPG Asia Mater. 2 (61) (2000).
+[2] K. Uchino, Piezoelectric Actuators and Ultrasonic Motors, Kluwer, Boston, MA, 1997.
+[3] A.M. Grishina, Appl. Phys. Lett. 97 (2010), 061116.
+[4] S. Abel, T. Stöferle, C. Marchiori, C. Rossel, M.D. Rossell, R. Erni, D. Caimi, M. Sousa, A.
+Chelnokov, B.J. Offrein, J. Fompeyrine, Nat. Commun. 4 (1671) (2013).
+[5] A.S. Mischenko, Q. Zhang, J.F. Scott, R.W. Whatmore, N.D. Mathur, Science 311
+(1270) (2006).
+[6] H.L. You, Y.M. Jia, Z. Wu, X.L. Xu, W.Q. Qian, Y.T. Xia, M. Ismail, Electrochem.
+Commun. 79 (55) (2017).
+[7] J. Wu, W.J. Mao, Z. Wu, X.L. Xu, H.L. You, A'.X. Xue, Y.M. Jia, Nano 8 (7343) (2016).
+[8] X.S. Wang, C.-N. Xu, H. Yamada, K. Nishikubo, X.-G. Zheng, Adv. Mater. 17 (1254)
+(2005).
+[9] X.J. Xie, X.G. Liu, Nat. Mater. 11 (842) (2012).
+[10] Y.J. Yao, L.H. Luo, W.P. Li, J. Zhou, F.F. Wang, Appl. Phys. Lett. 106 (082906) (2015).
+[11] J. Wang, L.H. Luo, Y.P. Huang, W.P. Li, F.F. Wang, Appl. Phys. Lett. 107 (192901)
+(2015).
+[12] Y.B. Wei, Y.M. Jia, J. Wu, Y.C. Shen, Z. Wu, H.S. Luo, Appl. Phys. Lett. 105 (042902)
+(2014).
+[13] X.L. Tian, Z. Wu, Y.M. Jia, J.R. Chen, R.K. Zheng, Y.H. Zhang, H.S. Luo, Appl. Phys. Lett.
+102 (042907) (2013).
+[14] J.H. Hao, Y. Zhang, X.H. Wei, Angew. Chem. Int. Ed. 50 (6876) (2011).
+[15] Y. Zhang, J.H. Hao, C.L. Mark, X.H. Wei, Opt. Express 19 (1824) (2011).
+[16] H.L. Sun, X. Wu, T.H. Chung, K.W. Kwok, Sci Rep 6 (28677) (2016).
+[17] Y. Qin, X.D. Wang, Z.L. Wang, Nature 451 (809) (2008).
+[18] L.H. Luo, P. Du, W.P. Li, W.D. Tao, H.B. Chen, J. Appl. Phys. 114 (124104) (2013).
+[19] S.Y. Gong, Z.H. Ren, S. Jiang, M. Li, X. Li, X. Wei, G. Xu, G. Shen, G.R. Han, J. Phys.
+Chem. C 118 (5486) (2014).
+[20] P. Du, L.H. Luo, W.P. Li, Q.Y. Yue, H.B. Chen, Appl. Phys. Lett. 104 (152902) (2014).
+[21] S. Fujihara, K. Tokumo, Chem. Mater. 17 (5587) (2005).
+[22] W.-N. Wang, W. Widiyastuti, T. Ogi, I.W. Lenggoro, K. Okuyama, Chem. Mater. 19
+(1723) (2007).
+[23] V.K. Rai, S.B. Rai, D.K. Rai, Spectrochim. Acta A 62 (302) (2005).
+[24] Q.R. Yao, F.F. Wang, F. Xu, C.M. Leung, T. Wang, Y.X. Tang, X. Ye, Y.Q. Xie, D.Z. Sun,
+W.Z. Shi, ACS Appl. Mater. Interfaces 7 (5066) (2015).
+84
+X. Chen et al. / Scripta Materialia 145 (2018) 81–84

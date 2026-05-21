@@ -1,0 +1,3495 @@
+# Design and materials issues for high performan
+
+Fusion Engineering and Design 55 (2001) 55–95
+Design and material issues for high performance
+SiCf/SiC-based fusion power cores
+A.R. Raffray a,*, R. Jones b, G. Aiello c, M. Billone d, L. Giancarli c,
+H. Golﬁer c, A. Hasegawa e, Y. Katoh f, A. Kohyama f, S. Nishio g,
+B. Riccardi h, M.S. Tillack a
+a Room 458, FERP, EBU-II, Uniersity of California, San Diego, 9500 Gilman Drie, La Jolla, CA 92093-0417, USA
+b Paciﬁc Northwest National Laboratory, P.O. Box 999, MSIN P8-15, Richland, WA 99352, USA
+c CEA, Centre d’Etudes de Saclay, DRN/DMT/SERMA/LCA-Bat. 470, F-91191 Gif sur Yette Cedex, France
+d Building 212, Argonne National Laboratory, 9700 South Cass Aenue, Argonne, IL 60439, USA
+e Department of Quantum Science and Energy Engineering, Tohoku Uniersity, Aramki-Aza-Aoba, Aoba-ku,
+Sendai 980-8579, Japan
+f Institute of Adanced Energy, Kyoto Uniersity, Gokasho, Uji, Kyoto 611-0011, Japan
+g Department of Fusion Plasma Research, Naka Fusion Research Establishment, JAERI,
+801-1 Mukouyama Naka-machi Naka-gun Ibaraki-kenn 311-0193, Japan
+h ENEA-CR Frascati, ia E. Fermi, 27, I-00044 Frascati, Rome, Italy
+Accepted 27 February 2001
+Abstract
+The SiCf/SiC composite is a promising structural material candidate for fusion power cores and has been
+considered internationally in several power plant studies. It offers safety advantages arising from its low induced
+radioactivity and afterheat, and the possibility of high performance through high temperature operation. However, its
+behavior and performance at high temperatures and under irradiation are still not well known and need to be better
+characterized. This paper summarizes the current SiCf/SiC design and R&D status. The latest SiCf/SiC-based power
+core design studies are summarized, and the key SiCf/SiC parameters affecting the performance of power core
+components are highlighted. The current status of the material R&D is discussed, with the focus on fabrication and
+joining, baseline properties and properties under irradiation, as well as the desirable evolution of these properties. In
+the light of this, the R&D plans are summarized and assessed. Finally, to help present-day design studies and in the
+expectation of future conﬁrmatory R&D results, recommendations are provided on SiCf/SiC parameters and
+properties to be assumed for present design analysis of long term SiCf/SiC-based power plants. © 2001 Elsevier
+Science B.V. All rights reserved.
+Keywords: Silicon carbide composites; Fusion power cores; Design; Material issues
+www.elsevier.com/locate/fusengdes
+* Corresponding author. Tel.: +1-619-534-9720; fax: +1-619-534-7716.
+E-mail address: raffray@fusion.ucsd.edu (A.R. Raffray).
+0920-3796/01/$ - see front matter © 2001 Elsevier Science B.V. All rights reserved.
+PII: S0920-3796(01)00181-8
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+56
+1. Introduction
+The use of the SiCf/SiC composite as structural
+material in a fusion reactor can be viewed as a
+high-risk high-payoff endeavor. The high payoff
+is linked to the superior safety characteristics of
+SiC arising from its low induced radioactivity and
+afterheat, and to the possibility of high perfor-
+mance through high temperature operation. The
+high risk is associated mainly with the uncertainty
+about SiCf/SiC behavior and performance at high
+temperatures and under irradiation.
+SiCf/SiC was considered several years ago in
+the
+ARIES-I
+[1],
+ARIES-IV
+[2]
+and
+PROMETHEUS [3] power plant studies in the
+US and more recently in other international stud-
+ies, in particular the TAURO [4] and the He-
+cooled pebble bed blanket [5] design studies in the
+EU, the DREAM [6] reactor study in Japan, and
+the ARIES-AT [7] study in the US. Several issues
+have been identiﬁed for SiCf/SiC, including the
+cost of fabrication, joining methods, and factors
+limiting the range of operation. The major issues
+appear to be the rather low thermal conductivity
+at high temperatures and under irradiation, and
+the maximum allowable operating temperature.
+Over the past several years an international
+R&D effort has helped address and better under-
+stand some of these issues. This paper aims to
+assess the current design and R&D status. First,
+SiC application in fusion power plants is summa-
+rized. Example of the latest fusion power core
+design concepts utilizing SiCf/SiC composites in
+the EU, Japan and the US are then brieﬂy de-
+scribed and the key SiCf/SiC issues inﬂuencing
+their performance are discussed. Next, the current
+status of the material R&D including fabrication
+and joining, baseline properties and properties
+under irradiation is described and the extent to
+which these provide information to help resolve
+the design issues is assessed. The desirable evolu-
+tion of SiCf/SiC parameters and properties is dis-
+cussed with the aim of increasing the performance
+and attractiveness of SiCf/SiC-based fusion power
+plant designs. Finally, future R&D plans are
+outlined.
+2. Design concepts
+2.1. Use of SiCf/SiC in fusion power plants
+Silicon carbide is a refractory semiconductor
+with unique properties. Because of its thermal,
+mechanical and chemical stabilities, it can be used
+in extremely harsh environments. Pure SiC also
+provides exceptionally low radioactivity under 14-
+MeV neutron radiation, making it one of the top
+candidates for use in fusion power cores.
+Due to its brittle nature, SiC often has been
+considered in a ﬁber-reinforced ceramic matrix
+composite form. This enables its use as a struc-
+tural and/or pressure vessel material subjected to
+high thermal and pressure stresses. For example,
+SiCf/SiC can be fabricated with sufﬁcient thermal
+conductivity to serve as a ﬁrst wall under reason-
+able heat loads (up to ‰ 1 MW/m2). Contain-
+ment of coolants at high pressure, especially
+helium, is a concern. However, various techniques
+are available to coat or impregnate surfaces to
+provide hermeticity.
+Behind the ﬁrst structural wall, SiC can provide
+other attractive features. Its strength and chemical
+stability at high temperatures enables very high
+coolant outlet temperatures, providing the possi-
+bility of very high thermal conversion efﬁciency.
+By using SiC within the pressure boundary, in-
+stead of as the pressure boundary, its high tem-
+perature capability can be fully exploited. For
+example, blanket designs have been considered in
+which low-conductivity SiC is used as a thermal
+insulator to allow the pressure vessel to remain at
+a lower temperature than the coolant outlet.
+If SiC is used to contain the main coolant
+within the power core, especially if the coolant
+temperature is raised to extremely high values,
+then SiC is probably needed in the entire primary
+cooling circuit. SiC pipes can be manufactured at
+reasonable cost; however, high-performance heat
+exchangers made from SiC may be complex and
+expensive.
+SiC has some other interesting speciality uses
+for some blanket concepts. With its modest elec-
+trical conductivity (of the order of 500  m−1,
+and probably lower for composites because of the
+ﬁber/matrix interfaces), SiC can be used with
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+57
+some liquid metals to reduce the MHD body force.
+For example, it has been proposed as a ‘ﬂow insert’
+for this purpose. SiC also has very low hydrogen
+permeability, making it a candidate for tritium
+permeation barriers.
+In regions of very high heat ﬂux, such as a
+tokamak divertor, SiC is not particularly well-
+suited. If a separate plasma-facing armor material
+is needed, then issues related to so-called ‘duplex
+structures’ arise. Bonding methods exist, but spe-
+cial care must be taken. One especially attractive
+duplex system is SiC with tungsten, since both share
+similar thermal expansion coefﬁcients and both can
+operate at very high temperatures.
+While there are many potential applications of
+SiC and SiCf/SiC composites in fusion power plant
+designs, special attention is given in this article to
+‘high performance’ applications in a fusion power
+core that place the most severe requirements on the
+material. Designs studies are useful tools to deﬁne
+which parameters are most critical in order to
+establish the feasibility and to fully exploit the
+advantages of SiC/SiC composites for such applica-
+tions. The requirements on the materials can be
+established through detailed analysis of the ther-
+mal, mechanical and nuclear performances of spe-
+ciﬁc design concepts. As highlighted in the latest
+design studies summarized below, the parameters
+that emerge as the most important for the success
+of a SiCf/SiC-based power core include:
+ thermal conductivity of the SiCf/SiC composite
+at high temperatures and under irradiation;
+ the maximum SiCf/SiC temperature limit under
+irradiation;
+ the maximum Pb–17Li/SiC interface tempera-
+ture under ﬂowing conditions, including the
+effect of irradiation, if any;
+ maximum stress limits to be used for SiCf/SiC;
+ fabrication and joining (brazing) of SiCf/SiC
+and bonding of W to SiCf/SiC, including meth-
+ods
+and
+constraints
+such
+as
+minimum
+thickness;
+ lifetime.
+2.2. TAURO breeder blanket concept
+The TAURO blanket is a self-cooled Pb–17Li
+blanket using SiCf/SiC structures [8]. It has been
+developed with the objective of reaching passive
+safety in tokamak-type Fusion Power Reactors.
+The TAURO design minimizes the energy available
+in the vacuum vessel in order to avoid breaking of
+the conﬁnement, which would lead to the release of
+radioactive materials to the environment. This
+requirement leads to the use of low-pressure ﬂuids
+with low reactivity and low afterheat levels. Liquid
+metal coolants appear to be the best choice, espe-
+cially the eutectic Pb–17Li.
+The TAURO blanket offers the capability of
+heat extraction at high coolant temperatures and
+promises favorable conversion efﬁciencies. Re-
+cently performed thermo-mechanical analyses have
+shown that the blanket could withstand a surface
+heat ﬂux of 0.7 MW/m2. In the reference design,
+which assumes a surface heat ﬂux of 0.5 MW/m2,
+Pb–17Li inlet/outlet temperatures are, respectively,
+450 and 860°C and the estimated efﬁciency is
+approximately 47%. The possibility of assuming a
+higher thermal conductivity than the 15 W/m K
+originally used in the analysis implies increases of
+both the surface heat ﬂux and the conversion cycle
+efﬁciency without exceeding the maximum temper-
+ature and the stress limits for SiCf/SiC.
+The conﬁguration and the performance of the
+TAURO blanket design are described below, along
+with a discussion on the improvements required in
+the characteristics of present-day SiCf/SiC com-
+posites, in particular its thermal conductivity, neu-
+tron irradiation resistance and compatibility with
+Pb–17Li at high temperature [9,10].
+2.2.1. Speciﬁcations and design description
+The design is based on the speciﬁcations for the
+SEAFP study [11], i.e. fusion power of 3000 MW,
+neutron wall load of 2 MW/m2 and surface heat
+ﬂux of 0.5 MW/m2. The TAURO blanket is essen-
+tially formed by a SiCf/SiC box with an indirectly-
+cooled ﬁrst wall, which acts as a container for the
+Pb–17Li. The Pb–17Li acts as a coolant, a breeder
+multiplier material, and a tritium carrier. Each
+outboard segment is poloidally divided into several
+straight modules, attached on one common thick
+back-plate. The number of modules cooled in series
+depends on the assumption on inlet and outlet
+Pb–17Li temperatures. The feeding pipes are lo-
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+58
+cated behind the module. The coolant enters the
+inlet collector through a single tube and is di-
+vided into ﬁve sub-ﬂows, one for each sub-mod-
+ule (see Fig. 1). Within each submodule the
+Pb–17Li ﬂows at ﬁrst poloidally downward in a
+thin channel located just behind the ﬁrst wall,
+makes a U-turn at the bottom into a second
+channel and ﬂows up, then down into the outlet
+collector. Toroidal plates (stiffeners) are required
+for reinforcing the sub-module box against the
+hydrostatic pressure (assumed to be 1.5 MPa in
+all calculations) and act as ﬂow separators [12].
+2.2.2. Design criteria and models
+The design optimization and structural assess-
+ment of the TAURO blanket were performed in
+3D, assuming square meshes and an orthotropic
+model for SiCf/SiC. Due account was taken of
+the poloidal variations in heat transfer, coolant
+conditions, mechanical loads and thermal loads.
+Conduction remains the dominant heat transfer
+mechanism; the thermal conductivity of SiCf/SiC
+was assumed to be 15 W/m K in all directions.
+The other assumed SiCf/SiC characteristics were
+those of the industrial Cerasep® N3-1 [9].
+The TAURO design criteria [13], discussed in
+Section 3.3, have been applied. The assumed
+limits are the following:
+ the tensile and compressive stresses in plane are
+limited to 145 and 580 MPa, respectively;
+ the tensile and compressive stresses through the
+thickness are limited to 110 and 420 MPa,
+respectively;
+ the shear stresses through the thickness are
+limited to 45 MPa.
+These limits have been determined using experi-
+mental results obtained several years ago on
+Cerasep® N2-1 and are, therefore, probably too
+pessimistic when applied to present-day SiCf/SiC
+or to future improved composites.
+The following constraints have also been used:
+ the maximum SiCf/SiC temperature 1300°C
+(expected for future composites based on Hi-
+Nicalon ﬁbers);
+ the average coolant outlet temperature
+
+850°C to achieve a conversion efﬁciency 
+45%.
+The maximum SiCf/SiC temperature could be
+lower due to the void swelling regime, but no data
+are available to determine the temperature transi-
+tion from the dislocation loop to the void swelling
+regime.
+The
+maximum
+temperature
+may
+be
+around 1000°C because of this transition.
+2.2.3. Neutronic analysis
+A 2D neutronic analysis of the TAURO blan-
+ket has been performed with the Monte-Carlo
+code TRIPOLI4 using the ENDBF-VI transport
+cross section library. The adopted model repro-
+duces half sector of the blanket geometry at the
+equatorial plane. It results in a TBR of 1.37 is
+Fig. 1. Outboard module of the TAURO blanket design.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+59
+Table 1
+Cerasep® N3-1 main characteristics
+Measured value
+Temp. (°C)
+Property
+Value assumed for the
+analyses
+(SEP data)
+Density (g/cm3)
+20
+2.4
+2.5
+102
+20
+10
+Porosity (%)
+40
+Fiber content (%)
+40
+20
+0.8–6
+–
+6–10
+Thickness (mm)
+(30020)
+Tensile stress (in plane) (MPa)
+–
+20
+0.800.25
+20
+–
+Tensile strain (%)
+20
+Trans-laminar shear stress (MPa)
+20020
+–
+20
+Inter-laminar shear stress (MPa)
+44
+44
+20020
+20
+200
+Young’s modulus (in plane) (GPa)
+20
+Young’s modulus (through thickness) (GPa)
+–
+200 a
+–
+20
+80 b
+Shear modulus (in plane) (GPa)
+–
+Shear modulus (through thickness) (GPa)
+50 b
+20
+–
+20
+0.18 b
+Poisson’s ratio (in plane)
+20
+Poisson’s ratio (through thickness)
+–
+0.18 a,b
+15
+1000
+15
+Thermal conductivity (in plane) (W/m K)
+20
+Thermal conductivity (through thickness) (W/m K)
+132
+15
+800
+7.6
+15
+7.5
+1000
+15
+20
+Thermal expansion coefﬁcient (in plane) ×10−6 K−1
+4
+4
+20
+–
+2.5 b
+Thermal expansion coefﬁcient (through thickness) ×10−6
+K−1
+a Value not available; same value has been assumed for in-plane and through thicknesses.
+b Corresponding value for the 2D composite.
+obtained with 90% enrichment. A rough 3D es-
+timation would give a TBR of 1.17. Also, a
+detailed distribution of the power density depo-
+sition has been obtained that will serve as a
+source in the thermo-mechanical calculations.
+2.2.4. Thermo-mechanical analyses
+This section summarizes the main results of
+the recent thermo-mechanical analyses, which
+focused on the outboard blanket in the mid-
+plane region where the thermal conditions are
+the most severe. The analyses were performed
+with CASTEM2000 [14,15] using the properties of
+Cerasep® N3-1 shown in Table 1. The evaluated
+maximum surface heat ﬂux has been assumed
+along the whole sub-module height. The results
+are obtained by using a non-linear mechanical
+model that simulates the non-linear stress–strain
+relation and the TAURO design criteria pre-
+sented in Section 3.4. The Von Mises stress is
+also
+reported
+for
+comparison
+with
+previous
+analyses.
+Assuming two modules cooled in series, a sur-
+face heat ﬂux of 0.5 MW/m2, an inlet tempera-
+ture of 750°C, a Pb–17Li velocity in the ﬁrst
+layer of 1.3 m/s, a ﬁrst wall thickness of 6 mm,
+a module width of 0.3 m and a module height
+of 2 m, the coolant outlet temperature is around
+860°C. The highest stresses appear on the ﬁrst
+wall. The TAURO criterion for plane stresses is
+0.93 (below the limit of 1), the maximum nor-
+mal stress through the ﬁrst wall thickness is 63
+MPa, and the maximum shear stress is 30 MPa.
+The maximum tensile stress in plane (evaluated
+with the Von Mises criterion) is 125 MPa. The
+module expands about 3 mm in the poloidal
+direction. The maximum SiCf/SiC temperature is
+about 1050°C.
+2.2.5. TAURO blanket thermo-mechanical limits
+An estimation has been performed of the
+TAURO blanket performance with higher sur-
+face heat ﬂux and correspondingly higher neu-
+tron wall load. Increased power densities are
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+60
+Fig. 2. Maximum temperature in the TAURO ﬁrst wall as a function of surface heat ﬂux for different ﬁrst wall thicknesses, . The
+Pb–17Li temperature rise as a function of surface heat ﬂux is also shown. (Module height, width=2, 0.3 m; Pb–17Li inlet
+temperature, pressure, velocity=750°C, 1.5 MPa, 1.3 m/s; SiCf/SiC thermal conductivity=15 W/m K).
+expected to yield reduced electricity costs and a
+more economically attractive power reactor. Figs.
+2 and 3 show the evolution of maximum tempera-
+ture and stress as the power deposition increases.
+For a module height of 2 m, a ﬁrst wall thickness
+of 6 mm, and an inlet temperature of 750°C, the
+maximum temperature design limit is reached at
+0.69 MW/m2, corresponding to a neutron wall load
+of 2.8 MW/m2. The maximum tensile stress in plane
+in the ﬁrst wall is reached at a surface heat ﬂux of
+0.80 MW/m2.
+The reduction of the ﬁrst wall thickness, and of
+the module height promote higher surface heat ﬂux
+and a neutron wall load of 3–4 MW/m2 can be
+envisaged (see Table 2). This evaluation gives an
+idea of the sensitivity of the design to possible
+improvements of the calculation models and/or to
+an increase of the acceptable stress limits. For the
+TAURO blanket, the coolant temperature does not
+affect the stress limit when increasing the surface
+heat ﬂux. This suggests that, under the conditions
+considered here, high power densities are, in prin-
+ciple, favorable for higher conversion efﬁciencies
+[4].
+2.2.6. Impact of thermal conductiity
+The thermal conductivity is the major issue for
+this structural material because it affects the blan-
+ket temperature distribution (maximum SiCf/SiC
+temperature and outlet Pb–17Li temperature), and
+the cycle efﬁciency. If the transverse thermal con-
+ductivity is increased to 20 W/m K, the maximum
+acceptable surface heat ﬂux for the TAURO blan-
+ket would increase by approximately 12%. The
+increased demand for improvement of the SiCf/SiC
+characteristics suggests that a value of the surface
+heat ﬂux of 0.7–0.8 MW/m2 is probably a compro-
+mise. On the other hand, a higher thermal conduc-
+tivity promotes the heat exchange between the ﬁrst
+wall and the Pb–17Li, and reduces the maximum
+SiCf/SiC temperature. The double consequences
+are the possibility to increase the height of the
+Fig. 3. Maximum stress in the TAURO ﬁrst wall as a function
+of surface heat ﬂux for different ﬁrst wall thicknesses, .
+(Module height, width=2, 0.3 m; Pb–17Li inlet temperature,
+pressure, velocity=750°C, 1.5 MPa, 1.3 m/s; SiCf/SiC thermal
+conductivity=15 W/m K).
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+61
+Table 2
+Performances of the TAURO blanket for different module lengths and ﬁrst wall thicknessesa
+2
+Module length (m)
+1
+2
+1
+3
+6
+6
+3
+First wall thickness (mm)
+0.8
+Maximum allowable surface heat ﬂux based on stress limit (MW/m2)
+0.98
+0.82
+1.01
+0.69
+Maximum allowable surface heat ﬂux based on temperature limit (MW/m2)
+0.98
+0.8
+1.0
+3.9
+3.2
+2.8
+4.0
+Corresponding neutron wall load (MW/m2)
+a With Pb–17Li inlet temperature, pressure and velocity of 750°C, 1.5 MPa and 1.3 m/s, respectively.
+module and the outlet temperature of the Pb–
+17Li within the stress limits for SiCf/SiC. An
+extreme case — assuming a thermal conductivity
+of 20 W/m K, a thickness of 6 mm, and a height
+of 3 m — has showed the possibility to increase
+the outlet temperature up to 940°C without ex-
+ceeding the maximum temperature and the stress
+limits for SiCf/SiC. The conversion efﬁciency
+could be increased correspondingly to 50%.
+2.2.7. External circuits and components
+The TAURO blanket could be associated with
+an external primary circuit for power conversion
+and tritium recovery. The primary circuit consists
+of several parallel circuits, each of them conveying
+about 600 MW of thermal power. Its principal
+components are a heat exchanger, a tritium ex-
+traction unit and, of course, a Pb–17Li pump.
+The tritium extraction unit could be a gas/Pb–
+17Li contactor in a by-pass conﬁguration, com-
+mon for all the Pb–17Li circuits and treating a
+relatively small Pb–17Li ﬂow-rate (depending on
+the tolerable tritium concentration in the Pb–
+17Li).
+At present, a Brayton cycle using helium is
+foreseen for power conversion, which eliminates
+the potential risk of Pb–17Li/water interaction
+although it requires Pb–17Li/helium heat ex-
+changers, the technology for which is yet to be
+developed [15,16]. The helium pressure should be
+high to minimize pressure drop and component
+sizes. A rupture disk in the Pb–17Li circuit close
+to the heat exchanger and a discharge vessel will
+be required to protect the blanket from accidental
+pressurization in case of heat exchanger failure.
+When assuming TAURO coolant inlet/outlet tem-
+peratures of 450/860°C, the power conversion efﬁ-
+ciency would theoretically attain 60%. However,
+when including the estimated loss due to the
+various components, the conversion efﬁciency is
+47%.
+Such a conversion efﬁciency could be increased
+up to 50% if the Pb–17Li inlet temperature is
+increased to 650°C or the outlet temperature to
+1000°C. Therefore, the precise determination of
+the global blanket system efﬁciency depends on an
+optimization between blanket module arrange-
+ment, pressure drop, Pb–17Li heat-up and power
+conversion.
+2.3. DREAM power core
+Much of the difﬁculty associated with the
+maintenance of tokamak systems arises from the
+conﬁguration complexity and material radioactiv-
+ity. The DREAM (DRastically EAsy Mainte-
+nance) power plant has been conceived to mitigate
+this difﬁculty by considering a torus conﬁguration
+with a high aspect ratio of 8 and a low-activation
+structural material (SiCf/SiC composite) [6,17–
+19]. The torus system is divided radially into equal
+sectors and each sector forms an assembling unit.
+All the piping and feeder systems are extracted to
+the spacious torus central region. The maximum
+toroidal ﬁeld strength of 20 T and the plasma
+major and minor radii of 16 and 2 m lead to a
+high fusion power of 5.5 GW under moderate
+physical constraints such as a non-reversed shear
+proﬁle with a MHD safety factor of 3, a Troyon
+factor of 3 for the beta limit and an energy
+conﬁnement time enhancement factor of 2. The
+average neutron wall load is 2.5 MW/m2. Surface
+heat loads on the blanket ﬁrst wall and the diver-
+tor plate are estimated to be about 0.5 and 5
+MW/m2, respectively.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+62
+The power core is divided into 16 sectors cor-
+responding to the l6 TF coils. Each sector has
+its own horizontal maintenance port, allowing
+replacement of the entire sector without opening
+the cryostat or disassembling other components
+such as the coil system. Details of the mainte-
+nance procedure can be found in Refs. [6,17–
+19].
+2.3.1. Blanket system
+2.3.1.1. Blanket module conﬁguration. Each blan-
+ket sector is divided into 16 sub-sectors (rings)
+in the toroidal direction. The blanket modules
+are connected by bolts to the cooling rings,
+which also function as support structures. The
+toroidal dimension of the blanket modules is
+kept under 500 mm based on considerations of
+fabricability and maintainability. Their poloidal
+and radial dimensions are 500 and 650 mm, re-
+spectively.
+A typical blanket module is shown in Fig. 4.
+It consists of a ﬁrst wall zone, a tritium breed-
+ing zone and a high-temperature shielding zone.
+The wall of the module has cooling paths in it.
+Neutron multiplier material (Be), tritium breed-
+ing material (Li2O or other lithium ceramics)
+and shielding material (SiC) are packed in the
+module as small size pebbles of diameter 1 mm
+for Be and Li2O, and 10 mm for SiC. The He
+coolant supplied from the inlet pipe of the cool-
+ing ring ﬁrst ﬂows through the side wall and
+ﬁrst wall channels. It then ﬂows into the module
+through the porous partition wall and cools the
+blanket internals before exiting through the out-
+let pipe of the ring. The ﬁrst wall region is a
+15-mm thick double wall structure consisting of
+a 4-mm plasma side wall and an 8-mm inner
+wall between which are located 3 mm×10 mm
+rectangular cooling channels.
+The blanket module is fabricated by the unit-
+forming method, which is illustrated in Fig. 5
+and described in more detail in Refs. [6,17–19].
+The SiCf/SiC composite must be treated to get a
+high density. There are two methods to form a
+ceramic matrix directly from gaseous raw mate-
+rials:
+chemical
+vapor
+deposition
+(CVD)
+and
+chemical vapor inﬁltration (CVI). The CVI pro-
+cess is assumed here based on its advantages of
+no pressurization, close adherence between ﬁber
+and matrix, and possibility of complex shaping,
+although it is recognized that there is less expe-
+rience in applying this process and that its treat-
+ment time is longer.
+2.3.1.2. Blanket analysis. A thermo-mechanical
+analysis of the SiCf/SiC ﬁrst wall during normal
+operation was performed based on the following
+parameters:
+nuclear heating rate: 16.5 MW/m3
+surface heat load: 0.5 MW/m2
+heat transfer coefﬁcient: 6000 W/m2 K
+blanket He inlet and outlet temperatures: 600
+and 900°C
+ﬁrst wall He average temperature: 700°C
+coolant pressure: 10 MPa
+The properties of the SiCf/SiC composite used
+in the analysis are summarized in Table 3. In the
+absence of conﬁrmed thermal conductivity values
+of high quality SiCf/SiC under irradiation, two
+values were assumed in the analysis: 15 W/m K as
+a reference case and 60 W/m K as an optimistic
+one. The temperature proﬁles and stress distribu-
+tions in the ﬁrst wall are shown in Fig. 6(A) and
+(B) for thermal conductivities of 15 and 60 W/
+Fig. 4. Schematic of DREAM blanket module (pebble diame-
+ter () dimension in mm).
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+63
+Fig. 5. Manufacturing process of DREAM blanket module.
+m K, respectively. The corresponding maximum
+temperatures are 954 and 823°C, which are lower
+than the operating temperature limit (1100°C)
+assumed in this study. The stress distributions are
+shown as the Tresca stresses due to the internal
+pressure (10 MPa) and the temperature gradients.
+The maximum values are 137 and 75.4 MPa for
+thermal conductivities of 15 and 60 W/m K, re-
+spectively. These values are also well below the
+allowable stress limit (200 MPa) assumed in this
+study.
+The pressure drop in the pebble bed blanket
+region was estimated using Ergun’s equation and
+the ﬁlm temperature difference between the he-
+lium coolant and the Li2O pebbles was estimated
+by Shirai’s equation [6,17–19]. Connecting more
+than one blanket module in series results in a
+higher He velocity and somewhat better heat
+transfer. However, the corresponding pressure
+drop becomes unacceptably high and fully parallel
+ﬂow between blanket modules was selected for the
+design. The following limits were used to select
+the design parameters: the maximum SiCf/SiC
+temperature at the plasma side Ta1100°C, the
+maximum temperature of the breeder pebble
+Tb1000°C and the net thermal efﬁciency 
+45%. The design window under the reference de-
+sign parameters is shown in Fig. 7.
+2.3.2. Diertor system
+2.3.2.1. Diertor conﬁguration. The divertor sys-
+tem consists of two principal parts: the target
+plates and the structures. The target plates include
+three pieces: inner, outer and ‘dome’ plates. The
+plasma ﬂows through the scrape-off layer and
+enters the divertor where enhanced line radiation
+from injected neon impurity allows much of the
+power to be distributed along the plates and also
+Table 3
+Material
+properties
+of
+SiCf/SiC
+composite
+assumed
+for
+DREAM design and analysis (including neutron irradiation
+effects)
+Parameter
+Speciﬁcation
+Thermal conductivity
+Reference case
+15 W/m-K
+Optimistic case
+60 W/m-K
+Speciﬁc heat
+1200 J/kg-K
+Density
+2500 kg/m3
+200 GPa
+Young’s modulus
+0.2
+Poisson’s ratio
+300 MPa
+Tensile strength
+200 MPa
+Allowable stress (=2/3×ultimate
+strength)
+Thermal expansion coefﬁcient
+3.3×10−6 K−1
+1100°C
+Maximum allowable temperature
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+64
+Fig. 6. Temperature proﬁles and stress distributions in DREAM blanket ﬁrst W wall for SiCf/SiC thermal conductivities of: (A) 15
+W/m K; and (B) 60 W/m K.
+partially redirected out to the ﬁrst wall. A perme-
+ation wall is provided to prevent a back ﬂow of
+neutral gas and impurity into the main plasma. It
+also promotes recycling of neutral particles. The
+dome is installed near the X-point along the
+scrape-off-layer (SOL). It prevents impurity parti-
+cles generated at the divertor plate from invading
+the X-point zone. The bafﬂe plate is provided at
+the inlet of the divertor area, i.e. below the blan-
+ket. It prevents a backﬂow of neutral particles
+into the main plasma. The bafﬂe plate surface is
+coated with 2-mm thick tungsten (W) and the
+divertor plate surface with 2-mm thick CVD-SiC.
+Fig. 8 shows the overall divertor conﬁguration.
+The major design parameters of the divertor
+system are listed in Table 4. The He coolant is fed
+through a double-walled pipe. Comb-shaped ex-
+haust ports are installed, facing the inner and
+outer strike points and work as the permeation
+wall. Coolant paths are provided in the teeth of
+the comb. The surface of the divertor plates is
+coated with 2-mm thick tungsten for the bafﬂe
+plate and with 2-mm thick CVD-SiC for the
+divertor. Small 3 mm×3 mm coolant channels
+are provided at the front to accommodate the
+surface heat ﬂux. Larger channels are used at the
+back where the heat load is lower in order to
+Fig. 7. Design window for DREAM blanket ﬁrst wall.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+65
+Fig. 8. DREAM divertor conﬁguration.
+1100°C for a divertor surface heat ﬂux of 3
+MW/m2 and an average helium coolant tempera-
+ture of 700°C. This led to the selection of a
+coolant velocity of 110 m/s. The corresponding
+pressure drop is about 300 kPa/m, which results
+in a total pressure drop in the divertor system of
+1 MPa.
+A thermo-mechanical analysis of the divertor
+plate during under normal operation was per-
+formed for the following operating conditions:
+nuclear heating rate: 10 MW/m3 for SiCf/SiC
+and 20 MW/m3 for W
+surface heat ﬂux: 3 and 5 MW/m2
+coolant temperature: 700°C
+heat transfer coefﬁcient: 10 kW/m2 K
+coolant pressure: 10 MPa
+The properties of the SiCf/SiC composite used
+in this calculation are listed in Table 4. The
+optimistic thermal conductivity value of 60 W/m-
+K was assumed for the SiCf/SiC. For the 2-mm
+W armor zone, the following properties were
+used, considering the reduced self-binding force
+due to castellation:
+thermal conductivity: 121 W/m K
+Young’s modulus: 100 GPa
+Poisson’s ratio: 0.2
+thermal expansion coefﬁcient: 3.3×10−6 K−1
+The temperature proﬁles and the stress distri-
+butions in the divertor plate are shown in Fig.
+9(A) and (B) for surface heat ﬂuxes of 3 and 5
+W/m2, respectively. The corresponding maximum
+W temperatures are 1061 and 1297°C, respec-
+tively. The corresponding maximum stresses at
+the W and SiCf/SiC interface are 152.4 and 251.7
+MPa, respectively. In spite of the optimistic ther-
+mal conductivity value of 60 W/m K assumed for
+SiCf/SiC, both the SiCf/SiC maximum tempera-
+ture and the stress for the 5 MW/m2 case exceed
+the allowable values of 1100°C and 200 MPa,
+respectively. If a thermal conductivity of 15 W/
+m K is assumed, the surface heat ﬂux is limited
+to 1 MW/m2 in order to accommodate those
+limits. Thus, within the currently attainable mate-
+rial performance of the SiCf/SiC composite, it is
+very difﬁcult to ﬁnd an engineering solution satis-
+fying the material limits. The choice is clear for
+the
+use
+of
+SiCf/SiC
+in
+this
+case:
+either
+to
+minimize the pressure losses. The divertor He
+inlet/outlet temperatures are 600/800°C to main-
+tain the maximum SiC temperature 1100°C.
+The coolant is then directed to the high-tempera-
+ture shield, where its temperature is raised to
+900°C.
+3.2.2. Analysis of diertor plate. A heat transfer
+coefﬁcient of 10 kW/m2 K is required to maintain
+the 2-mm thick SiC wall maximum temperature
+Table 4
+Major speciﬁcations of DREAM divertor system
+Design parameters
+Items
+Type
+Slot-type gaseous divertor
+Max. surface heat load:
+Reference case
+5 MW/m2
+Optimistic case
+3 MW/m2
+Incident particle energy
+30 eV
+SiCf/SiC composite
+Structural material
+Thermal conductivity
+60 W/m K
+200 MPa
+Allowable stress
+Surface coating material:
+Divertor plate
+CVD SiC
+Bafﬂe plate
+CVD/LPS W
+Coating thickness
+2 mm
+Coolant:
+Helium gas
+Pressure
+10 MPa
+Inlet/Outlet temperature
+600/800°C
+(Reheated in the high temp.
+shield to 800°C)
+Maximum coolant velocity
+110 m/s
+1 MPa
+Total pressure loss
+1100°C
+Maximum wall temperature
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+66
+Fig. 9. Temperature proﬁles and stress distributions in DREAM divertor plasma-facing wall for surface heat ﬂuxes of: (A) 3
+MW/m2; and (B) 5 MW/m2.
+develop materials having a much higher perfor-
+mance or to reduce the divertor load require-
+ments.
+2.3.2.3. Sputtering erosion. An analysis of diver-
+tor sputtering erosion was done. Details of the
+analysis and of its basis can be found in Refs.
+[6,17–23]. Here, a summary of the major results
+and observations is provided.
+1. The sputtering threshold energy of SiC is
+about 25 eV. It is not necessary to consider
+self-sputtering because the threshold energy of
+self-sputtering is large and the self-sputtering
+yield for a low-Z material does not exceed
+unity. The analysis results indicate that the
+erosion rate of SiC increases rapidly when the
+incident particle energy exceeds 30 eV, and a
+practical design is not possible.
+2. The threshold energy for W is higher than 145
+eV but self-sputtering may be critical as the
+threshold energy for W self-sputtering is low,
+90 eV, and the self-sputtering yield for a high-
+Z material exceeds unity. The analysis results
+conﬁrm this, showing very small sputtering
+erosion of W by D, T and He up to 200 eV.
+Self-sputtering is the critical limiting condition
+(89 eV) in this case.
+In the DREAM design, the following divertor
+wall design was adopted based on the above
+observations:
+incident
+particle
+energy,
+Ei30
+eV:
+SiC
+coated wall
+incident particle energy, 30 eVEi89 eV:
+SiC wall coated with W
+incident particle energy, Ei89 eV: no practi-
+cal design solution found
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+67
+Though the divertor plasma conditions are not
+sufﬁciently clear in the current DREAM design it
+is assumed that the incident particle energy does
+not exceed the threshold energy of SiC at the
+divertor plate, and does not exceed the threshold
+energy of W at the bafﬂe plate.
+2.4. ARIES-AT
+The ARIES-AT power core (shown in Fig. 10)
+has been developed with the overall objective of
+achieving high performance while maintaining at-
+tractive safety features, simple design geometry,
+credible maintenance and fabrication processes,
+and reasonable design margins as indications of
+reliability [7,24]. The design is based on Pb–17Li
+as breeder and coolant and a SiCf/SiC composite
+as structural material. The Pb–17Li ﬁrst ﬂows
+through the divertor, which is designed to accom-
+modate a 5 MW/m2 peak heat ﬂux, and then
+through the blanket. To minimize waste and to
+decrease the cost, the blanket is subdivided radi-
+ally into two regions: a replaceable ﬁrst zone (in
+the inboard and outboard) and a life-of-plant
+second zone (in the outboard).
+2.4.1. Power cycle
+The Brayton cycle offers the best near-term
+possibility of power conversion with high efﬁ-
+ciency. It is chosen to maximize the potential gain
+from high temperature operation of the Pb–17Li,
+which after exiting the blanket is routed through a
+heat exchanger with He as secondary ﬂuid [25].
+The Brayton cycle considered is shown in Fig. 11.
+It includes three-stage compression with two in-
+tercoolers and a high efﬁciency recuperator. Its
+main parameters are set under the assumption of
+state of the art components and/or with modest
+and reasonable extrapolation and are as follows:
+ lowest
+He
+temperature
+in
+the
+cycle
+(heat
+sink)=35°C
+ turbine efﬁciency=93%
+ compressor efﬁciency=90%
+ recuperator effectiveness=96%
+ He fractional pressure drop in out-of-vessel
+cycle=0.025
+The maximum He cycle temperature is 1050°C,
+resulting in a high cycle efﬁciency of about 58.5%.
+2.4.2. Blanket
+As illustrated in Figs. 12 and 13, the blanket
+design is modular and consists of a simple annular
+box through which the Pb–17Li ﬂows in two
+poloidal passes. The ﬁrst pass is a high-velocity
+ﬂow through the annular channel region keeping
+the box walls cooled. The coolant then turns and
+ﬂows very slowly as a second pass through the
+large inner channel from which the Pb–17Li exits
+at a high temperature. This ﬂow scheme enables
+operating Pb–17Li at a high outlet temperature
+(1100°C) while maintaining the SiCf/SiC com-
+posite and the SiC/PbLi interface at a lower tem-
+perature (about 1000°C).
+The SiCf/SiC parameters and properties used in
+the analysis are consistent with the suggestion
+from the January 2000 International Town Meet-
+ing on SiCf/SiC Design and Material Issues for
+Fusion Systems [26] and are summarized in Table
+5. Even though the SiCf/SiC provides for insulat-
+ing the walls, thereby minimizing MHD effects,
+Fig. 10. ARIES-AT power core (radial dimension in m).
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+68
+Fig. 11. Brayton cycle assumed for ARIES-AT power plant.
+the
+thermal
+analysis
+conservatively
+assumes
+MHD-laminared ﬂow of Pb–17Li in the blanket
+and heat transfer by conduction only.
+The temperature proﬁle through the blanket
+has been estimated by a 2D moving coordinate
+analysis following the Pb–17Li ﬂow through the
+ﬁrst-pass annular wall channel and then through
+the second-pass large inner channel. The annular
+wall rib spacing is used as MHD ﬂow control to
+promote a higher ﬂow rate through the ﬁrst wall
+(with larger toroidal spacing) than through the
+side and back wall. For example, for the ﬁrst
+outboard blanket region shown in Fig. 12, having
+three channels in the ﬁrst wall and 13 in the back
+wall allows for a high velocity of 4.2 m/s in the
+ﬁrst wall channels and a lower velocity of 0.66
+m/s in the back wall channel for the same MHD
+pressure drop. The second poloidal pass of the
+Pb–17Li through the large inner channel is much
+slower, with an average velocity of 0.11 m/s.
+Fig. 14 illustrates the results for the parameters
+shown in Table 6. The maximum CVD-SiC tem-
+perature at the ﬁrst wall (radial distance=0) is
+1009°C, the maximum SiCf/SiC temperature is
+996°C, and the maximum SiC/Pb–17Li interface
+temperature at the inner channel wall is 994°C. In
+this regard, and as discussed in Section 3.3, the
+chemical compatibility of Pb–17Li and SiC at
+high temperature is an area in need of R&D since
+only one experimental datum exists in the open
+literature for SiC (of unspeciﬁed purity) exposed
+to static Pb–17Li at 800°C for over 1500 h.
+In addition to the illustrative thermal analysis
+described above, detailed structural, neutronics
+and safety design analyses of the blanket have
+been performed and can be found in Refs.
+[7,24,27–29]. Some of the main design features
+and
+performance
+parameters
+are
+highlighted
+below.
+1. A 3D neutronics analysis yields a tritium
+breeding ratio of 1.1.
+2. The 0.5-cm module side walls are pressure
+balanced except for the two walls at each end
+of a segment. These walls are thicker (about 2
+cm) to accommodate the Pb–17Li pressure of
+1 MPa.
+3. The
+maximum
+SiCf/SiC
+pressure+thermal
+stress is well within 190 MPa in the ﬁrst wall
+as well as in the separation wall.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+69
+4. The Pb–17Li pressure drop through the blan-
+ket is about 0.24 MPa.
+5. Safety analyses show that the low decay heat
+of SiC enables accommodation of any LOCA
+or LOFA scenarios without serious conse-
+quences to the blanket structure.
+6. Maintenance methods have been investigated
+that allow for end-of-life replacement of indi-
+vidual components.
+7. The 0.5-cm module side walls are pressure
+balanced except for the two walls at each end
+of a segment. These walls are thicker (about
+2cm) to accommodate the Pb–17Li pressure of
+1 MPa.
+8. An annular Pb–17Li coolant piping is used to
+service the blanket, with the lower temperature
+inlet ﬂow in the annular channel and the
+higher temperature outlet ﬂow in the inner
+channel. In this way any effect of the high
+SiC/Pb–17Li interface temperature on the in-
+ner channel wall would only result in a leak to
+the annular channel, which is tolerable. How-
+ever, the structural integrity of the conﬁgura-
+tion would be ensured by the low temperature
+outer channel.
+9. The fabrication scheme proposed for the blan-
+ket only three radial/toroidal coolant-contain-
+ment brazes per module, as illustrated by the
+following fabrication steps for an outboard
+segment consisting of six modules:
+ Manufacturing separate halves of the SiCf/
+SiC poloidal module by SiCf weaving and
+SiC CVI or polymer processes;
+ Sliding each half module over the free-ﬂoat-
+ing inner separation wall;
+ Brazing the two half modules together at
+the mid-plane;
+ Brazing the module end cap at the upper
+poloidal end;
+ Forming a segment by brazing six modules
+together (this is a bond that is not in con-
+tact with the coolant); and
+ Brazing the annular manifold connections
+to the lower poloidal end of the segment.
+2.4.3. Diertor
+Pb–17Li has a relatively low thermal conduc-
+tivity and tends to offer limited heat removal
+performances, in particular in the presence of a
+magnetic ﬁeld. In order to accommodate MHD
+effects, the proposed design:
+ minimizes the interaction parameter (1),
+which represents the ratio of MHD to inertial
+forces;
+Fig. 12. Mid-plane cross section of ARIES-AT outboard blanket modules (radial dimension in m).
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+70
+Fig. 13. Cross section of an outboard ARIES-AT blanket
+module (all dimensions in cm).
+Table 5
+Suggested SiCf/SiC parameters and properties for design anal-
+ysis of SiCf/SiC-based power plants for the long term (20–30
+years in the future, or more)a
+Key SiC/SiC properties and parameters
+Suggested value
+Density
+3000 kg/m3
+Porosity
+5%
+200–300 GPa
+Young’s modulus
+0.16–0.18
+Poisson’s ratio
+4×10−6 K−1
+Thermal expansion coefﬁcient
+20 W/m-K
+Thermal conductivity in plane
+Thermal conductivity through thickness
+20 W/m-K
+Maximum allowable combined stress
+190 MPa
+Max. allowable temperature (swelling
+1000°C
+basis)
+1000°C
+Maximum allowable SiC/LiPb interface
+temperature
+Min. allowable temperature (thermal
+600°C
+conductivity basis)
+Design
+Max. allowable SiC burnup or other
+lifetime parameter
+dependent
+$400/kg
+Cost
+a From the January 2000 International Town Meeting on
+SiCf/SiC Design and Material Issues for Fusion Systems [26].
+inertial with an interaction parameter 1. The
+Pb–17Li then ﬂows toroidally to cool the high
+heat ﬂux region through a very short ﬂow path (2
+cm). It is then routed back to the other side of the
+ directs the ﬂow in the high heat ﬂux region
+parallel to the toroidal magnetic ﬁeld;
+ minimizes the Pb–17Li ﬂow path and residence
+time in the high heat ﬂux region.
+The design is illustrated in Fig. 15, which shows
+a cross section of a divertor plate. It consists of a
+number of 2 cm×2.5 cm SiCf/SiC poloidal chan-
+nels. The front SiCf/SiC wall is very thin (0.5 mm)
+in order to maintain the maximum temperature
+and combined stress limits to 1000°C and 
+190 MPa, respectively. A 3.5-mm plasma-facing
+layer of W is bonded to the thin SiCf/SiC to
+provide additional structure to accommodate the
+1.8-MPa Pb–17Li pressure and to provide sacriﬁ-
+cial armor (about 1 mm).
+In each channel a T-shaped ﬂow separator is
+inserted. The Pb–17Li ﬂows poloidally through
+one half of the channel, which acts as an inlet
+header. The ﬂow is then forced to the plasma-fac-
+ing region through small holes at one side of the
+channel. The ﬂow through these small holes is
+Fig. 14. 2D moving coordinate thermal analysis of Pb–17Li
+ﬂow through an outboard blanket module.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+71
+Table 6
+ARIES-AT outboard blanket parameters assumed for the
+thermal analysis
+Geometry from plasma side:
+CVD SiC thickness
+1 mm
+4 mm
+SiCf/SiC thickness
+SiCf/SiC thermal conductivity
+20 W/m-K
+4 mm
+LiPb channel thickness
+5 mm
+SiCf/SiC separation wall thickness
+SiCf/SiC separation wall thermal
+6 W/m-K
+conductivity
+Pb–17Li parameters
+4.2 m/s
+Pb–17Li velocity in ﬁrst wall channel
+Pb–17Li velocity in inner channel
+0.11 m/s
+764°C
+Pb–17Li inlet temperature
+Heat load conditions
+Refs. [27,28]
+Poloidal neutron wall load and plasma
+heat ﬂux proﬁles used as input
+(assuming no radiation from divertor)
+Fig. 16. Temperature distribution in outer divertor plasma-fac-
+ing channel assuming MHD-laminarized Pb–17Li ﬂow.
+toroidal channel. Fig. 16 shows the typical results
+for a case with an inlet Pb–17Li temperature of
+653°C, a W thickness of 3 mm, a SiCf/SiC ﬁrst
+wall thickness of 0.5 mm, a Pb–17Li toroidal
+channel thickness of 2 mm, a SiCf/SiC inner wall
+thickness of 0.5 mm, a Pb–17Li velocity of 0.35
+m/s and a surface heat ﬂux of 5 MW/m2. The
+maximum W temperature is about 1150°C, and
+the
+maximum
+SiCf/SiC
+temperature
+is
+about
+950°C.
+The resulting Pb–17Li pressure drop through
+the divertor based on the proposed ﬂow conﬁgu-
+poloidal channel serving as an outlet header. The
+Pb–17Li velocity through the toroidal plasma-
+facing channel can be adjusted by changing the
+dimension of this channel or by increasing the
+number of toroidal passes through a plate. The
+reference design uses a 2-mm channel and a 2-pass
+ﬂow, resulting in a 0.35 m/s velocity in the
+toroidal channel and a 0.06 s residence time.
+The 2D moving coordinate method was used
+for the ﬂow analysis under the conservative as-
+sumption
+of
+MHD-laminarized
+ﬂow
+in
+the
+Fig. 15. Cross section of outer divertor plate (all dimensions in cm).
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+72
+ration is estimated at about 0.7 MPa. This is
+signiﬁcantly larger than the blanket pressure drop.
+To minimize pressure stresses in the piping and
+blanket system, the Pb–17Li in the inlet manifold
+is kept at 1.1 MPa. The Pb–17Li is then pressur-
+ized to 1.8 MPa just before ﬂowing though the
+divertor by means of an E–M pump making use
+of the existing toroidal magnetic ﬁeld. The outlet
+ﬂow from the divertor then rejoins the blanket
+inlet manifold at about 1.1 MPa.
+The divertor fabrication scheme also aims at
+minimizing brazing and can be summarized as
+follows:
+1. manufacture separate SiCf/SiC toroidal halves
+of the divertor plate by SiCf weaving and SiC
+CVI or polymer processes; maintain constant
+channel toroidal dimensions but tapered side
+wall thicknesses to account for torus geometry;
+2. insert the inner SiCf/SiC separation wall in
+each divertor channel;
+3. braze the two toroidal halves of the divertor
+plate together;
+4. braze the end cap and manifold on each end;
+5. bond the W layer to the SiCf/SiC front wall by
+plasma spray.
+3. Material status
+The materials research program attempts to
+develop and improve candidate materials with
+prospects to fulﬁll the design requirements laid
+out in conceptual design studies. It provides prop-
+erty data both for the existing state-of-the art
+materials as well as reasonable extrapolations for
+the time frame in which fusion energy is expected
+to enter the marketplace. The key material devel-
+opment tasks include: development of fabrication
+and joining techniques for high quality and per-
+formance SiCf/SiC; establishment of base proper-
+ties; determination of irradiated properties; and
+determination of stress and temperature limits
+and material lifetime.
+The current trend in SiCf/SiC composite devel-
+opment is to improve stoichiometry both with the
+ﬁber and the matrix. Chemical vapor inﬁltration
+produces a stoichiometric, crystalline -SiC ma-
+trix material. A similar matrix can be produced
+with the polymer impregnation & pyrolysis (PIP)
+process but this requires that the ﬁbers have the
+thermal stability to withstand the high-tempera-
+ture pyrolysis process needed to convert the poly-
+mer to crystalline -SiC. As matured products,
+the
+newer
+ﬁbers
+such
+as
+Tyranno-SA®,
+Hi-
+Nicalon®-S and MER corporation ﬁber [26] are
+expected to have the needed thermal stability so
+that SiCf/SiC composites with these ﬁbers and a
+PIP matrix is a possibility. Other processes in-
+clude chemical vapor reaction (CVR), reaction
+sintering (RS) and combined processing. At this
+stage, it is not clear which is the most attractive
+based on performance and cost, but they should
+be prioritized, given the limited R&D resources.
+The interface materials used to provide the
+desired bonding between the ﬁbers and matrix
+include C, SiC and BN. C, SiC and C/SiC inter-
+faces are being developed and evaluated for their
+radiation and chemical stability in fusion environ-
+ments, while BN does not look attractive because
+of the helium generation from the B.
+Although a 3D architecture is preferred for
+fusion applications, it is not the focus of current
+development and experimental work mostly due
+to the difﬁculty of inﬁltration in a conventional
+architecture to provide low porosity. However,
+SNECMA’s experience indicates that low porosity
+can be achieved (5%) by non-orthogonal 3D
+weaving for enhanced inﬁltration (by chemical
+vapor inﬁltration, CVI) [26]. If required for her-
+meticity reasons, the porosity can also be lowered
+by subsequent melt inﬁltration (having no struc-
+tural function). The use of new 3D SiCf/SiC com-
+posites with a higher resistance to inter-laminar
+shear stresses is very attractive and is described in
+more detail in the next section.
+A variety of methods can be applied for joining
+SiCf/SiC to SiCf/SiC, including reaction bonding/
+sintering, polymer-based methods, brazing, stitch-
+ing and mechanical joints. However, the R&D is
+still in an early stage in this area and much
+remains to be done to develop reliable and practi-
+cal joining techniques, as described in the next
+section.
+Cost is a key criterion when considering SiCf/
+SiC in fusion applications. By analogy with the
+evolution of the price of carbon ﬁber composites,
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+73
+which has decreased substantially over the last 10
+to 15 years, a Japanese study indicates that about
+one order of magnitude reduction in cost could be
+achieved with large-scale production of SiCf/SiC
+[26]. This assumes a large market for SiCf/SiC and
+a production process beneﬁting from the economy
+of scale. In this sense, among currently available
+advanced ﬁbers, Tyranno-SA would beneﬁt much
+more
+from
+this
+economy
+of
+scale
+than
+Hi-
+Nicalon, for example. Based on current cost, it
+seems reasonable to use $400 per kg of SiCf/SiC
+for power plant studies, given a lead time of 20
+years for development.
+Since the cost of the ﬁbers represents about
+50% of the total cost, a lower-cost manufacturing
+technique is to start with a cheaper carbon ﬁber
+and to transform it into a SiCf/SiC composite
+through CVR. This is being investigated by MER
+[26]. Such an approach could reduce the SiCf/SiC
+cost to about $100 per kg or less. A key issue is
+the completeness of the conversion process and
+the closeness of the ﬁnal product to stoichiometry
+since this would greatly impact the performance
+and properties of the ﬁnal product.
+3.1. Fabrication and joining
+It is difﬁcult to manufacture a complicated
+blanket shape (curved parts, stiffeners) with tradi-
+tional 2D SiCf/SiC processes due to delamination
+problems. As a consequence, the use of new 3D
+SiCf/SiC composites with a higher resistance to
+inter-laminar shear stresses seems inevitable. The
+Cerasep® N3-1 produced by SNECMA by CVI
+uses Nicalon® NL207 ﬁbers. This composite is
+based on an advanced texture called GUIPEX®, a
+multilayer 3D texture [9] in which a third texture
+direction, created by linking layers during weav-
+ing, minimizes delamination risks when shaping
+and densifying the parts. The main properties of
+Cerasep® N3-1 are reported in Table 1. However,
+the maximum thickness of the 3D composite is
+around 6 mm for the present CVI state of the art
+techniques. The limits of this composite for fusion
+power core applications are mainly linked to its
+low thermal conductivity and its resistance to
+irradiation damage. The use of low oxygen con-
+tent ﬁbers like Hi-Nicalon ﬁbers (Nippon Carbon)
+could help alleviate those two problems. Also, the
+maximum
+operating
+temperature
+based
+on
+strength degradation increases from about 1100°C
+to about 1300°C. A new composite, Cerasep®
+N4-1, which uses Hi-Nicalon ﬁbers is currently
+under development by SNECMA. This new com-
+posite appears very promising for fusion power
+core applications, but no data are available.
+In order to use SiCf/SiC as a structural mate-
+rial, reliable and practical joining techniques are
+required. A variety of methods can be used for
+joining SiCf/SiC to SiCf/SiC. Although some of
+them have already been industrialized, methods
+that may qualify for fusion blanket assembly are
+still in a developmental stage. Current efforts
+focus mainly on establishing a technical basis for
+joints with improved and tailorable properties
+rather than on demonstrating speciﬁc properties
+for speciﬁc joining techniques. The effect of neu-
+tron irradiation, which is one of the most impor-
+tant technical issues for application to fusion
+blankets has still not been evaluated. Methods of
+joining SiCf/SiC to SiCf/SiC can be classiﬁed into
+SiC-based, non-SiC-based and mechanical joints.
+The ﬁrst category includes reaction bonding and
+pre-ceramic polymer adhesives. The advantages of
+SiC-based joints are their coefﬁcients of thermal
+expansion (CTE), generally comparable to SiCf/
+SiC, excellent thermo-chemical stability and the
+straightforward applicability of techniques devel-
+oped for monolithic SiC production and matrix
+densiﬁcation of SiCf/SiC. The second category
+includes glass–ceramic joints and metal-based
+brazes. These methods are generally easy to apply
+and to disassemble since they do not incorporate
+the production of refractory SiC, though their
+reactivity with SiCf/SiC and the consequences
+(CTE mismatch effects and thermo-chemical sta-
+bility) need to carefully be examined. Examples of
+the last category are mechanical fastening and
+fabric co-stitching. These methods may be used in
+combination with any adhesive-type joint. Tech-
+niques of fairly complex shaping of ﬁber fabrics
+have been developed in recent advanced motor
+generator programs in order to form near-net-
+shape gas turbine components, and the techniques
+like co-stitching might be classiﬁed into the ‘fabric
+shaping’ category.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+74
+3.1.1. Reaction bonding
+Presently, reaction bonding is a most promising
+method for permanently joining SiCf/SiC. In this
+process, molten silicon reacts with carbon in ﬁne
+powder or porous skeleton shapes to produce SiC.
+Reaction bonding appears advantageous because
+it produces fully crystalline SiC with a very high
+strength, high thermal conductivity and excellent
+creep properties, in addition to other inherently
+attractive properties of SiC. Flexural strength and
+thermal conductivity of approximately 1 GPa and
+130 W/m K, respectively, have been demonstrated
+for a monolithic SiC developed by the CREST-
+ACE project [30] through a process that incorpo-
+rates
+a
+molten
+silicon
+inﬁltration
+to
+C–SiC
+powder complex. Several other reaction bonding
+techniques have been successfully developed, in-
+cluding a robust technique called ARCJoinT [31].
+A potential disadvantage of the reaction bonding
+is that it requires a heat treatment typically at
+about 1700 K, or a temperature over the melting
+point of silicon, which is harmful to the older
+generations of SiC-based ﬁbers. However, this
+may not a problem for SiCf/SiC using advanced
+ﬁbers that survive up to over 2000 K [32].
+3.1.2. Pre-ceramic polymers
+A pyrolyzed product of pre-ceramic polymers is
+generally a mixture of nano-crystalline SiC, amor-
+phous silica and amorphous or glassy carbon with
+a substantial porosity. The mostly-amorphous Si–
+C–O material has a reduced strength, a very low
+thermal conductivity and inferior thermo-chemi-
+cal and radiation stabilities. However, the proper-
+ties of polymer-derived SiC are rapidly improving
+with recent extensive efforts. A near-stoichiometry
+composition will be achieved by using polymer
+precursors that are inert and designed for stoi-
+chiometric composition. Polymer precursors for
+improved stoichiometry, e.g. polymethylsilane by
+Ube industries and AHPCS by Starﬁre Systems
+Corporation, are becoming commercially avail-
+able [33]. A precursor for both stoichiometry and
+reduced oxidization susceptibility is being devel-
+oped in the CREST-ACE program. The mechani-
+cal properties of SiCf/SiC joints with AHPCS and
+other pre-ceramic polymers are under evaluation
+in a collaborative work between Kyoto University
+and
+Paciﬁc
+Northwest
+National
+Laboratory
+(PNNL).
+3.1.3. Glass–ceramic joints
+Glass–ceramic is a relatively new material that
+consists of glass and ceramic. The beneﬁts of this
+material include tailorable properties, oxidation
+resistance and mechanical strength provided by
+the ceramic phases [34]. As one of the options for
+SiCf/SiC joints for fusion, Politeknico di Torino
+and Kyoto University are jointly studying a cal-
+cia–alumina (CA) glass ceramic. They have so far
+demonstrated (in their ﬁrst trial) an excellent wet-
+tability of CA with crystalline SiC and shear
+strength of about 30 MPa for a pressureless joint
+[35]. The glass ceramic joints will allow quick and
+non-permanent use, since they may easily be de-
+composed at temperatures exceeding the softening
+temperature of the glassy phase. Applicability to
+permanent joints relies on future development,
+including the evaluation of neutron irradiation
+effects.
+3.1.4. Brazing
+A promising brazing technique has been re-
+cently proposed using a brazing process already
+dedicated for refractory materials to SiCf/SiC.
+The braze material, Brasic®, is compatible with
+SiC and is being developed by CEA, France [36].
+The major advantages of the ﬁller alloys, com-
+posed of low-activation elements, are: high tem-
+perature resistance (1400°C), no chemical reaction
+with SiC, good wetting and good adherence to the
+interface (mechanical shear strength as high as
+80–100 MPa up to 800°C). Brasic® alloys ensure
+at the same time good mechanical bonding and a
+perfect tightness of the brazed junction. By using
+different alloys and compositions (Brasic H2 and
+V2 or V3) and brazing in vacuum or in inert
+atmosphere it has been possible to control the
+inﬁltration of the alloy. Use of Brasic V3 for
+joining at 1300°C in a neutral atmosphere resulted
+in a sound joint with perfect ﬁlling of the joint
+gap and without inﬁltration in the composite, as
+shown in Fig. 17. For this joint, a shear strength
+of 174 MPa was obtained at room temperature
+and about 100 MPa at 800°C. The main limita-
+tion of the method results from the free Si content
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+75
+and the open high porosity of the composite. This
+low-activation brazing alloy can in principle be
+used also for coating SiCf/SiC composites.
+3.2. Properties
+3.2.1. Fiber properties
+Fibers are the backbone of the continuous ﬁber
+ceramic matrix (SiCf/SiC) composites being con-
+sidered for fusion energy applications [37–39].
+Even though composite properties are controlled
+by several factors besides ﬁber strength, such as
+volume fraction of ﬁbers, ﬁber/matrix interface
+structure, ﬁber weave architecture and matrix
+properties, there are key ﬁber properties that con-
+trol
+radiation
+resistance,
+high-temperature
+strength and stability and weaveability. A sum-
+mary of the SiC ﬁbers being considered for fusion
+energy applications is given in Table 7.
+The ﬁber diameter and elastic modulus deter-
+mine the weaveability of the ﬁber; consequently,
+smaller diameter ﬁbers are needed with a high
+elastic modulus. Coarser ﬁber weave architecture
+must be used for high elastic modulus ﬁbers. The
+Nicalon and Tyranno ﬁbers are derived from
+polymers with a trend towards higher ﬁber purity,
+crystallinity, stoichiometry and elastic modulus in
+the development of Nicalon ﬁbers. Dow-Corning
+no longer makes a SiC ﬁber, but this ﬁber is listed
+as typical of those made from sintered -SiC
+crystals. The MER ﬁber is made by chemical
+Fig. 18. Bend stress relaxation (BSR) test of SiC-based ﬁbers
+in Argon [40,41].
+conversion of C ﬁbers with the SiC component of
+the ﬁber being crystalline, stoichiometric, -SiC;
+however, these ﬁbers can be made with a varying
+degree of conversion so they may have a C core
+and a SiC outer layer.
+The creep strength of SiC ﬁbers is directly
+related to the density, degree of crystallinity and
+stoichiometry. The bend stress relaxation test is a
+simple test for comparing the creep properties of
+ﬁbers as shown in Fig. 18. This ﬁgure shows a
+relaxation ratio m as a function of inverse temper-
+ature, where no creep corresponds to an m=1
+and increasing creep strain corresponds to de-
+creasing values of m. There is a clear shift in the
+curves to higher temperatures, i.e. lower recipro-
+cal temperatures with increasing ﬁber density,
+crystallinity, stoichiometry and elastic modulus.
+The ranking in order of increasing creep strength
+is: Lox-M Tyranno, Nicalon 201, UF-Dev, Hi-
+Nicalon and Dow-Corning (Dev and NASA).
+3.2.2. Composite properties
+A summary of the properties of several com-
+mercially available SiCf/SiC composites is given in
+Table 8. It should be stated that laboratory-scale
+composites with rapidly improving properties are
+currently being developed in a very short time
+cycle. From the table, the speciﬁc gravity ranges
+from a low of 2100 to a high of 2700 kg/m3 while
+Fig. 17. Brasic® joint micrography.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+76
+Table 7
+Properties of as-produced silicon-based ﬁbersa
+Composition and structure
+Dia.
+Thermal expansion
+Avg. strength
+Density
+Trade name
+Modulus
+(GPa)
+(g/cm3)
+(m)
+coeff. b
+(GPa)
+Nicalon®
+65% SiC, 23% SiO2, 11% C
+14
+3.0
+220
+2.55
+(3 nm -SiC grains)
+77% SiC, 23% C, 0.5% O
+14
+2.8
+270
+Hi-Nicalon®
+2.74
+(10–100 nm -SiC grains)
+95% SiC, 5% C (10–100 nm -SiC grains)
+14
+Nicalon-S
+2.6
+420
+3.1
+99% SiC (30 nm -SiC grains)
+10
+Dow-Sylramic
+2.6
+420
+3.1
+4.6
+0.5%Al, balance SiC
+8
+Tyranno-SA
+2.8
+4.6
+400
+3.1
+(50–500nm -SiC grains)
+-SiC
+5
+–
+340–410
+2.9–3.1
+[MER]
+4.6
+a Although Nicalon and Hi-Nicalon are not considered for fusion applications, they are included as standard ﬁbers.
+b Average from 20 to 100°C.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+77
+Table 8
+Properties of several SiCf/SiC composites
+Property
+Units
+SNECMA (Cerasep®
+DuPont
+DuPont
+DuPont enhanced
+DuPont
+DOW/Kaiser S-201
+SiCf/SiC
+Hi-Nicalon
+Nicalon-S
+N2-1)
+296 K
+1273 K
+296 K
+1273 K
+296 K
+1273 K
+296 K
+1273 K
+296 K
+773 K
+%
+40
+40
+40
+40
+Fiber content
+40
+40
+40
+40
+40
+kg/m3
+2500
+2500
+2500
+2500
+2300
+2300
+2100
+–
+2700
+Speciﬁc
+gravity
+%
+10
+10
+10
+10
+Porosity
+10
+10
+4
+4
+–
+Tensile
+MPa
+285
+285
+200
+228
+228
+254
+207
+–
+217
+strength
+%
+0.65
+0.75
+0.22
+0.28
+0.41
+Elongation
+0.61
+–
+–
+0.23
+(tensile)
+Young’s
+GPa
+230
+200
+215
+226
+141
+145
+80
+–
+270
+modulus
+(tensile)
+MPa
+300
+400
+300
+Flexural
+400
+345
+–
+366
+–
+336
+strength
+Compression strength
+MPa
+580
+400
+580
+480
+In plane
+503
+–
+450
+–
+–
+Through the
+MPa
+420
+380
+420
+380
+–
+–
+–
+–
+–
+thickness
+–
+–
+MPa
+40
+35
+40
+35
+Shear
+31
+–
+28
+strength
+(interlamina
+r)
+Thermal diffusiity
+×10−6 m2/s
+12
+5
+12
+5
+–
+–
+1.1
+0.7
+In plane
+–
+12
+×10−6 m2/s
+6
+2
+6
+2
+Through the
+1.5 a
+–
+0.8
+0.6
+12
+thickness
+Coefﬁcient of thermal expansion
+×10−6 K−1
+3
+3
+3
+3
+3
+2.9
+4.3
+–
+–
+In plane
+×10−6 K−1
+2.5
+2.5
+2.5
+2.5
+Through the
+2.9
+–
+–
+–
+–
+thickness
+MPa m1/2
+30
+30
+30
+30
+Fracture
+–
+–
+–
+–
+–
+toughness
+J/kg K
+620
+1200
+620
+1200
+–
+–
+727
+1248
+–
+Speciﬁc heat
+0.8
+0.8
+0.8
+Total
+0.8
+0.8
+0.8
+0.94
+–
+–
+emissivity
+a Thermal conductivity (W/m K).
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+78
+the porosity ranged from a low of 4% to a high of
+10%. The elastic modulii closely reﬂect the mod-
+ulus of the ﬁbers. This is particularly noticeable
+for the DuPont composite with Hi-Nicalon ﬁbers.
+The composite elastic modulus is 270 GPa and the
+Hi-Nicalon ﬁber modulus is also 270 GPa. The
+crystalline -SiC matrix produced by CVI has a
+modulus approaching that of monolithic SiC ex-
+cept for the effect of porosity. The sum of these
+factors has resulted fortuitously in a composite
+with an elastic modulus equal to the ﬁber. The
+tensile strengths of these materials are less than
+the ﬂexural strengths because of the greater com-
+pressive strengths of these materials. The elastic
+modulus of the DuPont enhanced material is de-
+creased substantially from the CVI-SiCf/SiC com-
+posite material because of the additive used to
+improve the stress–rupture properties in high-
+oxygen concentration environments. The strength
+of these materials is relatively insensitive to tem-
+perature up to the limits of ﬁber stability. Materi-
+als made with the newer, more thermally stable
+ﬁbers will retain their strengths to higher tempera-
+tures than those made with the older, less ther-
+mally stable ﬁbers. Some increase in ﬂexural
+strength occurs at the composite fabrication tem-
+perature relative to ambient temperature. Frac-
+ture toughness values for SiCf/SiC composites are
+also listed in Table 8, showing a value of 30
+MPa m1/2. This is a KQ value (a measure of the
+ultimate failure load of a notched specimen) and
+not a KIC value (plane-strain critical stress inten-
+sity) because these materials do not fail by propa-
+gation of an unstable crack; rather, they exhibit R
+curve or rising load failure. The toughness value is
+highly dependent on the ﬁber/matrix interface
+properties and weakly dependent on the ﬁber and
+matrix properties. As with the tensile and ﬂexural
+strength, the fracture toughness is temperature
+independent
+up
+to
+the
+ﬁber
+instability
+temperature.
+Through thickness thermal diffusivity values (as
+shown in Table 8) range from about 12×10−6
+m2/s at room temperature to about 2×10−6 m2/s
+at 1000°C (corresponding to thermal conductivity
+values of about 20 and about 6 W/m K, respec-
+tively) for material made by CVI. Much smaller
+values are given for the DOW/Kaiser S-201 mate-
+rial made by the PIP process, which results in an
+amorphous matrix with low thermal conductivity.
+The highest room temperature thermal conductiv-
+ity has been reported for a MER CVR processed
+composite with a value of 41 W/m K as compared
+with a value of 6 W/m K for CVI processed
+material. The MER material is processed from
+C/C composites and the ﬁbers retain some frac-
+tion of graphite, which increases the thermal
+conductivity.
+Both the composite creep rate and the time-de-
+pendent crack growth rate are dependent on the
+ﬁber creep rates [42–44]. DiCarlo and Yun [42]
+showed a decreasing creep rate for composite
+material with Nicalon, Hi-Nicalon and Sylramic
+ﬁbers, respectively. At 1400°C, there was a de-
+crease in the creep rate by a factor of 2.5 for these
+three ﬁbers. Henager and Jones [43,44] likewise
+demonstrated that the crack growth rate of com-
+posites is directly dependent on the ﬁber creep
+rate and that the crack growth rate of composite
+material made with Nicalon ﬁbers is equal to that
+of composite material made with Hi-Nicalon
+ﬁbers but tested at a 75°C higher temperature.
+This temperature shift is identical to that shown
+in Fig. 18 for these two ﬁbers.
+Thermal fatigue and thermal shock are impor-
+tant properties of ceramic composites for fusion
+energy systems: thermal fatigue because of heat-
+up/cool-down cycles, and thermal shock because
+of plasma discharge and rapid heating of ﬁrst wall
+materials. Clearly, the magnitude of the thermal
+spike in blanket materials decreases with increas-
+ing distance from the ﬁrst wall. The fatigue and
+thermal shock behaviors of ceramics have been
+reviewed by Jones et al. [37]. The thermal fatigue
+of a Nicalon-ﬁber-reinforced SiCf/SiC composite
+was evaluated by Jones and Henager [45] using
+low-cycle mechanical fatigue. They found that the
+crack velocity decreases with increasing fatigue
+cycles in a manner similar to that observed for
+sub-critical crack growth with time. There was a
+factor of 10 decrease in the load cycle between the
+ﬁrst and 25th cycles at a stress intensity of 18
+MPa m1/2. The sub-critical crack growth decreases
+with time because additional bridging (i.e. load
+carrying) ﬁbers accumulated behind the crack tip.
+At higher stress intensities the crack velocities
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+79
+after one and 25 load cycles converge. There have
+been several studies of high cycle fatigue of con-
+tinuous ﬁber reinforced composites [46–48] that
+support the observation that these materials ex-
+hibit a fatigue stress threshold below which crack
+growth does not occur. This stress threshold is
+approximately equal to the matrix cracking stress.
+Above this threshold stress, Holmes [46] has
+shown that, at 1200°C and 10 Hz, the number of
+cycles to failure is a function of the R ratio and
+peak stress. For the material studied by Holmes
+[46], the matrix cracking stress was 200 MPa and
+the ultimate strength was 380 MPa at 1200°C.
+The thermal shock response of materials is very
+dependent on the temperature change and the
+change rate and the constraint on the sample or
+component. For continuous ﬁber–ceramic–ma-
+trix composites, the thermal shock behavior also
+depends on whether the temperature change is
+positive or negative. Most thermal shock data are
+for samples quenched from an elevated tempera-
+ture; however, in a fusion reactor a plasma dis-
+charge
+will
+result
+in
+rapid
+heating.
+Ceramic
+composite properties are not strain rate depen-
+dent, other than in the creep strain rate range, so
+the heating rate should not be a concern. Thermal
+shock tests with a positive temperature change
+were performed by Eckel et al. [49] and Wang and
+Singh [50]. Eckel measured the thermal shock of
+monolithic and composite material heated from
+1300 to 2300°C in a burner rig. The monolithic
+material failed after 1.5 cycles while the SiCf/SiC
+composite survived 25 cycles without a loss of
+strength. However, with a heating rate of 1900°C/
+s the composite exhibited a 35% strength loss as
+compared with no strength loss at a heating rate
+of 1700°C/s.
+3.2.3. Properties of irradiated materials
+Neutron irradiation of SiC induces changes in
+properties that are critical to its application in
+fusion energy systems. Displacement of Si and C
+atoms occur with different displacement energies
+with C having the lower displacement energy and
+therefore the greater displacement rate. These
+atomic displacements result in the formation of
+dislocation loops parallel to the {111} crystallo-
+graphic planes. These loops induce an isotropic
+dimensional change that saturates at neutron
+ﬂuences of 2×1020 n/cm2 at temperatures below
+about 1000°C. The saturation swelling value be-
+comes dependent only on the irradiation tempera-
+ture below 1000°C once the saturation ﬂuence has
+been achieved. A signiﬁcant amount of data has
+been generated on the swelling of SiC for the
+high-temperature gas-cooled reactor, temperature
+monitors in irradiation experiments and now for
+the fusion materials program. A summary of this
+database is shown in Fig. 19, along with several
+curves ﬁtted to the data. It is apparent that the
+swelling decreases with increasing temperature to
+a relatively small volume change of a few tenths
+of a percent at 1000°C. A density decrease accom-
+panies the swelling response. Irradiation of SiC at
+temperatures above 1000°C results in tetrahedral
+voids bounded by {111} planes and the volume
+change is ﬂuence-dependent, unlike irradiation be-
+low 1000°C [52]. The quantity and quality of the
+swelling data for SiC at temperatures above
+1000°C is lower than that for temperatures below
+1000°C; there is a need to better deﬁne the mini-
+mum temperature for void swelling, the ﬂuence
+dependence and the magnitude of swelling. Di-
+mensional changes in composite materials made
+by CVI and irradiated at temperatures below
+1000°C are consistent with those for monolithic
+material [53] because the matrix deﬁnes the pri-
+mary composite response. The CVI matrix is crys-
+talline, stoichiometric -SiC, so it follows the
+swelling curve in Fig. 19. Crystalline, stoichiomet-
+ric -SiC ﬁbers such as the DOW Sylramic and
+MER ﬁbers exhibit the same swelling response as
+shown in Fig. 20 (DOW-X ﬁbers).
+Polymer derived ﬁbers and matrix materials
+(PIP) that have not been fully crystallized by
+thermal processing shrink during irradiation are
+shown in Fig. 20. While the database shown in
+the ﬁgure is for a range of temperatures it pro-
+vides a clear representation of the response of
+crystalline and non-crystalline SiC ﬁbers. Fiber
+shrinkage leads to ﬁber/matrix debonding as re-
+ported by Hollenberg et al. [53] and a decrease in
+elastic modulus and fracture strength. Therefore,
+there is a critical need to optimize the microstruc-
+ture of SiCf/SiC composites (i.e. ﬁber, ﬁber/matrix
+interphase and matrix) to minimize the interfacial
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+80
+stress between the ﬁber and matrix. The results in
+Fig. 20 show that the density of the crystalline
+and polymer-derived ﬁbers approach each other
+with increasing neutron ﬂuence.
+Generation of point defects and dislocation
+loops in monolithic SiC causes phonon scattering
+and a commensurate decrease in the thermal con-
+ductivity. A summary of the ratio of the irradi-
+ated to unirradiated thermal conductivity is given
+in Fig. 21 where it can be seen that this ratio is
+about
+0.5
+for
+an
+irradiation
+temperature
+of
+1000°C and decreases to 0.1–0.2 for an irradia-
+tion temperature of 400°C. This curve is the in-
+verse
+of
+the
+swelling
+curve
+because
+defects
+Fig. 19. Volumetric neutron swelling for SiC irradiated to saturation doses as a function of irradiation temperature [51].
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+81
+Fig. 20. Density as a function of dose or ﬂuence for four types
+of uncoated SiC-based ﬁbers [54].
+Irradiation effects on the ﬂexural strength of
+SiCf/SiC composites for Nicalon-CG ﬁber rein-
+forced material are shown in Fig. 22 up to a
+ﬂuence of 80 dpa. This plot shows the four-point
+bend strength as a function of temperature and
+ﬂuence for the available data along with some
+extrapolation to high temperatures. The maxi-
+mum strength in both the unirradiated and irradi-
+ated conditions occurs at 800–1000°C with a drop
+of the bend strength from about 400 to about 200
+MPa for the irradiated material at 800°C. Unirra-
+diated four-point bend strengths for material with
+Hi-Nicalon ﬁbers is about 500 MPa. The decrease
+in the fracture strength with irradiation has been
+coupled
+with
+the
+shrinkage
+of
+the
+polymer-
+derived, non-crystalline Nicalon-CG ﬁber (Fig.
+20) and the subsequent debonding of the ﬁber
+from the matrix such that load-transfer to the
+ﬁbers does not occur. Even with this debonding
+the four-point bend strength of a composite mate-
+rial irradiated to 80 dpa at 800°C is 200 MPa. The
+tensile strength will be about 66% of the ﬂexural
+strength so the irradiated tensile strength is likely
+to be about 130 MPa. Snead [58] has measured
+the four-point bend strength of composite mate-
+rial reinforced with Hi-Nicalon and irradiated to
+1 dpa (Fig. 23). These results clearly show the
+improved radiation resistance obtained with com-
+produced by irradiation results in phonon disper-
+sion. Both monolithic and composite materials
+are included in this ﬁgure even though the ﬁber
+and ﬁber/matrix interface affect the composite
+thermal conductivity in addition to radiation-in-
+duced defects [56]. The Hollenberg and Senor
+composites are made with Nicalon-CG ﬁbers,
+which have a very low thermal conductivity and
+therefore contribute little to the composite ther-
+mal conductivity.
+Fig. 21. Thermal conductivity degradation as a function of irradiation and test temperature for crystalline SiC and SiCf/SiC
+composites with CVI-SiC matrix [55].
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+82
+Fig. 22. Proposed strength–irradiation dose/temperature surface for SiCf/SiC composite [57].
+posites made with Hi-Nicalon and Nicalon-S
+ﬁbers. The strength of irradiated material with
+Nicalon-S is equal to or slightly greater than the
+strength of unirradiated material.
+Irradiation was shown by Price [59] and Scholz
+[60] to enhance the creep rate of -SiC produced
+by CVD for SCS-6 ﬁbers (Fig. 24). SCS-6 ﬁbers
+are formed by CVD on a C core. It is clear that
+irradiation enhances the creep rate of crystalline
+-SiC above that for thermal creep at tempera-
+tures ranging from 450 to 1000°C. The irradia-
+tion creep rate is independent of temperature over
+this range in a manner similar to that exhibited by
+metals. Little is known about the mechanisms
+involved in the irradiation enhanced creep of SiC.
+Also, the effect of ﬁber creep on composite creep
+can be described as shown earlier for crack
+growth controlled by thermal creep of ﬁbers.
+However, for a CVI composite with a crystalline
+-SiC matrix reinforced with Nicalon-S or other
+highly crystalline ﬁbers the creep rate of the ﬁber
+and matrix will become equal. Under these cir-
+cumstances, the composite may creep more like
+monolithic SiC as shown by Price, although a
+more thorough analysis that includes load transfer
+to the ﬁbers and the stress dependence of creep of
+the matrix and ﬁber at different stresses must be
+completed before the creep behavior of SiCf/SiC
+composites can be fully described. In the extreme
+case where the ﬁbers creep at the same rate as the
+matrix, the data (Fig. 24) of Price [59] can be used
+to estimate the irradiation-enhanced creep rate.
+This creep rate is 10−10 s−1 at a stress of 200
+Fig. 23. FCVI-SiC matrix, C-interphase, plain weave com-
+posite 1 dpa, HFIR irradiation.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+83
+Fig. 24. The temperature dependence of the irradiation creep
+compliance determined for light ion, low dose (0.07 dpa)
+and neutron, high dose (7.7 dpa) irradiations of SCS-6 SiC
+ﬁber and CVD -SiC strips (from Price), respectively [61].
+plot (Fig. 25) of the transmutation rate for an
+ARIES ﬁrst wall design [1] shows a very large
+build-up of He and H and a signiﬁcant increase in
+the Mg concentration. The effect of these chemi-
+cal changes on the properties of SiC and SiCf/SiC
+composites is not known although some studies
+using He ion implantation followed by neutron
+irradiation or ion irradiation have been completed
+or are in progress. Helium release studies by
+Sasaki et al. [62] have demonstrated that He is
+mobile in the SiC lattice at temperatures as low as
+250°C but that He trapped at crystal interfaces is
+immobilized up to about 1000°C. Signiﬁcant he-
+lium release from crystal interfaces occurs at tem-
+peratures exceeding 1800°C. Therefore, it is likely
+that the helium generated by nuclear transmuta-
+tion will be retained in the structure at crystal
+interfaces in the ﬁber, ﬁber/matrix interface or the
+CVI growth interfaces unless the He can escape
+through open pores.
+3.2.4. Helium effects
+Transmuted He gas effects have been simulated
+using He implantation or simultaneous He-ion
+and heavy-ion irradiation. Calculation of the total
+amount of transmuted He based on fusion reactor
+material design was carried out by Noda et al.
+[63]. The He/dpa ratio is predicted to be about
+100 appm/dpa in the ﬁrst wall region of the solid
+breeder blanket system when using SiCf/SiC com-
+posite as the structural material. Helium is an
+insoluble element in almost all the solid materials,
+and it stabilizes vacancy type clusters. It may
+enhance void swelling of SiC under fusion reactor
+conditions.
+Accelerator irradiation experiments have been
+used to study helium effects. Single, dual, or
+triple-beam experiments have been conducted to
+investigate helium effects on microstructural evo-
+lution. The microstructural development of a
+composite containing advanced ﬁber fabrics was
+not clearly observed below 800°C, probably be-
+cause the irradiation temperature was too low for
+helium to move and to cluster [64,65], but small
+clusters of defects were observed. Helium diffu-
+sion behavior and microstructural observation of
+SiCf/SiC composites, SiC ﬁber and monolithic SiC
+was reported by Hasegawa et al. [66]. Helium in
+MPa and a temperature between 450 and 1000°C.
+This rate translates into 0.3% per year, which is
+sufﬁciently
+large
+to
+be
+considered
+in
+design
+criteria.
+The interaction of neutrons with SiC produces
+chemical transmutations as well as atomic dis-
+placements. These transmutants may be gaseous,
+such as He and H, or solid such as Mg and Al. A
+Fig. 25. Silicon carbide transmutation products–ARIES [1]
+ﬁrst wall irradiation at 4.7 MW/m2.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+84
+carbon phases becomes mobile between 500 and
+800°C. Helium in the SiC phase becomes mobile
+above 900 or 1000°C. In the higher temperature
+region, the He desorption rate from the SiC ﬁbers
+becomes much larger than from monolithic SiC.
+This result is consistent with a previous diffusion
+study by Jung [67]. These results suggest that
+helium might be mobile in C and the amorphous
+like Si-C phase in the composite in the expected
+range of reactor operating temperature.
+Mechanical property changes were investigated
+using high energy He implantation by cyclotrons
+[60,61]. Bending tests of SiCf/SiC composites after
+high temperature implantation (950°C) up to a
+helium concentration of 2500 appm showed a
+38% mean decrease of strength. The load–dis-
+placement curve exhibited a signiﬁcant decrease of
+the
+values
+of
+the
+maximum
+deﬂection
+[68].
+Swelling of the SiC matrix and shrinkage of
+Nicalon ﬁber were reported by Scholz et al. [70].
+A decrease in strength was observed at about 150
+appm implantation at temperatures ranging from
+400 to 800°C [69]. Microstructural observations of
+He-implanted SiCf/SiC composites were reported
+by Hasegawa et al., as shown in Fig. 26 [71].
+Helium bubbles were not observed at the interface
+between the matrix and interphase(C), and be-
+tween the ﬁber and interphase(C) or in the SiC
+ﬁber after about 10000 appm Helium implanta-
+tion
+at
+room
+temperature
+and
+annealing
+at
+1400°C. Bubbles were observed only at the grain
+boundaries in SiC. Helium desorption results can
+explain this microstructure.
+3.2.5. Compatibility
+3.2.5.1. SiC/PbLi. Only limited data on the com-
+patibility of SiCf/SiC with Pb–17Li are available.
+Fenici and Scholz [72] reported the results of
+exposure of 2D CVI-SiCf/SiC composites to static
+Pb–17Li at 800°C for 1500 h. Except for a pene-
+tration of Pb–17Li into the composite through
+the open pores, the results indicated that the
+SiCf/SiC composites are practically inert in Pb–
+17Li. Tests, for relevant Pb–17Li velocity (up to 1
+m/s), duration (10000 h), and high temperatures
+(about 1100°C) have yet to be performed.
+Fig. 26. TEM micrographs of SiCf/SiC composites after he-
+lium implantation and annealing at 1400°C for 1 h: (A) SiC
+ﬁber/carbon coating; (B) carbon coating/SiC matrix; and (C)
+SiC matrix.
+3.2.5.2. SiC/ceramic breeders and SiC/Be. The
+compatibility of SiCf/SiC commercial composite
+with solid breeders (Li4SiO4 and Li2TiO3) under
+fusion relevant conditions was investigated by
+LaBarbera et al. [73]. The ceramic breeder Li4SiO4
+was industrially produced by Glaswerke Schott
+Co. (Germany) and has an average diameter of
+0.55 mm [74]; the Li2TiO3 pebbles have a shape
+and dimensions similar to the Li4SiO4 ones and
+have
+been
+manufactured
+by
+ENEA-Casaccia
+(Italy). The ceramic composite investigated was
+the 3D Cerasep® N3-1 (Nicalon CG+CVI SiC
+matrix) [75]; the samples were subjected to a ﬁnal
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+85
+uniform CVD SiC coating (about 100 m thick).
+Three cells were operated with Li4SiO4 and three
+others with Li2TiO3 for 216, 1000 and 10000 h at
+800°C in ﬂowing He containing 1000 ppm H2;
+downstream operating samples (so-called ‘blank’)
+and immersed samples were provided for each
+cell.
+After 10000 h for the Li4SiO4, test, lithium
+metasilicate (Li2SiO3) and other complex silicates
+were found on blank samples indicating a lithium
+migration out of the reaction chamber. On im-
+mersed samples the original SiC coating was still
+present after exposure: its thickness ranged from
+80 to 100 m. A surface layer of about 30 m of
+Li2SiO3 that was not adherent but heavily cracked
+was observed (Fig. 27). The transformation of the
+SiC coating is not limited to a protective ﬁlm
+since a linear law of weight increase was observed,
+but no changes have been detected inside the
+specimens. Slight changes of the mechanical prop-
+erties (Young’s modulus and ﬂexural strength)
+were observed at different temperatures. There-
+fore, for Li4SiO4 exposure, a long lifetime can be
+foreseen for this type of composite depending on
+the SiC coating layer thickness.
+On blank samples over Li2TiO3 only silica was
+found for 10000 h, while on immersed samples
+the original SiC coating was not present over
+about half of the surface and a heavily cracked
+layer of 80–100 m, identiﬁed as various silicates
+and silica, was observed. The original SiC layer is
+full of voids and cracks across its entire thickness
+Fig. 28. SEM cross section pictures of SiCf/SiC samples after
+10000 h of exposure to Li2TiO3.
+(Fig. 28). After 10000 h, SiC ﬁbers are not pro-
+tected any more and are exposed to the reacting
+environment. In spite of these observations me-
+chanical properties appear not to be signiﬁcantly
+affected, indicating that the bulk is not damaged
+after up to 10000 h. Therefore, since the SiC
+coating is consumed and the ﬁbers are exposed to
+the gas phase, a rapid reduction of the mechanical
+properties is foreseen for longer exposure times.
+The chemical reactivity of monolithic SiC with
+Li oxide breeder materials and beryllium was
+studied by Kleykamp by isothermal and an-
+isothermal annealing [76]. Powder reaction experi-
+ments were made between -SiC and Li4SiO4,
+LiZrO3 and LiTiO3 pellets in a quartz tube fur-
+nace at 700°C for two weeks under static Ar. No
+reaction between -SiC and the Li ceramics breed-
+ers was observed after two weeks of isothermal
+annealing.
+Conversely,
+anisothermal
+annealing
+has shown that following exposure to:
+ Li4SiO4: the -SiC remained unaffected but at
+temperature
+higher
+than
+1000°C
+the
+SiO2
+formed (following Li, O2 and Li2O evaporation
+from solid Li4SiO4) was found to react with
+Li4SiO4 to produce Li3SiO3;
+ Li2ZrO3: a reaction between -SiC and Li2ZrO3
+with the production of ZrC and Li2SiO3 took
+place at temperatures 1100°C;
+ Li2TiO3: a solid state reaction occurred be-
+tween -SiC and Li2TiO3 with the formation of
+TiC and Li2SiO3 at temperatures 1160°C.
+Fig. 27. SEM cross section pictures of SiCf/SiC samples after
+10000 h of exposure to Li4SiO4.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+86
+The compatibility with Be was studied by an-
+nealing a -SiC–Be pebbles mixture in a closed
+cylindrical refractory metal capsule between 700
+and 900°C for 70 days. No indication of an
+incompatibility between Be and SiC was reported
+after
+the
+700°C
+annealing,
+whereas,
+between
+800°C and 900°C, a two-phase Be2C–Si was ob-
+served on the SiC pellet. The thickness of this
+phase increased with exposure time because Be2C
+and Si are in thermodynamic equilibrium at
+1000°C. For this reason the development of a
+protective coating on SiCf/SiC, able to prevent Be
+diffusion into the SiC at reactor operating condi-
+tions, will be required for breeding blankets with
+Be as multiplier.
+3.3. Stress limits
+3.3.1. Background
+SiCf/SiC composites presently envisaged for fu-
+sion reactors are still in an early phase of develop-
+ment. The ability to correctly assess their limits is
+therefore a key factor to provide guidelines for
+further R&D. The appropriate design methodolo-
+gies have to account for the peculiarities of their
+mechanical behavior, in particular:
+ Non-linearity of the stress–strain relation un-
+der tensile loading; this non-linearity is due to
+the progressive development of damage mecha-
+nisms inside the composite.
+ Different mechanical properties depending on
+the loading direction. Even for 3D composites,
+the number of ﬁbers through the thickness is
+lower and their arrangement different. Me-
+chanical properties are generally worse along
+this direction.
+ Different failure mechanisms and therefore dif-
+ferent strengths under tensile and compressive
+loading. Under tensile loading failure is due to
+damage accumulation, while under compressive
+loading the mechanical behavior is brittle and
+elastic up to rupture.
+The methodology commonly used is to consider
+two independent successive processes: deforma-
+tion under load and failure. The stress ﬁeld distri-
+bution is then obtained by means of speciﬁc
+behavioral models, and the resistance criteria are
+expressed in terms of the stress components. Some
+authors [77,78] propose instead to derive the resis-
+tance criteria by imposing an instability condition
+on the mathematical expression of the stress–
+strain relation. Although this approach is more
+correct from a theoretical point of view, it pre-
+sents the drawback of being tied to the particular
+damage model used and therefore will not be
+considered here.
+3.3.2. Modeling of the mechanical behaior of
+SiCf/SiC composites
+Regardless of the manufacturing process, the
+non-linear mechanical behavior of SiCf/SiC com-
+posites depends on the interactions between the
+ﬁbers and matrix during loading. These interac-
+tions lead at ﬁrst to matrix microcracking, then to
+matrix/ﬁber decohesion, followed by the opening
+of microcracks, and ﬁnally to ﬁbers (i.e. com-
+posite) failure. Speciﬁc behavioral models have
+been developed in the last years and one of them
+has recently been implemented in the ﬁnite ele-
+ment method code
+CASTEM2000 used for the
+thermo-mechanical analyses of the TAURO blan-
+ket [13]. Fig. 29 shows the results of tension test
+simulations at different loading directions, and
+compares them with those obtained assuming lin-
+ear elastic behavior. Numerical values are referred
+to the 2D-CVI-Cerasep® composites. Two major
+stages characterize the mechanical behavior: in
+the ﬁrst stage, cracks grow perpendicular to the
+loading direction and the in-plane mechanical be-
+havior is isotropic; in the second stage, crack
+Fig. 29. Simulation of in- and off-axis incremental tension–
+compression test performed with the ﬁnite element code
+CASTEM2000 using a speciﬁc behavioral model for SiCf/SiC
+composites.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+87
+growth occurs perpendicular to the ﬁbers and the
+mechanical behavior depends on the loading
+direction.
+3.3.3. Resistance criteria
+Numerous failure criteria have already been
+proposed for composite materials [79,80]. In their
+simplest form they consist of a number of expres-
+sions each of which is related by a separate stress/
+strain term. This allows for some physical insight
+into the mode of failure, but interactions between
+different terms are neglected. In order to take
+those into account the most commonly used are
+quadratic criteria, like the Tsai–Wu criterion [81],
+which have the form:
+Fijij+Fii=1
+(i, j summed)
+(1)
+where Fij and Fi are strength parameters and i
+and j are the components of the stress tensor.
+However, combined stress tests are necessary to
+completely identify all the parameters, and these
+are not easy to perform. Moreover, quadratic
+criteria tend to be purely empirical, their purpose
+being to deﬁne a failure envelope by using a
+minimum number of test data.
+The availability of the parameters needed to
+identify the criterion is an important issue when
+dealing with composites under constant develop-
+ment like those envisaged for fusion reactors. For
+this reason the CEA has developed new resistance
+criteria that, while being based on physical con-
+siderations, can also be easily identiﬁed. These
+new criteria are referred as TAURO design crite-
+ria in this paper and are deﬁned as follows:
+ To account for the different mechanical prop-
+erties it is at ﬁrst proposed to separately con-
+sider stresses in plane and stresses through the
+thickness.
+ Stresses through the thickness can then be eval-
+uated assuming brittle elastic behavior:
+zz
+−zzzz
++
+(2)
+xz,yzmax
+(3)
+where zz
+−and zz
++ are the normal-stress com-
+pressive and tensile limits, respectively, and
+max is the limit for shear stresses. For example,
+the limits assumed for the TAURO blanket
+(based on Cerasep® N3-1) are reported in Sec-
+tion 2.2.2.
+ The criterion used for plane stresses is a
+quadratic criterion derived from the Von Mises
+stress. The idea is to distinguish between tensile
+and compressive behavior on the basis of the
+spectral decomposition of the stress tensor. In
+terms of the invariants of this tensor the Von
+Mises criterion can be written as:
+1
+2{3Tr[o´o´]−Tr2[o´]}0
+2
+or
+1
+23Tro´o´
+0
+2n−Tr2 o´
+0n1
+(4)
+where 0 is the maximum allowable stress
+(which is the same for compressive and tensile
+loading). We can then split the tensor o into its
+positive and negative eigenvalues:
+o´ =o´++o´−
+o´+o´−=0
+(5)
+and modify inequality (4) as follows:
+1
+23Tro´+o´+
+(0
++)2n+3Tro´−o´−
+(0
+−)2n−Tr2o´+
+0
++n
+−Tr2o´−
+0
+−n−2Tro´+
+0
++nTro´−
+0
+−n1
+(6)
+or:1
++
+0
++2
++2
++
+0
++2
++1
+−
+0
+−2
++2
+−
+0
+−2
+−1
++2
++
+(0
++)2
+−1
+−2
+−
+(0
+−)2 −1
++2
+−
+0
++0
+−−1
+−2
++
+0
+−0
++1
+(7)
+where 0
++ and 0
+−are, respectively, the as-
+sumed limits under tensile and compressive
+loading.The only two parameters (0
++ and 0
+−)
+needed to identify this criterion can therefore
+be obtained by means of classic tension/com-
+pression tests. It must be stressed that the
+above criteria have been theoretically derived
+and their validation will require a large experi-
+mental
+campaign,
+which
+will
+have
+to
+be
+launched for the selected composites to be used
+in fusion blankets. Moreover, the effects of
+mechanical damage on the other composite
+physical properties (thermal and electrical con-
+ductivities, hermeticity, permeation rate, ero-
+sion rate, resistance to neutron irradiation etc.)
+are not yet known. In order to limit damage
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+88
+Fig. 30. Comparison of the failure envelopes of the Von Mises and TAURO criteria.
+effects within the composites the threshold of
+matrix microcracking saturation (beginning of
+ﬁber/matrix debonding) has been assumed as
+the maximum allowable tensile stress in the
+thermo-mechanical analyses of the TAURO
+blanket (about 145 MPa measured on 2D
+Cerasep® composites). The actual failure limit
+(580 MPa) has been assumed instead as the
+maximum allowable compressive stress since
+no damage is observed under compression. The
+resulting failure envelope is shown in Fig. 30
+and compared with those obtained with the
+Von Mises criterion assuming separately, 0
++
+and 0
+−as limits.
+ It is clear that the conventional primary and
+secondary stress limits do not apply for ceram-
+ics and that the above TAURO design criteria
+go a long way in providing more realistic stress
+criteria for SiCf/SiC design application. In the
+absence of tools enabling such sophisticated
+analysis, it is suggested that, as a very rough
+and conservative ﬁrst order approximation, de-
+signers using conventional FEM analysis limit
+the total combined stress in plane to about 190
+MPa. However, stresses through the thickness
+should be evaluated separately.
+3.4. Lifetime
+Lifetime is a very important parameter for fu-
+sion power plant studies as it has a direct effect
+on replacement costs and availability. However, it
+is very difﬁcult to quantify and justify at this
+point in time as the database for modern SiCf/SiC
+composites is very limited. Many of the phenom-
+ena that could affect the lifetime of SiCf/SiC
+composites for a particular design have been iden-
+tiﬁed in the previous sections and sub-sections. In
+some cases quantiﬁcation of these phenomena has
+been limited to less-than-optimized SiC mono-
+liths, ﬁbers and composites. In other cases, these
+phenomena have been observed but not clearly
+understood from a mechanistic point of view.
+Traditionally, the lifetime of structural compo-
+nents depends strongly on temperature, stress,
+chemical compatibility, thermal stability, radia-
+tion stability, transmutation products and dimen-
+sional
+stability.
+These
+parameters
+lead
+to
+time-dependent phenomena that determine failure
+boundaries, and hence, design lifetimes. Of all the
+phenomena identiﬁed in previous sections, two
+stand out as potential life-limiting mechanisms:
+compatibility with coolant (particularly Pb–17Li)
+and the effects of He transmutations. With regard
+to the compatibility issue, it is anticipated that
+pure SiC is thermodynamically stable in pure
+liquid Pb–17Li. However, oxide ceramics tend to
+be less stable in Pb–17Li. Thus, the compatibility
+of silicon-carbide matrix composites in Pb–17Li
+will be highly dependent on the oxygen level and
+the distribution within the material. The presence
+of silica on the surface of the composite, or even
+on the surface of the ﬁbers, could have a pro-
+found effect on the compatibility. In general,
+compatibility is ensured by limiting the coolant/
+structure interface temperature and the exposure
+time, as well as the impurities. Compatibility data
+are essential to the establishment of both tempera-
+ture limits and design lifetimes.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+89
+The helium transmutation rates are very high in
+silicon carbide composite blankets with a lead–
+lithium coolant/breeder. The transmuted He can
+have a signiﬁcant effect on swelling (dimensional
+stability), hermeticity (coalescence of He bubbles
+on grain boundaries and interfaces), mechanical
+properties (weakening of joints and interfaces),
+and thermal conductivity (added resistance to
+heat ﬂow). In addition to expanding the current
+programs studying the effects on implanted He, it
+is essential to conduct neutron-irradiation studies
+with concurrent He production in order to ad-
+dress potential life-limiting phenomena associated
+with He transmutation.
+Other time-dependent phenomena that could
+affect lifetime are radiation-enhanced creep (di-
+mensional stability), thermal creep (dimensional
+stability and failure) and thermal fatigue (failure).
+Although data are available for older ﬁbers and
+composites, it is essential that these phenomena
+be quantiﬁed for the newer materials.
+Given the state of the art of SiCf/SiC composite
+development, it is premature to specify criteria for
+design lifetime at this point. The R&D effort
+should be developed in such a way that the begin-
+ning-of-life performance (based on unirradiated
+properties) satisﬁes design goals, that the early-in-
+life (one week to one month) performance satisﬁes
+design goals, and that the long term performance
+is adequate for attractive fusion power plant
+performance.
+In the absence of ﬁrm guidelines, some studies
+have assumed certain limits. For example, the
+ARIES studies [7] have assumed a very rough
+estimate of 3% burnup (1.5 atom% He). Certainly
+this is an area where future R&D should be
+directed. No speciﬁc value is proposed for design
+studies at this time.
+4. R&D plan
+Although much has been accomplished through
+the international R&D effort over this last decade
+or so, a new impetus is required to push the R&D
+further in light of the results obtained so far and
+of the key issues identiﬁed through design studies
+for
+high
+performance
+SiCf/SiC-based
+fusion
+power core.
+Material R&D effort is continuing internation-
+ally and should be closely coordinated with the
+design effort. Current efforts are focused both on
+theoretical (modeling and analyses), experimental
+and manufacturing aspects in order to achieve the
+necessary SiCf/SiC improvement and to establish
+its relevance for use as a structural material in
+fusion power core components.
+In the EU, theoretical activities include the
+development
+of
+the
+TAURO
+Pb–17Li-based
+blanket conceptual design with the double objec-
+tive of: (i) improving behavioral modeling and
+results interpretation; and (ii) supplying useful
+guidelines for the material development and char-
+acterization in order to relax some critical issues
+concerning the manufacturing of complex shapes.
+The development of a veriﬁcation methodology
+for structural analysis is a mandatory action for
+any reactor design study involving ceramic matrix
+composites. Further activities will be carried out
+in order to identify a more reﬁned model and a
+resistance criterion; in particular a new microme-
+chanical damage model could be investigated by
+CEA in order to decrease the number of mechan-
+ical tests required for the identiﬁcation of parame-
+ters describing the behavior of the composite.
+The improvement of both the thermal conduc-
+tivity and the stability of the thermo-mechanical
+properties during irradiation is a fundamental is-
+sue for SiCf/SiC R&D: the continual progress in
+ﬁber quality, which led to the fabrication of al-
+most stoichiometric ﬁbers, indicates good pro-
+gress towards reducing such a concern. However,
+a large effort has to be conducted for improving
+the matrix–ﬁber interface. Improvements of the
+SiC matrix processing to reduce the differences in
+performance with respect to the bulk CVD SiC
+seem more challenging as an R&D pursuit. New
+composites development is highlighted in the cur-
+rent R&D program. SNECMA has recently pro-
+posed a study for improvement of its composites
+based on: (i) the decreasing of porosity from
+10% to 4% by means of a new matrix sili-
+conized grade reaction giving SiCf/SiC+Si com-
+posite; and (ii) the use of Hi-Nicalon S ﬁbers with
+a new interphase+CVI matrix. New composites
+will be also manufactured by ENEA via polymer
+inﬁltration and pyrolysis by using advanced poly-
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+90
+mer and stoichiometric ﬁber 3D preforms and
+performing the pyrolysis at higher temperatures in
+order to provide an almost crystalline -SiC matrix.
+The capability of producing large-scale half-ﬁnished
+products and complex small mock-ups or large
+prototypes is well documented by SNECMA.
+A number of irradiation tests are being planned
+internationally, as summarized in Table 9. For the
+irradiationtestingscheduledattheHighFluxReactor
+at Petten, NL, the SiCf/SiC composites will be
+provided by the European Union, the United States
+andJapanintheframeworkofanIEAcollaboration.
+The main properties to be investigated will be the
+bending strength and thermal diffusivity following
+irradiations at 900 and 1300 K temperature levels
+and up to a damage dose of 2.5 dpa. The possibility
+of some in-pile conductivity monitoring will be
+evaluated.
+A study of the stability of SiCf/SiC composites
+in Pb–17Li is ongoing. The new exposure campaign
+will be carried out up to 6000 h in physico-chemical
+conditions approaching those representative of the
+TAURO blanket coolant (i.e. temperature of about
+800 K, ﬂowing LiPb with 0.5–1 m/s velocity). After
+exposure the samples will be characterized in order
+to investigate thermal stability and the degradation
+of thermo-mechanical properties.
+In the US, the R&D plan has a primary goal of
+understanding the scientiﬁc basis for the behavior
+of SiCf/SiC composites and a secondary goal of
+applying this understanding to improve the perfor-
+manceofthesematerials. Examples ofthisapproach
+are the following two tasks: (1) to develop a
+fundamentalunderstandingoftheradiationdamage
+in monolithic SiC and SiC ﬁbers with and without
+gaseous transmutations, i.e. with and without He;
+and (2) to improve the radiation stability in SiC
+ﬁber/interphase/matrixstructures.Thefundamental
+understanding will help identify the limits to these
+materials and to assist in the selection of optimized
+ﬁber/interphase/matrix combinations. The funda-
+mental understanding will also underpin efforts to
+modeltheradiationresponseofSiCf/SiCcomposites.
+Fusionenergysystemswillrequirecomponentslarger
+than the current size of SiCf/SiC composites that can
+be fabricated. Therefore, the US program is also
+focused on development of low activation, radiation
+resistantjoiningmethodology.Thestartingpointfor
+this effort is the joining methodology developed for
+non-nuclear programs with the US fusion program
+adapting these techniques to produce the desired
+properties.Thermalconductivityisathirdtopicthat
+the US program is currently investigating. There is
+an effort to model radiation effects on the thermal
+conductivity of these materials and to develop
+engineering approaches to enhancing their thermal
+con2ductivity. Two smaller research efforts include:
+(1)demonstratingtechniquesforproductionoflarge
+components; and (2) development of a database on
+the high-temperature fracture strength, creep and
+thermal conductivity.
+Table 9
+Summary of planned irradiation SiCf/SiC tests
+Irradiation level
+Reactor
+SiC irradiation tests
+Temperature
+(°C)
+(dpa)
+10
+HFIR
+500, 800
+12J and 14J (monolithic and composite: thermal conductivity, bend strength,
+dimensional change ﬁber strain and creep)
+600–1500
+HFIR
+Mapping Elevated Temperature Swelling (METS) capsules (single crystals and
+1.5, 3.0
+Morton CVD)
+2.5
+In planning stages. Will probably include composite thermal conductivity and
+HFR
+600–1000
+ﬁber creep
+ATR
+2
+Composite thermal conductivity
+300
+400–600
+30
+JOYO
+Thermo-mechanical properties
+JMTR
+He effect through boron injection followed by irradiation
+500–1000
+1
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+91
+The US R&D plan recognizes the importance
+of collaboration with the EU and Japanese fusion
+materials programs, of non-nuclear ceramic com-
+posite programs to provide basic material devel-
+opment and property input and of small business
+innovative research efforts. The goal of the US
+program is to address issues that are unique to
+fusion and rely on other sources of information
+for much of the ﬁber and composite development
+and database.
+In Japan, the theoretical activities include the
+development of the DREAM and D-SSTR con-
+ceptual designs under JAERI and a new activity
+on He-cooled solid blanket design study as a part
+of the next Japan–US collaboration program
+from 2001 to 2007. The theory and modeling
+work is also recognized to be a very important
+part of the SiCf/SiC R&D for fusion applications.
+The development of structural analysis method-
+ology and establishment of design codes with
+sufﬁcient and appropriate safety margin are espe-
+cially important for the utilization of SiCf/SiC and
+ceramic matrix composites and would be carried
+out in collaboration by JAERI/NIFS and univer-
+sities. The efforts to develop chemical and mi-
+crostructural
+analysis
+methodologies
+and
+establishment of mechanical property evaluation
+methodologies with the emphasis on small speci-
+men test technology (SSTT) for irradiated materi-
+als are important ongoing activities in universities
+and NRIM. The R&D efforts to develop simula-
+tion damage studies for 14-MeV neutrons utilizing
+electrons, ions and ﬁssion neutrons have been
+strengthened, together with the key technology
+development for IFMIF.
+The improvement of both the thermal conduc-
+tivity and the stability of the thermo-mechanical
+properties before and after irradiation has been an
+important issue in the Japanese program, where
+signiﬁcant ﬁber property improvements have been
+accomplished and are still ongoing. These im-
+provements include achieving near-stoichiometry
+composition with higher crystallinity and explor-
+ing effects of metallic element additions, in ﬁbers
+such as Hi-Nicalon type-S, Tyranno-SA and oth-
+ers. Efforts have also been underway for improv-
+ing matrix–ﬁber interface and for improving the
+SiC matrix in order to improve total performance
+of SiCf/SiC composites. These efforts for fusion
+application are based on non-fusion R&D activi-
+ties in Japan, such as the AMG program, the
+Sunshine project and others. CREST-ACE pro-
+gram and the current Japan–USA collaborative
+program, JUPITER, are the most active efforts in
+trying to develop SiCf/SiC for fusion application.
+Further development of composite fabrication
+process is in progress including: (1) multiple-inter-
+phase+CVI matrix, (2) PIP (polymer inﬁltration
+and pyrolysis) using new polymers and their
+blends, (3) RS (reaction sintering, or melt inﬁltra-
+tion) using ﬁller powders, (4) HP (hot pressing),
+and (5) a combined process of (1)–(4). These
+process developments are in progress at Kyoto
+University, Osaka Prefecture University, NRIM,
+JAERI,
+Tokyo
+Institute
+of
+Technology
+and
+others.
+Kyoto University/Ube has produced tubes and
+cone shaped-components for hermeticity/vacuum
+properties measurement (Hokkaido/Kyoto), tri-
+tium inventory test (Kyushu/Kyoto), UNICEX
+(unit cell experiment to be done by Kyoto/UCLA
+as a part of the next Japan–USA collaboration
+program, JUPITER-II) and others. This effort
+has just started and will be continued extensively
+for three to four years.
+As an ISTC program, a very preliminary study
+on in-reactor creep of SiCf/SiC is ongoing be-
+tween Japan and the Russian Federation. The
+new
+Japan–US
+collaborative
+program,
+JUPITER-II, will be initiated on April 1, 2001,
+under
+which
+the
+following
+tasks
+will
+be
+investigated:
+Task 2: High-temperature gas-cooled blanket
+ Sub-task 2-1: Pre-irradiation studies of key
+materials system issues
+– SiC hermetic joining, coatings, thermal
+conductivity improvement, high tempera-
+ture corrosion, and compatibility with Be/
+breeders
+– SiC
+fabrication
+R&D
+and
+materials
+supply
+– SiC materials system thermal–mechanical
+interactions
+ Sub-task 2-2: Irradiation testing of materials
+systems
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+92
+– SiC capsule irradiations
+As part of the domestic programs, fast neutron
+irradiation in JOYO and mixed-spectrum neutron
+irradiation in JMTR are in progress. The main
+properties to be investigated will be the bending
+strength, thermal diffusivity, tensile strength, fa-
+tigue properties, and creep properties following an
+irradiation at a temperature of up to 1300K and a
+damage dose of up to 5 dpa. The possibility of
+some in-pile conductivity monitoring will be eval-
+uated. A new high resolution HVEM+ion accel-
+erator at CARET, Hokkaido University, will
+provide in-situ observation results of radiation
+damage in SiCf/SiC composites. A new multiple
+beam irradiation test facility at Kyoto University
+(DuET Facility) will provide data from 4 to 1600
+K (in vacuum and in gaseous environments) un-
+der precisely controlled conditions for systematic
+and accurate experiments for establishing radia-
+tion damage process integration.
+Studies of the stability of SiCf/SiC composites
+in Pb–17Li, Li and Flibe are ongoing. This activ-
+ity will be expanded as a part of the upcoming
+JUPITER-II program under the collaboration
+with INEEL.
+5. Conclusions
+The use of SiCf/SiC composite as a structural
+material in fusion reactors is attractive based on
+its low induced radioactivity and afterheat. It has
+been considered in several power plant studies,
+most recently in the TAURO, DREAM, and
+ARIES-AT design studies. From these studies,
+several issues have been identiﬁed for the SiCf/SiC
+material. These include the cost of fabrication, the
+joining methods, and the factors limiting the
+range of operation and performance, in particular
+the rather low thermal conductivity at high tem-
+perature and under irradiation, and the maximum
+allowable
+operating
+temperature
+(based
+on
+strength degradation and/or compatibility). These
+have identiﬁed the progress required in developing
+the new generation SiCf/SiC in order to make it
+an attractive high performance fusion power core
+material with safety advantages.
+Based on the available results and a reasonable
+extrapolation in improving SiCf/SiC, in particular
+the goal of achieving stoichiometry (minimizing
+impurities), the SiCf/SiC parameters and proper-
+ties shown in Table 5 are recommended for
+present design analysis of SiC/SiC-based power
+plant for the long term (20–30 years in the future,
+or more). This is in agreement with the suggestion
+emerging from the last International Town Meet-
+ing on SiC/SiC Design and Material Issues for
+Fusion Systems [26].
+Acknowledgements
+This paper resulted in great part from very
+informative
+discussions
+at
+the
+‘International
+Town Meeting on SiC/SiC Design and Material
+Issues for Fusion Systems’, which was held at Oak
+Ridge National Laboratory on January 18–19,
+2000 [26]. The meeting was very successful in
+achieving its main objective of bringing together
+the SiC/SiC design and material communities
+from Japan, the EU and the US to exchange
+information, identify the design-related critical is-
+sues, discuss them in the light of the latest mate-
+rial R&D results, and provide guidelines to help
+focus future effort. The authors gladly acknowl-
+edge
+the
+contributions
+of
+all
+the
+meeting
+participants.
+References
+[1] F. Najmabadi, R. Conn et al., The ARIES-I tokamak
+reactor study, Final Report, UCLA-PPG-1323, UCLA,
+CA, 1991.
+[2] F. Najmabadi, R.W. Conn, The Aries Team, The ARIES-
+II and ARIES-IV second-stability tokamak reactors, Pro-
+ceedings TMTFE-10, La Grange Park, IL, USA, June,
+1992.
+[3] L.M. Waganer, Innovation Leads the Way to Attractive
+IFE Reactors-Prometheus-L & Prometheus-H, IAEA
+Technical Committee Meeting and Workshop on Fusion
+Reactor Design and Technology, 13–17 September, 1993.
+[4] H. Golﬁer et al., Progress on the TAURO blanket system,
+Proceedings SOFT-21, 2000.
+[5] L. Boccaccini et al., Advanced helium cooled pebble bed
+blanket, Task PPA2.6, Final Report, Forschungszentrum,
+Karlsruhe, Germany, FZKA 6402, June, 2000.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+93
+[6] S. Nishio, S. Ueda, I. Aoki, R. Kurihara, et al., Improved
+tokamak concept focusing on easy maintenance, Fusion
+Engng Des. 41 (1998) 357–364.
+[7] A.R. Raffray, L. El-Guebaly, S. Gordeev, S. Malang, E.
+Mogahed, F. Najmabadi, I. Sviatoslavsky, D.K. Sze,
+M.S. Tillack, X. Wang, The ARIES Team, High perfor-
+mance blanket for ARIES-AT power plant, in Proc. 21st
+Symposium on Fusion Technology, Madrid, Spain, Sep-
+tember, 2000, in press.
+[8] L. Giancarli, J.P. Bonal, A. Caso, G. Le Marois, N.B.
+Morley, J.F. Salavy, Design requirements for SiC/SiC
+composites structural material in fusion power reactor
+blanket, Fusion Engng Des. 41 (1998) 165–171.
+[9] L. Giancarli, G. Aiello, A. Caso, A. Gasse, et al., R&D
+Issues for SiCf/SiC composites structural material in fu-
+sion power reactor blankets, Fusion Engng Des. 48 (2000)
+509–520.
+[10] B. Riccardi, P. Fenici, A. Frias Rebelo, L. Giancarli, G.
+Le Marois, E. Philippe, Status of the European R&D
+activities on SiCf/SiC composites for fusion reactors, Fu-
+sion Engng Des. 51–52 (2000) 11–22.
+[11] I. Cook, Fusion Engng Des. 25 (1994) 179.
+[12] G. Aiello et al., SiCf/SiC composites for structural appli-
+cations in fusion power reactors: the TAURO blanket, in
+Proc. 12th International Conference on Composite Mate-
+rials (ICCM-12), Paris, 5–9 July, 1999.
+[13] G. Aiello, L. Giancarli, H. Golﬁer, J.-F. Maire, Modeling
+of mechanical behavior and design criteria for SiCf/SiC
+composite structures in fusion reactors, Fusion Engng
+Des., in press.
+[14] G. Aiello, H. Golﬁer, J.-F. Maire, Y. Poitevin, J.-F.
+Salavy, Modeling of SiCf/SiC composite structures for
+nuclear components, Fusion Engng Des. 51–52 (2000)
+73–79.
+[15] H. Golﬁer, G. Aiello, M.A. Fu¨tterer, A. Gasse, et al.,
+Performances of TAURO blanket system associated with
+a liquid-metal cooled divertor, Fusion Engng Des. 49–50
+(2000) 559–565.
+[16] S. Malang, H. Schnauder, M.S. Tillack, Combination of a
+self-cooled liquid-metal blanket with a gas turbine power
+conversion system, Fusion Engng Des. 41 (1998) 561–
+567.
+[17] S. Nishio, S. Ueda, I. Aoki, R. Kurihara et al., Mainte-
+nance oriented tokamak reactor with low activation mate-
+rial, Fusion Energy 1996, in Proc. 16th Int. Conf. on
+Fusion Energy, vol. 3, International Atomic Energy
+Agency, Vienna, 1997, p. 693.
+[18] S. Nishio, S. Ueda, R. Kurihara, T. Kuroda, et al.,
+Prototype tokamak fusion power reactor based on SiC/
+SiC composite material focusing on easy maintenance,
+Fusion Engng Des. 48 (2000) 271–279.
+[19] Y. Murakami, H. Takase, K. Shinya, S. Nishio, et al.,
+Power plant design study of a high aspect ratio tokamak
+using a SiC composite structure, Fusion Engng Des. 41
+(1998) 501–509.
+[20] Y. Murakami, M. Sugihara, Optimization of steady-state
+and hybrid operation in a tokamak fusion reactor by
+using divertor scaling models, Fusion Technol. 24 (1993)
+375.
+[21] J. Bohdanski, Important sputtering yield data for toka-
+maks: a comparison of measurements and estimates, J.
+Nucl. Mater. 93&94 (1980) 44.
+[22] M. Matsunami, et al., Energy dependence of ion-induced
+sputtering yield of monoatomic solids in the low energy
+region, IPPJ-AM-52, 1987.
+[23] D.L. Smith, J.N. Brooks, A physical sputtering code for
+fusion applications, in Proc. 9th Symp. on the engineering
+problems of fusion research, IEEE Pub. No. 81CH1715-2,
+1981, p. 719.
+[24] A.R. Raffray, L. El-Guebaly, S. Malang, I. Sviatoslavsky,
+M.S. Tillack, X. Wang, and The ARIES Team, ARIES-
+AT blanket and divertor, Fusion Technology 39 (2001)
+429–433.
+[25] R. Schleicher, A.R. Raffray, C.P. Wong, An assessment
+of the Brayton cycle for high performance power plant,
+Fusion Technology 39 (2001) 823–827.
+[26] International Town Meeting on SiC/SiC Design and Ma-
+terial Issues for Fusion Systems, Oak Ridge National
+Laboratory, January 18–19, 2000, http://aries.ucsd.edu/
+PUBLIC/SiCSiC.
+[27] D.A. Petti, L.A. El-Guebaly, et al., and the ARIES Team,
+Safety and environment assessment of ARIES-AT, Fu-
+sion Technology 39 (2001) 449–457.
+[28] R.L. Miller, and The ARIES Team, Systems context of
+the ARIES-AT conceptual fusion power plant, Fusion
+Technology 39 (2001) 439–443.
+[29] E. Mogahed, L. El-Guebaly, A. Abdou, P. Wilson, D.
+Henderson, and the ARIES Team, Loss of coolant and
+loss of ﬂow accident analyses for ARIES-AT power plant,
+Fusion Technology 39 (2001) 462–466.
+[30] A. Kohyama, Y. Katoh, T. Hinoki, W. Zhang, M. Ko-
+tani, in Proc. 8th European Conference on Composite
+Materials, vol. 4, 1998, pp.15–22.
+[31] M. Singh, Microstructure and mechanical properties of
+reaction-formed joints in reaction-bonded silicon carbide
+ceramics, J. Mater. Sci. 33 (1998) 1–7.
+[32] T. Ishikawa, S. Kajii, T. Hisayuki, High heat-resistant
+SiC-polycrystalline ﬁber and its ﬁber-bonded ceramic,
+presented at the American Ceramic Society 24th Annual
+Cocoa Beach Conference & Exposition: An International
+Conference on Engineering Ceramics and Structures, Co-
+coa Beach, FL, January 23–28, 2000.
+[33] L.V. Interrante, C.W. Whitmarsh, W. Sherwood, H.-J.
+Wu, R. Lewis, G.E. Maciel, in Mats. Res. Soc. Sympos.
+Proc., Proceedings of the Symposium on Better Ceramics
+Through Chemistry IV, vol. 346, 1994, pp. 593–603.
+[34] P. Lemoine, M. Ferraris, M. Salvo, M. Appendino Mon-
+torsi, J. Eur. Ceram. Soc. 16 (1996) 1231–1236.
+[35] M. Ferraris, M. Salvo, C. Isola, M. Appendino Montorsi,
+A. Kohyama, J. Nucl. Mater. 258–263 (1998) 1546–1550.
+[36] A. Gasse, G. Aiello, L. Giancarli, G. Le Marois, J.-F.
+Salavy, J. Szczepanski, Progress on SiCf/SiC structures
+joining techniques and modelling for design analyses,
+Proc. SOFT-20, (1998). See also, A.Gasse et al., Speciﬁc
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+94
+non reactive BraSiC alloys for SiC/SiC joining, Report
+CEA-Grenoble, DEM no. DR 25/97, December, 1997.
+[37] R.H. Jones, D. Steiner, G.A. Newsome, H.M. Kerch,
+Radiation resistant ceramic matrix composites, J. Nucl.
+Mater. 245 (1997) 87.
+[38] L.L. Snead, R.H. Jones, A. Kohyama, P. Fenici, Status of
+silicon carbide composites for fusion, J. Nucl. Mater.
+233–237 (1996) 26.
+[39] P. Fenici, A.J. Frias Rebolo, R.H. Jones, A. Kohyama,
+L.L. Snead, Current status of SiC/SiC composites R&D,
+J. Nucl. Mater. 258–263 (1998) 215.
+[40] G.E. Youngblood, R.H. Jones, G.N. Morscher, Akira
+Kohyama, Creep behavior for advanced polycrystalline
+SiC ﬁbers, in Fusion Materials Semi-annual Progress
+Report for Period Ending December 31, DOE/ER-0313/
+21, 1996, p. 89.
+[41] G.N. Morscher, J.A. DiCarlo, Creep and stress relaxation
+properties in relation to microstructures for SiC ﬁbers,
+HITEMP Review, vol. III, NASA CP19117, October
+25–27, 1993.
+[42] J.A. DiCarlo, H.M. Yun, Microstructural factors affect-
+ing creep-rupture failure of ceramic ﬁbers and composites,
+Ceram. Trans. 99 (1998) 119.
+[43] C.H. Henager Jr, R.H. Jones, High-temperature plasticity
+effects in bridged cracks and sub-critical crack growth in
+ceramic composites, Mater. Sci. Engng A 166 (1993) 211.
+[44] C.H. Henager Jr, R.H. Jones, Subcritical crack growth in
+CVI silicon carbide reinforced with Nicalon ﬁbers: experi-
+ment and model, J. Am. Ceram. Soc. 77 (1994) 2381.
+[45] R.H. Jones, C.H. Henager Jr, Fusion Reactor Materials
+Semiannual Progress Report for period ending March 31,
+DOE/ER-0313/14, 1993, p. 451.
+[46] J.W. Holmes, Inﬂuence of stress ratio on the elevated-
+temperature fatigue of a silicon carbide ﬁber-reinforced
+silicon nitride composite, J. Am. Ceram. Soc. 74 (1991)
+1639.
+[47] N. Chawla, Y. Tur, J.W. Holmes, J.R. Barber, High-fre-
+quency fatigue behavior of woven-ﬁber-fabric-reinforced
+polymer-derived ceramic matrix composites, J. Am. Ce-
+ram. Soc. 81 (1998) 1221.
+[48] S. Zhu, M. Mizuno, Y. Kagawa, J. Cao, Y. Nagano, H.
+Kaya, Creep and fatigue behavior in Hi-Nicalon ﬁber-re-
+inforced silicon carbide composites at high temperatures,
+J. Am. Ceram. Soc. 82 (1999) 117.
+[49] A.J. Eckel, J.Z. Gyekenyesi, T.P. Halso, E.R. Generazio,
+Thermal stock of ﬁber reinforced ceramic matrix com-
+posites, NASA TM-103777, 1991.
+[50] H. Wang, R. Singh, Ceramic Engineering and Science
+Proc., Cocoa Beach meeting, 1994.
+[51] H.W. Scholz, PhD Thesis, University of Karlsruhe, Ger-
+many, Report EUR 17681 DE, 1997.
+[52] R.J. Price, Neutron irradiation-induced voids in beta-sili-
+con carbide, J. Nucl. Mater. 48 (1973) 47.
+[53] G.W. Hollenberg, C.H. Henager Jr, G.E. Youngblood,
+D.J. Trimble, S.A. Simonson, G.A. Newsome, E. Lewis,
+The effect of irradiation on the stability and properties of
+monolithic silicon carbide and SiCf/SiC composites up to
+25 dpa, J. Nucl. Mater. 219 (1995) 70.
+[54] G.E. Youngblood, R.H. Jones, A. Kohyama, L.L. Snead,
+Radiation response of SiC-based ﬁbers, J. Nucl. Mater.
+258–263 (1998) 1551–1556.
+[55] D.J. Senor, G.E. Youngblood, C.E. Moore, D. Trimble,
+G.A. Newsome, J.J. Woods, Effects of neutron irradia-
+tion on thermal conductivity of SiC-based composites and
+monolithic ceramics, Fusion Technol. 30 (3) (1996) 943–
+955.
+[56] G.E. Youngblood, D.J. Senor, R.H. Jones, S. Graham,
+The thermal conductivity of 2D SiCf/SiC composites, J.
+Nucl. Mater., in press.
+[57] G.E. Youngblood, C.H. Henager, Jr, R.H. Jones, Effects
+of neutron irradiation on the strength of continuous
+ﬁber-reinforced SiC/SiC composites, in Fusion Materials
+Semiannual Progress Report for Period Ending December
+31, DOE/ER-0313/21, 1996, p. 117.
+[58] L.L. Snead, private communication.
+[59] R.J. Price, Properties of silicon carbide for nuclear fuel
+particle coatings, Nucl. Technol. 35 (1977) 320.
+[60] R. Scholz, Light ion irradiation creep of SiC ﬁbers in
+torsion, J. Nucl. Mater. 258–263 (1998) 1533.
+[61] R. Scholz, G.E. Youngblood, Irradiation creep of ad-
+vanced silicon carbide ﬁbers, J. Nucl. Mater. 283–287
+(2001) 372–375.
+[62] K. Sasaki, T. Yano, T. Maruyama, T. Iseki, Helium
+release and microstructure of neutron-irradiated SiC ce-
+ramics, J. Nucl. Mater. 179–181 (1991) 407.
+[63] T. Noda, H. Araki, S. Ito, M. Fujita, K. Maki, in Proc.
+of 2nd IEA/JUPITER Joint International Workshop on
+SiC/SiC Ceramic Composites for Fusion Applications,
+Sendai, October, 1997, p. 121.
+[64] Y. Katoh, T. Hinoki, A. Kohyama, T. Shibayama, H.
+Takahashi, L.L. Snead, S.J. Zinkle, in Proc. 9th Interna-
+tional Conference on Fusion Reactor Materials, Colorado
+Springs, October, 1999.
+[65] S. Nogami, A. Hasegawa, K. Abe, T. Taguchi, R. Ya-
+mada, in Proc. 9th International Conference on Fusion
+Reactor Materials, Colorado Springs, October, 1999.
+[66] A. Hasegawa, S. Nogami, K. Abe, B.M. Oliver, R.H.
+Jones, in Proc. 9th International Conference on Fusion
+Reactor Materials, Colorado Springs, October, 1999.
+[67] P. Jung, J. Nucl. Mater. 191–194 (1992) 377–381.
+[68] A.J. Frias Rebelo, H.W. Scholz, H. Kolbe, G.P. Tar-
+taglia, P. Fenici, J. Nucl. Mater. 258–263 (1998) 1582–
+1588.
+[69] A. Hasegawa, M. Saito, K. Abe, R.H. Jones, J. Nucl.
+Mater. 253 (1998) 31–35.
+[70] H.W. Scholz, A.J. Frias Rebelo, D.G. Rickerby, P.
+Krogul, W.E. Lee, J.H. Evans, P. Fenici, J. Nucl. Mater.
+258–263 (1998) 1572–1576.
+[71] A. Hasegawa, M. Saito, S. Nogami, K. Abe, R.H. Jones,
+H. Takahashi, J. Nucl. Mater. 264 (1999) 355.
+[72] P. Fenici, R. Scholz, Advanced low-activation materials.
+Fibre-reinforced ceramic composites, J. Nucl. Mater.
+212–215 (1994) 60–68.
+[73] A. LaBarbera, B. Riccardi, A. Donato, A. Orsini, L.
+Moreschi, F.S. Alvi, S. Casadio, G. Filacchioni, A.
+A.R. Raffray et al. / Fusion Engineering and Design 55 (2001) 55–95
+95
+Masci, C.A. Nannetti, F. Padella, Compatibility of SiC/
+SiC ﬁbre composite with lithium silicate and lithium
+titanate in fusion relevant conditions, in: R. Beaumont, P.
+Libeure, B. de Gentile, G. Tonon (Eds.), Fusion Technol-
+ogy, 20th SOFT Marseille, 1998.
+[74] M. Dalle Donne, European DEMO BOT Solid Breeder
+Blanket, KfK 5429, November, 1994.
+[75] A. Caso, P. Huet, P.C. Tramier, A new SiC/SiC com-
+posite as low activation structural material, in Proc. SiC/
+SiC composites workshop JRC/Ispra (I), October 28–29,
+1996.
+[76] H. Kleykamp, Chemical reactivity of SiC ﬁbre reinforced
+SiC with beryllium and lithium ceramic breeder materials,
+in Proc. 9th International Conference on Fusion Reactor
+Materials, Colorado Springs, October, 1999.
+[77] X. Aubard, J. Lamon, O. Allix, Model of the nonlinear
+mechanical behavior of 2D SiC–SiC chemical vapour
+inﬁltration composites, J. Am. Ceram. Soc. 77 (8) (1994).
+[78] P. Lade`veze, A. Gasser, O. Allix, Damage mechanisms
+modeling for ceramic composites, J. Engng Mater. Tech-
+nol. (1994) 116.
+[79] S.W. Tsai, A survey of macroscopic failure criteria for
+composite materials, J. Reinf. Plast. Compos. (1983) 2.
+[80] P.D. Soden, M.J. Hinton, A.S. Kaddour, A comparison
+of the predictive capabilities of current failure theories for
+composite laminates, Compos. Sci. Technol. (1998) 58.
+[81] S.W. Tsai, E.M. Wu, A general theory of strength for
+anisotropic materials. J. Compos. Mater. (1971) 5.
+.

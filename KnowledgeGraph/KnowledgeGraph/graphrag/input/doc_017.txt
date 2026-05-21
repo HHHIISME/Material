@@ -1,0 +1,553 @@
+# Fabrication of La2Zr2O7 ceramic fibers via ele
+
+Fabrication of La2Zr2O7 ceramic ﬁbers via electrospinning method
+using different La2O3 precursors
+Kangkang Yuan, Cong Feng, Xinzhu Gan, Zhichao Yu, Xinqiang Wang n, Luyi Zhu,
+Guanghui Zhang, Dong Xu
+State Key Laboratory of Crystal Materials and Institute of Crystal Materials, Shandong University, Jinan 250100, PR China
+a r t i c l e i n f o
+Article history:
+Received 23 May 2016
+Received in revised form
+12 July 2016
+Accepted 13 July 2016
+Available online 15 July 2016
+Keywords:
+La2Zr2O7 ﬁber
+Electrospinning
+LaCl3  7H2O
+La(NO3)3  6H2O
+La(CH3COO)3  4H2O
+a b s t r a c t
+Despite La2Zr2O7 ceramic ﬁber has been fabricated by electrospinning method, the effects of thermal
+pyrolysis process on the microstructures and properties of the ﬁbers have seldom been considered. Three
+La2O3 precursors were used to prepare La2Zr2O7 ceramic ﬁbers. Phase transformation of La2Zr2O7 ceramic
+ﬁbers were characterized by XRD and Raman spectra. The inﬂuence of the decomposition process on the
+microstructure of the ﬁbers was studied by TG/DSC, XPS and SEM. The results show that slow weight loss
+leads to smaller grain size which could obtain higher strength ﬁbers while fast weight loss could develop
+pores which are beneﬁt to the decrease of the thermal conductivity.
+& 2016 Elsevier Ltd and Techna Group S.r.l. All rights reserved.
+1. Introduction
+The pyrochlore phase of La2Zr2O7, owning the properties of
+high
+melting
+point
+(2300 °C),
+low
+thermal
+conductivity
+(1.56 W m1 K1), good thermal and chemical stability, no phase
+transitions, and low sintering activity, is believed to be a promising
+candidate for the high temperature insulation applications [1]. Due
+to the
+high
+temperature
+stability and
+pyrochlore
+structure,
+La2Zr2O7 can also be used as support in the catalytic combustion
+[2] and host of ﬂuorescence center [3]. Furthermore, the ferro-
+electric [4] and electrical properties [5] of La2Zr2O7 were also
+studied for its superstructure.
+Electrospinning, a process that could stretch a viscous con-
+ductive ﬂuid into a thin jet via electrostatic force, is a simple
+method of fabricating ﬁberous materials with diameters ranging
+from several micrometers to tens of nanometers, including poly-
+mer, composite and ceramic [6]. Combining with the sol-gel
+method, inorganic nanoﬁbers could be produced by the calcina-
+tion of precursor ﬁbers at high temperatures. La2Zr2O7 ﬁbers can
+be fabricated by electrospinnig with sol-gel method. There have
+been several reports on the preparation of La2Zr2O7 ﬁbers with
+electrospinning [2,5,7], while the loose structure and large crys-
+talline grain size at 1000 °C would lead to a poor strength of the
+ﬁbers. Dense La2Zr2O7 ﬁbers have been fabricated by Tang et al.
+[8], but the doped silica would limit the high temperature
+application.
+In the present work, LaCl3  7H2O, La(NO3)3  6H2O, and La
+(CH3COO)3  4H2O were used as La2O3 precursors to prepare pure
+La2Zr2O7 ﬁbers via electrospinning method. The inﬂuence of the
+three La2O3 precursors on the ﬁber microstructure was char-
+acterized by SEM and TG/DSC. The phase transformation process
+and
+thermal
+conductivity
+of
+the
+La2Zr2O7
+ﬁber
+were
+also
+discussed.
+2. Experimental
+Basic zirconium carbonate (BZC, ZrO2Z40%, Zibo Xinlüyuan
+Biological Chemical Co., Ltd. Zibo, China), glacial acetic acid
+(CH3COOH, Z99.5%, Tianjin Fuyu Fine Chemical Co., Ltd. Tianjin,
+China), anhydrous methanol (CH3OH, Z99.5%, Tianjin Fuyu Fine
+Chemical Co., Ltd. Tianjin, China), La(NO3)3  6H2O (Z99%, Jinan
+Lisen Chemical Co. Ltd. Jinan, China), LaCl3  6H2O (Z99%, Jinan
+Lisen Chemical Co. Ltd. Jinan, China), La(CH3COO)3  4H2O (Z99%,
+Jinan Lisen Chemical Co. Ltd. Jinan, China), Polyethylene oxide
+(PEO, Mw 1,000,000, Aladdin, Shanghai, China), Polyvinylalcohol
+(PVA, Mw 75,000, Adrich, Shanghai, China). All were used as
+starting materials without further puriﬁcation.
+La(NO3)3  6H2O as La2O3 precursor for the fabrication of
+La2Zr2O7 (NLZ) precursor ﬁbers: 5 g BZC was diluted in 2.5 g
+CH3COOH and 13 g CH3OH with continuous magnetic stirring
+under
+60 °C
+until
+the
+mixture
+was
+transparent.
+7.03 g
+La
+Contents lists available at ScienceDirect
+journal homepage: www.elsevier.com/locate/ceramint
+Ceramics International
+http://dx.doi.org/10.1016/j.ceramint.2016.07.086
+0272-8842/& 2016 Elsevier Ltd and Techna Group S.r.l. All rights reserved.
+n Corresponding author.
+E-mail addresses: yuankk@163.com (K. Yuan), xqwang@sdu.edu.cn (X. Wang).
+Please cite this article as: K. Yuan, et al., Fabrication of La2Zr2O7 ceramic ﬁbers via electrospinning method using different La2O3
+precursors, Ceramics International (2016), http://dx.doi.org/10.1016/j.ceramint.2016.07.086i
+Ceramics International 42 (2016) 16633–16639
+(NO3)3  6H2O and 5 g 2% PEO methanol solution were added to the
+above mixture to obtain the electrospinning solution. Electro-
+spinning was carried out with the voltage of 13 kV at room
+temperature. The distance between nozzle and collector was
+16 cm, and the feeding rate was 4.5 ml/h.
+LaCl3  6H2O as La2O3 precursor for the fabrication of La2Zr2O7
+(CLZ) precursor ﬁbers: 5 g BZC was diluted in 2.5 g CH3COOH and
+8 g CH3OH with continuous magnetic stirring under 60 °C until the
+mixture was transparent. 5.74 g LaCl3  6H2O and 5 g 2% PEO me-
+thanol solution were added to the above mixture to obtain the
+electrospinning solution. Electrospinning was carried out with the
+voltage of 12 kV at room temperature. The distance between
+nozzle and collector was 16 cm, and the feeding rate was 1.5 ml/h.
+La(CH3COO)3  4H2O as La2O3 precursor for the fabrication of
+La2Zr2O7 (ALZ) precursor ﬁbers: 5 g BZC was diluted in 2.5 g
+CH3COOH and 10 g CH3OH with continuous magnetic stirring
+under
+60 °C
+until
+the
+mixture
+was
+transparent.
+6.30 g
+La
+(CH3COO)3  4 h2O and 5 g 2% PEO methanol solution were added
+to the above mixture to obtain the electrospinning solution.
+Electrospinningwas carried out with the voltage of 13 kV at room
+temperature. The distance between nozzle and collector was
+16 cm, and the feeding rate was 5 ml/h.
+The obtained precursor ﬁbers were heated at the rate of
+2 °C/min to different temperatures and held for 2 h when ﬁbers
+were treated above 600 °C. Thermogravimetry and differential
+scanning calorimetry (TG/DSC, SDT Q600 v8.3 Biuld 101, TA, US)
+measurements of the precursors were performed at a heating rate
+of 10 °C/min from room temperature to 800 °C in air. Fourier
+transformation infrared (FT-IR, ALPHA-T, Bruker, Germany) spec-
+trum recorded in the region 4000–400 cm1 was measured with a
+RT-DLATGS spectrometer using the KBr pellet method. Raman
+spectrum was obtained by means of a LabRAM HR800 spectro-
+meter equipped with a CCD detector at room temperature and a
+632.8 nm laser as excitation. Elemental analysis of the samples
+was undertaken, using X-ray photoelelctron spectroscopy (XPS,
+Thermo Fisher scientiﬁc, ESCALAB250, US) and Al–Kα radiation.
+X-ray diffraction (XRD, D8 Advance, Bruker, Germany) data col-
+lection was performed with Cu–Kα radiation using a graphite
+monochromator in the range of 10–90° with the increment of
+0.02° and 0.08 s/step. Scanning electron microscope (SEM, S-4800,
+Hitachi, Japan) was used to observe the surface morphologies and
+microstructures of the ﬁbers. The ﬁbers treated at 1200 °C were
+grinded with 5% PVA aqueous solution and infused in a mold to
+obtain a pellet (4 mm  4 mm  1 mm) with a uniaxial press of
+8 MPa. The pellet was put into a furnace at 1000 °C for 2 h to
+completely remove the PVA and then used for thermal con-
+ductivity test. Thermal conductivity was measured by using a
+NETZSCH LFA457 instrument (LFA457, NETZSCH, Germany), and
+the value at each point was the average of triplicate analysis with
+standard derivation less than 0.01 W m1 K1. The density and
+porosity of the pellets were measured by the Archimedes method
+and shown in Table 1.
+3. Results and discussion
+3.1. Decomposition of precursor ﬁbers
+The TG/DSC curves of NLZ, CLZ and ALZ precursor ﬁbers in air
+were shown in Fig. 1. The main and obvious weight losses for NLZ
+and ALZ precursor ﬁbers were below 400 °C. Both NLZ and ALZ
+precursor ﬁbers have a similar exothermal peak at about 340 °C.
+However, continuous weight loss was up to 800 °C for CLZ pre-
+cursor ﬁber, and the exothermal peak at about 464 °C was much
+higher. In order to clearly understand the thermal process, infrared
+spectroscopy was used to investigate the structure evolution of the
+precursors. The IR spectra of NLZ, CLZ and ALZ precursor ﬁbers
+sintered at different temperatures were shown in Fig. 2. For room
+temperature, assignments [9,10] of the three precursor ﬁbers were
+Table 1
+Density, porosity of the pellets and grain size of the ﬁbers sintered at 800 °C and
+1000 °C.
+Pelletsa
+Grain size (nm)b
+Density (g/cm3)
+Porosity (%)
+800 °C
+1000 °C
+NLZ
+3.89
+28.29
+23.1
+25.8
+CLZ
+3.44
+27.68
+6.2
+16.9
+ALZ
+3.43
+27.25
+7.0
+17.7
+a Samples were used for thermal conductivity test.
+b Fiber calculated by XRD.
+Fig. 1. TG/DSC curves of NLZ, CLZ and ALZ precursor ﬁbers in air.
+K. Yuan et al. / Ceramics International 42 (2016) 16633–16639
+16634
+Please cite this article as: K. Yuan, et al., Fabrication of La2Zr2O7 ceramic ﬁbers via electrospinning method using different La2O3
+precursors, Ceramics International (2016), http://dx.doi.org/10.1016/j.ceramint.2016.07.086i
+listed in Table 2. Compared with the spectra of room temperature,
+there are no obvious differences for NLZ, CLZ and ALZ precursor
+ﬁbers at 200 °C. Therefore, the initial weight loss below 200 °C was
+due to the release of absorbed solvent. At 400 °C, the bands as-
+cribed to CH3COO (618, 649, 960, 1341, 1458, and 1546 cm1)
+disappeared, and broad bands centered at 1476, 1398 cm1 were
+due to solid carbonaceous residual [11] emerged for NLZ and ALZ
+precursor ﬁbers. So the obvious mass loss in TG and the exother-
+mal peak at 340 °C in DSC from 200 °C to 400 °C were due to the
+decomposition and carbonate of the organic. However, the bands
+ascribed to CH3COO were still existed for CLZ precursor ﬁber at
+400 °C, and lead the higher exothermal peak in TG/DSC curves,
+which suggest the higher thermal stability of the CH3COO in the
+presence of LaCl3. Zhang et al. [12] attribute the better thermal
+stability to the chemical bonding of the Eu complex with the
+oxygen atoms of the carbonyl groups of PVP and PMMA, which
+results in the decomposition of the Eu complex together with
+PMMA and PVP. In the study of the decomposition of PVA/LaCl3
+[13], Chen et al. found that the presence of LaCl3 could lead to the
+higher exothermic peak of PVA due to the formation of the che-
+mical bonds with oxygen atoms from the hard-alkali-OH groups in
+PVA. The higher exothermal peak for CLZ precursor ﬁber pyrolysis
+may due to the formation of chemical bands between the LaCl3
+and the carbonyl groups of CH3COO.
+XPS was used to determine the content and the chemical state
+of Cl in CLZ ﬁber at higher temperatures. Fig. 3 illustrates the
+narrow scan for XPS spectra of Cl 2p peaks which were deconvo-
+luted into different types of peaks for the overlapped La 4p in the
+region [14]. At 600 °C, the La 2p3/2 component with a binding
+energy of 195.9 eV, matches well with the La 2p3/2 binding energy
+of LaOF at 196.0 eV [15]. The lower Cl 2p3/2 with a binding energy
+of 199.0 eV is a characteristic of a mineral chlorine containing
+phase [14]. In combination with the above La 2p3/2 binding energy
+results, formation of related oxychlorinated lanthanum (LaOCl)
+specie which was oxidized from the LaCl3 could be expected
+[13,16]. The other Cl 2p3/2 component with the binding energy of
+200.6 eV is likely ascribed to chlorinated organic species residual,
+which was in accordance with high exothermal peak in DSC for the
+formation of chemical bands between the LaCl3 and the carbonyl
+groups of CH3COO. For La 2p3/2, two satellite peaks for the
+bonding and anti-bonding components, denote c4f1L binding and
+c4f1L anti-bonding, were existed with the main peak, denoted c4f0
+for the ﬁnal state without charge transfer for La2O3 [17]. Seen from
+Fig. 3 at 800 °C, one can know that the relative positions of the
+peaks are in agreement with the relative positions of the c4f0
+(194.4 eV),
+c4f1L
+binding
+(199.2 eV)
+and
+c4f1L
+anti-bonding
+(196.5 eV) components taken from reference [17] considering
+La2O3 as lanthanum species, no Cl 2p3/2 component was existed at
+the temperature. At 1000 °C, the little change of the relative po-
+sitions of the c4f0 (194.8 eV), c4f1L binding (198.8 eV) and c4f1L
+anti-bonding (196.1 eV) components may due to the structure
+transformation from ﬂuorite to pyrochlore. It can be concluded
+that the slow and continuous weight loss for CLZ was due to the
+formation of LaCl3–CH3COO
+complex and the intermedium
+component of LaOCl at higher temperatures. The solid carbonac-
+eous residual for NLZ, CLZ and ALZ was removed with increased
+temperature from the 1000 °C IR spectrum (not shown).
+Fig. 2. IR spectra of NLZ (N), CLZ (C) and ALZ (A) precursor ﬁbers sintered at dif-
+ferent temperatures.
+Table 2
+Assignments of NLZ, CLZ and ALZ precursor ﬁbers at room temperature.
+Wavenumber (cm1)
+Assignments
+618
+CO2 out of plane
+649
+CO2 Sym. def.
+700–900
+Librational modes of crystallization water
+960
+C–C Str.
+1341
+CH3 sym.def.
+1458
+C–O sym.str.
+1546
+C–O antisym.str.
+K. Yuan et al. / Ceramics International 42 (2016) 16633–16639
+16635
+Please cite this article as: K. Yuan, et al., Fabrication of La2Zr2O7 ceramic ﬁbers via electrospinning method using different La2O3
+precursors, Ceramics International (2016), http://dx.doi.org/10.1016/j.ceramint.2016.07.086i
+3.2. Formation of pyrochlore La2Zr2O7 ﬁbers
+The crystalline structures of the three precursor ﬁbers were
+examined by XRD which were shown in Fig. 4. La2Zr2O7 is con-
+sidered as pyrochlore-type thermodynamically stable structure for
+the ratio of ionic radii of cations La/Zr¼1.61 [18] larger than 1.46
+[19]. The anion vacant makes the surrounding anions to relax from
+the ideal position in ﬂuorite, leading to an observable super-
+structure in the anionic array [20]. As the superstructure of
+pyrochlore
+formed,
+superlattice
+diffraction
+peaks,
+such
+as
+2θ¼36.2° (331), 43.5° (511), can be used to distinguish the defect
+ﬂuorite from the pyrochlore. According to the XRD patterns in
+Fig. 4, the diffraction peaks indexed to the ﬂuorite structure ap-
+peared at 800 °C. It is conﬁrmed that pyrochlore phase start to
+form at 1000 °C because of the obvious pyrochlore superstructure
+reﬂections, i.e., 2θ¼36.2° (331) and the less obvious 43.5° (511)
+etc. At 1200 °C, the pyrochlore superstructure reﬂections became
+more apparent and intense, which suggests the well crystallized
+and pure pyrochlore phase.
+Raman spectroscopy was further used to characterize the
+crystalline structure because it is more sensitive to the metal-
+oxygen mode. For the vacancy in the pyrochlore structure, defect
+ﬂuoride structure can be easily distinguished by Raman spectra.
+Six Raman active modes (A1gþEgþ4F2g) were predicted by the
+factor group analysis for the pyrochlore structure, while only one
+Raman mode (F2g) for the ﬂuorite structure [11]. There are only
+one broad band for the three precursor ﬁbers sintered at 800 °C in
+the Raman spectra in Fig. 5, indicating the formation of defect
+ﬂuoride structure. At 1000 °C, four bands of 302 cm1 to the Eg,
+398 cm1 to the A1g, 419 cm1 to the F2g, and 496 cm1 to the F2g
+appeared, which were corresponding to the pyrochlore-type
+Fig. 3. XPS spectra of the narrow scan of Cl 2p-La 4p of CLZ at (a) 600 °C, (b) 800 °C,
+and (c) 1000 °C.
+Fig. 4. XRD patterns of NLZ (N), CLZ (C) and ALZ (A) precursor ﬁbers sintered at
+800 °C, 1000 °C and 1200 °C.
+Fig. 5. Raman spectra of NLZ (N), CLZ (C) and ALZ (A) precursor ﬁbers sintered at
+800 °C, 1000 °C and 1200 °C.
+K. Yuan et al. / Ceramics International 42 (2016) 16633–16639
+16636
+Please cite this article as: K. Yuan, et al., Fabrication of La2Zr2O7 ceramic ﬁbers via electrospinning method using different La2O3
+precursors, Ceramics International (2016), http://dx.doi.org/10.1016/j.ceramint.2016.07.086i
+structured La2Zr2O7. Taken consideration of the other two bands
+indistinguishable from the background in the spectra [21], the
+Raman spectra conﬁrmed the starting formation of the pyrochlore
+structure at 1000 °C. The intense and obvious Raman bands for
+pyrochlore-type La2Zr2O7 at 1200 °C suggest the pure pyrochlore
+phase formation, which was in consistent with the XPS and XRD
+results.
+3.3. Microstructure and morphology evolution of the ﬁbers
+SEM micrographs of NLZ, CLZ, ALZ ﬁbers sintered from 1000 °C
+to 1400 °C were shown in Fig. 6. At 1000 °C, uniform crystalline
+surface was obtained for CLZ ﬁber. Compared with the non-crys-
+talline smoother section for NLZ ﬁber and the stripe line surface of
+ALZ ﬁber, the surface differences may be due to the thermal
+etching for the uneven organic pyrolysis. At 1200 °C, surface pores
+appeared for NLZ and ALZ ﬁbers, while dense microstructure was
+obtained for CLZ ﬁber. According to the thermal pyrolysis process,
+much solid carbonaceous residual was generated for the rapid and
+deﬁcient organic oxidation pyrolysis. Gas was produced by the
+residual oxidation at high temperatures, thus leading to the pores
+in NLZ and ALZ. Hence, slow organic decomposition was beneﬁt to
+the dense microstructure formation. At 1400 °C, pores were
+eliminated through mass transportation and grain boundary mi-
+gration during grain growth. The average nanocrystalline size for
+the ﬁbers calcined at 800 °C and 1000 °C were calculated from the
+full width at half maximum (FWHM) of XRD peaks using the
+Scherrer equation [22]:
+(
+)
+λ
+β
+θ
+=
+D
+cos
+0.89 /
+hkl
+Furthermore, the grain size distribution of the ﬁbers sintered at
+1200 °C and 1400 °C were estimated by SEM for more than 300
+grains. According to the grain size of the ﬁbers sintered at 800 °C
+and 1000 °C shown in Table 1, the grain growth rates below
+1000 °C were slow, which may be contributed to the small grain
+size growth through Oswald ripening. Compared with the narrow
+grain size distribution of CLZ ﬁber at 1200 °C, broader grain size
+distribution was produced for NLZ and ALZ ﬁbers (See Fig. 7). In
+polycrystalline materials, grain growth occurs at elevated tem-
+peratures to reduce the total area of grain boundaries with high
+Fig. 6. SEM images of NLZ (N), CLZ (C) and ALZ (A) ﬁbers sintered at 1000 °C, 1200 °C and 1400 °C.
+Fig. 7. Grain size distribution of NLZ (N), CLZ (C) and ALZ (A) ﬁbers sintered at 1200 °C and 1400 °C.
+K. Yuan et al. / Ceramics International 42 (2016) 16633–16639
+16637
+Please cite this article as: K. Yuan, et al., Fabrication of La2Zr2O7 ceramic ﬁbers via electrospinning method using different La2O3
+precursors, Ceramics International (2016), http://dx.doi.org/10.1016/j.ceramint.2016.07.086i
+energy. The average grain size increases due to a gradual growth of
+the larger grains and elimination of the smaller ones, through
+grain boundary migration [23]. Taking consideration of micro-
+structures of the ﬁbers in Fig. 6, the thermal etching and non-
+crystalline surface are the major differences for CLZ with the other
+two ﬁbers (NLZ and ALZ ﬁbers) at 1000 °C. The non-crystalline
+surface crystallization and sever thermal etching for NLZ and ALZ
+ﬁbers induce the uneven grain growth at different surface region,
+thus leading the larger grains and grain size distribution in NLZ
+and ALZ ﬁbers. At 1400 °C, broader grain size distribution obtained
+for NLZ and ALZ ﬁbers, and mean grain size was larger than that of
+CLZ. Pores were existed in NLZ and ALZ ﬁbers at lower tempera-
+tures, which could retard the normal grain growth for the uneven
+mass transformation and coalescence. What's more, the broader
+grain size distribution for NLZ and ALZ ﬁbers at 1200 °C led to the
+larger grains through coalescence for the abnormal grain growth.
+While smaller grains were developed in CLZ ﬁbers for the dense
+microstructures and smaller grain size distribution at lower tem-
+peratures. The ﬁner grain size in the microstructure may lead to
+better strength for CLZ ﬁbers.
+3.4. Thermal conductivity of the ﬁbers
+The thermal conductivity of the samples was shown in Fig. 8.
+With the increasing of temperature, the thermal conductivity in-
+creases for the three samples, which shows an adverse tendency
+compared with fully dense polycrystalline La2Zr2O7 ceramic [24].
+At temperature lower than 800 °C, the thermal conductivity of a
+polycrystalline material can be described by the expression [25]:
+κ
+ν Λ
+= C
+/3
+v m
+Where Cv is the speciﬁc heat, νm is the speed of sound and Ʌ is
+the phonon mean-free path. Smaller grain size could increase the
+concentration of defects in the structure which could provide ef-
+fective phonon scattering centers and thus reduce the phonon
+thermal conductivity. Furthermore, the presence of porosity also
+has a greatest effect in decreasing the thermal conductivity of a
+solid [26]. Seen from the microstructure of ﬁbers in Fig. 6 and
+pallets density in Table 2, one can know that the main differences
+are grains and pores for the ﬁbers and porosity for the pallets. CLZ
+pallet shows a lower porosity and smaller crystalline grain size
+compared with NLZ and ALZ pallets. The thermal conductivity of
+CLZ pallet was much higher than that of ALZ and NLZ pallets,
+which shows the experimental thermal conductivity of the present
+samples strongly depends on the porosity. Although the porosity
+of NLZ pallet is slight higher than that of ALZ pallet, ALZ pallet
+shows a lower thermal conductivity. The lower thermal con-
+ductivity of ALZ pallet may attribute to the much more pore mi-
+crostructures for the less effective oxidation of CH3COO than that
+of NO3
+.
+4. Conclusion
+LaCl3  7H2O, La(NO3)3  7H2O, and La(CH3COO)3  4H2O were
+used as three different La2O3 precursors for the fabrication of
+La2Zr2O7 ﬁbers via electrospinning method. The phase transfor-
+mation of La2Zr2O7 from defect ﬂuorite to pyrochlore starts at
+about 1000 °C. The TG/DSC and SEM results show that the pyr-
+olysis of the precursor ﬁbers has as obvious impact on the mi-
+crostructure. The slow and continuous weight loss of CLZ leads to
+formation of smaller grain size ﬁber than those of NLZ and ALZ,
+which could obtain higher strength ﬁbers for the small grain dis-
+tribution. Fast weight loss could develop pores which are beneﬁt
+to increase the porosity and decrease the thermal conductivity,
+although pores could be eliminated at higher temperatures for NLZ
+and ALZ ﬁbers.
+Acknowledgements
+This work was supported by the National Natural Science
+Foundations of China (Grant nos. 51372140 and 51472144) and the
+Fundamental Research Funds of Shandong University (Grant no.
+2015JC022).
+References
+[1] X.Q. Cao, R. Vassen, W. Jungne, et al., Thermal stability of lanthanum zirconate
+plasma-sprayed coating, J. Am. Ceram. Soc. 84 (9) (2001) 2086–2090.
+[2] J.Y. Li, H. Dai, Q. Li, et al., Lanthanum zirconate nanoﬁbers with high sintering-
+resistance, Mater. Sci. Eng. B 133 (s1–3) (2006) 209–212.
+[3] Y.B. Mao, X. Guo, J.Y. Huang, et al., Luminescent nanocrystals with A2B2O7
+composition synthesized by a kinetically modiﬁed molten salt method, J. Phys.
+Chem. C 113 (4) (2009) 1204–1208.
+[4] S. Saitzek, Z. Shao, A. Bayart, et al., Ferroelectricity in La2Zr2O7 thin ﬁlms with a
+frustrated pyrochlore-type structure, J. Mater. Chem. C 2 (20) (2014)
+4037–4043.
+[5] G. Ou, W. Liu, L. Yao, et al., High conductivity of La2Zr2O7 nanoﬁbers by phase
+control, J. Mater. Chem. A 2 (6) (2014) 1855–1861.
+[6] H. Chen, N. Wang, J. Di, et al., Nanowire-in-microtube structured core/shell
+ﬁbers via multiﬂuidic coaxial electrospinning, Langmuir 26 (13) (2010)
+11291–11296.
+[7] J. Wang, X. Dong, Q. Cui, et al., Preparation and characterization of poly-
+crystalline La2Zr2O7 ultraﬁne ﬁbers via electrospinning, J. Nanosci. Nano-
+technol. 11 (3) (2011) 2514–2519.
+[8] H. Tang, H. Sun, D. Chen, et al., Fabrication and characterization of nanos-
+tructured La2Zr2O7 ﬁbers, Mater. Lett. 70 (3) (2012) 48–50.
+[9] N.W. Alcock, V.M. Tracy, T.C. Waddington, Acetates and acetate-complexes.
+Part 2. Spectroscopic studies, J. Chem. Soc. Dalton Trans. 21 (1976) 2243–2246.
+[10] B. Pietro, F. Gianfranco, Study of the bands attributable to crystallization water
+in hydrated metal acetates, Spectrochim. Acta A 37 (2) (1981) 89–92.
+[11] L. Kong, I. Karatchevtseva, D.J. Gregg, M.G. Blackford, et al., A novel chemical
+route to prepare La2Zr2O7 pyrochlore, J. Am. Ceram. Soc. 96 (3) (2013)
+935–941.
+[12] Z. Hui, H. Song, B. Dong, et al., Electrospinning preparation and luminescence
+properties of europium complex/polymer composite ﬁbers, J. Phy. Chem. C 112
+(25) (2008) 9155–9162.
+[13] Y. Chen, Q. Qian, X. Liu, et al., LaOCl nanoﬁbers derived from electrospun PVA/
+lanthanum chloride composite ﬁbers, Mater. Lett. 64 (1) (2010) 6–8.
+[14] N. Nuns, A. Beaurain, M.T.N. Din, et al., A combined TOF-SIMS and XPS study
+for the elucidation of the role of water in the performances of a post-plasma
+process using lamno3þδ as catalyst in the total oxidation of trichloroethylene,
+Appl. Surf. Sci. 320 (320) (2014) 154–160.
+[15] M.V. Ryzhkov, V.A. Gubanov, M.P. Butzman, et al., Electronic structure and
+experimental spectra of some rare-earth oxyﬂuorides, J. Electron. Spectrosc. 21
+(3) (1980) 193–204.
+[16] G. Li, Z. Hou, C. Peng, et al., Electrospinning derived one-dimensional LaOCl:
+Ln3þ (Ln¼Eu, Sm, Tb, Tm) nanoﬁbers, nanotubes and microbelts with
+Fig. 8. Thermal conductivity of NLZ, CLZ and ALZ pallets as a function of
+temperature.
+K. Yuan et al. / Ceramics International 42 (2016) 16633–16639
+16638
+Please cite this article as: K. Yuan, et al., Fabrication of La2Zr2O7 ceramic ﬁbers via electrospinning method using different La2O3
+precursors, Ceramics International (2016), http://dx.doi.org/10.1016/j.ceramint.2016.07.086i
+multicolor-tunable emission properties, Adv. Funct. Mater. 20 (20) (2010)
+3446–3456.
+[17] M.F. Sunding, K. Hadidi, S. Diplas, et al., XPS characterization of in situ treated
+lanthanum oxide and hydroxide using tailored charge referencing and peak
+ﬁtting procedures, Fuel Energy Abstr. 184 (7) (2011) 399–409.
+[18] R.D. Shannon, Revised effective ionic radii and systematic studies of intera-
+tomic distances in halides and chalcogenides, Acta Crystallogr. 32 (5) (1976)
+751–767.
+[19] K.E. Sickafus, T. Hartmann, Radiation tolerance of complex oxides, Science 289
+(5480) (2000) 748–751.
+[20] P.E. Blanchard, R. Clements, B.J. Kennedy, et al., Does local disorder occur in
+the pyrochlore zirconates? Inorg. Chem. 51 (24) (2012) 13237–13244.
+[21] D. Michel, M.P.Y. Jorba, R. Collongues, Study by Raman spectroscopy of order-
+disorder phenomena occurring in some binary oxides with ﬂuorite-related
+structures, J. Raman Spectrosc. 5 (2) (1976) 163–180.
+[22] A.L. Patterson, The Scherrer formula for X-ray particle size determination,
+Phys. Rev. 56 (10) (1939) 978–982.
+[23] O. Toshihiro, K. Tusama, K. Shingo, et al., Abnormal grain growth induced by
+cyclic heat treatment, Science 341 (6153) (2013) 1500–1502.
+[24] X. Ren, C. Wan, M. Zhao, J. Yang, et al., Mechanical and thermal properties of
+ﬁne-grained quasi-eutectoid (La1xYbx)2Zr2O7 ceramics, J. Eur. Ceram. Soc. 35
+(11) (2015) 3145–3154.
+[25] F. Chen, Physical Properties of Materials, ﬁrst ed., China Machine Press, Bei
+Jing, 2006.
+[26] D.R. Clarke, Materials selection guidelines for low thermal conductivity
+thermal barrier coatings, Surf. Coat. Technol. 163–164 (02) (2003) 67–74.
+K. Yuan et al. / Ceramics International 42 (2016) 16633–16639
+16639
+Please cite this article as: K. Yuan, et al., Fabrication of La2Zr2O7 ceramic ﬁbers via electrospinning method using different La2O3
+precursors, Ceramics International (2016), http://dx.doi.org/10.1016/j.ceramint.2016.07.086i

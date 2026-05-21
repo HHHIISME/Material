@@ -1,0 +1,13 @@
+# KnowledgeGraph 子项目：从文本构建知识图谱（GraphRAG）
+# Python >= 3.10, < 3.14
+#
+# 请在「已用于运行 nanobot 的 conda 环境」中安装，不要装到系统默认 Python：
+#   conda activate <你的环境名>
+#   pip install -r requirements.txt
+#
+# 若 graphrag 已在该环境中安装，可只补装其余行（pandas / networkx / lxml 等）。
+
+graphrag>=2.7.0
+pandas>=2.2.3
+networkx>=3.0
+lxml>=4.9.0

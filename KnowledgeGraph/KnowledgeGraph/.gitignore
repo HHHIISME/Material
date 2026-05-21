@@ -1,0 +1,9 @@
+graphrag/cache/
+graphrag/output/
+graphrag/logs/
+graphrag/.env
+*.parquet
+*.lance
+__pycache__/
+*.pyc
+.pytest_cache/

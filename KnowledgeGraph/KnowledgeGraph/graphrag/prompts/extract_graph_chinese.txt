@@ -1,0 +1,141 @@
+
+-目标-
+从文本文档中全面识别所有材料相关的实体和关系，构建知识图谱。重点关注材料、成分、工艺、结构、性能、技术、设备、应用。
+
+-步骤-
+1. 识别实体。格式：("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+2. 识别关系。格式：("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+
+-实体类型-
+提取：
+- MATERIAL（材料/成分/聚合物/纤维/化学物质/溶剂/商业产品名称）：
+  * 具体材料名称：聚丙烯腈纤维、碳纤维、UHMWPE纤维、中空纤维、PET、PAN等
+  * 商业产品名称：Lactron、Kevlar、Nylon等（包括品牌名和商品名）
+  * 化学物质：聚丙烯腈、聚乙烯、聚酯等
+  * 注意：中英文同义词应提取为不同实体，但可在描述中注明对应关系（如：PAN纤维/PAN fiber）
+- PROCESS（制备方法/加工工艺/处理技术）：
+  * 具体工艺名称：干法纺丝、湿法纺丝、缩聚、拉伸、热处理等
+  * 必须是专有技术术语，不是描述性短语
+- STRUCTURE（分子结构/微观结构/排列方式/形态特征）：
+  * 具体结构名称：线性分子结构、螺旋结构、层状结构、纤维状结构等
+  * 纤维形态类型：短纤维、长丝等（这些是形态特征，应归类为 STRUCTURE，不是 MATERIAL）
+  * 必须是具体结构术语
+- PROPERTY（性能指标/物理性质/化学性质/力学性能/材料特性）：
+  * 具体性能名称：强度、耐热性、弹性模量、断裂伸长率、导电性、阻燃性、韧性、密度、稳定性等
+  * 材料特性：耐腐蚀性、生物相容性、可降解性、亲水性、疏水性等
+  * 必须是具体性能术语，不是描述性短语：
+    - 正确："稳定性"（从"材料性能稳定性"中提取）
+    - 错误："材料性能稳定性"（描述性短语）
+    - 正确："韧性"（从"高韧性"中提取核心术语）
+    - 错误："高韧性"（包含程度修饰的描述性短语）
+- TECHNOLOGY（技术方法/技术路线）：
+  * 具体技术名称：液晶纺丝技术、干喷湿纺技术、静电纺丝技术等
+- EQUIPMENT（设备/仪器/装置）：
+  * 具体设备名称：螺杆挤出机、纺丝机、反应器、拉伸机等
+- APPLICATION（应用领域/用途）：
+  * 具体应用领域：航空航天、纺织、医疗、建筑等
+
+-严格排除-
+以下内容不应提取为实体：
+1. 非专有名词的通用描述：该纤维、该材料、该工艺、该技术等（代词+名词）
+2. 描述性短语：发展速度、工业化生产、应用领域扩大、材料性能稳定性、高品质的细密面料、悬吊重物的绳索等
+3. 抽象概念：速度、质量、效率、规模等（除非是具体的技术指标）
+4. 人物、时间、地理位置、组织（公司/机构）、事件
+5. 图表编号、页码、纯数字、单位（如CN·DTEX、G·ML、%等）
+6. 动词短语：进行生产、实现工业化、扩大应用等
+
+-中英文同义词处理-
+1. 中英文同义词应分别提取为不同实体（如：聚丙烯腈纤维 和 PAN fiber）
+2. 在实体描述中注明对应关系（如：PAN fiber 的描述可以是"聚丙烯腈纤维的英文名称"）
+3. 如果文本中明确说明是同一事物（如"聚丙烯腈纤维（PAN fiber）"），可以提取两个实体并建立同义关系
+
+-关系规则-
+工艺→材料、材料→性能、结构→性能、材料→应用、技术→工艺、设备→工艺、技术→材料、材料→材料（同义关系）
+关系强度：强关系7-10，中等4-6，弱关系1-3
+
+-输出要求-
+1. 只提取专有名词和具体技术术语，不提取描述性短语
+2. 商业产品名称必须提取（如Lactron）
+3. 材料特性必须提取（如强度、耐热性等具体性能指标）
+4. 中英文同义词分别提取，并在描述中注明对应关系
+5. 全面提取，不要遗漏任何材料类型、商业产品、技术术语
+6. 只输出格式化的实体和关系，使用{record_delimiter}分隔，完成后输出{completion_delimiter}
+
+######################
+-示例-
+######################
+示例1：
+文本: 聚丙烯腈纤维（PAN fiber）通过干法纺丝制备，具有线性分子结构和优异的耐热性、强度，应用于航空航天领域。螺杆挤出机用于纺丝工艺。
+输出:
+("entity"{tuple_delimiter}聚丙烯腈纤维{tuple_delimiter}MATERIAL{tuple_delimiter}合成纤维，英文名称为PAN fiber)
+{record_delimiter}
+("entity"{tuple_delimiter}PAN fiber{tuple_delimiter}MATERIAL{tuple_delimiter}聚丙烯腈纤维的英文名称)
+{record_delimiter}
+("entity"{tuple_delimiter}干法纺丝{tuple_delimiter}PROCESS{tuple_delimiter}纤维制备工艺)
+{record_delimiter}
+("entity"{tuple_delimiter}线性分子结构{tuple_delimiter}STRUCTURE{tuple_delimiter}分子排列方式)
+{record_delimiter}
+("entity"{tuple_delimiter}耐热性{tuple_delimiter}PROPERTY{tuple_delimiter}材料热性能指标)
+{record_delimiter}
+("entity"{tuple_delimiter}强度{tuple_delimiter}PROPERTY{tuple_delimiter}材料力学性能)
+{record_delimiter}
+("entity"{tuple_delimiter}螺杆挤出机{tuple_delimiter}EQUIPMENT{tuple_delimiter}纺丝设备)
+{record_delimiter}
+("entity"{tuple_delimiter}航空航天{tuple_delimiter}APPLICATION{tuple_delimiter}应用领域)
+{record_delimiter}
+("relationship"{tuple_delimiter}干法纺丝{tuple_delimiter}聚丙烯腈纤维{tuple_delimiter}用于制备{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}聚丙烯腈纤维{tuple_delimiter}PAN fiber{tuple_delimiter}同义关系{tuple_delimiter}10)
+{record_delimiter}
+("relationship"{tuple_delimiter}聚丙烯腈纤维{tuple_delimiter}线性分子结构{tuple_delimiter}具有结构{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}聚丙烯腈纤维{tuple_delimiter}耐热性{tuple_delimiter}具有性能{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}聚丙烯腈纤维{tuple_delimiter}强度{tuple_delimiter}具有性能{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}螺杆挤出机{tuple_delimiter}干法纺丝{tuple_delimiter}用于工艺{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}聚丙烯腈纤维{tuple_delimiter}航空航天{tuple_delimiter}应用于{tuple_delimiter}7)
+{completion_delimiter}
+
+示例2（排除错误示例）：
+文本: 该纤维的发展速度很快，工业化生产已经实现，应用领域不断扩大，材料性能稳定性良好。这种高品质的细密面料可用于制作悬吊重物的绳索。
+不应提取的实体（错误示例）：
+- "该纤维"（代词+名词，非专有名词）
+- "发展速度"（描述性短语）
+- "工业化生产"（描述性短语）
+- "应用领域扩大"（动词短语）
+- "材料性能稳定性"（描述性短语，应提取为"稳定性"）
+- "高品质的细密面料"（描述性短语）
+- "悬吊重物的绳索"（描述性短语）
+
+应提取的实体：
+- "稳定性"（PROPERTY，从"材料性能稳定性"中提取核心性能术语）
+
+注意：如果"细密面料"或"绳索"是文本中提到的具体材料类型或产品名称，则应提取；如果只是描述性短语，则不提取。
+
+示例3（商业产品）：
+文本: Lactron是一种新型的生物基纤维材料，具有优异的生物相容性和可降解性。
+输出:
+("entity"{tuple_delimiter}Lactron{tuple_delimiter}MATERIAL{tuple_delimiter}商业产品名称，生物基纤维材料)
+{record_delimiter}
+("entity"{tuple_delimiter}生物基纤维{tuple_delimiter}MATERIAL{tuple_delimiter}纤维材料类型)
+{record_delimiter}
+("entity"{tuple_delimiter}生物相容性{tuple_delimiter}PROPERTY{tuple_delimiter}材料生物性能)
+{record_delimiter}
+("entity"{tuple_delimiter}可降解性{tuple_delimiter}PROPERTY{tuple_delimiter}材料环境性能)
+{record_delimiter}
+("relationship"{tuple_delimiter}Lactron{tuple_delimiter}生物基纤维{tuple_delimiter}属于类型{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}Lactron{tuple_delimiter}生物相容性{tuple_delimiter}具有性能{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}Lactron{tuple_delimiter}可降解性{tuple_delimiter}具有性能{tuple_delimiter}8)
+{completion_delimiter}
+
+######################
+-实际数据-
+######################
+实体类型: {entity_types}
+文本: {input_text}
+######################
+输出:

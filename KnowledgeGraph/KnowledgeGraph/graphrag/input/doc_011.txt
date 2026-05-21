@@ -1,0 +1,469 @@
+# Gao-2012-Micro-laminated ZrO2_Al2O3 Interlayer
+
+High Temp. Mater. Proc., Vol. 30 (2011), pp. 527–533
+Copyright © 2012 De Gruyter. DOI 10.1515/HTMP.2011.109
+Micro-laminated ZrO2/Al2O3 Interlayer Used with
+Fiber-reinforced Thermal Barrier Coatings
+on Ni-based Superalloy
+Junguo Gao,1;2 Yedong He1 and Wei Gao2;
+1 Beijing Key Laboratory for Corrosion, Erosion and Sur-
+face Technology, University of Science and Technology
+Beijing, Beijing, PR China
+2 Department of Chemicals and Materials Engineering,
+The University of Auckland, Auckland, New Zealand
+Abstract.
+Micro-laminated ZrO2/Al2O3 interlayer was
+prepared between sol-gel ﬁber-reinforced thermal barrier
+coating (TBC) and Ni-based superalloy by cathodic elec-
+trodeposition. Micro-laminated ZrO2/Al2O3 interlayer was
+composed of ZrO2 and Al2O3 alternating layers, which
+demonstrated excellent oxidation resistance.
+Scratching
+and cyclic oxidation tests were performed to evaluate
+the bonding strength and oxidation resistance of the sol-
+gel TBCs with micro-laminated ZrO2/Al2O3 interlayers.
+The results indicated that the bonding strength between
+TBCs and Ni-based superalloy was improved by the micro-
+laminated ZrO2/Al2O3 interlayer; and the oxidation resis-
+tance of Ni-based substrate was signiﬁcantly improved due
+to the interlayer This kind of micro-laminated ZrO2/Al2O3
+interlayer may have potential application as the bond coat
+in TBCs systems.
+Keywords.
+Sol-gel thermal barrier coatings, micro-
+laminated ZrO2/Al2O3 interlayers, bonding strength, ox-
+idation resistance, Ni-based superalloy.
+PACS®(2010). 81.65.Kn.
+1
+Introduction
+Thermal barrier coatings (TBCs) are widely used to provide
+thermal insulation in gas-turbine engines, power generation,
+and marine propulsion [1–4]. Temperature gradients at the
+order of 100 to 150ıC can be achieved by TBCs on inter-
+nally cooled turbine parts [5]. TBCs system typically con-
+sists of an yttria stabilized zirconia top coat and a metallic
+* Corresponding author: Wei Gao, Department of Chemicals and
+Materials Engineering, The University of Auckland, 1142 Auckland,
+New Zealand; E-mail: w.gao@auckland.ac.nz.
+Received: February 2, 2011. Accepted: April 16, 2011.
+bond coat deposited onto a superalloy substrate. Thermally
+grown oxide (TGO) predominantly composed of ˛-Al2O3
+will form at the interface between the bond coat and top
+coat via oxidation of the bond coat during the operation of
+the gas turbine.
+At an industrial scale, plasma spraying (PS) and electron
+beam physical vapor deposition (EB-PVD) are the main
+processes to fabricate thermal barrier coatings. Different
+microstructures are obtained from these two methods [6]:
+lamellar microstructure consisting of splats superposition
+for PS thermal barrier coatings and column-like microstruc-
+ture for EB-PVD thermal barrier coatings with best me-
+chanical performances. However, the perpendicular orien-
+tation of columns makes their thermal conductivity twice
+higher than PS coatings. In recent years, sol-gel process
+as a non-directional deposition technique has been devel-
+oped for preparation of TBCs [7–9]. This is a versatile and
+cost-effective method for preparing ceramic coatings. The
+main advantage of sol-gel TBCs is that they can form non-
+oriented microstructures which show satisfactory thermo-
+mechanical properties when the coating subjects cyclic ox-
+idation [10] However, since the sol-gel deposition is a wet-
+chemical technique, the coating is prone to cracking and
+spallation especially when the thickness of the coating in-
+creases to a certain level. The fabrication condition should
+be precisely controlled to obtain the crack-free coatings.
+With respect to the bond coat, MCrAlY (where M D
+Ni, Co or both) metallic coatings are used extensively dur-
+ing the past decades. A selective ˛-Al2O3 protective scale
+(TGO) could form on the metallic coating under high tem-
+perature operation. However, MCrAlY alloy coatings have
+some weaknesses which limit their further application. On
+one hand, high stresses are usually presented in the inter-
+facial zone between the top coat and bond coat due to the
+growth of TGO, thermal expansion mismatch between dif-
+ferent materials and applied loads [5]. As the result, cracks
+can initiate and propagate, which may cause spallation of
+the ceramic TBC layer.
+On the other hand, it has been
+found that the alloying elements such as Al and Cr in the
+bond coat have a severe inter-diffusion with the superalloy
+substrate above 1273 K, resulting in depletion of Al and Cr
+and deterioration of oxidation resistance of the coating [11].
+Moreover, some alloying elements such as Ti, Mo and W in
+the bond coat may also diffuse outwards and weaken the ad-
+hesion of TGO to the substrate [12]. Therefore, people look
+528
+J. Gao, Y. He and W. Gao
+Composition
+Cr
+Co
+Mo
+Ti
+Al
+C
+Fe
+Zr
+Ni
+Ni-based superalloy
+19.78
+13.82
+4.72
+3.22
+1.37
+0.04
+0.04
+0.08
+balance
+Table 1. Chemical composition of GH 864 Ni-based superalloy (in wt%).
+for new bond coat materials and/or methods of improving
+the properties of metallic bond coat system to increase the
+life time of TBCs.
+In the present paper, we introduce a micro-laminated
+ZrO2/Al2O3 interlayer into the sol-gel ﬁber-reinforced
+TBCs on Ni-based superalloy. The effects of ZrO2/Al2O3
+interlayer on the bonding strength and oxidation resistance
+of the sol-gel TBCs were investigated and the mechanisms
+attributed to the effects were also discussed.
+2
+Experimental Procedure
+Commercial GH864 Ni-based superalloy (sample size 15 
+10  3 mm3/ was used as the substrate material. The chem-
+ical composition of the Ni-based substrate is listed in Ta-
+ble 1. The substrates were mechanically polished by SiC
+papers to a grit of 1500 followed by ultrasonically cleaned
+with deionized water and ethanol.
+Micro-laminated ZrO2/Al2O3 interlayers were prepared
+on Ni-based superalloy substrates by cathodic electrolytic
+deposition (ELD). ZrO2 and Al2O3 layers were deposited
+onto the substrates alternately. The deposition time of each
+layer was 60 s and the interlayer has a total of 6 thin layers
+(3 layers of ZrO2 and 3 layers of Al2O3/.
+The yttria partially stabilized zirconia TBCs were pre-
+pared through a sol-gel route. A measured amount of zir-
+conium nitrate and yttrium nitrate were ﬁrst dissolved in
+deionized water, followed by adding citric acid (CA) and
+ethylene glycol (EG) into the solution. The molar ratio of
+Zr4C : CA : EG was 1 W 1 W 20. The zirconia sol was
+obtained by adding ammonia water to reach pH 7.
+Af-
+ter that, ZrO2–6 wt% Y2O3 powders with a mean size of
+0.5 μm (Hot Spraying Material Ltd., China) were added
+into the sol, and Al2O3–10 wt% ZrO2 ceramic ﬁbers were
+also added into the sol in order to increase the strength of
+the sol-gel TBCs. The molar ratio of ZrO2 powders/ZrO2
+in the sol and Al2O3–ZrO2 ﬁbers/total ZrO2 were 7=1 and
+1=9, respectively.
+Al2O3-ZrO2 ceramic ﬁbers were produced by an immer-
+sion method as reported in a previous paper [13] Cotton
+ﬁbers were used as template and aluminum nitrate solu-
+tion (with 10 wt% zirconia nitrate) was used as immer-
+sion solution.
+After immersion, drying and sintering at
+1200ıC, Al2O3–ZrO2 ceramic ﬁbers were ﬁnally obtained.
+The composite slurry was then coated onto the alloy sub-
+strates with or without micro-laminated ZrO2/Al2O3 inter-
+layers. After drying at 80ıC for 15 min and sintering at
+600ıC under a pressure of 9 MPa, the green coatings were
+microwave sintered at 1000ıC for 20 min to obtain the ﬁ-
+nal coatings. The microwave frequency was 2450 MHz and
+the average power of the microwave furnace was 2 KW, ap-
+proximately
+The surface and cross-section morphology of the coat-
+ings and post-oxidation specimens were observed by a ﬁeld
+emission SEM (SUPRA 55 ZEISS, Germany) equipped
+with an energy dispersive spectrometer (EDS). Phase iden-
+tiﬁcations were conducted by X-ray diffraction (CuK˛,  D
+0:15406 nm, step wise of 0.02°, continuous scanning). The
+bonding strength between TBCs and substrate was evalu-
+ated by a MFT-4000 surface properties tester with a loading
+rate of 20 N=min and scratch length of 5 mm. Cyclic ox-
+idation test was conducted in a tube furnace at 1000ıC in
+air for 150 h. After every 10 h exposure, specimens were
+taken out and cooled in air for 20 min. The mass gain and
+scale spallation were weighed using an electronic balance
+with an accuracy of 0.1 mg.
+3
+Results
+3.1
+Characterization of Microstructure
+and Phase Composition
+The surface and cross-section morphologies of micro-
+laminated ZrO2/Al2O3 coatings and ﬁber-reinforced TBCs
+with ZrO2/Al2O3 interlayer are shown in Figure 1. From
+Figures 1(a) and 1(b), it can be seen that the micro-
+laminated ZrO2/Al2O3 coating were composed of nano-
+particles and consisted of 6 alternate layers of ZrO2 and
+Al2O3. The thin layers were well-connected after sinter-
+ing and the total thickness of the coating was 600 nm.
+After coated with sol-gel ﬁber-reinforced TBCs (see Fig-
+ures 1(c) and 1(d)), a relatively ﬂat and compact surface
+of ﬁber-reinforced TBCs was obtained. The morphology
+of the added ceramic ﬁbers can be found under a higher
+magniﬁcation. And the coating with a thickness of about
+300 μm had a good adhesion with the superalloy substrate.
+Under a higher magniﬁcation, the ZrO2/Al2O3 interlayer
+can be seen between the TBCs and the substrate, whereas
+the micro-laminated structure was not clear. The reason is
+probably that the elements have diffused from the substrate
+to the micro-laminated interlayer during sintering process.
+Figure 2 shows the XRD spectrum of ﬁber-reinforced
+thermal
+barrier
+coatings
+with
+the
+micro-laminated
+ZrO2/Al2O3 interlayer.
+After the microwave sinter-
+ing, yttria stabilized tetragonal zirconia (t-Zr0:92Y0:08O1:96/
+was identiﬁed as the main phase.
+Diffraction peaks of
+Micro-laminated ZrO2/Al2O3 interlayer used withﬁber-reinforced thermal barrier coatings
+529
+ 
+ 
+Figure 1. Surface (a) (c) and cross-section (b) (d) morphologies of micro-laminated ZrO2/Al2O3 coatings and ﬁber-
+reinforced TBCs with ZrO2/Al2O3 interlayers.
+Figure 2. XRD spectrum of ﬁber-reinforced TBCs with
+micro-laminated ZrO2/Al2O3 interlayer.
+˛-Al2O3 can also be found due to the addition of Al2O3-
+ZrO2 ceramic ﬁbers.
+It is difﬁcult to obtain the phase
+composition of ZrO2/Al2O3 interlayer due to the large
+thickness of ﬁber-reinforced thermal barrier coatings.
+3.2
+Effect of Micro-laminated ZrO2/Al2O3 Interlayer on
+Bonding Strength
+Figure 3 presents the scratch test curves of the ﬁber-
+reinforced
+TBCs
+with
+and
+without
+micro-laminated
+ZrO2/Al2O3 interlayers. There are two parameters that can
+be referenced in the test. One is the friction and the other
+is acoustic signal. For the friction curve, it is easy to see
+that the coating and alloy substrate have different friction
+coefﬁcients, so when the coating was stripped, the friction
+coefﬁcient changed while the slope of the friction curve also
+showed a change.
+The acoustic signal was detected by collecting the
+changes of voice during the scratch test. Usually, a max-
+imum acoustic signal will appear when the coating was
+530
+J. Gao, Y. He and W. Gao
+Figure 3. Scratch test curves of ﬁber-reinforced TBCs without (a) and with (b) micro-laminated ZrO2/Al2O3 interlayers.
+stripped.
+Besides, the spallation of some particles on
+the coating or the coating/substrate interface during the
+movement of the pressing head will also lead to some
+weak acoustic signals.
+With the analysis combining the
+above two parameters, it can be obtained that the bonding
+strength of TBCs with and without ZrO2/Al2O3 interlayers
+are 6.6 N and 15.3 N, respectively, indicating that the micro-
+laminated ZrO2/Al2O3 interlayers have a positive inﬂuence
+that improves the bonding strength between TBCs and the
+alloy substrates.
+3.3
+Effect of Micro-laminated ZrO2/Al2O3 Interlayer on
+Oxidation Resistance
+Figure 4 shows the photographs of specimens with vari-
+ous coatings before and after cyclic oxidation at 1000ıC
+for 15 h. It can be seen that before oxidation, Ni-based
+superalloy substrate exhibited metal luster after polishing,
+and the ﬁber-reinforced thermal barrier coatings with and
+without ZrO2/Al2O3 interlayer were all crack-free, and well
+integrated to the substrates. After oxidation, however, a
+black-color, thermally grown oxide (TGO) formed on the
+surface of the blank sample. Comparing the specimens with
+and without ZrO2/Al2O3 interlayer, it can be seen that a se-
+vere spallation took place on the TBC without interlayer,
+whereas the TBC with ZrO2/Al2O3 interlayer was still in-
+tact on the substrate after 150 h cyclic oxidation.
+Figure 5 shows the oxidation kinetic curves of speci-
+mens with various coatings after oxidation at 1000ıC for
+15 h. Both specimens with TBCs exhibited a lower mass
+gain than the blank sample due to the suppression of oxy-
+gen inter-diffusion by the thermal barrier coating. In com-
+parison of the TBCs with and without ZrO2/Al2O3 inter-
+layer, the interlayer specimen showed a better oxidation re-
+sistance than that without ZrO2/Al2O3 interlayer, which can
+be attributed to the oxidation resistance of micro-laminated
+ZrO2/Al2O3 interlayer.
+ 
+(a)
+(b)
+Figure 4. Photographs of specimens with various coat-
+ings (a) before and (b) after cyclic oxidation at 1000ıC
+for 15 h.
+Comparing the scale spallation curves in Figure 5(b), it
+can be seen that the blank sample exhibited a severe spalla-
+tion during cyclic oxidation. The TBCs without interlayer
+showed better spallation resistance for the ﬁrst 80 h ex-
+posure but then began to strip In contrast, the TBCs with
+ZrO2/Al2O3 interlayer exhibited improved spallation resis-
+tance compared with the blank and TBCs specimens.
+Surface morphologies and chemical compositions of the
+specimens with various coatings after cyclic oxidation at
+Micro-laminated ZrO2/Al2O3 interlayer used withﬁber-reinforced thermal barrier coatings
+531
+Figure 5. Oxidation kinetic curves of specimens with various coatings after oxidation at 1000ıC for 15 h: (a) mass gain
+versus time and (b) scale spallation versus time.
+ 
+ 
+(b)
+ 
+ 
+(d)
+ 
+ 
+(f)
+Figure 6. Surface morphologies and chemical compositions of specimens with various coatings after oxidation:
+(a) (b) blank sample, (c) (d) TBCs coated, and (e) (f) TBCs coated with ZrO2/Al2O3 interlayer.
+532
+J. Gao, Y. He and W. Gao
+Figure 7. Cross-section micrographs of specimens with
+various coatings after oxidation: (a) blank (b) TBCs, and
+(c) TBCs with ZrO2/Al2O3 interlayer.
+1000ıC for 15 h are presented in Figure 6. It can be seen
+that the surface of the blank sample became very rough af-
+ter oxidation, evidence of severe scale spallation The EDS
+analysis revealed that the elements of Cr, Ni, Al, Ti and Co
+all exist which means that no continuous protective oxide
+layer was on the surface. TBCs without ZrO2/Al2O3 inter-
+layer became loose after oxidation, and cracks can be found
+on the surface. The coating mainly contains Zr and O, and
+small amounts of Cr and Ti was detected perhaps due to the
+outward diffusion of these two elements along the cracks.
+On the contrast, the surface of TBCs with ZrO2/Al2O3 in-
+terlayer was comparatively smooth and compact after oxi-
+dation. The elements of Zr and O and a small content of Al
+can be seen, corresponding to the ceramic ﬁbers.
+Figure 7 shows the cross-section specimens with vari-
+ous coatings after oxidation at 1000ıC for 15 h. It can be
+seen that a relatively thick TGO layer formed on the blank
+sample after oxidation with the thickness of 50 μm. Se-
+vere internal oxidation also took place under the TGO layer.
+For TBC without ZrO2/Al2O3 interlayer, a TGO layer with
+the thickness of 20 μm was formed beneath the coating.
+A large and continuous crack can be seen above the TGO
+layer, indicating that the vicinity of TGO was the weakest
+place during high temperature oxidation. Micro-cracks can
+also be found in the TGO layer; and internal oxidation took
+place under TGO.
+In contrast, TBC with ZrO2/Al2O3 interlayer was well-
+adhered to the superalloy substrate and no cracks formed in
+the coating. Compared with the interlayer morphology be-
+fore oxidation as shown in Figure 1(d), no layered morphol-
+ogy of TGO formed between the interlayer and alloy sub-
+strate. However, a certain degree of internal oxidation in the
+alloy substrate occurred after oxidation, which can be ex-
+plained from the property of ZrO2/Al2O3 interlayer and the
+nature of the Ni-based superalloy substrate. As Al2O3 has
+HCP crystal structure and low diffusion rate [14], it widely
+used as the diffusion barrier to suppress the inter-diffusion
+between alloy coating and alloy substrate. The ZrO2/Al2O3
+interlayer can play a similar role that suppresses the out-
+ward diffusion of alloy elements, and probably convert the
+diffusion from predominant outward metal ion diffusion to
+inward oxygen diffusion.
+As the inward oxygen diffusion results in a relatively low
+oxygen partial pressure in the interlayer/substrate interface
+due to the low diffusion rate of oxygen in Al2O3, it will lead
+to a low parabolic rate constant and thus reduce the criti-
+cal concentration of Al to form Al2O3 in the alloy substrate
+based on the Wagnar’s selective oxidation theory [15]. So a
+thermally grown Al2O3 layer tends to form at the interface
+between the interlayer and substrate. However, as the Ni su-
+peralloy substrate has a relatively low concentration of Al
+(see Table 1), which still cannot reach the critical concentra-
+tion for selective oxidation even with the decreased critical
+concentration of Al. Therefore, internal oxides formed as
+shown in Figure 7(c).
+4
+Discussion
+There are two aspects of strengthening effects that should
+be considered in a coating/substrate system as shown in
+Figure 8. One is self-strengthening effect of the coating
+which can improve the cracking resistance, and the other is
+the bonding-strength improvement which is related to the
+thermal expansion coefﬁcients and interface structure. For
+TBCs prepared by sol-gel route, it is an effective way to
+add high-strength ceramic ﬁbers to the sol slurry to enhance
+their strength which has been demonstrated in our recent re-
+search. But the bonding-strength also needs improvement
+especially when it is coated directly onto the Ni-based su-
+peralloys
+Micro-laminated ZrO2/Al2O3 interlayer used withﬁber-reinforced thermal barrier coatings
+533
+Figure 8. Schematic illustration of different types of sol-gel TBCs.
+Micro-laminated ZrO2/Al2O3 coatings have been proved
+to have excellent oxidation and scale spallation resistance
+on alloy substrates based on our previous works [16, 17].
+They have two main effects on this TBC system: (1) their
+good oxidation resistance can slow down oxidation re-
+action of the substrate and avoid formation of cracks in
+the interlayer/substrate interface; and (2) their good adhe-
+sion makes the weak bonding position changed from the
+TBC/substrate interface to TBC/interlayer interface and the
+thermal stress is reduced due to their relatively close ther-
+mal expansion coefﬁcient. Therefore, this kind of micro-
+laminated ZrO2/Al2O3 interlayer may be used as the bond
+coat for TBCs system
+5
+Conclusions
+The present work studies the oxidation resistance of sol-
+gel ﬁber-reinforced TBCs on Ni-based superalloys. Micro-
+laminated ZrO2/Al2O3 interlayers were applied between the
+TBCs and Ni-based superalloys. The effect of the interlayer
+can be concluded below:
+(1) The oxidation resistance of TBCs can be signiﬁ-
+cantly improved due to the addition of micro-laminated
+ZrO2/Al2O3 interlayers.
+(2) Micro-laminated ZrO2/Al2O3 interlayers not only
+avoid the formation of ﬂaws or cracks in the inter-
+layer/substrate interface but also reduce the thermal expan-
+sion difference between TBCs and the substrate thus en-
+hancing the bonding strength and spallation resistance of
+TBCs.
+(3) This kind of micro-laminated ZrO2/Al2O3interlayer
+may have potential applications as bond coat in TBCs sys-
+tems.
+Acknowledgments
+This work is ﬁnancially supported by the Chinese National
+Natural Science Foundation (Grant. 50771021).
+References
+[1] R. A. Miller, Surf. Coat. Technol. 30 (1987), 1.
+[2] R. A. Miller, J. Therm. Spray Technol. 6 (1997), 35.
+[3] N. P. Padture, M. Gell and E. H. Jordan, Science 296 (2002),
+280.
+[4] A. G. Evans, D. R. Mumm, J. W. Hutchinson, G. H. Meier
+and F. S. Pettit, Prog. Mater. Sci. 46 (2001), 505.
+[5] U. Schulz, C. Leyens, K. Fritscher, M. Peters, B. Saruhan-
+Brings, O. Lavigne, J. M. Dorvaux, M. Poulain, R. Mévrel
+and M. Caliez, Aerosp. Sci. Technol. 7 (2003), 73.
+[6] W. Y. Lee, D. P. Stinton, C. C. Berdt, F. E. Erdogan and Y.
+D. Lee, J. Am. Ceram. Soc. 79 (1996), 3003.
+[7] C. Viazzi, J. P. Bonino and F. Ansart, Surf. Coat. Technol.
+201 (2006), 3889.
+[8] C. Viazzi, A. Deboni, J. Z. Ferreira, J. P. Bonino and F. E.
+Ansart, Solid State Sci. 8 (2006), 1023.
+[9] M. Gaudon, C. Laberty-Robert, F. Ansart and P. Stevens, J.
+Eur. Ceram. Soc. 26 (2006), 3153.
+[10] J. Sniezewski, Y. LeMaoult, P. Lours, L. Pin, V. M. Bekale,
+D. Monceau, D. Oquab, J. Fenech, F. Ansart and J. P.
+Bonino, Thin Solid Films doi: 10.1016/j.tsf.2010.08.125.
+[11] R. Cremer, M. Witthaut, K. Reichert, M. Schierling and D.
+Neuschuetz, Surf. Coat. Technol. 108/109 (1998), 48.
+[12] J. Mueller and D. Neuschuetz, Vacuum 71 (2003), 247.
+[13] J. G. Gao, Y. D. He and W. Gao, Nanoscience and Nanotech-
+nology Lett. 1 (2009), 1.
+[14] J. Muller, M. Schierling, E. Zimmermann and D. Neuschutz,
+Surf. Coat. Technol. 120–121 (1999), 16.
+[15] C. Wagnar, J. Electrochem. Soc. 99 (1952), 369.
+[16] J. G. Gao, Y. D. He and D. R. Wang, J. Eur. Ceram. Soc. 31
+(2011), 79.
+[17] J. G. Gao, Y. D. He and D. R. Wang, Mater. Chem. Phys. 123
+(2010), 731.

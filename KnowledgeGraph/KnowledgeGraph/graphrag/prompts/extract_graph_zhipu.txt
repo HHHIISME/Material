@@ -1,0 +1,51 @@
+-Goal-
+Given a text document, identify all entities and relationships from the text.
+
+-CRITICAL OUTPUT FORMAT-
+You MUST follow this EXACT format. Do NOT add any prefixes like "-" or bullet points.
+
+For entities, use this EXACT format:
+("entity"{tuple_delimiter}ENTITY_NAME{tuple_delimiter}ENTITY_TYPE{tuple_delimiter}ENTITY_DESCRIPTION)
+
+For relationships, use this EXACT format:
+("relationship"{tuple_delimiter}SOURCE_ENTITY{tuple_delimiter}TARGET_ENTITY{tuple_delimiter}RELATIONSHIP_DESCRIPTION{tuple_delimiter}RELATIONSHIP_STRENGTH)
+
+Separate each entry with {record_delimiter}
+End with {completion_delimiter}
+
+-Entity Types-
+{entity_types}
+
+-Steps-
+1. Identify all entities of the given types from the text.
+2. For each entity, extract: name (capitalized), type, and description.
+3. Identify relationships between entities.
+4. Format output EXACTLY as shown below. Do NOT use markdown, bullet points, or any other formatting.
+
+-IMPORTANT-
+- Start EACH entity with ("entity"{tuple_delimiter}
+- Start EACH relationship with ("relationship"{tuple_delimiter}
+- Do NOT use bullet points or dashes
+- Do NOT add any text before or after the formatted output
+
+######################
+Example:
+Text: Polyimide is a high-performance polymer used in aerospace. It has excellent thermal stability.
+
+Output:
+("entity"{tuple_delimiter}POLYIMIDE{tuple_delimiter}MATERIAL{tuple_delimiter}A high-performance polymer used in aerospace applications)
+{record_delimiter}
+("entity"{tuple_delimiter}AEROSPACE{tuple_delimiter}APPLICATION{tuple_delimiter}The field where polyimide is applied)
+{record_delimiter}
+("entity"{tuple_delimiter}THERMAL STABILITY{tuple_delimiter}PROPERTY{tuple_delimiter}A key property of polyimide)
+{record_delimiter}
+("relationship"{tuple_delimiter}POLYIMIDE{tuple_delimiter}AEROSPACE{tuple_delimiter}Polyimide is used in aerospace applications{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}POLYIMIDE{tuple_delimiter}THERMAL STABILITY{tuple_delimiter}Polyimide has excellent thermal stability{tuple_delimiter}9)
+{completion_delimiter}
+
+######################
+Text:
+{input_text}
+######################
+Output:

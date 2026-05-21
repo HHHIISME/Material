@@ -1,0 +1,735 @@
+# Zhang-2016-Color tunable up-conversion emissio
+
+Color tunable up-conversion emission from
+ZrO2:Er3+,Yb3+ textile ﬁbers†
+Xingshuang Zhang, Dong Xu,* Guangjun Zhou,* Xinqiang Wang, Hongjing Liu,
+Zhichao Yu, Guanghui Zhang and Luyi Zhu
+ZrO2:xEr3+,yYb3+ ﬁbers (diameters of approximately 1 mm) with good ﬂexibility and toughness were
+synthesized
+via
+electrospinning
+technology.
+The
+composition,
+morphology,
+and
+up-conversion
+photoluminescence properties of the ﬁbers were investigated. The up-conversion photoluminescence
+mechanisms of ZrO2 ﬁbers singly doped with Er3+ ions or co-doped with Er3+,Yb3+ ions are also
+discussed in detail, including decay curves, and lifetimes. The main mechanisms in ZrO2:xEr3+,yYb3+
+ﬁbers were energy transfer from Yb3+ to Er3+ and cross relaxation processes between Yb3+ and Er3+ or
+between adjacent Er3+ ions. When the concentration of Yb3+ was 4 mol%, emission intensity over the
+entire spectrum and lifetime of the 2H11/2/4S3/2 / 4I15/2 and 4F9/2 / 4I15/2 transitions in ZrO2:Er3+,Yb3+
+ﬁbers were maximized using 980 nm excitation light. When the concentration of Yb3+ was 20 mol%,
+pure red emission could be obtained. Diﬀerent colors—green, yellow, and red—could be obtained with
+Er3+/Yb3+ concentrations. Given the chemical, thermal, and mechanical stability of zirconia, Er3+/Yb3+
+co-doped ZrO2 up-conversion luminescence ﬁbers may be an attractive choice for photonic materials.
+1.
+Introduction
+Up-conversion luminescence is the process of combining low-
+frequency excitation photons into a high-frequency emission
+photon. Since its discovery, various uorescence materials have
+been studied for the development of three-dimensional displays,1
+temperature sensors, uorescence dyes,2 clean energy,3 biomed-
+ical imaging, therapeutics,4–6 photodynamic therapy methods,7
+lasers,8 and white light sources.9 Nanoparticles (NPs) and nano-
+crystals (NCs) comprise the largest fraction of up-conversion
+materials.10
+For example, RE3+, Er3+, Tm3+ and Ho3+, have abundant
+ladder-like electron energy level structures and intra-4f transi-
+tions, making them be excellent activators inside host materials.
+However, Er3+, Tm3+ and Ho3+ have very narrow absorption
+cross-sections in the near-infrared, leading to singly doped
+materials that have very low luminous eﬃciencies. Yb3+ ions
+have only two energy levels (4F7/2 and 4F5/2), and the gap of the
+two energy levels is agreement with a 980 nm CW laser, which
+means that Yb3+ has a large absorption cross-section and a high
+quenching concentration (17–30 mol%). The excited Yb3+ ions
+can transfer energy to adjacent Er3+, Tm3+, or Ho3+, promoting
+activators into an excited state. Therefore, Yb3+ is an excellent
+sensitizer within up-conversion luminescence materials. Thus
+far, the search for up-conversion phosphors has mainly focused
+on nanophosphors based on functional nanocomposites.11
+These include uorides such as La(Gd,Ce)F3:Yb3+,Ho3+/Nd3+/
+Tb3+,6
+Ba(Sr)F2:Yb3+,Ln3+(Tm3+/Nd3+),12
+NaY(Gd,Lu)
+F4:Yb3+,Ln3+(Er3+,Ho3+,Tm3+).13–17 There have also been some
+reports of using titanates such as BaTiO3:Yb3+,Er3+,18 vanadates
+such as YVO4:Yb3+,Er3+,19,20 or oxides, such as Y2O3:Yb3+,Er3+/
+Li+,21 La2O3:Yb3+,Er3+,14 Gd2O3:Yb3+,Er3+ among others.22,23
+Since the discovery of carbon nanotubes,13 many reports
+have focused on one-dimensional nanomaterials, such as
+nanorods, nanowires, nanobelts, and nanobers,24 which
+possess great potential for addressing some basic issues about
+dimensionality and space-conned transport phenomena as
+well as practical applications.25,26 Some researchers4,27–29 have
+reported fabricating ZrO2:Tb3+/Er3+/Tm3+/Ho3+,Yb3+ NPs/NCs.
+However, these NPs/NCs tend to aggregate to some extent,
+and their simple shape and construction limits their production
+and application.30 Sometimes, additional modications are
+needed to attenuate aggregation.27 Incorporation of functional
+NPs/NCs into electrospun bers or mats could endow the
+materials better performance in applications using the self-
+assembly of nanoscale building blocks. Additionally, electro-
+spinning methods generally do not require surface functional-
+ization and can realize high yields.31
+Among inorganic compounds, oxides possess good chemical
+and thermal stability, as well as high mechanical stability.1
+Fang24 synthesized CeO2:Eu3+ nanobers, Han30 synthesized
+La2O3–ZrO2:Eu3+ nanobrous membranes and they both inves-
+tigated down-conversion photoluminescence (PL) properties. As
+State Key Laboratory of Crystal Materials, Shandong University, Jinan 250100, P. R.
+China. E-mail: xdoﬃce@sdu.edu.cn; gjzhou@sdu.edu.cn
+† Electronic
+supplementary
+information
+(ESI)
+available.
+See
+DOI:
+10.1039/c6ra20388d
+Cite this: RSC Adv., 2016, 6, 103973
+Received 12th August 2016
+Accepted 26th October 2016
+DOI: 10.1039/c6ra20388d
+www.rsc.org/advances
+This journal is © The Royal Society of Chemistry 2016
+RSC Adv., 2016, 6, 103973–103980 | 103973
+RSC Advances
+PAPER
+Published on 26 October 2016. Downloaded by Donghua University on 12/7/2021 8:50:55 AM. 
+View Article Online
+View Journal | View Issue
+a ceramic, zirconia is an ideal oxide up-conversion host material
+due to its low phonon energy (470 cm1),27 high host absorp-
+tion coeﬃcient, favorable chemical and thermal stability, and
+low toxicity.5,32,33 Compared with nanoparticles form, ZrO2:-
+Er3+,Yb3+ ber cloth has advantages over powder-based mate-
+rials with regard to stability, post processing, environmental
+protection, industrial processes and the impact on human
+lungs.34 One could say that glass bers would be a good choice.
+But, glass bers are fragile and have low heat resistance. In
+practical applications, to facilitate repeated usage, a strippable
+ber cloth that resists brittle fracture is necessary. Therefore,
+nanobrous membranes or ber cloths with good exibility and
+thermal stability are preferable for high-temperature environ-
+ment. It remains a challenge to mass produce uniformly
+dispersed nanostructures. The sol–gel method is widely used
+with oxide lms because it is easy to perform, homogeneous and
+controllable compared with chemical vapour deposition,35
+sputtering,36 pulsed laser deposition, and similar methods.37,38
+In the present work, cloth made from Er3+,Yb3+ co-doped ZrO2
+nanober (1 mm) was synthesized through a sol–gel process,
+followed by electrostatic spinning and heat treatment. By
+measuring
+the
+photoluminescence
+properties,
+diﬀerent
+Er3+,Yb3+ doping concentrations could be used to induce emis-
+sions of diﬀerent colors. Therefore, it is possible to obtain the
+desired
+color
+emission
+with
+a
+specic
+Er3+,Yb3+
+doping
+concentration. The energy transfer mechanism from Er3+ to Yb3+
+and decay curves are also discussed in detail.
+2.
+Experimental methods
+2.1.
+Synthetic procedures
+All chemical reagents used were of analytical grade. Zirconia
+bers doped with Er3+,Yb3+ ions were synthesized with electro-
+spinning technology. Firstly, polyethylene oxide (PEO, MW 
+1 300 000, 0.075 g) was dissolved in methyl alcohol (20 mL)
+under
+magnetic
+stirring
+at
+55
+C.
+Secondly,
+poly-
+acetylacetonatozirconia (PAZ, 7.5 g) was introduced into this
+solution under magnetic stirring at 35 C. Additional methyl
+alcohol was added to adjust the concentration to 0.2–0.25 g
+mL1 to form a transparent and homogeneous hybrid solution.
+The spinning solution was aged for 12 h to form precursor ZrO2
+for electrospinning. Thirdly, the as-prepared precursor solution
+was exposed to an applied voltage of 17.5 kV with a 20-gauge
+plastic syringe using a ow rate of 2 mL h1. The resulting bers
+were collected on aluminium foil covering a rotating drum,
+keeping the distance between the collector and spinneret at
+20 cm. Finally, the ZrO2 precursor bers obtained were pre-
+heated at 500 C for 1 h using a very slow heating rate in steam
+to remove extraneous organic materials. Then, the bers were
+sintered at 1000 C for 1 h in air. Based on the amount of ZrO2
+bers synthesized, diﬀerent stoichiometric amounts of erbium
+nitrate [Er(NO3)3$5H2O] and ytterbium nitrate [Yb(NO3)3$6H2O]
+were added into the spinning solution. Similarly, the ageing
+precursor solution underwent electrospinning, pre-heating, and
+sintering until the nal ZrO2:xEr3+,yYb3+ (x ¼ 0.05–0.6 mol%, y
+¼ 1–20 mol%) bers were obtained.
+2.2.
+Characterization
+The scanning electron micrographs (SEM) of the as prepared
+bers were acquired by a Hitachi S-4800 eld emission scanning
+electron microscope, and elemental analysis measurement was
+obtained using an energy dispersive X-ray spectroscopy (EDS,
+Horiba EMAX Energy, EX-350). The X-ray diﬀraction (XRD)
+patterns of all the samples were recorded by a Germany Bruker
+Axs D8-Avance diﬀractometer system with a graphite mono-
+chromatized Cu Ka irradiation (l ¼ 1.540598 ˚A). The up-
+conversion emission spectra of the samples were recorded
+with an Edinburgh FLS 980 Fluorescence Spectrometer using an
+external 980 nm semiconductor solid laser as the excitation
+source. All measurements were performed at room temperature.
+3.
+Results and discussion
+3.1.
+Morphology, phase, and structure of ZrO2:Er,Yb bers
+All the ZrO2 bers were prepared into ber cloth, and they all
+exhibited good soness and exibility, as shown in Fig. 1(e).
+Fig. 1(a) and (c) show the SEM micrographs of 0.2 mol% Er3+
+and 5 mol% Yb3+ co-doped ZrO2 bers preheated at 500 C for
+1 h in steam. Overall, the average diameter of the bers was
+approximately
+0.5–1
+mm,
+and
+the
+bers
+still
+possessed
+outstanding morphological properties, remaining so, long,
+and tough. In addition, the surface of the bers was very smooth
+with very few pores, cracks, or evidence of grain growth, as
+shown in Fig. 1(c). All these features are essential to possess
+good mechanical properties. The SEM micrographs taken aer
+the bers were sintered at 1000 C for 1 h are exhibited in
+Fig. 1(b) and (d). The average diameter of the bers showed little
+change aer the second heat treatment. The overall bers
+morphology was still complete and maintained excellent exi-
+bility. However, grain growth was apparent, as displayed in
+Fig. 1(d). This can be ascribed to the high temperatures that
+initiated the growth of grains.
+Fig. 2(a) presents the XRD patterns from the as-prepared
+ZrO2 bers compared with standard PDF cards. Aer being
+calcined at 1000 C for 1 h, pure ZrO2 and ZrO2 bers doped
+with 0.2 mol% Er3+ ions showed monoclinic phases for all the
+peaks, which can be readily indexed to a monoclinic structure of
+ZrO2 according to International Centre for Diﬀraction Data
+(ICDD) JPCDS PDF #65-1025. No peaks from impurities or any
+other phases were detected. The doping of Er3+ ions did not
+change the phase of the bers, as the nal content of Er3+ ions
+was too small. Once 5 mol% of Yb3+ ions were introduced into
+the ZrO2 bers, many peaks belonging to the tetragonal phase
+of ZrO2 were generated, along with the monoclinic phase ZrO2.
+When the co-doping concentration of Yb3+ ions was up to
+7 mol%, the monoclinic phase ZrO2 vanish and only the
+tetragonal phase of ZrO2 would retain. Then, all the peaks were
+in good accordance with those of ZrO2 found in the standard
+card PDF #50-1089. Based on the phase transformation of ZrO2,
+when the concentration of Yb3+ was high enough, the ZrO2
+bers could be stabilized in the cubic phase. XRD patterns of
+pure ZrO2 and ZrO2:xEr3+ (x ¼ 0.2–0.6 mol%), ZrO2:0.2 mol%
+Er3+,yYb3+ (y ¼ 0–15 mol%) bers are presented in the ESI
+103974 | RSC Adv., 2016, 6, 103973–103980
+This journal is © The Royal Society of Chemistry 2016
+RSC Advances
+Paper
+Published on 26 October 2016. Downloaded by Donghua University on 12/7/2021 8:50:55 AM. 
+View Article Online
+(Fig. S1 and S2†). In addition, the average crystal sizes of the
+bers could be estimated according to the Scherrer formula:
+Dhkl ¼ Kl/(b cos q)
+(1)
+where Dhkl is the crystal size along the (hkl) direction, K is
+Scherrer constant (K ¼ 0.89), l is the wavelength of the Cu Ka-
+ray, b is the corrected half-width of a diﬀraction peak, and q is
+the Bragg angle of the diﬀraction peak.39–41
+Here, the highest peaks at 2q ¼ 28.408 from the (111)
+crystal facet and 2q ¼ 30.416 from the (011) crystal facet were
+used to calculate the crystal size of the pure, Er3+ singly doped
+and Er3+/Yb3+ co-doped ZrO2 bers, respectively. The crystal
+sizes perpendicular to the (111) direction of the ZrO2 and
+ZrO2:0.2 mol% Er3+ were 3.1393 nm and 3.1392 ˚A, respectively.
+These values were very close to the D111 (3.163 nm) of the
+standard card PDF #65-1025. While this could illustrate that the
+doping concentration of Er3+ ions was too low to change the
+crystal structure and be detected with EDS, as referred to in the
+previous section, the changes in the Dhkl could also show that
+the Er3+ ions were successfully doped into ZrO2 crystal lattice. In
+addition, the crystal size perpendicular to the (011) direction in
+ZrO2:0.2% Er3+,5% Yb3+ was 2.9363 ˚A, very close to the D011
+(2.95 ˚A) value of the standard card PDF #50-1089. This also
+conrmed that Yb3+ ions were successfully doped into the
+crystal lattice of the ZrO2:0.2% Er3+ bers. The composition of
+the ZrO2:0.2 mol% Er3+,5 mol% Yb3+ bers is shown according
+to the EDS spectrum in Fig. 2(b). The content of Er3+ was too
+small to be detected. According to the data in Fig. 2(b), it can be
+calculated that the proportion of Yb2O3 was 1.42/(26.91 + 1.42)
+z 5.02 mol%, which is very close to 5 mol%, indicating that the
+Yb3+ ions were introduced into the ZrO2 bers. Additionally, the
+implied content of O would be higher than predicted by theory.
+Fig. 1
+SEM micrographs of ZrO2:0.2 mol% Er3+,5 mol% Yb3+ ﬁbers in diﬀerent annealing process. (a) and (c) are preheated at 500 C for 1 h; (b)
+and (d) are preheated at 500 C for 1 h and then sintered at 1000 C for 1 h. The insets are the magniﬁed micrographs of the corresponding ﬁbers.
+(e) is the photograph of ZrO2:0.2 mol% Er3+,5 mol% Yb3+ ﬁbrous membranes.
+Fig. 2
+(a) XRD patterns of pure ZrO2, 0.2 mol% Er3+ doped ZrO2 and 0.2 mol% Er3+,y mol% Yb3+ (y ¼ 5, 7) co-doped ZrO2 preheated at 500 C for
+1 h and calcined at 1000 C for 1 h compared to standard PDF cards for monoclinic and tetragonal phase zirconium oxide. (b) EDS spectrum of
+ZrO2:0.2 mol% Er3+,5 mol% Yb3+ ﬁbers.
+This journal is © The Royal Society of Chemistry 2016
+RSC Adv., 2016, 6, 103973–103980 | 103975
+Paper
+RSC Advances
+Published on 26 October 2016. Downloaded by Donghua University on 12/7/2021 8:50:55 AM. 
+View Article Online
+This could be ascribed to the surface adsorbed oxygen in the
+prepared bers.
+3.2.
+Up-conversion photoluminescence properties of
+ZrO2:Er,Yb bers
+Fig. 3(a) displays the up-conversion emission spectra of doped
+ZrO2 bers under excitation of 980 nm as a function of the
+concentration of Er3+ ions. The emission spectra can be attrib-
+uted to the characteristic emission of Er3+ ions, in particular, its
+intra-4f9 multi-electron transitions. The emission up-conversion
+PL intensity of the three emission peaks increases with the
+doping concentration, which is consistent with energy radiating
+primarily from transitions from 2H11/2/4S3/2 to 4I15/2. Thus, the
+green emission has a higher intensity. However, the emission
+intensity decreases with increasing Er3+ concentration increasing
+when the doping level is higher than 0.2 mol%, as shown in
+Fig. 3(b). That could be explained by the distance between Er3+
+ions being too close to lead to concentration quenching because
+of the amount of Er3+ ions introduced into ZrO2 bers. Therefore,
+quenching of emission takes place at higher concentrations of
+Er3+ ions. As a result, the optimal Er3+ doping concentration is 0.2
+mol%. To understand the energy transfer and concentration
+quenching processes, the critical distance Rc between adjacent
+Er3+ ions can be calculated through using eqn (2), as given by
+Blasse:
+Rc z 2
+
+3V
+4pXcZ
+1=3
+(2)
+where Xc is the critical concentration of the dopant ion (Er3+), Z
+is the number of host ions (Zr4+) in per unit cell, and V is the
+volume of the unit cell. In this case, V ¼ 142.50 ˚A3 and Z ¼ 4, the
+critical doping concentration of Er3+ in ZrO2 was determined to
+be 0.002, which yields a critical distance Rc ¼ 3.24 nm. When
+the distance between adjacent Er3+ ions was smaller than this
+value
+(REr/Er
+<
+Rc),
+energy
+transfer
+between
+Er3+
+ions
+dominated.
+Fig. 4 shows a schematic diagram for the ZrO2:Er3+ bers.
+The excitation energy from a 980 nm continuous-wave (CW)
+laser (10.2  103 cm1) matches the energy level diﬀerence
+between 4I15/2 and 4I11/2 and between 4I11/2 and 4F7/2 of Er3+. The
+ground state level, 4I15/2, of Er3+ ions can absorb one photon and
+be excited to the 4I11/2 state. Then, the excited Er3+ ion can
+absorb another 980 nm photon or absorb energy from another
+nearby excited Er3+ ion, resulting in an ion a higher excited state
+4F7/2. Because of non-radiative relaxation processes, Er3+ ions in
+the 4F7/2 state can drop to levels 2H11/2/4S3/2 or 4F9/2 and then
+return to the ground state by emitting bright green (2H11/2/4S3/2
+/ 4I15/2) or red (4F9/2 / 4I15/2) light. In addition, an ion in the
+4I11/2 state can reach the 4I13/2 state via non-radiative relaxation,
+for example, via multiphonon relaxation (MR), and then absorb
+Fig. 3
+(a) Emission spectra of ZrO2:x mol% Er3+ samples prepared with a function of doped concentrations of Er3+ (lex ¼ 980 nm). (b) Emission
+intensity located at diﬀerent peaks and integral intensity of green emission with diﬀerent Er3+ doping concentrations.
+Fig. 4
+Schematic representation of the energy level diagram and
+possible mechanism for ZrO2:Er3+ ﬁbers under 980 nm excitation.
+103976 | RSC Adv., 2016, 6, 103973–103980
+This journal is © The Royal Society of Chemistry 2016
+RSC Advances
+Paper
+Published on 26 October 2016. Downloaded by Donghua University on 12/7/2021 8:50:55 AM. 
+View Article Online
+another photon to obtain 4F9/2. According to the energy-gap
+law,42
+p ¼ DE/ħu
+(3)
+where ħu is maximum phonon energy of the host matrix, DE is
+the electronic energy gap, and p is the number of phonons of
+energy ħu required to bridge the electronic energy gap DE.
+According to a rule of thumb for f–f states in lanthanides, MR is
+dominant when p # 5.43,44 The energy level diﬀerences of
+4F7/2–2H11/2, 2H11/2–4S3/2, 4S3/2–4F9/2, and 4I11/2–4I13/2 transitions
+are approximately 400, 800, 3100 and 3600 cm1, respectively,
+while the phonon energy of the ZrO2 lattice is 470 cm1. The
+relative p values of 4F7/2–2H11/2, 2H11/2–4S3/2, 4S3/2–4F9/2 and
+4I11/2–4I13/2 are 0.85, 1.70, 6.60 and 7.66, respectively. Thus, MR
+from 4F7/2–2H11/2 and 2H11/2–4S3/2 are likely present, while the
+non-radiative contributions from 4S3/2–4F9/2 and 4I11/2–4I13/2 can
+be neglected. Therefore, the population of Er3+ ions in the 4I13/2
+excited state is very small. It is diﬃcult for these Er3+ ions to
+absorb another phonon and be excited to 4F9/2 energy level,
+resulting in the low intensity of red light emission (4F9/2 /
+4I15/2). In addition, two Er3+ ions at the excited 4I11/2 level can
+interact with each other so that one is excited to 4F7/2, while the
+other returns to the 4I15/2 energy level. At higher concentrations
+of Er3+ ions, the cross-relaxation (CR) processes between the
+2H11/2 / 4I9/2 and 4I15/2 / 4I13/2 transitions may occur, which
+could shorten the luminescent lifetime of 2H11/2/4S3/2 levels, and
+decrease the green light emission. When light excitation is
+resumed, up-conversion luminescence usually reaches satura-
+tion by absorbing n photons. Moreover, the up-conversion
+emission intensity Iupc and the pumping power of the excita-
+tion light P are theoretically related and expressed as follows:23
+Iupc f Pn
+(4)
+where Iupc is the up-conversion emission intensity, P is the
+pumping power of the excitation light source, and n denotes the
+number of near-infrared photons absorbed to emit one
+up-converted photon. Eqn (4) can be rewritten as:
+lg Iupc f n lg P
+(5)
+which is described in Fig. 5. The slope n was calculated to be
+1.96 and 1.98 for green light and red light, respectively. This
+illustrates that both 2H11/2/4S3/2 / 4I15/2 and 4F9/2 / 4I15/2
+transitions are two-photon absorption processes.
+Fig. 6(a) shows the normalized up-conversion spectra of 0.2
+mol% Er3+,yYb3+ co-doped ZrO2 bers. It can be observed that
+the ratio of red to green light emitted increases gradually with
+increasing concentrations of Yb3+ ions in the ZrO2:0.2 mol%
+bers. The proportion of the green-emitting 2H11/2, 4S3/2 /
+4I15/2 transition gradually diminishes until it nearly vanishes as
+the doping concentration of Yb3+ increases. Conversely, the
+proportion of red light from the 4F9/2 / 4I15/2 transitions
+gradually increases. Fig. S3 in the ESI† shows the emission
+spectra using 0.2 mol% Er3+ and yYb3+ co-doped ZrO2 samples
+as a function of the dopant concentration under excitation of
+980 nm light. The up-conversion PL
+emission intensity
+increases gradually until y ¼ 4 mol%. When y > 4 mol%, the
+emission intensity decreases slightly with increasing y values.
+From the previous discussion regarding Fig. 2(a), the ZrO2 bers
+could be stabilized from monoclinic, to tetragonal, and to cubic
+phase with an increasing concentration of Yb3+. At the same
+time, the symmetry of the crystalline eld becomes stronger
+during these changes from monoclinic to tetragonal to cubic.
+Stronger symmetry of the crystalline eld means less-up-
+conversion PL. On the other hand, the distribution of phonon
+energies between them is 200–650 cm1. According to formula
+(3), this distinction has less inuence on the value of p.
+Therefore, the probabilities of the non-radiative relaxations do
+not change signicantly aer the phase transformation. Thus,
+the eﬀect of the phase transformation on up-conversion PL is
+weak compared to that of the Yb3+ concentration. Fig. 6(b)
+vividly displays the color of the emitted light using the
+Commission Internationale deI' Eclairage (CIE) 1931 diagram
+calculated from the emission spectra of 0.2 mol% Er3+,yYb3+ co-
+doped ZrO2 bers and the CIE chromaticity coordinates listed
+in ESI Table 1.† When the concentration of Yb3+ exceeds 4
+mol%, the total emission intensity decreased to a certain extent,
+indicating that concentration quenching occurred when excess
+Yb3+ ions could still enhance the ratio of red to green. When y is
+varied ranging from 0 to 20 mol%, the emitted light changes
+from green to yellow, and nally to red. When the co-dopant
+concentration of Yb3+ is up to 20 mol%, the ratio of red to
+green is maximized, and pure red light is emitted. This inves-
+tigation
+regarding
+the
+luminescence
+mechanism
+of
+up-
+conversion, decay curves, and lifetimes of the 2H11/2/4S3/2 /
+4I15/2 and 4F9/2 / 4I15/2 transitions in ZrO2:Er3+,Yb3+ bers also
+conrmed this point.
+Similarly, the slope n was calculated to be 1.62 and 1.81 for
+red and green light, respectively, in Fig. 7. This also illustrates
+that both the 2H11/2/4S3/2 / 4I15/2 and 4F9/2 / 4I15/2 transitions
+are two-photon absorption processes. The slope, which is less
+than 2, can be ascribed to the competition between diﬀerent
+Fig. 5
+Dependence of green and red up-conversion integrated
+intensity on power in ZrO2:0.2 mol% Er3+ obtained under 980 nm
+excitation.
+This journal is © The Royal Society of Chemistry 2016
+RSC Adv., 2016, 6, 103973–103980 | 103977
+Paper
+RSC Advances
+Published on 26 October 2016. Downloaded by Donghua University on 12/7/2021 8:50:55 AM. 
+View Article Online
+decay channels within intermediate states, including multi-
+phonon relaxations to lower-lying states, radiative decay to the
+ground state, along with non-radiative transitions and non-
+radiative trapping.45,46 The diﬀerence in slopes between the
+ZrO2:Er3+ and ZrO2:Er3+,Yb3+ samples indicates that the lumi-
+nescence mechanism changed, in which also causes the
+dominant color to be green in ZrO2:Er3+ sample but red in the
+ZrO2:Er3+,Yb3+ sample. The PL mechanism for ZrO2:Er3+,Yb3+
+bers under excitation of 980 nm light is presented in Fig. 8.
+The rst involves an activator Er3+ ion absorbing a photon to
+reach an excited state. However, the absorption coeﬃcient of
+this process is relatively low, with an eﬃciency about one tenth
+than of Yb3+, mainly because these ions have a much larger
+absorption cross-section and could transfer energy eﬃciently to
+Er3+ ions. The second is energy transfer up-conversion (ETU), in
+which, the sensitization by Yb3+ ions allows Er3+ ions to be
+excited via energy transfer. The energy diﬀerence between the
+2F7/2 and 2F5/2 levels of Yb3+ corresponds to the energy of
+a 980 nm CW laser. As shown in Fig. 8, Yb3+ ions can absorb
+photon energy from this excitation. Then, these excited Yb3+
+ions can transfer a large amount of energy to the Er3+ ions,
+resulting in many excited Er3+ ions in the 4F7/2 or 4F9/2 levels.
+From the 4F7/2 level, they can relax to 2H11/2/4S3/2, and from the
+4F9/2 level, they can undergo non-radiative transitions, or green
+or red emission. In the singly doped Er3+ sample, Er3+ ions were
+in a coordination state, and the distance between excited Er3+
+Fig. 6
+(a) Normalize emission spectra of 0.2 mol% Er3+ and yYb3+ co-doped ZrO2 samples prepared with a function of doped concentrations (lex
+¼ 980 nm). (b) CIE chromaticity diagram for ZrO2:0.2 mol% Er3+,yYb3+ phosphors (lex ¼ 980 nm).
+Fig. 7
+Dependence of green and red up-conversion integrated
+intensity on power in ZrO2:0.2 mol% Er3+,15 mol% Yb3+ obtained
+under excitation of 980 nm.
+Fig. 8
+Schematic representation of the energy level diagram and
+possible mechanism for ZrO2:Er3+,Yb3+ ﬁbers under excitation of
+980 nm.
+103978 | RSC Adv., 2016, 6, 103973–103980
+This journal is © The Royal Society of Chemistry 2016
+RSC Advances
+Paper
+Published on 26 October 2016. Downloaded by Donghua University on 12/7/2021 8:50:55 AM. 
+View Article Online
+ions was too large to trigger CR, including 4F7/2 + 4I11/2 / 4F9/2 +
+4F9/2 and 2H11/2 + 4I15/2 / 4I9/2 + 4I13/2. However, in the Er3+,Yb3+
+co-doped sample, the number of excited Er3+ ions was larger
+because of the introduction of Yb3+ ions. This caused the
+distance between excited Er3+ ions to be shortened, leading to
+successful CR. In addition, the occurrence of CR between Er3+
+and Yb3+ ions cannot be ignored, as in the 2H11/2/4S3/2(Er3+) +
+2F7/2(Yb3+) / 4I13/2(Er3+) + 2F5/2(Yb3+) process. Energy from the
+2F5/2 excited state of Yb3+ can be transferred to Er3+, and these
+ions in the 4I13/2 excited state could be further excited to the
+4F9/2 energy level by absorbing another photon and then emit-
+ting red light. Obviously, CR can dramatically reduce the
+number of Er3+ ions in the
+2H11/2 and
+4S3/2 levels, which
+increasing the number in the 4F9/2 and 4I13/2 states, resulting in
+an increase in the transition probability from 4F9/2 / 4I15/2.
+Hence, red emission becomes dominant in the luminescence
+spectrum. The CR process depends on the concentrations of the
+donors
+(Yb3+
+ions)
+and
+acceptors
+(Er3+
+ions),
+and
+this
+phenomenon will become more obvious as the Yb3+ doping
+concentration is increased. When the concentration of Yb3+ is
+lower than 4 mol%, energy transfer dominates, and the overall
+emission intensity increases. When the concentration of Yb3+
+ions is higher than 4 mol%, the CR process dominates, and the
+ratio of red to green increases. Additionally, in the Er3+/Yb3+ co-
+doped system, the up-conversion mechanism is usually deter-
+mined by cooperative sensitization of the Yb3+ on the Er3+ ions.
+Compared with the concentration of Yb3+ ions, the concentra-
+tion of Er3+ ions was low. Hence, the cooperative sensitization of
+Yb3+
+on
+Er3+
+ions
+was
+generally
+due
+to
+dipole–dipole
+interactions.47
+To further verify the up-conversion mechanism, Fig. 9 pres-
+ents the decay curves of the 2H11/2/4S3/2 / 4I15/2 and 4F9/2 /
+4I15/2 transitions excited at 980 nm light in the ZrO2:0.2 mol%
+Er3+,yYb3+ (y ¼ 0, 5, 10, 15, 20 mol%) bers. It can be observed
+that the two transitions have similar decay curves. The lifetime
+of singly doped ZrO2 bers is the shortest in the ZrO2:0.2 mol%
+Er3+,y Yb3+ bers. When 5 mol% Yb3+ ions are co-doped in the
+ZrO2 bers, the lifetime is lengthened (350.9 ms and 533.6 ms for
+545 nm and 680 nm, respectively), which further veried the
+up-conversion luminescence mechanism. The lifetime of the
+excited state is determined by radiative and non-radiative decay
+processes. Clearly, the introduction of Yb3+ ions enhances the
+probability of radiative transitions. This is because the Yb3+ ions
+in the 4F5/2 excited state could transfer energy to the 4I13/2, 4I11/2,
+4F9/2 and 4F7/2 levels of Er3+ ions, especially the 4I13/2 and 4F9/2
+energy levels. Er3+ ions in the 4I13/2 excited state could absorb
+another phonon and be excited to the 4F9/2 energy level, which
+leads to red light emission. When the concentration of Yb3+ ions
+is higher, this phenomenon becomes more obvious, which
+could improve the total emission intensity and lengthen the
+lifetimes. However, when the co-doping concentration is higher
+than 5 mol%, the lifetime of ZrO2:0.2 mol% Er3+,y mol% (y ¼ 10,
+15, and 20) Yb3+ decreases. In addition, the intersecting curves
+of y ¼ 15 mol% and y ¼ 20 mol% indicate that the lifetimes of
+the two energy level transitions are both composed of two life-
+times. This is because excess Yb3+ can decrease the emission
+intensity of the whole spectrum, leading to concentration
+quenching, while also changing the color of the emitted light.
+The total lifetimes, lifetime compositions and chi-square c2
+values are listed in ESI Table 2.†
+4.
+Conclusions
+Color-tunable of up-conversion photoluminescence in ZrO2:-
+xEr3+,yYb3+ ber cloths were prepared via electrospinning
+technology. Under 980 nm excitation, ZrO2:0.2 mol% Er3+ bers
+could emit green light. The addition of Yb3+ ions can enhance
+the emission intensity, and change the ratio of red to green
+light. The main up-conversion mechanism of ZrO2:xEr3+,yYb3+
+was energy transfer from Yb3+ to Er3+ ions, accompanied by
+cross relaxation. When the concentration of Yb3+ was 20 mol%,
+the ratio of red to green was maximized, with only red emission
+observed.
+Acknowledgements
+The authors thank the National Natural Science Foundations of
+China (grant no. 51372140 and 51472144), the Fundamental
+Research Funds of Shandong University (grant no. 2015JC022)
+for nancial support.
+Notes and references
+1 T. R. Hinklin, S. C. Rand and R. M. Laine, Adv. Mater., 2008,
+20, 1270.
+2 J.
+L. Seifert, R. E. Connor, S. A. Kushon, M. Wang and
+B. A. Armitage, J. Am. Chem. Soc., 1999, 121, 2987.
+3 Y. Y. Cheng, B. F¨uckel, R.
+W. MacQueen, T. Khoury,
+R. G. C. R. Clady, T. F. Schulze, N. J. Ekins-Daukes,
+Fig. 9
+Decay curves of the 2H11/2/4S3/2 / 4I15/2 (545 nm) and 4F9/2 /
+4I15/2 (680 nm) transitions in ZrO2:0.2 mol% Er3+,yYb3+ ﬁbers.
+This journal is © The Royal Society of Chemistry 2016
+RSC Adv., 2016, 6, 103973–103980 | 103979
+Paper
+RSC Advances
+Published on 26 October 2016. Downloaded by Donghua University on 12/7/2021 8:50:55 AM. 
+View Article Online
+M. J. Crossley, B. Stannowski, K. Lips and T. W. Schmidt,
+Energy Environ. Sci., 2012, 5, 6953.
+4 G. Chen, H. Qiu, P. N. Prasad and X. Chen, Chem. Rev., 2014,
+114, 5161.
+5 Y. Liu, S. Zhou, D. Tu, Z. Chen, M. Huang, H. Zhu, E. Ma and
+X. Chen, J. Am. Chem. Soc., 2012, 134, 15083.
+6 S. Gai, C. Li, P. Yang and J. Lin, Chem. Rev., 2014, 114, 2343.
+7 P. Zhang, W. Steelant, M. Kumar and M. Scholeld, J. Am.
+Chem. Soc., 2007, 129, 4526.
+8 H. Scheife, G. Huber, E. Heumann, S. B¨ar and E. Osiac, Opt.
+Mater., 2004, 26, 365.
+9 H. Desirena, E. D. L. Rosa, P. Salas and O. Meza, J. Phys. D:
+Appl. Phys., 2011, 44, 455308.
+10 X. Teng, Y. Zhu, W. Wei, S. Wang, J. Huang, R. Naccache,
+W. Hu, A. Y. Tok, Y. Han, Q. Zhang, Q. Fan, W. Huang,
+J. A. Capobianco and L. Huang, J. Am. Chem. Soc., 2012,
+134, 8340.
+11 W. Feng, C. Han and F. Li, Adv. Mater., 2013, 25, 5287.
+12 D. Chen, Y. Yu, F. Huang, H. P. Huang, A. Yang, Z. Wang and
+Y. Wang, J. Mater. Chem., 2012, 22, 2632.
+13 P. Zou, X. Hong, Y. Ding, Z. Zhang, X. Chu, T. Shaymurat,
+C. Shao and Y. Liu, J. Phys. Chem. C, 2012, 116, 5787.
+14 L. Yao, J. Zhou, J. Liu, W. Feng and F. Li, Adv. Funct. Mater.,
+2012, 22, 2667.
+15 Q. Liu, Y. Sun, T. Yang, W. Feng, C. Li and F. Li, J. Am. Chem.
+Soc., 2011, 133, 17122.
+16 F. Li, C. Li, X. Liu, Y. Chen, T. Bai, L. Wang, Z. Shi and
+S. Feng, Chem.–Eur. J., 2012, 18, 11641.
+17 J. Zhou, G. Chen, E. Wu, G. Bi, B. Wu, Y. Teng, S. Zhou and
+J. Qiu, Nano Lett., 2013, 13, 2241.
+18 J. Hao, Y. Zhang and X. Wei, Angew. Chem., Int. Ed., 2011, 50,
+6876.
+19 G.
+Mialon,
+S.
+T¨urkcan,
+G.
+Dantelle,
+D.
+P.
+Collins,
+M. Hadjipanayi, R. A. Taylor, T. Gacoin, A. Alexandrou and
+J. P. Boilot, J. Phys. Chem. C, 2010, 114, 22449.
+20 G. Dantelle, R. C. Villajos, C. Zaldo, C. Cascales and
+T. Gacoin, ACS Appl. Mater. Interfaces, 2014, 6, 22483.
+21 G. Chen, H. Liu, H. Liang, G. Somesfalean and Z. Zhang, J.
+Phys. Chem. C, 2008, 112, 12030.
+22 H. Li, S. Song, W. Wang and K. Chen, Dalton Trans., 2015, 44,
+16081.
+23 Y. Tian, B. Tian, C. Cui, P. Huang, L. Wang and B. Chen, RSC
+Adv., 2015, 5, 14123.
+24 D. Fang, M. Zhang, Z. Luo, T. Cao, Q. Wang, Z. Zhou,
+M. Jiang and C. Xiong, Opt. Mater., 2014, 38, 1.
+25 Z. W. Pan, Z. R. Dai and Z. L. Wang, Science, 2001, 291, 1947.
+26 X. Zhang, P. Yang, D. Wang, J. Xu, C. Li, S. Gai and J. Lin,
+Cryst. Growth Des., 2012, 12, 306.
+27 Q. L¨u, F. Y. Guo, L. Sun, A. Li and L. C. Zhao, J. Phys. Chem. C,
+2008, 112, 2836.
+28 A. Patra, P. Ghosh, P. S. Chowdhury, M. A. R. C. Alencar,
+W. Lozano B, N. Rakov and G. S. Maciel, J. Phys. Chem. B,
+2005, 109, 10142.
+29 E. D.
+L. Rosa, P. Salas, H. Desirena, C. Angeles and
+R. A. Rodr´ıguez, Appl. Phys. Lett., 2005, 87, 241912.
+30 W. Han, B. Ding, M. Park, F. Cui, Z. K. Ghouri, P. S. Saud and
+H. Y. Kim, Nanoscale, 2015, 7, 14248.
+31 C. L. Zhang and S. H. Yu, Chem. Soc. Rev., 2014, 43, 4423.
+32 K. Sato, H. Abe and S. Ohara, J. Am. Chem. Soc., 2010, 132,
+25389.
+33 J. Joo, T. Yu, Y. W. Kim, H. M. Park, F. Wu, J. Z. Zhang and
+T. Hyeon, J. Am. Chem. Soc., 2003, 125, 6553.
+34 X. Mao, Y. Bai, J. Yu and B. Ding, J. Am. Ceram. Soc., 2016, 99,
+2760.
+35 Y. Jiang, H. Song, Q. Ma and G. Meng, Thin Solid Films, 2006,
+510, 88.
+36 H. Y. Lee, S. Kim, Y. P. Hong, Y. C. Lee, Y. H. Park and
+K. H. Ko, Surf. Coat. Technol., 2003, 173, 224.
+37 M. Oikawa and S. Fujihara, J. Eur. Ceram. Soc., 2005, 25,
+2921.
+38 J. R. Ducl`ere, B. Doggett, M. O. Henry, E. McGlynn,
+R. T. Rajendra Kumar, J. P. Mosnier, A. Perrin and
+M. G. Viry, J. Appl. Phys., 2007, 101, 013509.
+39 G. Chen, G. Somesfalean, Y. Liu, Z. Zhang, Q. Sun and
+F. Wang, Phys. Rev. B: Condens. Matter Mater. Phys., 2007,
+75, 195204.
+40 L. S. Birks and H. Friedman, J. Appl. Phys., 1946, 17, 687.
+41 C. Lin, D. Kong, X. Liu, H. Wang, M. Yu and J. Lin, Inorg.
+Chem., 2007, 46, 2674.
+42 M. Wermuth, T. Riedener and H. U. G¨udel, Phys. Rev. B:
+Condens. Matter Mater. Phys., 1998, 57, 4369.
+43 T. Riedener, K. Kr¨amer and H. U. G¨udel, Inorg. Chem., 1995,
+34, 2745.
+44 J. M. F. van Dijk and M. F. H. Schuurmans, J. Chem. Phys.,
+1983, 78, 5317.
+45 M. Pollnau, D. R. Gamelin, S. R. L¨uthi and H. U. G¨udel, Phys.
+Rev. B: Condens. Matter Mater. Phys., 2000, 61(5), 3337.
+46 J. Zhao, Y. Sun, X. Kong, L. Tian, Y. Wang, L. Tu, J. Zhao and
+H. Zhang, J. Phys. Chem. B, 2008, 112, 15666.
+47 A. K. Soni and V. K. Rai, Dalton Trans., 2014, 43, 13563.
+103980 | RSC Adv., 2016, 6, 103973–103980
+This journal is © The Royal Society of Chemistry 2016
+RSC Advances
+Paper
+Published on 26 October 2016. Downloaded by Donghua University on 12/7/2021 8:50:55 AM. 
+View Article Online

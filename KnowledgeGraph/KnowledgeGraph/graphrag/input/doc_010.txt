@@ -1,0 +1,949 @@
+# Li-2014-Fabrication of a novel Ti-TiO2-ZrO2 fi
+
+Fabrication of a novel Ti–TiO2–ZrO2 ﬁber for solid-
+phase microextraction followed by high-
+performance liquid chromatography for sensitive
+determination of UV ﬁlters in environmental water
+samples†
+Yi Li,a Yaoxia Yang,a Haixia Liu,a Xuemei Wangab and Xinzhen Du*ab
+A novel Ti–TiO2–ZrO2 ﬁber for solid-phase microextraction (SPME) was fabricated by chemical oxidization
+of a Ti wire substrate and subsequent electrodeposition of ZrO2 nanoparticle coating. The chemically
+oxidized procedure aﬀorded in situ fabrication of porous TiO2 nanostructures on a Ti wire and provided
+a desirable substrate for further deposition of ZrO2 nanoparticle coating. The best extraction capability
+was obtained by ZrO2 nanoparticles with a size distribution of 20–30 nm and a coating thickness of
+about 4.5 mm after 10 cyclic voltammetry scans. The main parameters aﬀecting the Ti–TiO2–ZrO2 ﬁber
+for SPME of ultraviolet (UV) ﬁlters were investigated coupled to high-performance liquid chromatography
+with UV detection. A good linearity was achieved in the range of 0.5–500 mg L1 with correlation
+coeﬃcients higher than 0.996. Limits of detection were 0.032–0.082 mg L1 (S/N ¼ 3). The single ﬁber
+repeatability ranged from 4.3% to 12% and the ﬁber-to-ﬁber reproducibility ranged from 4.3% to 11% for
+SPME of spiked water with 50 mg L1 UV ﬁlters (n ¼ 5). Furthermore this ﬁber has high stability, long
+service time and high extraction capability for UV ﬁlters compared to the commercially available
+polymeric ﬁbers.
+1.
+Introduction
+Solid phase microextraction (SPME) is an attractive alternative
+to traditional sample preparation methods because it integrates
+sample extraction, concentration and introduction into one
+step.1 It has been successfully applied to environmental,2–5
+biological,6 crude oil7 and food analysis8 coupled with gas
+chromatography (GC) or high performance liquid chromatog-
+raphy (HPLC). However, commercial silica-based bers are
+relatively expensive and show some drawbacks such as fragility,
+bending of the needle, the stripping of coatings, and easily
+swelling in an organic solvent which limit its widespread
+applications.9 Therefore, the development of novel micro-
+extraction bers has become popular in this eld in the past two
+decades.10 Great eﬀorts have been directed to the development
+of metal-based bers with thermally and chemically stable
+coatings that have high extraction performance and/or selec-
+tivity for the specied analytes.11–20 With regard to inorganic
+materials, ZrO2 is one of the most versatile ceramic materials
+due to its durability, resistance to corrosion and wear, strong
+adhesion onto metallic surfaces and non-toxicity.21 It has been
+successfully used as a stationary phase in HPLC to analyze many
+analytes due to its high mechanical stability, good adsorption
+and excellent pH stability.22 Budziak et al. also has carried out
+the electrodeposition of ZrO2 on a NiTi wire as a ber for SPME
+of halophenols in water samples.23 This novel NiTi–ZrO2 ber
+showed a better extraction capability in comparison with the
+commercial bers and a lifetime of over 300 extraction cycles.
+Thus, it is a promising alternative for low-cost analysis due to its
+robustness and easy preparation.
+Recently, nanostructured TiO2-based SPME bers were
+fabricated through in situ oxidation of Ti wires with hydrogen
+peroxide24 and anodization of Ti wires in an electrolyte con-
+taining ethylene glycol and ammonium uoride.25 These novel
+TiO2-based
+SPME
+bers
+provide
+promising
+alternative
+substrates for further fabrication of highly eﬃcient and rigid
+ZrO2 coatings because they exhibit a much larger surface area
+and better active sites. Electrodeposition can oﬀer a rigid
+control of coating thickness, uniformity and deposition rate for
+ZrO2 coatings. This technique is especially attractive for further
+deposition onto the substrates with complex shapes.21
+Ultraviolet (UV) lters usually possess single or multiple
+aromatic structures conjugated with carbon–carbon double
+aCollege of Chemistry and Chemical Engineering, Northwest Normal University,
+Lanzhou 730070, P. R. China
+bKey Lab of Bioelectrochemistry & Environmental Analysis of Gansu, Lanzhou 730070,
+P. R. China. E-mail: xinzhendu@yahoo.com
+† Electronic
+supplementary
+information
+(ESI)
+available.
+See
+DOI:
+10.1039/c4ay01776e
+Cite this: Anal. Methods, 2014, 6, 8519
+Received 28th July 2014
+Accepted 30th August 2014
+DOI: 10.1039/c4ay01776e
+www.rsc.org/methods
+This journal is © The Royal Society of Chemistry 2014
+Anal. Methods, 2014, 6, 8519–8525 | 8519
+Analytical
+Methods
+PAPER
+Published on 01 September 2014. Downloaded by Donghua University on 12/7/2021 8:40:41 AM. 
+View Article Online
+View Journal | View Issue
+bonds and/or carbonyl moieties and are frequently used in a
+variety of cosmetics that mitigate the deleterious eﬀects of
+direct sunlight exposure by absorbing UV radiation.26 Their
+detection has shown that UV lters are directly or indirectly
+released into the aquatic environment during bathing and
+washing activities via domestic wastewater.27 A preliminary
+study reported that some UV lters are estrogenic, anti-
+estrogenic, androgenic and antiandrogenic in vitro and in vivo.28
+For these reasons, more eﬀorts were made for the development
+of accurate, convenient and robust methods to determine these
+emerging pollutants from diﬀerent environmental matrices. To
+date, various pretreatment techniques such as solid phase
+extraction
+(SPE),29
+SPME,27
+single-drop
+microextraction
+(SDME),30 hollow ber supported liquid phase microextraction
+(HF-LPME),31 and
+dispersive
+liquid–liquid
+microextraction
+(DLLME)32–35 have been successfully applied to extract UV lters
+from aqueous samples. In this work, a novel Ti–TiO2–ZrO2 ber
+was fabricated using the cyclic voltammetry (CV) by a combi-
+nation of the in situ fabrication of the TiO2-based nanostructure
+with subsequent electrodeposition of ZrO2 nanoparticle coating
+at the Ti wire surface. It was expected that strong Lewis acidic
+sites at the surface of ZrO2 coating would show good aﬃnity for
+UV lters with a Lewis basic character. The microextraction
+conditions were examined and investigated. The extraction
+eﬃciency of ZrO2 nanoparticle coating was compared with
+those of commercially available polydimethylsiloxane (PDMS)
+and polyacrylate (PA) bers. The established procedure was
+successfully applied to the eﬃcient preconcentration and
+sensitive determination of UV lters from the environmental
+water samples.
+2.
+Experimental
+2.1
+Materials and reagents
+Ti wire (purity 99.9%, f0.127 mm) was obtained from Alfa Aesar
+(Ward Hill, MA, USA). A 0.45 mm micropore membrane of pol-
+yvinylidene uoride was supplied by Xingya Purifying Material
+Factory (Shanghai, China). Hydrouoric acid (HF), hydrochloric
+acid (HCl), nitric acid (HNO3) and hydrogen peroxide (H2O2,
+30%, w/v) were obtained from Yantai Shuangshuang Chemicals
+Ltd (Shandong, China). Sodium chloride (NaCl) and potassium
+chloride (KCl) were obtained from Shanghai Hunter Fine
+Chemicals Ltd (Shanghai, China). Zirconium(IV) oxychloride
+octahydrate (ZrOCl2$8H2O) was purchased from Sinopharm
+Chemical Reagent Co., Ltd. (Shanghai, China). The HPLC-grade
+methanol was purchased from Yuwang Chemical Company
+(Shandong,
+China).
+Certied
+2-hydroxy-4-methoxy-
+benzophenone (BP-3, purity 100%, lot no. 14971), 2-ethylhexyl-
+4-methoxycinnamate (EHMC, purity 98%, lot no. 18565) and 2-
+ethylhexyl 4-(N,N-dimethylamino) benzoate (OD-PABA, purity
+97%, lot no. 23111) were purchased from AccuStandard (New
+Haven, USA). 2-Ethylhexyl salicylate (EHS, purity 99%, lot no.
+00902) was obtained from Dr Ehrenstorfer (Augsburg, Ger-
+many). The stock standard solution of 100 mg L1 of each
+compound was prepared in methanol and stored in amber
+bottles in the refrigerator at 4 C, shielding from light. Working
+standard solutions were prepared by diluting the stock standard
+solution with ultrapure water to the required concentration to
+study extraction performance under diﬀerent conditions. All
+other reagents were of analytical grade.
+2.2
+Instruments
+A Waters 600E multi-solvent delivery system (Milford, MA, USA)
+equipped with Waters 2487 dual l absorbance detector and a
+Waters Sunre C18 chromatographic column (150 mm 
+4.6 mm, 5 mm) was used for all separation processes. Data
+collection was obtained with a N2000 workstation (Zhejiang
+University, China). The mobile phase was methanol–water (90/
+10, v/v) and the wavelength of UV detection was set at 310 nm.
+Desorption was performed in a commercially available SPME-
+HPLC interface (Supelco, PA, USA) and sealed by polyether ether
+ketone septum which is tight enough to withstand a pressure as
+high as 29.7 MPa. Ultrapure water was obtained from a Sudreli
+water purifying system (Chongqing, China). Heating and stir-
+ring were carried out in a DF-101S water bath with a magnetic
+stirrer (Zhengzhou, China). Electrodeposition of ZrO2 nano-
+particle coating onto the surface of the TiO2-based wire was
+performed using a CHI832D analyzer (Shanghai, China). The
+morphology and composition of the fabricated bers were
+characterized by using an Ultra Plus microscope (Zeiss, Ober-
+kochen, Germany) equipped with semi-quantitative micro-
+analysis by energy dispersive X-ray spectroscopy (EDS).
+2.3
+Fabrication of Ti–TiO2–ZrO2 bers
+The fabrication of Ti–TiO2–ZrO2 bers includes the following
+steps. A 10 mm tip segment of Ti wires was soaked in a mixture
+of concentrated HF, concentrated HNO3 and water (1 : 3 : 6, v/v/v)
+at room temperature for 30 s, followed by ultrasonication in
+water.24 Thereaer, the etching part was dipped in H2O2 (30%,
+w/v) solution held in a 15 mL plastic test tube sealed with a cap
+and then the plastic test tube was placed in an oil bath (200 r
+min1, 80 C) for 24 h. Finally the Ti wires were rinsed gently
+with water and allowed to dry in air. Prior to electrodeposition
+of ZrO2, the Ti–TiO2 bers were ultrasonically cleaned in
+ultrapure water for 1 min to remove surface debris and dipped
+in a 1.0 mol L1 sodium hydroxide for 60 min activation of the
+TiO2-based surface and then in 0.1 mol L1 HCl for 30 min, and
+washed with ultrapure water for 5 min. Subsequently ZrO2
+nanoparticles were deposited onto the TiO2-based surface in the
+electrolyte of 0.005 mol L1 ZrOCl2 and 0.1 mol L1 KCl by CV
+between 2.0 and 0 V (versus Ag/AgCl) at a scanning rate of
+20 mV s1 for 10 cycles.36 The as-fabricated bers were gently
+rinsed with ultrapure water and then dried in air.
+2.4
+Real water samples
+Real environment water samples include 4 river water and 2
+wastewater samples. River water samples were freshly collected
+from diﬀerent sites in the Lanzhou section of the Yellow River.
+Wastewater samples were collected from local wastewater
+treatment plants. All real water samples were collected in amber
+glass, ltered through 0.45 mm micropore membranes, and
+then stored in the dark at 4 C. The pH value of water samples
+8520 | Anal. Methods, 2014, 6, 8519–8525
+This journal is © The Royal Society of Chemistry 2014
+Analytical Methods
+Paper
+Published on 01 September 2014. Downloaded by Donghua University on 12/7/2021 8:40:41 AM. 
+View Article Online
+was adjusted with 0.1 mol L1 HCl or ammonia prior to
+analysis.
+2.5
+SPME-HPLC procedure
+15 mL of working standard solution or sample solution was
+transferred into a 20 mL glass vial with a 1 cm magnetic stirrer
+bar inside a Teon septum. The Ti–TiO2–ZrO2 ber was
+immersed into the stirred solution for 30 min at 35 C. Subse-
+quently, the ber was withdrawn from the sample solution and
+introduced into the SPME-HPLC interface for static desorption
+in the mobile-phase. Aer desorption, a six-port valve was
+switched from load to inject position; the mobile phase was
+passed through the interface and UV lters were introduced
+into the analytical column at a ow rate of 1 mL min1 for HPLC
+analysis. For next extraction, the ber was immersed into
+methanol and ultrapure water to eliminate possible carry-over
+for 10 min and 5 min, respectively.
+3.
+Results and discussion
+3.1
+Characterization of nanostructured Ti–TiO2–ZrO2 bers
+Nanostructured ZrO2 can be deposited onto the TiO2-based
+surface through cathodic reactions.37 The thickness of ZrO2
+coating can be controlled by the number of CV cycles. Fig. 1
+shows the micrographs of scanning electron microscopy (SEM)
+obtained for a Ti wire ber at diﬀerent stages. The TiO2-based
+surface (Fig. 1a and b) is rough and porous with a pore size of
+50–120 nm compared to that of the bare Ti wire (Fig. 1a1) and
+can provide a desirable substrate for subsequent compact
+electrodeposition of ZrO2. As shown in Fig. 1c–f, some crackings
+of the electrodeposited ZrO2 coatings were observed. These
+crackings result from a tension due to shrinking of the ZrO2
+coating layers.38 Thicker ZrO2 coatings electrodeposited by 20
+CV cycles and 30 CV cycles lead to more signicant crackings as
+shown in Fig. 1e and f. This phenomenon results in a signicant
+decrease in the eﬀective surface area of ZrO2 coatings and
+thereby a great decrease in the peak area, and the best extrac-
+tion capability was obtained for ZrO2 coating with 10 CV cycles
+(see Fig. S1†). Furthermore higher magnication of ZrO2
+coating in Fig. 1d1 clearly demonstrates that ZrO2 nanoparticles
+were fabricated onto the nanostructured TiO2 surface with a
+size distribution of 20–30 nm and a thickness of about 4.5 mm,
+and thereby greatly increasing the extraction eﬃciency of target
+UV lters. On the one hand, the electrodeposited ZrO2 nano-
+particle coating exhibits strong aﬃnity for polar organic
+compounds due to the presence of Zr–OH at the surface of ZrO2
+coating. On the other hand, it is expected that strong Lewis
+acidic sites at the surface of ZrO2 nanoparticles would show
+good aﬃnity for target analytes with a Lewis basic character.
+Thus 10 CV cycles were employed for the electrodeposition of
+ZrO2 coating in this study.
+The chemical analysis of the TiO2-based wire was also per-
+formed by EDS. The spectrum obtained for the TiO2-based
+surface only shows peaks corresponding to the presence of
+titanium and oxygen (Fig. 2a). For the Ti–TiO2–ZrO2 ber, a
+strong peak also appears at 2.1 keV (Fig. 2b). This can be
+attributed to the emission line of zirconium due to ZrO2
+nanoparticles electrodeposited onto the TiO2-based surface.
+These phenomena provide additional evidence for the results
+obtained by SEM.
+3.2
+Optimization of SPME conditions
+The main parameters aﬀecting the Ti–TiO2–ZrO2 ber for SPME
+of four UV lters were examined in aqueous samples. Depen-
+dence of SPME on the extraction and desorption times,
+temperature, ionic strength, stirring rate and pH was optimized
+to obtain an excellent extraction eﬃciency.
+3.2.1
+Eﬀect of the extraction and desorption times. The
+extraction time is a crucial factor in SPME. Generally the longer
+Fig. 1
+SEM micrographs of the TiO2-based wire surface (a  1000 and
+b  70 000) and electrodeposited ZrO2 nanoparticle coatings (1000)
+by CV after 5 (c), 10 (d), 20 (e) and 30 cycles (f).
+Fig. 2
+EDS spectra of TiO2-based wire (a) and the Ti–TiO2–ZrO2
+ﬁber (b).
+This journal is © The Royal Society of Chemistry 2014
+Anal. Methods, 2014, 6, 8519–8525 | 8521
+Paper
+Analytical Methods
+Published on 01 September 2014. Downloaded by Donghua University on 12/7/2021 8:40:41 AM. 
+View Article Online
+extraction time results in the higher extraction eﬃciency and
+sensitivity prior to equilibrium. The extraction time prole of
+UV lters is shown in Fig. 3a. The chromatographic peak area
+nearly reaches its maximum within 30 min except OD-PABA.
+The equilibration time clearly indicates that ZrO2 nanoparticle
+coating is favorable for the mass transfer of UV lters from bulk
+solution to ber coating. Taking account of a reasonable
+compromise between good sensitivity and acceptable time
+analysis, 30 min was chosen for SPME of UV lters in subse-
+quent experiments. Aer extraction, solvent desorption of the
+extracted UV lters was performed in the mobile phase. For all
+UV lters, the peak area reached the constant maximum within
+4 min. Thus, 4 min was employed for desorption of UV lters in
+the mobile phase.
+3.2.2
+Eﬀect of the extraction temperature. The temperature
+is a very important parameter for SPME because it can aﬀect the
+extraction rate and equilibrium. Fig. 3b presents the eﬀect of
+the temperature on the extraction of UV lters from 15 to 65 C.
+The highest extraction eﬃciencies were obtained at 35 C.
+Thereaer, the extraction capability quickly decreased when the
+temperature continuously increased. This is most probably due
+to the decreased distribution coeﬃcients of UV lters between
+the ZrO2 coating and water along with increasing temperature.
+In addition, the dissolution of UV lters also decreases the
+extraction eﬃciency at higher temperature. Therefore an
+extraction temperature of 35 C was used.
+3.2.3
+Eﬀect of the ionic strength. Addition of the salt can
+decrease the solubility of less polar organic analytes and aﬀect
+the surface properties of ber coatings at the same time, and
+nally inuence the adsorption behavior of the prepared bers.
+Thus the eﬀect of the ionic strength was further examined by
+adding NaCl ranging from 0 to 30% (w/v) into the working
+solutions. A negative eﬀect on extraction eﬃciencies of UV
+lters was observed in the aqueous phase with more than NaCl
+of 5%. Therefore, no salt addition was recommended in this
+study.
+3.2.4
+Eﬀect of the stirring rate. The extraction eﬃciency
+enhances with increasing stirring rate because stirring accel-
+erates the mass transfer of the analytes from the solution to
+ber coating. In the experiment, the extraction eﬃciency
+maximum of UV lters was achieved at the stirring rate of 800 r
+min1. More vigorous stirring led to bubble formation which is
+unfavorable to the adsorption process at the surface of the ber
+with Ti–TiO2–ZrO2 nanoparticle coating. Therefore the stirring
+rate was xed at 800 r min1.
+3.2.5
+Eﬀect of the pH. The eﬀect of the pH on the SPME of
+UV lters was examined within the pH range of 2.0–9.0. Due to
+their protonation at pH < 4, all UV lters are capable of existing
+in their cationic form and soluble in aqueous solutions. Thus
+extremely
+low
+extraction
+eﬃciencies
+for
+UV
+lters
+were
+obtained. At pH 7.0, their neutral forms are benecial for their
+adsorption onto the Ti–TiO2–ZrO2 coating and thereby the
+highest extraction eﬃciencies were achieved. In the case of pH >
+7.0, however, all UV lters exhibit rapidly decreased extraction
+eﬃciencies. Therefore, pH 7.0 was employed for the SPME
+procedure.
+3.3
+Analytical gures of merit
+The analytical performance of the fabricated Ti–TiO2–ZrO2
+bers was examined for targeted UV lters under optimized
+conditions. Table 1 summarizes their linear ranges with corre-
+sponding correlation coeﬃcients (r2), the recoveries and the
+Fig. 3
+Eﬀect of the extraction time and temperature on the extraction eﬃciency.
+Table 1
+Analytical parameters of the proposed method (n ¼ 5)
+UV lters
+Linear range
+(mg L1)
+r2
+Recovery
+(%)
+Single ber repeatability
+Fiber-to-ber
+reproducibility (%)
+LOD (mg L1)
+Intraday (%)
+Interday (%)
+BP-3
+0.5–400
+0.9994
+82.24
+5.0
+12
+11
+0.032
+OD-PABA
+0.5–500
+0.9984
+97.42
+4.3
+11
+4.3
+0.044
+EHMC
+0.5–500
+0.9970
+103.7
+9.0
+9.4
+10
+0.075
+EHS
+0.5–500
+0.9961
+106.6
+8.6
+12
+10
+0.082
+8522 | Anal. Methods, 2014, 6, 8519–8525
+This journal is © The Royal Society of Chemistry 2014
+Analytical Methods
+Paper
+Published on 01 September 2014. Downloaded by Donghua University on 12/7/2021 8:40:41 AM. 
+View Article Online
+limits of detection (LOD) (S/N ¼ 3) of the proposed method.
+Good linearity and high sensitivity were achieved. The single
+ber repeatability for ve replicate extraction cycles of UV lters
+at the spiking level of 50 mg L1 varied from 4.3% to 9.0% and
+from 9.4% to 12% for intraday and interday SPME-HPLC-UV of
+UV lters, respectively. The ber-to-ber reproducibility of ve
+parallel fabricated bers ranged from 4.3% to 11%. Further-
+more the durable measurements for the single ber in the
+aqueous phase and mobile phase showed acceptable changes in
+the extraction eﬃciency over 250 cycles of SPME.
+3.4
+Real samples analysis
+The proposed method was employed for the preconcentration
+and determination of the target UV lters in environmental
+water samples. Furthermore all water samples were fortied
+with the certied target analytes at two concentration levels
+(10 mg L1 and 50 mg L1 of each analyte) to identify the target
+UV lters based on their retention time and to study possible
+matrix eﬀects. The proposed method was evaluated by means of
+relative recovery (dened as the ratio of the detected concen-
+tration to that of spiked real water). The results are listed in
+Table 2. The mean recoveries ranged from 77.28% to 113.6%
+and the RSD was between 4.9% and 12%. Furthermore Fig. 4
+shows typical chromatograms of direct HPLC (Fig. 4a) and
+SPME-HPLC (Fig. 4b–d) for raw and spiked wastewater (no. 2) by
+the fabricated Ti–TiO2–ZrO2 ber. As compared with commer-
+cial 100 mm PDMS (Fig. 4e) and 85 mm polyacrylate (Fig. 4f)
+bers, the fabricated Ti–TiO2–ZrO2 ber exhibits greatest
+extraction capability of UV lters for spiked wastewater at 50 mg
+L1 (Fig. 4d). These results clearly demonstrate that the fabri-
+cated Ti–TiO2–ZrO2 ber is reliable and suitable for the
+Table 2
+Analytical results of UV ﬁlters in diﬀerent environmental water samples (n ¼ 3)
+Samples
+UV lters
+Original
+(mg L1)
+Spiked with 10 mg L1
+Spiked with 50 mg L1
+Detected
+(mg L1)
+Recovery
+(%)
+RSD (%)
+Detected
+(mg L1)
+Recovery
+(%)
+RSD (%)
+River water under Bapanxia Bridge
+BP-3
+NDa
+8.33
+83.30
+8.4
+44.01
+88.02
+6.3
+OD-PABA
+2.67
+12.20
+96.29
+9.6
+44.24
+83.99
+5.4
+EHMC
+1.27
+11.57
+102.6
+10
+48.24
+94.09
+6.2
+EHS
+0.72
+9.55
+89.08
+8.5
+43.23
+85.23
+7.4
+River water under Yintan Bridge
+BP-3
+4.01
+14.5
+103.4
+11
+61.06
+113.1
+9.1
+OD-PABA
+8.29
+19.37
+105.9
+9.8
+50.43
+86.52
+8.2
+EHMC
+6.88
+18.61
+110.2
+11
+52.43
+92.17
+6.3
+EHS
+7.84
+15.70
+88.00
+10
+55.37
+95.72
+5.5
+River water under Donggang Bridge
+BP-3
+0.64
+11.95
+112.3
+10
+56.51
+111.6
+9.0
+OD-PABA
+2.33
+10.33
+83.77
+11
+49.78
+95.12
+5.5
+EHMC
+1.41
+12.02
+105.3
+8.9
+44.79
+87.58
+4.9
+EHS
+0.83
+8.37
+77.28
+7.9
+43.11
+84.81
+6.4
+River water under Sichuan Bridge
+BP-3
+ND
+10.29
+102.9
+12
+53.04
+106.1
+9.2
+OD-PABA
+5.53
+12.73
+81.97
+12
+49.36
+88.89
+8.1
+EHMC
+4.76
+13.38
+90.65
+8.3
+48.82
+89.15
+7.2
+EHS
+1.24
+10.27
+91.37
+9.2
+42.87
+83.67
+6.5
+Inuent from wastewater
+treatment plant no. 1
+BP-3
+ND
+11.36
+113.6
+10
+45.37
+90.74
+6.3
+OD-PABA
+6.97
+15.02
+88.50
+9.5
+45.95
+80.65
+8.7
+EHMC
+4.76
+17.10
+115.8
+9.2
+53.24
+97.22
+8.9
+EHS
+ND
+10.45
+104.5
+11
+54.36
+108.7
+7.8
+Inuent from wastewater
+treatment plant no. 2
+BP-3
+ND
+11.57
+115.7
+9.9
+47.57
+95.15
+6.5
+OD-PABA
+3.43
+12.38
+92.18
+8.6
+45.10
+84.41
+6.8
+EHMC
+2.28
+12.15
+98.94
+10
+45.51
+87.06
+5.4
+EHS
+ND
+8.31
+83.10
+9.7
+52.53
+105.1
+7.3
+a ND, not detected or lower than LOD.
+Fig. 4
+Chromatograms of direct HPLC and SPME-HPLC for waste-
+water (no. 2). Direct HPLC (a); SPME-HPLC with the Ti–TiO2–ZrO2
+ﬁber for raw wastewater (b) and for spiked wastewater at 10 mg L1 (c)
+and 50 mg L1 (d); SPME-HPLC with 100 mm PDMS (e) and 85 mm PA (f)
+ﬁbers for spiked wastewater at 50 mg L1. BP-3: 2-hydroxy-4-
+methoxybenzophenone; EHMC: 2-ethylhexyl-4-methoxycinnamate;
+OD-PABA: 2-ethylhexyl 4-(N,N-dimethylamino) benzoate; EHS: 2-
+ethylhexyl salicylate.
+This journal is © The Royal Society of Chemistry 2014
+Anal. Methods, 2014, 6, 8519–8525 | 8523
+Paper
+Analytical Methods
+Published on 01 September 2014. Downloaded by Donghua University on 12/7/2021 8:40:41 AM. 
+View Article Online
+preconcentration and determination of UV lters in environ-
+mental water samples.
+3.5
+Comparison of the proposed method with reported
+methods
+The proposed method was compared with the reported
+methods with respect to the sample volume, extraction time,
+linear range, LOD, RSD and recovery. As can be seen in Table 3,
+the extraction equilibrium was almost achieved within 30 min.
+Moreover, the LOD values also suggest that this proposed
+method exhibits high sensitivity for the determination of tar-
+geted UV lters. A simple operation procedure makes the
+sample preparation easy, rapid and suitable for the pre-
+concentration and determination of trace UV lters in real
+environmental water. The experimental results for the proposed
+method are comparable or better than those in the reported
+literatures.31,33,35,39–41
+4.
+Conclusions
+In this study, ZrO2 nanoparticle coating was fabricated on a
+nanostructured TiO2-based substrate as a SPME ber coating by
+previous chemical oxidation and subsequent electrodeposition
+using a CV technique. The ZrO2 nanoparticle coatings were
+tightly attached onto the nanostructured TiO2 substrate with a
+larger surface area. This robust ber was more eﬀective than the
+commercially available PDMS and PA bers for SPME of UV
+lters and used for more than 250 extraction and desorption
+cycles without the loss of the extraction capability. This novel
+Ti–TiO2–ZrO2 ber was easily fabricated in a highly reproduc-
+ible manner. It oﬀered a simple, rapid, sensitive and inexpen-
+sive
+pretreatment
+way
+for
+the
+preconcentration
+and
+determination of targeted UV lters in real environmental water
+samples.
+Acknowledgements
+This research was nancially supported by the National Natural
+Science Foundation of China (Grant no. 21265019).
+References
+1 C. L. Arthur and J. Pawliszyn, Anal. Chem., 1990, 62, 2145–
+2148.
+2 B. Mokhtari, N. Dalali and K. Pourabdollah, J. Sep. Sci., 2013,
+36, 356–361.
+3 H. T. Liu, L. Liu, Y. Q. Xiong, X. M. Yang and T. G. Luan, J.
+Chromatogr. A, 2010, 1217, 6747–6753.
+4 B. Mokhtari, N. Dalaali and K. Pourabdollah, J. Chil. Chem.
+Soc., 2012, 57, 1428–1431.
+5 B. Mokhtari, N. Dalaali and K. Pourabdollah, J. Chin. Chem.
+Soc., 2013, 60, 625–631.
+6 X. Zhang, J. B. Cai, K. D. Oakes, F. Breton, M. R. Servos and
+J. Pawliszyn, Anal. Chem., 2009, 81, 7349–7356.
+7 B. Mokhtari and K. Pourabdollah, Talanta, 2011, 87, 118–
+125.
+8 N. Campillo, R. Pe˜nalver, I. L´opez-Garc´ıa and M. Hern´andez-
+C´ordoba, J. Chromatogr. A, 2009, 1216, 6735–6740.
+9 Y.
+Liu,
+M.
+L.
+Lee,
+K.
+J.
+Hageman,
+Y.
+Yang
+and
+S. B. Hawthorne, Anal. Chem., 1997, 69, 5001–5005.
+10 A. Mehdinia and M. O. Aziz-Zanjani, Trends Anal. Chem.,
+2013, 42, 205–215.
+11 X. Z. Du, Y. R. Wang, X. J. Tao and H. L. Deng, Anal. Chim.
+Acta, 2005, 543, 9–16.
+12 L. Setkova, S. Risticevic, C. M. Linton, G. F. Ouyang,
+L. M. Bragg and J. Pawliszyn, Anal. Chim. Acta, 2007, 581,
+221–231.
+13 H. Bagheri, E. Babanezhad and A. Es-Haghi, J. Chromatogr. A,
+2007, 1152, 168–174.
+14 J. B. Zeng, B. B. Yu, W. F. Chen, Z. J. Lin, L. M. Zhang,
+X. Chen and X. R. Wang, J. Chromatogr. A, 2008, 1188, 26–33.
+15 P.
+Hashemi,
+M.
+Shamizadeh,
+A.
+Badiei,
+P.
+Z.
+Poor,
+A. R. Ghiasvand and A. Yarahmadi, Anal. Chim. Acta, 2009,
+646, 1–5.
+16 Y. H. Wang, Y. Q. Li, J. Zhang, S. F. Xu, S. G. Yang and C. Sun,
+Anal. Chim. Acta, 2009, 646, 78–84.
+17 H. L. Xu, Y. Li, D. Q. Jiang and X. P. Yan, Anal. Chem., 2009,
+81, 4971–4977.
+18 X. Y. Cui, Z. Y. Gu, D. Q. Jiang, Y. Li, H. F. Wang and
+X. P. Yan, Anal. Chem., 2009, 81, 9771–9777.
+Table 3
+Comparison of the current method with other methods for extraction and determination of UV ﬁlters
+Instrumentationa
+Volume (mL)
+Time (min)
+Linear ranges
+(mg L1)
+LOD (mg L1)
+RSD (%)
+Recovery (%)
+Ref.
+SPME-GC-FID
+5
+45
+10–500
+0.87–2.47b
+4.5–7.9
+82–99
+27
+SPE-LC-DAD
+500
+30
+0.02–0.2
+0.014b
+2.8
+95–97
+29
+SDME-LC-UV
+20
+37
+1–150
+0.07–0.19
+2.8–7.9
+96–110
+30
+HF-LPME-HPLC-UV
+10
+50
+5–1000
+0.2–0.5
+1.1–8.4
+95.2–104.9
+31
+MSA-DLLME-HPLC-DAD
+20
+>25
+5–20 000
+0.2–0.8
+1.4–4.8
+91.3–97.1
+33
+DLLME-HPLC-UV
+10
+10
+0.5–500
+0.06–0.16
+2.8–7.6
+92.8–114
+35
+SPME-HPLC-UV
+15
+30
+0.1–400
+0.026–0.089
+4.5–8.7
+94–103
+39
+UDSA-IL-DLLME-UPLC-DAD
+5
+>6
+2–1000
+0.23–1.3
+1.0–2.9
+92–120
+40
+VA-DLLME-GC-MS
+10
+>4
+0.05–10
+0.02–0.1
+6.1–12
+71–120
+41
+SPME-HPLC-UV
+15
+30
+0.5–500
+0.032–0.082
+4.2–8.9
+82.2–106.6
+This method
+a DAD, photodiode array detection; FID, ame ionization detection; MSA, magnetic stirring-assisted; UDSA, Up-and-down shaker-assisted. b Limit
+of quantitation.
+8524 | Anal. Methods, 2014, 6, 8519–8525
+This journal is © The Royal Society of Chemistry 2014
+Analytical Methods
+Paper
+Published on 01 September 2014. Downloaded by Donghua University on 12/7/2021 8:40:41 AM. 
+View Article Online
+19 N. Chang, Z. Y. Gu, H. F. Wang and X. P. Yan, Anal. Chem.,
+2011, 83, 7094–7101.
+20 J. J. Ji, H. H. Liu, J. M. Chen, J. B. Zeng, J. L. Huang, L. H. Gao,
+Y. R. Wang and X. Chen, J. Chromatogr. A, 2012, 1246, 22–27.
+21 I. Zhitomirsky and A. Petric, Mater. Lett., 2000, 46, 1–6.
+22 M. Grn, A. A. Kurganov, S. Schacht, F. Schiith and
+K. K. Unger, J. Chromatogr. A, 1996, 740, 1–9.
+23 D. Budziak, E. Martendal and E. Carasek, J. Chromatogr. A,
+2007, 1164, 18–24.
+24 D. D. Cao, J. X. L¨u, J. F. Liu and G. B. Jiang, Anal. Chim. Acta,
+2008, 611, 56–61.
+25 H. M. Liu, D. A. Wang, L. Ji, J. B. Li, S. J. Liu, X. Liu and
+S. X. Jiang, J. Chromatogr. A, 2010, 1217, 1898–1903.
+26 A. Salvador and A. Chisvert, Anal. Chim. Acta, 2005, 537, 1–14.
+27 D.
+A.
+Lambropoulou,
+D.
+L.
+Giokas,
+V.
+A.
+Sakkas,
+T. A. Albanis and M. I. Karayannis, J. Chromatogr. A, 2002,
+967, 243–253.
+28 P. Y. Kunz and K. Fent, Aquat. Toxicol., 2006, 79, 305–325.
+29 D. L. Giokas, V. A. Sakkas and T. A. Albanis, J. Chromatogr. A,
+2004, 1026, 289–293.
+30 L. Vidal, A. Chisvert, A. Canals and A. Salvador, Talanta,
+2010, 81, 549–555.
+31 D. D. Ge and H. K. Lee, J. Chromatogr. A, 2012, 1229, 1–5.
+32 B. Mokhtari and K. Pourabdollah, J. Inclusion Phenom.
+Macrocyclic Chem., 2012, 74, 183–189.
+33 P. P. Zhang, Z. G. Shi, Q. W. Yu and Y. Q. Feng, Talanta, 2011,
+83, 1711–1715.
+34 B. Mokhtari and N. Dalali, Chromatographia, 2013, 76, 565–570.
+35 L. K. Xue, W. W. Ma, D. X. Zhang and X. Z. Du, Anal. Methods,
+2013, 5, 4213–4219.
+36 G. D. Liu and Y. H. Lin, Anal. Chem., 2005, 77, 5894–5901.
+37 F. C. Giacomelli, C. Giacomelli, A. G. De Oliveira and
+A. Spinelli, Mater. Lett., 2005, 59, 754–758.
+38 S. K. Yen, Mater. Chem. Phys., 2000, 63, 256–262.
+39 Y. Li, M. Zhang, Y. X. Yang, X. M. Wang and X. Z. Du, J.
+Chromatogr. A, 2014, 1358, 60–67.
+40 Y. C. Ku, M. L. Leong, W. T. Wang and S. D. Huang, J. Sep.
+Sci., 2013, 36, 1470–1477.
+41 Y. F. Zhang and H. K. Lee, J. Chromatogr. A, 2012, 1249, 25–
+31.
+This journal is © The Royal Society of Chemistry 2014
+Anal. Methods, 2014, 6, 8519–8525 | 8525
+Paper
+Analytical Methods
+Published on 01 September 2014. Downloaded by Donghua University on 12/7/2021 8:40:41 AM. 
+View Article Online

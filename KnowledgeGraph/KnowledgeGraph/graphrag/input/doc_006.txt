@@ -1,0 +1,1237 @@
+# Pauzan-2021-Fabrication and characterization o
+
+1
+Korean J. Chem. Eng., 38(2), 1-15 (2021)
+DOI: 10.1007/s11814-021-0888-z
+INVITED REVIEW PAPER
+pISSN: 0256-1115
+eISSN: 1975-7220
+INVITED REVIEW PAPER
+†To whom correspondence should be addressed.
+E-mail: hafiz@petroleum.utm.my
+Copyright by The Korean Institute of Chemical Engineers.
+Fabrication and characterization of robust zirconia-kaolin hollow fiber membrane:
+Alkaline dissolution study in ammonia solution
+Mohammad Arif Budiman Pauzan*, Siti Khadijah Hubadillah**, Mohd Hafiz Dzarfan Othman*,†,
+Nurul Jannah Ismail*, Mohd Hafiz Puteh***, Huda Abdullah****, Suriani Abu Bakar*****,
+Siti Hamimah Sheikh Abdul Kadir******, and Wong Keng Yinn*******
+*Advanced Membrane Technology Research Centre (AMTEC), Universiti Teknologi Malaysia, 81310 Skudai, Johor, Malaysia
+**School of Technology Management and Logistics, Universiti Utara Malaysia, 06010 Sintok, Kedah, Malaysia
+***School of Civil Engineering, Faculty of Engineering, Universiti Teknologi Malaysia, 81310 Skudai, Johor, Malaysia
+****Department of Electrical, Electronic & Systems Engineering, Faculty of Engineering & Built Environment,
+The National University of Malaysia
+*****Nanotechnology Research Centre, Faculty of Science and Mathematics, Universiti Pendidikan Sultan Idris,
+35900 Tanjung Malim, Perak, Malaysia
+******Institute of Pathology, Laboratory and Forensic Medicine (I-PPerForM), Universiti Teknologi Mara (UiTM),
+Cawangan Selangor, Kampus Sungai Buloh, Jalan Hospital 47000 Sungai Buloh, Malaysia
+*******School of Mechanical Engineering, Faculty of Engineering, Universiti Teknologi Malaysia,
+81310 Skudai, Johor, Malaysia
+(Received 10 March 2021 • Revised 26 June 2021 • Accepted 1 July 2021)
+AbstractKaolin has been found to be a more economical alternative in ceramic hollow membrane fabrication com-
+pared to alumina, silica, and zirconia despite having similar properties. However, it was discovered that apart from hav-
+ing high mechanical strength and the ability to withstand high operational temperature, the kaolin membrane has the
+tendency to dissolve in a high alkaline solution. Hence, in this study, zirconia (ZrO2) was imposed to kaolin suspen-
+sion as co-starting material due to its stable hexagonal properties with kaolin to overcome this drawback. To study the
+dissolution property of the modified kaolin-based membrane, a phase inversion technique was used to fabricate zirco-
+nia-kaolin hollow fiber membrane (ZKHFM) followed by immersion in ammonium hydroxide (NH4OH) as an alkaline
+solution. Ammonia was aptly chosen for it being considered as one of the pollutants to be removed from wastewater.
+The mechanism, morphology and properties of the membrane were investigated in terms of sintering temperature,
+morphology, mechanical strength, pore size and porosity The results showed that ZKHFM with 10 wt% (ZK-10) with
+sintering temperature of 1,200 oC had the best performance in terms of having high mechanical strength (21 MPa),
+excellent permeation flux (~1,600 Lm2/h) and lowest dissolution (0.01 g dissolute) at pH 13, indicating the ability of
+ZKHFM to be used in alkaline solution.
+Keywords: Dissolution, Kaolin, Zirconia, Hollow Fiber Membrane, Ammonia
+INTRODUCTION
+Ammonia is considered water pollutant that needs to be treated
+for daily use. It usually comes as a by-product of fertilizers used in
+plantations and the production of the fertilizers itself is drained into
+rivers [1]. It can also originate from the anaerobic reaction from an
+anaerobic digester [2] or a by-product of radioactive waste [3]. Many
+treatments have been implemented to treat ammonia, including
+membrane filtration such as membrane contactor [4] and mem-
+brane distillation [5], in which the latter has attracted more inter-
+est due to its ability to filter ammonia from wastewater while at the
+same time recovering the ammonia to be turned into fertilizer [6].
+Normally, ammonia originating from anaerobic digester and land-
+fill leachate is usually in high concentration, which eventually might
+be in high alkaline condition with pH of more than 10. Hence, if
+membrane technology is intended to apply to treat this ammonia-
+rich wastewater, the membrane must be able to withstand the high
+concentration and pH of ammonia. The membrane also needs to
+be porous enough to allow ammonia to pass through the wall of
+the membrane and hence reduce the weakness of the membrane
+due to high alkaline condition of ammonia.
+The recent exploration of new alternative materials for ceramic
+membranes has attracted many researchers to experiment with nat-
+ural and low-cost materials, such as kaolin [7-9], natural ball clay
+[10], bauxite [11] and waste materials such as fly ash [12] and alu-
+minium dross [13], which possess similar properties and charac-
+teristics as commercial ceramic membrane fabricated from silica,
+alumina, titania and zirconia, which are considered costly from a
+technical and economical perspective [14]. According to Hubadil-
+lah et al. [15], kaolin possesses unique physical properties such as
+2
+M. A. B. Pauzan et al.
+May, 2019
+low plasticity and high refractory properties, where these criteria
+are essential to producing a high-performance ceramic membrane.
+Moreover, high presence of aluminosilicate in kaolin makes it an
+ideal alternative raw material for ceramic membrane. Another study
+by Hubadillah et al. [7] discovered that kaolin could also be used
+as filtration membrane for oily wastewater removal. Furthermore,
+kaolin is known to have uniform pore channels, which is one im-
+portant characteristic in membrane performance [15].
+Nevertheless, despite having numerous advantages, kaolin does
+have a drawback. It was discovered that when used in high alka-
+line or basic solution, i.e., high pH of such as ammonium hydrox-
+ide (NH4OH) solution, it will tend to dissolve. Technically, ammonia
+is a basic solution due to a lone pair present on the nitrogen, N atom,
+but it will react with -OH and later become high basic as the pH
+increases. Kaolin contains high composition of silica dioxide (SiO2)
+in which this unstable silica negatively surface charged leads to
+highly polarized interatomic, Si-O. According to Niibori et al. [16],
+upon contact with water (OH-), SiO4
++ (representing a part of SiO2
+framework), will react with water to form Si-OH, which will later
+turn to Si-O in basic solution. They revealed that the presence of
+highly polarized interatomic Si-O bonds facilitates the detachment
+of Si in basic solution due to deprotonation of the O to negatively
+charged species such as Si-O.
+Considering that zirconia has appeared to be used in ceramic
+membrane along with the use of other ceramic membranes fabri-
+cated from silica, alumina and titania, zirconia has been recognized
+to be a popular choice compared to polymeric membrane in micro-
+filtration for wastewater due to its capability to withstand high tem-
+perature, pressure and chemical stability [14,15]. According to Yang
+et al. [17], zirconia membrane, particularly, has been one of the
+famous ceramic membranes due to its high chemical resistance,
+which allows steam sterilization and cleaning procedures at very
+high and low pH, excellent pure water permeability and high mem-
+brane flux in separation and filtration due to their specific surface
+properties as well as high thermal stability. However, owing to the
+fact that zirconia membrane requires a high melting point (~2,715 oC),
+this would lead to a higher cost of production.
+Nishiyama et al. [18], prepared porous silica containing zirco-
+nia which has high resistant against water and alkaline solutions.
+They reported that a small amount of zirconia (~10wt%) can effec-
+tively enhance the resistance against alkaline solution. Pure zirco-
+nia was found hardly dissolved in the alkaline solution, where it
+was suggested that the Zr-O-Zr network to be resistant properties
+in alkaline condition compared to Si-O-Si network, which makes
+the Si-O-Zr network stable in alkaline solution. Therefore, Nishi-
+yama et al. [19] developed another study to add zirconia to bond
+with silica (MCM-48) to increase the chemical resistance. Nor-
+mally, due to smaller particle size zirconia if to be compared to sil-
+ica, the voids in the big pore channel present in kaolin will be filled
+by zirconia, which enhances the bond strength between these two
+materials with oxide bond. As confirmed by Rodič et al. [20], the
+Si-O-Zr bond is the strongest when seen in FTIR among other Si
+bonds.
+Therefore, to the best of our knowledge, as no previous report
+on using ceramic membrane fabricated from mixed of zirconia and
+kaolin for microfiltration has been reported, thus we investigated
+the possibility of zirconia to be introduced in an ordered meso-
+porous silica containing kaolin powder by investigating the mor-
+phology of the fabricated membrane, which could later improve
+the resistance to high concentration of alkaline solutions. First, a
+study of the composite zirconia-kaolin hollow fiber membrane,
+namely ZKHFM, was done based on the effect of sintering tem-
+perature of the ZKHFM membrane to present the best sintering
+temperature for the membrane in terms of mechanical strength,
+average pore size, porosity and permeability of the membrane. Fol-
+lowed by on the effect of zirconia content in ZKHFM with the same
+criteria as mentioned. Lastly, the ability of the membranes to be
+used in high alkali condition was investigated by dissolution test.
+The ZKHFM membranes were fabricated in hollow fiber configu-
+ration via phase inversion and sintering technique with adaptation
+from a study by Hubadillah et al. [7]. The characteristics of the
+membrane were characterized and explored. Ammonia was cho-
+sen to be used in this study due to its properties to be basic or
+alkaline, especially in high pH, as well as ammonia is considered
+as one of the most crucial contaminants that need to be removed
+during wastewater treatment.
+MATERIALS AND EXPERIMENTAL
+1. Materials
+Kaolin powder was purchased from BG Oil Chem Sdn Bhd,
+Malaysia and zirconia powder or zirconium (IV) oxide (ZrO2) from
+Across were used as the ceramic material. N-methyl-2-pyrrolidone
+(NMP) was purchased from Merck and used as solvent. Polyether-
+sulfone (PESf) as polymer binder was provided by Amoco Chemi-
+cals and Arlacel 135 (CRODA) was used as dispersant to hold the
+dope suspension in a homogeneous suspension. The kaolin pow-
+der and the PESf were heated to 70 oC in the oven before being
+used to remove any adsorbed moisture and were used without any
+purification process. Then, tap water was used as a non-solvent
+coagulant bath. Ammonium hydroxide (NH4OH) used for alkaline
+solution was purchased from Merck, U.S.A and used without any
+pre-treatment.
+2. Preparation of Zirconia-kaolin Hollow Fiber Membrane
+(ZKHFM)
+In this work, the preparation of three types of zirconia-kaolin hol-
+low fiber membrane (ZKHFM) were fabricated and labelled as ZK5,
+ZK7 and ZK10, indicated by the total composition (wt%) of zirco-
+nia powder added onto the mixed zirconia-kaolin membrane sus-
+pension. The amount of zirconia added corresponds to the study
+by Nishiyama et al. [18], where the amount was varied between
+the range of below 10wt%, which was also used in other prelimi-
+nary studies prior to this study. The idea of using less than 10wt%
+was not only to reduce the cost of membrane materials but also to
+investigate the effect of not more than 10wt% of zirconia towards
+the performance of the membrane. It was assumed if the wt% of
+zirconia content was more than 10%, the performance of the mem-
+brane would be hugely influenced by the zirconia, not kaolin itself
+as in this study, where the priority of this study is the kaolin hol-
+low fiber membrane. The addition of zirconia was to enhance the
+kaolin hollow fiber membrane to be used in high concentration of
+alkaline/ammonia condition. Based on the preliminary studies previ-
+Ammonia dissolution study by zirconia-kaolin membrane
+3
+Korean J. Chem. Eng.
+ously conducted, the addition of less than 5wt% of zirconia revealed
+not so conducing results that enhanced the performance of the
+membrane in high concentration of ammonia; hence, the 5 to
+10wt% with 7wt% at the middle were chosen. The detailed com-
+positions of the dope suspensions are listed in Table 1. First, the
+preparation of dope suspension was initiated by mixing n-methyl-
+2-pyrrolidone (NMP) and Arlacel p135 to the addition of zirco-
+nia and kaolin powder in a ceramic jar together with 2 (8mm)
+and 2 (20mm) alumina balls. The dope suspension was milled for
+96h by using rotary ball mill at 192rpm where polyethersulfone
+(PESf) was added during 48h. Prior to the extrusion, the suspen-
+sion was degassed with stirring at 120rpm for at least half an hour
+under vacuum condition at room temperature until no bubbles were
+observed. After that, ZKHFM was prepared via dry/wet phase inver-
+sion/sintering technique with 10ml/min for ceramic extrusion rate,
+10ml/min for bore-fluid extrusion rate, 5cm air gap between the
+spinneret to the surface of coagulant water bath. The size of spin-
+neret used in the ZKHFM fabrication is depicted in Fig. 1. The
+suspension was immediately immersed into the water bath at room
+temperature and solidified ceramic support was left to dry for 24h.
+The membrane precursor was then straightened and cut into the
+Fig.1.Spinneret dimension for ZKHFM fabrication.
+Fig.2.Sintering profile for ZKHFM.
+Fig.3.Schematic diagram of ZKHFM.
+desired length prior to the sintering process about 15cm long. The
+sintering process was done in two steps in a high-temperature tubu-
+lar furnace (XY-1700 MAGNA); firstly, sintering temperature was
+set up at 600 oC at a rate of 2 oC/min and held for 120min so that
+the binder would be burned off. Then, the sintering temperature
+was increased to 1,200-1,400 oC at a rate of 5 oC/min and held for
+240min. The final sintering temperature will be chosen depend-
+ing on the performance of the membrane, which will be discussed
+in detail in the next sub-topic section. Finally, the temperature was
+then reduced to room temperature at a rate of 5 oC/min. The sin-
+tering profile for the sintering process of ZKHFM is shown at Fig.
+2, while the schematic of fabricated ZKHFM is illustrated in Fig. 3.
+3. Characterization of Zirconia-kaolin Powder and ZKHFM
+The chemical composition of the kaolin powder was character-
+ized using X-ray fluorescence (XRF) to determine the kaolin’s ele-
+Table1.Suspension composition for ZKHFM
+Membrane
+Composition (wt%)
+Kaolin
+Zirconia
+NMP
+PESf
+Arlacel
+ZK50
+ZK70
+ZK10
+35
+33
+30
+05
+07
+10
+54
+5
+1
+4
+M. A. B. Pauzan et al.
+May, 2019
+ment composition. For the characterization of the crystallinity of
+kaolin and zirconia powder, X-ray diffraction (XRD) with Cu-K
+radiation (RINT, Ultima III, Rigaku Corp.) and Raman Spectros-
+copy (Raman) spectra were used.
+3-1. Morphological and Pore Characteristics of ZKHFM
+In membrane fabrication via phase inversion, the structure of
+the ceramic membrane is an important element to be analyzed. In
+this study, the structure of successfully prepared ZKHFM mem-
+branes was examined using scanning electron microscopy, SEM
+(JEOL JSM 7600F) and energy dispersive spectroscopy (EDAX) for
+mapping. The membrane samples were cut into 1cm size and placed
+on a metal holder, which was then sputtered by platinum under
+vacuum before testing. The images were captured at a few magni-
+fications to examine the overall cross-section and surface of the
+fabricated membrane.
+ImageJ software (National Institutes of Health (NIH), U.S., Pub-
+lic Domain) was used to estimate of the average pore size distribu-
+tion and porosity of the fabricated membrane. According to the
+software, the average pore size distribution and porosity of the
+ZKHFM were recognized based on the representation of black and
+white areas located from SEM images (surface image) by conduct-
+ing some adjustment to the threshold of the image. The black
+region represents the pores, while the white region represents the
+represented particles. Then, the porosity was determined by calcu-
+lating the percentage of the black regions, while the average pore
+diameter was determined by assuming cylindrical porous texture
+of the membrane.
+3-2. Mechanical Strength of ZKHFM
+The mechanical strength of the fabricated ZKHFM was examined
+by three-point bending test using a tensile tester (Instron 5544)
+provided with a load cell of 1kN. DLZK was fixed on the sample
+holder with a 30mm distance. The bending strength, F (MPa) was
+calculated using Eq. (1) as follows:
+(1)
+where F is the measured load at which fracture occurred (N), and
+L, Do, and Di, are the length (m), the outer diameter (m), and the
+inner diameter of the hollow fiber (m), respectively.
+3-3. Water Flux Permeability Test
+The laboratory scale for the water flux permeability test imple-
+mented in this work was done as shown in Fig. 4 in a crossflow/
+dead-end permeation system. 5cm of ZKHFM was placed in a stain-
+less-steel carter with the tip (one end) of the membrane blocked
+with epoxy. Distilled water was used as feed and the first drop of
+water flowing out from the membrane’s module until the reading
+was constant was recorded for 100minutes of test duration. The
+pressure of the permeation system was fixed at 1.0bar throughout
+the experiment by fixing the permeation system gauge, while the
+retentate outlet pressure was open for atmospheric pressure. Water
+permeation flux, J (L/m2·h) test was used to determine the effect
+of permeability of the membranes by using Eq. (3):
+(3)
+where V, A and t are the volume of the permeate (L), membrane
+area (m2), and time (h), respectively.
+3-4. Dissolution/Stability Test of ZKHFM in High Alkaline Condition
+A dissolution test was carried out to investigate the capability of
+the ZKHFM in high alkaline condition. The three ZKHFM mem-
+branes, which are ZK5, ZK7 and ZK7, were then compared to other
+ceramic membranes, which were alumina (Al2O3) hollow fiber
+membrane fabricated by adapting study by Abdullah et al. [21],
+kaolin hollow fiber membrane by adapting study by Hubadillah et
+al. [7], which was later labelled as K40 indicating 40wt% of kaolin
+was used and zirconia (ZrO2) hollow fiber membrane, which was
+fabricated using the same parameter in this study (40wt% of zir-
+conium dioxide powder only). 0.3g of each consecutive mem-
+brane was weighed and later dipped in 10mL of 10M~pH 13 of
+ammonium hydroxide (NH4OH) solution in 50mL centrifuge tube
+and agitated on a digital orbital shaker (Intertek, Heathrow Scien-
+tific. LLC, USA) at 250rpm for 72h as shown in Fig. 5. The tip of
+the membrane was blocked with epoxy at both ends to investigate
+F  
+8FLDo
+Do
+4
+  Di
+4
+
+
+------------------------
+J  V
+At
+-----
+Fig.5.Dissolution test of ZKHFM at average three samples per mem-
+branes shaken on an orbital shaker.
+Fig.4.Water flux permeability test set-up.
+Ammonia dissolution study by zirconia-kaolin membrane
+5
+Korean J. Chem. Eng.
+the effect of dissolution which had taken place at the wall surface
+side of the membrane, not the lumen side. The initial and final
+concentrations of NH4OH as well as the initial and final weight of
+the membranes were recorded. The rate of membrane dissolution
+was determined by calculating the percentage of weight loss at the
+end of the test. The ability of the membrane to sustain its original
+weight indicates its ability to perform well in a harsh condition. The
+ammonia concentration was measured using DR5000 HACH Spec-
+trophotometer, USA with HACH Ammoniacal-Nitrogen (NH3-N)
+Reagent Set, HACH Salicylate Method, 0.4 to 50.0mg/L NH3-N
+(HR) Test ‘N TubeTM Vials (Method 10031) and APHA method,
+while the pH of NH4OH was measured by pH meter (Thermo Sci-
+entific ELITEPCTS Pocket pH/Conductivity Meter, U.S.A). Three
+samples of membranes were used for each consecutive membrane
+as replicates and the average value was calculated and recorded.
+3-5. Statistical Tests on ZKHFM
+The performance of ZKHFM to other membranes, i.e., alumina,
+zirconia only and kaolin only membranes, was compared statisti-
+cally by using Prism - GraphPad software (U.S.A) according to one
+way analysis of variance (ANOVA) for the multiple comparison of
+means and tests. The variances of the groups were calculated ac-
+cording to Eq. (4) as follows, where Yi is the mean of the group i,
+n is the number of observations of the group i; Y is the overall
+mean; K is the number of groups [22]. The differences were con-
+sidered significant when p<0.05, whereas if the p-value is less than
+0.001 (p<0.001), the comparison is significant with F statistic is the
+ratio of intergroup mean sum of squares to intragroup mean sum
+of squares [23].
+(4)
+RESULTS AND DISCUSSION
+1. Chemical Composition of Kaolin and ZKHFM
+The chemical composition of the kaolin powder used in this
+work evaluated by XRF is shown in Table 2. From the table, SiO2
+appears to be the major component in kaolin followed by Al2O3.
+These data correspond with data from other studies where SiO2
+content in kaolin was 48wt% [24], 49wt% [25], 53wt% [26] and
+55wt% [27], where the content of SiO2 indicates the highest per-
+centage compared to other components. As known, SiO2 and Al2O3
+are the most common materials used in ceramic membrane. How-
+ever, due to high content of SiO2 which is approximately half of
+the composition of the kaolin, then the kaolin will tend to follow
+similar characteristics as SiO2 based ceramic membrane.
+According to Hubadillah et al. [7], and [9], the best kaolin hol-
+low fiber membrane configuration is when kaolin content is at
+35wt% with dope extrusion rate at 10mL/min and bore fluid flow
+rate of 10mL/min, with ratio of ceramic to polymer binder (PESf)
+of 1:8 showing the most stable hydrodynamic force and sintered
+at 1,300 oC. The parameters from the previous study were adapted
+in this study; however, with different compositions of zirconia and
+kaolin, which make total ceramic composition to be 40wt%. This
+composition was determined based on our preliminary study prior
+to this study because the composition from the Hubadillah et al.
+[7] study failed to produce a perfectly shaped zirconia-kaolin hol-
+low fiber configuration with the assumption of some interaction
+between kaolin and zirconia being incapable of tolerating the com-
+bination with ceramic to PESf ratio. Hence, by reducing the kaolin
+content from 35% to 30% with the same amount of zirconia (10
+wt%), similar to a study by Nishiyama et al. [18], a more stable
+composition of both kaolin and zirconia was established for this
+study. The reason for choosing zirconium (IV) oxide powder for the
+source of zirconia instead of yttria-stabilized zirconia (YSZ) pow-
+der by Paiman et al. [14], zirconium propoxide (ZrPr) by Park et
+al. [28], or zirconium oxychloride hydrate (ZrOCl2) by Zhu et al.
+[29], Martí-Calatayud et al. [30] and Su et al. [31] was due to all
+the materials mentioned having to be dip coated with on alumina
+as support when preparing the membrane. Whereas, in this study,
+the zirconia powder was mixed with kaolin to form a sole single
+hollow fiber membrane. Even though YSZ has been known to be
+the most stable zirconium state [32], however, in this study, fur-
+ther investigation on the interaction between the Zr-O bond with
+Si-O bond was intended due to these bonds being assumed to be
+the main influence in dissolution of kaolin in alkaline solution. YSZ
+possesses less Zr-O bond due to the structure having combined
+with yttria. The mechanism of the proposed structure will be fur-
+ther explained later in next sub section. Hence, zirconium (IV)
+oxide (ZrO2) was chosen due to this zirconia; ZrO2 possesses the
+most Zr-O apart from being more cost effective compared to other
+zirconium; apart from this, zirconium is in powder form, which is
+easier to be used in ceramic membrane dope suspension. The
+schematic diagram of showing Zr-O and Si-O in kaolin (aluminosil-
+icate) is depicted in Fig. 6.
+2. Effect of Sintering Temperature of ZKHFM
+Subsequently after the fabrication of ZKHFM, the membrane
+precursor of ZKHFM with zirconia content of 10wt% by follow-
+ing the wt% from study by Nishiyama et al. [18] was sintered at dif-
+ferent sintering temperatures to study the effect of sintering tem-
+perature of the membrane. Zirconia and kaolin have different melt-
+ing point, where the melting point of zirconia is higher than kaolin.
+The sintering temperatures were varied from 1,200-1,400 oC. One
+i1
+K ni Y  Y
+
+
+2/ K 1
+
+
+-
+Table2.Chemical composition of the kaolin used (wt%)
+SiO2
+Al2O3
+Fe2O3
+MgO
+K2O
+CaO
+TiO2
+59.096
+34.726
+0.942
+0.814
+2.916
+0.104
+0.713
+This study
+47.850
+37.600
+0.830
+0.170
+0.970
+0.570
+0.740
+[24]
+48.570
+35.050
+0.600
+0.770
+0.080
+1.340
+1.190
+[25]
+53.200
+27.300
+1.900
+0.070
+1.920
+0.300
+-
+[26]
+55.080
+29.041
+2.813
+0.172
+1.422
+0.010
+0.066
+[27]
+6
+M. A. B. Pauzan et al.
+May, 2019
+of the advantages of the phase inversion technique is the forma-
+tion of micro-void structure which enhances the permeation pro-
+cess using the membrane. As can be seen in Table 3, the formation
+of the micro-void structures was obvious at 1,200 oC and the for-
+mation was reduced, i.e., became more sponge-like/dense structure
+as the temperature increased. The formation of zirconia seems to
+be agglomerated; however, it was discovered the structure does
+not have any impact on the performance of the membrane. The
+addition of Arlacel as dispersant to disperse the particle is assumed
+to be the reason for the well distributed zirconia particles.
+Likewise, as the sintering temperature increased as shown in
+Table 3, the mechanical strength of the membrane also increased
+due to kaolin structure that also started to melt, hence allowing
+the membrane to form a denser structure, as stated by Jamalud-
+din et al. [33] supported by SEM images at 3000 magnifications
+on the ZKHFM surface in Fig. 7. As the temperature increased,
+the thickness of the membrane also reduced due to the dense struc-
+ture of the membranes where the pore size was reduced. This find-
+ing is expected because as stated by Gitis and Rothenberg [34],
+when the thickness of ceramic membrane decreases, the mechani-
+cal strength decreases correspondingly. However, in this study, in-
+terestingly, due to the melting of the kaolin when sintered at higher
+temperature, i.e., 1,300 oC and above, leads to denser structure of
+the membrane, which eventually leads to higher mechanical strength
+even though the thickness of the membrane was decreased. Another
+aspect to be considered is the grain growth which occurred during
+sintering process, which altered the grain boundaries between
+pores leads to shrinkage of the membrane [35]. Another study by
+Kolstov et al. [36], where alumina-zirconia nanocomposite mem-
+branes were fabricated by hydrothermal synthesis where they
+claimed were due to the interaction of alumina and zirconia at
+certain degrees, which induced reducing grain growth as well as
+stabilized the membrane in sintering temperature up to 1,400 oC
+as well as increasing the mechanical strength of the membrane.
+Fig.6.Schematic mechanism of zirconia and kaolin (aluminosilicate) in ZKHFM.
+Table3.ZKHFM (zirconia loading of 10wt%) morphology sintered at 1,200 to 1,400 oC
+Sintering temperature (oC)
+1,200
+1,250
+1,300
+1,350
+1,400
+x80
+x30
+Tickness (m)
+1,100
+1,010
+953
+904
+846
+Outer diameter (mm)
+1.58
+1.42
+1.36
+1.34
+1.30
+Inner diameter (mm)
+1.03
+0.915
+0.883
+0.888
+0.877
+Mechanical strength (MPa)
+20.81
+21.06
+31.46
+32.86
+35.31
+Ammonia dissolution study by zirconia-kaolin membrane
+7
+Korean J. Chem. Eng.
+Furthermore, from the magnified SEM images at 3000 magnifi-
+cations as shown in Fig. 7, which show the platelet-like structure
+of kaolin has started to melt at sintering temperature 1,300 oC and
+a clear version of the melting can be seen at sintering temperature
+1,400 oC. This melting was assumed to be the root behind the
+higher mechanical strength of ZKHFM. However, due to differ-
+ent melting point, the zirconia structure (white color), was main-
+tained. Remarkably, the mechanical strength of ZKHFM from this
+study corresponds to a study by Hubadillah et al. [7] and [9], which
+is ~20MPa and increased as sintering temperature increased. More-
+over, particle packing also could be related or contributed to the
+effect of mechanical strength of the ZKHFM. It was discovered,
+the number or the formation of the micro voids was reduced as
+the sintering temperature increased. This could be related to the
+particle packing where the particles have filled the voids as the
+result of melting due to high sintering temperature.
+Another theory which impacted the value of mechanical strength
+in ceramic hollow fiber membrane is microcracking or microme-
+chanics which occurs during the sintering process, especially after
+a temperature of more than 1,200 oC. Previous studies by Sobhani
+et al., and Wang et al., on porous alumina membrane where mi-
+crocracking was investigated, due to high content of alumina as
+well as high sintering temperature which causes the microcrack-
+ing. However, in this study, the formation of microcracking was
+not obvious; instead, the formation of micro voids was obvious
+can be seen due to different particle sizes of silica and zirconia as
+well as due to phase inversion for membrane fabrication technique
+which caused the formation of voids in the membrane. As men-
+tioned, the content of alumina is low in ZKHFM and hence it was
+assumed there was no microcracks was formed, which impacted
+the mechanical strength of ZKHFM.
+2-1. Water Permeability Test of ZKHFM
+Apart from investigation on the morphology, permeability is also
+one of the most important parameters in the performance of a
+membrane [37]. Investigation on the effect of the sintering tem-
+perature towards ZKHFM in terms of its permeability was done
+based on water permeation flux. As can be seen in Fig. 8, the
+ZKHFM sintered at 1,200 oC shows the highest water flux collected,
+which is 1,646L/m2·h with ZKHFM sintered at 1,400 oC showing
+the lowest water flux, which is 340L/m2·h followed by 1,484,
+1,362, and 1,278L/m2·h for ZKHFM sintered at 1,250, 1,300 and
+1,350 oC, respectively. A significant trend can be seen which is that
+as the sintering temperature increased, the water flux was decreased.
+This is because at the beginning of the filtration, it was assumed
+that a partial pore size reduction and the deposit of a loose parti-
+cle layer at the surface was taking place by interaction of the water
+particles with the membrane material entailing the rapid decrease
+of the permeation flux. When this stage is completed, the filtra-
+tion flux reaches a level that is only dependent on the transmem-
+brane pressure. It is also interesting that the constant permeated
+rate is reached more quickly when the pressure is high [24]. Plus,
+in this study, the membrane trans-pressure was standardized at
+1bar to reach equality corresponding to study by Hubadillah et al.
+[7] which used the same pressure. However, in this study the flux
+was higher due to the different particles because of the presence of
+zirconia which induced a different outcome.
+Fig.7.SEM images of magnification of x3,000 for ZKHFM (zirconia loading of 10wt%) sintered at 1,200, 1,300 and 1,400 oC.
+Fig.8.Water flux versus sintering temperature of ZKHFM (zirco-
+nia loading of 10wt%) sintered at 1,200 to 1,400 oC at aver-
+age three membranes for each sintering temperature.
+8
+M. A. B. Pauzan et al.
+May, 2019
+2-2. Average Pore Size and Porosity of ZKHFM
+To investigate the average pore size distribution and porosity of
+ZKHFM, ImageJ software was used. According to Kingsbury and
+Li [38], there is a correlation between sintering temperature of
+ceramic membrane towards its permeability as well as pore size
+distribution and porosity of a membrane. As depicted in Fig. 9, as
+the sintering temperature increased, it induced the reducing of
+average pore size and porosity of the ZKHFM. Increasing the tem-
+perature reduces pore size and increases the densification of the
+membrane and eventually reduces the porosity. As can be seen
+from SEM images in Fig. 7, the void between kaolin particles can
+be seen to be filled with zirconia particles. This induced the differ-
+ent pore size and porosity of ZKHFM. Due to the melting of kaolin,
+the melted part closed the gap between the particles which reduced
+the average pore size of ZKHFM sintered at 1,200 oC from 3.935
+m to 1.262m for ZKHFM sintered at 1,400 oC followed by 3.743,
+2.774 and 2.104m for ZKHFM sintered at 1,250, 1,300 and
+1,350 oC, respectively as can be seen in Fig. 9(a). The reduced pore
+size also induced low porosity as can be seen in Fig. 9(b) where
+the porosity of ZKHFM sintered at 1,200 to 1,400 oC was reduced
+from 22.128 to 9.227% with 20.574, 13.227 and 11.084% for ZKHFM
+sintered at 1,250, 1,300 and 1,350 oC, respectively, in between. This
+study also corresponds to a study by Hubadillah et al. [9] where a
+similar trend was obtained.
+From this finding, it can be concluded that, the addition of zir-
+conia in kaolin membranes definitely helps in fabricating a per-
+fect hollow fiber membrane configuration, with ZKHFM sintered
+at 1,200 oC showing the highest average pore size and porosity com-
+pared to other sintered temperature. Though having thre lowest
+mechanical strength, which is 21MPa compared to the highest
+sintering temperature in this study, 1,400 oC, which is 35MPa,
+however, in terms of permeability, ZKHFM sintered at 1,200 oC still
+possessed the highest water permeation flux which is up to 1,600
+L/m2·h compared to 340L/m2·h for ZKHFM sintered at 1,400 oC.
+High permeability is one of the important characteristics to be
+looked for in membrane performance. Instead possessing the low-
+est mechanical strength compared to other sintering temperatures,
+the membrane showed a similar result to a study by Emani et al.
+[39], where the result of 25Mpa was chosen as the best configura-
+tion for low-cost material in membrane fabrication. Also, if to be
+compared to study by Usman et al. [40] also where the kaolin hol-
+low fiber membrane sintered at 1,350 oC showed similar result of
+20Mpa. In terms of cost, Li et al. [41] stated that higher sintering
+temperature is more costly in ceramic membrane fabrication; hence
+this study showed that even at low sintering temperature, the mem-
+brane can work best for microfiltration purposes, high permeabil-
+ity. Not only does it save more energy for the sintering process due
+to lower temperature, but the ZKHFM sintered at 1,200 oC showed
+similar performance to kaolin membrane sintered at higher sinter-
+ing temperatures by Usman et al. [40] and Emani et al. [42]. Also,
+this study showed that the kaolin hollow fiber membrane sintered
+at 1,200 oC showed higher mechanical strength compared to study
+by Hubadillah et al. [7] and Mohtor et al. [43] where the mechani-
+cal strength of the membrane sintered at 1,200 oC was 5 and 15
+MPa, respectively Hence, through this finding, ZKHFM sintered at
+1,200 oC was chosen as the best sintering temperature for ZKHFM.
+The basic motivation of this study is to provide alternative knowl-
+edge on the use kaolin-based membrane with hollow fiber mem-
+brane configuration in harsh condition, i.e., high alkaline condition.
+This study in particular investigated the performance of kaolin
+hollow fiber membrane in high concentration/pH of ammonia.
+As to the best of our knowledge, no studies have been conducted
+on the performance of kaolin hollow fiber membranes used in high
+concentration of ammonia condition. However, it was discovered
+that during the permeation test of high concentration of ammo-
+nia using kaolin hollow fiber membrane, the membranes were
+dissolved. Hence, by adapting the study by Nishiyama et al. [18],
+by adding certain amount of zirconia, it was discovered the new
+modified kaolin hollow fiber membrane was able to solve the prob-
+lem. Even though the addition of zirconia (conventional ceramic
+material) which is considered high in cost if to be compared to
+low cost of kaolin, it should be noted that the addition of zirconia
+Fig.9.(a) Average pore size and (b) porosity of ZKHFM (zirconia loading of 10wt%) at sintering temperature 1,200 to 1,400 oC.
+Ammonia dissolution study by zirconia-kaolin membrane
+9
+Korean J. Chem. Eng.
+in this study was limited up to 10wt%. Plus, the cost for the mate-
+rial of zirconia, which is zirconium oxide powder (ZrO2), used in
+this study was considerably lower than the other zirconia type used
+for membrane fabrication, such as zirconyl chloride octahydrate or
+zirconium oxychloride (ZrOCl2·8H2O), yittria-stablized zirconia
+(YSZ), zirconium (IV) butoxide, ZrTB (solution) and zirconium
+propoxide (ZP). Plus, previously, zirconia-based ceramic mem-
+branes were normally fabricated either by depositing the zirconia
+on the surface of a membrane support or via sol-gel or hydrother-
+mal method as membrane coating, which is not considered a cost-
+saving method. To the best of our knowledge, there is no study of
+using zirconium oxide powder in the membrane fabrication which
+mixes both silica and zirconia as one dope suspension or to as a
+single mixed hollow fiber membrane. In this study, the zirconium
+oxide powder was mixed with the kaolin dope suspension and
+proceeded to phase inversion method, which is a single step of
+membrane fabrication. This study also was intended to investigate
+the effect of addition of zirconia powder added to the kaolin mixed
+zirconia dope suspension for an ideal weight percentage (wt%) of
+zirconia based on the weight percentage proposed by Nishiyama
+et al. [18], which is 10wt%. Moreover, the effect of addition of zir-
+conia wt% which is lower than the proposed by the study, which
+are 5 and 7wt%, was also being investigated for a purpose of low-
+ering the cost for zirconia used in the mixed zirconia-kaolin mem-
+brane fabrication in the future.
+3. Effect of Zirconia Content in ZKHFM
+For the purpose of verifying the effectiveness of zirconia addi-
+tion in kaolin, the amount of zirconia content in ZKHFM fabrica-
+tion was varied from 5, 7 and 10wt%. The reduced amount of
+ZKHFM was divided by three types, namely ZK5, ZK7 and ZK10,
+where the number behind (ZK) corresponds to wt% of zirconia
+used. As for the sintering temperature which was set at 1,200 oC,
+which is considered the best as mentioned in the previous sub-
+section, the membrane showed the best performance in water flux
+permeation as well as the highest average pore size and porosity.
+Not only can it save more energy, but the membrane can also per-
+form without any huge difference to increased sintering tempera-
+ture. The reason for the content of zirconia limit up to 10wt% is
+due to our preliminary work, increase in zirconia content more
+than 10wt% failed to produce a perfectly shaped hollow fiber con-
+figuration, which requires more study in the future. Fig. 10 depicts
+Fig.10.Image of ZKHFM membranes, ZK5, ZK7 and ZK10 with
+different zirconia content sintered at 1,200 oC.
+Fig.11.SEM and EDX images of ZKHFM at different zirconia content sintered at 1,200 oC.
+10
+M. A. B. Pauzan et al.
+May, 2019
+the image of successfully fabricated ZKHFM with different zirco-
+nia content and sintered at 1,200 oC.
+On the other hand, Fig. 11 describes the SEM and EDX images of
+ZKHFM membrane for ZK5, ZK7 and ZK10 sintered at 1,200 oC,
+which revealed platelet hexagonal structure of the kaolin. An asym-
+metric structure of micro voids near to the lumen side of the hol-
+low fiber surface occupies about 20% of the hollow fiber thickness,
+with the remaining hollow fiber region occupied by a sponge-like
+layer. This asymmetric micro void structure increased in size when
+the weight percentage of zirconia content increased. The forma-
+tion of the micro voids was assumed to help permeability of the
+membrane as stated by Li [44]. EDX was used to determine the
+presence of zirconia particles where it can be seen filling the void
+or big pore created from kaolin. The purple color in the image indi-
+cates that the presence of zirconia particle did fill the pore left by
+kaolin particles. Despite ZK7 presenting different thickness, based
+on the findings which will be discussed later in next sub-topics
+where ZK7 still follows the trend of properties for other ZK5 and
+ZK10, the thickness does not affect much the performance of the
+membrane.
+3-1. Characteristics of ZKHFM at Different Zirconia Loading
+To verify the structure of the ZKHFM especially in terms of its
+crystallinity, XRD was done to identify the correlation between Zr
+and Kaolin (SiO2) spectra. According to Puthai et al. [45], XRD
+can be used to determine the crystallinity of the ZKHFM by investi-
+gating the interaction between SiO2-ZrO2, and whether the SiO2-
+ZrO2 powders are composite or simply a mixture of SiO2 and
+ZrO2. XRD patterns of each patent of ZKHFM prepared by phase
+inversion technique are compared with kaolin and zirconia as in
+Fig. 12. XRD patterns show that the structural characteristics of
+the prepared ZKHFM compared perfectly to ZrO2 especially at the
+2 of 28o where a significant difference in peak intensity can be
+seen. This indicates that ZrO2 structure was preserved even after
+the phase inversion process. The intense peak of silica in kaolin at
+2 of 25o decreased due to the reaction between silica and zirco-
+nia having taken placed. At peak 2 of 50o, the peak of Zr was
+found at those ZK5 to ZK10 indicating that there monoclinic Zr
+was found in the membranes [46].
+X-ray diffraction (XRD) has often been used for the study of
+the kaolin-zirconia phase transitions where the crystallinity of the
+mixture was studied. Plus, the use of RAMAN spectroscopy was
+also implemented to study the interaction between the Si-Zr bond
+Fig.12.XRD pattern for ZKHFM sintered at 1,200 oC.
+Fig.13.Raman spectra for ZKHFM sintered at 1,200 oC.
+Ammonia dissolution study by zirconia-kaolin membrane
+11
+Korean J. Chem. Eng.
+or Al-Zr bond in the mixture in terms of hydroxyl removal. Because
+kaolin existed mainly as aluminosilicate (Al2SiO5), there is the possi-
+bility the removal of water or hydroxyl group is then replaced by
+Zr ion especially in powder form. Based on Fig. 13, from the Raman
+spectra of ZKHFM, a comparison was done to evaluate the mem-
+brane’s spectra towards kaolin membrane (K40) and zirconia pow-
+der spectra. At wavenumber of 1,600cm1, there is significant peaks
+for ZK10. As kaolin also contains alumina, the significant peak is
+due to interaction of alumina with ZrO2 as proven by Boullosa-
+Eiras et al. [47]. However, at wavenumber of around 1,300-1,400
+cm1, the significant peak for SiO2-ZrO2 was observed and this is
+confirmed by Lee and Condrate [48].
+3-2. Mechanical Strength of ZKHFM at Different Zirconia Content
+Park et al. [19] stated that zirconium ions occupy the interstices
+of the silica networks and increase their packing density. Further-
+more, the zirconium ions in the interstices of the silica networks
+strengthen the electrostatic bonds and weaken the polarization of
+the non-bridged oxygen ions. Fig. 14 illustrates that ZK10 shows
+the highest mechanical strength due to the high weight percent-
+age of zirconia in the membrane structure, which is 21MPa. The
+higher the quantity of zirconia added, the higher the mechanical
+strength. If to be compared to other ceramic membranes, espe-
+cially alumina-based membrane, the value of mechanical strength
+(MPa) of ZKHFM was considerably low, which may due to the
+composition of the suspension itself considered quite low, which is
+only 40wt%. It was discovered, if high ceramic composition was
+used, then the dope failed to be extruded. Even though the com-
+position is considerably low, other aspects should be taken into
+account such as the permeability, cost and the performance of the
+membrane itself. On the other hand, the value of MPa for ZKHFM
+was increased from 11MPa (ZK5), 13MPa (ZK7) to 21MPa (ZK10)
+due to Zr ions which occupied the void between Si ions, hence
+increasing the bond between these two ions, which enhanced the
+strength of the membrane [28]. As added by Paiman et al. [14], as
+the mechanical strength of ceramic membrane increases with the
+increasing ceramic content due to the mass transport mechanism
+during the sintering process, leading to the growth of necks be-
+tween the ceramic particles. Another theory which impacted the
+value of mechanical strength in ceramic hollow fiber membrane is
+microcracking or micromechanics which occur during the sinter-
+ing process, especially after the temperature is more than 1,200 oC
+[49]. Previous studies by Sobhani et al. [50] and Wang et al. [51]
+on porous alumina-titania membrane where microcracking was
+investigated, due to this microcracking, especially due to the pres-
+ence of alumina (high content in kaolin) affects the mechanical
+strength of ZKHFM. By reducing the zirconia content, which
+reduces the intermixing of particles as proposed by Koltsov et al.
+[36], which influences the reduction. In fact, there is also the pos-
+sibility due reduction of particle packing mechanism because of
+less particles of zirconia also reducing the intensity of the grain
+growth between each pores, which leads to the reducing of mechani-
+cal strength at ZKHFM equipped with fewer zirconia content.
+3-3. Water Permeation Flux of ZKHFM at Different Zirconia Con-
+tent
+Apart from instrumentation analysis, a water flux permeation
+test using distilled water was done to investigate the permeability
+of the membrane. As shown in Fig. 15, as the amount of zirconia
+content was reduced, so was the water flux permeation. ZK10 shows
+the highest permeability among those ZKHFM membranes, which
+is 1,646L/m2·h followed by 1,586 and 1,462L/m2·h for ZK7 and
+ZK5, respectively. This obtained data represent that the zirconia
+content does not affect much the permeability of the ZKHFM as
+the water flux is still considered high compared to study by Huba-
+dillah et al. [7-9], where from their study the highest water flux
+was less than 1,000L/m2·h. To support the data, average pore size
+distribution and porosity of the ZKHFM will be explained in the
+next sub-chapter to correlate the permeability of the ZKHFM.
+In addition, based on SEM images in Fig. 11, where the lack of
+asymmetric micro void structure for ZK5 might be the reason why
+the water flux was low compared to other ZKHFM. It was assumed
+the formation of sponge-like/denser structure at ZK5 which de-
+Fig.14.Average of mechanical strength of ZKHFM sintered at
+1,200 oC at different zirconia content for three samples per
+membrane test.
+Fig.15.Water permeation flux test of ZKHFM sintered at 1,200 oC
+at average three membrane samples for each trial.
+12
+M. A. B. Pauzan et al.
+May, 2019
+creased the permeation of water if to be compared to ZK10.
+3-4. Average Pore Size and Porosity of ZKHFM on the Effect of
+Zirconia Content
+ImageJ software was used to validate the data to investigate the
+average pore size and porosity of ZKHFM on the effect of zirco-
+nia content. As can be seen in Fig. 16(a), the difference among the
+three ZKHFM membranes was not really significant as the ZK5
+possesses the smallest average pore size, which is 3.99m followed
+by 4.18 and 4.28m for ZK7 and ZK10, respectively. Meanwhile,
+according to Fig. 16(b), the highest porosity was obtained by ZK10
+at 26% followed by 24 and 22% for ZK7 and ZK5, respectively. This
+data obtained corresponded to the water flux permeation data
+obtained earlier. This explains the reason ZK10 showed the high-
+est water flux permeation due to highest porosity as well as the
+biggest average pore size. Added by the data from SEM images at
+Fig. 11, where the structure of the membrane itself has shown that
+the present of micro voids did affect the porosity as well as perme-
+ability of the membrane as stated by Li [44].
+3-5. Dissolution of ZKHFM in Alkaline Solution
+The motivation of this study was to investigate the dissolubility
+or stability of ZKHFM in high alkaline of ammonia solution. Kaolin,
+having the aforementioned composition of silica (~60%) caused it
+to have low endurance in basic or alkaline solution. Since ammo-
+nia in high concentration or pH is very basic, the issue of using
+kaolin only membrane will result in it being dissolved in such
+solution. To verify the claim, a dissolution test was done by shak-
+ing the ZKHFM membranes in NH4OH solution or immersion
+and shaking process. The final weight of the ZKHFM after test is
+shown in Fig. 17 and compared to alumina membrane, kaolin mem-
+brane (K40 indicated by 40wt% of kaolin) and zirconia mem-
+brane (zirconium (IV) oxide only). As can be seen, the ZKHFM
+represented by ZK10 shows that this membrane was able to with-
+stand the harsh alkaline solution as far as alumina and zirconia
+membrane, which is the weight loss only 6% lost from original
+weight. Meanwhile, kaolin membrane (K40) lost almost 100%,
+which is 93% from original weight, followed by ZK5 which lost
+half of its original weight, which is 50%. Last, ZK7 lost almost 20%
+from its original weight.
+A clear image of the comparison of the dissolution of the
+ZKHFM in high alkaline ammonia solution is shown in Fig. 18.
+Due to the alumina and zirconia membranes producing similar
+result with ZK10, the image of the membranes was not included.
+Based on the image, the clear water of ammonia turned cloudy
+white, indicating that the kaolin membrane (K40) was dissolved in
+the solution. Compared to ZKHFM membrane, ZK5 showed the
+obvious half dissolved as the membrane lost half of its original
+shape. ZK10 shows the best performance in terms of dissolution
+as no white cloudy solution was discovered and the original shape
+of the membrane was maintained.
+Fig. 19 depicts the flow of silica bond (in kaolin) to be break
+Fig.16.(a) Average pore size (b) porosity of ZKHFM sintered at 1,200 oC at different zirconia content for average of three membranes per run.
+Fig.17.Weight loss of ZKHFM, alumina, kaolin and zirconia only
+membrane in NH4OH solution.
+Ammonia dissolution study by zirconia-kaolin membrane
+13
+Korean J. Chem. Eng.
+down in high basic/alkaline condition to explain the mechanism
+of this reaction. This mechanism was illustrated by Niibori et al.
+[16], where they elaborated that as kaolin or SiO2 contacted with
+water (OH-), SiO4
++ (representing a part of SiO2 framework) will
+react with water to form Si-OH, which will later turn to Si-O in
+basic solution. They revealed that the presence of highly polarized
+interatomic Si-O bonds facilitates the detachment of Si in basic
+solution due to deprotonation of the O to negatively charged spe-
+Fig.18.Before and after dissolution test for ZKHFM and kaolin membrane (K40).
+Table4.Comparison of kaolin/alumina/zirconia membranes with previous studies
+Materials
+Type of membrane
+Mechanical
+strength (MPa)
+Flux
+(L·m2/h)
+References
+Malaysian kaolin (1,200 oC)
+Malaysian kaolin+/TiO2 (1,200 oC)
+Malaysian kaolin (1,200 oC)
+Tunisian kaolin
+Tunisian kaolin/starch
+Chinese kaolin+Al2O3
+Indian kaolin
+ZrO2/a-Al2O3
+ZrO2-Al2O3
+yttria-stabilized zirconia
+Kaolin/Zirconia
+Malaysian kaolin with addition of 10 wt%/zirconia
+Hollow fiber
+Hollow fiber
+Hollow fiber
+Flat sheet
+Flat sheet
+Hollow fiber
+Flat sheet
+Flat sheet
+Nanocomposite
+Hollow fiber
+Tubular
+Hollow fiber
+16
+52
+9
+60
+28
+14
+73
+Not stated
+60
+336
+Not stated
+21
+300
+165
+Not stated
+Low
+65
+3,700
+206
+93
+Not stated
+Not stated
+1,204
+1,600
+0[7]
+[54]
+[40]
+[26]
+[24]
+[55]
+[42]
+[17]
+[36]
+[14]
+[27]
+This study
+Fig.19.Proposed mechanism of SiO4 in alkaline solution.
+cies such as Si-O.
+Kaolin composition mostly is dominated by aluminosilicate,
+Al2O3-SiO2. Hence, the interaction of the aluminosilicate and zir-
+conia could become a new network as Al2O3-SiO2-Zr. Since the
+composition of alumina, Al2O3 in kaolin as shown in Table 2 is
+35%, whereas silicate, SiO2 was made up of 60% of total composi-
+tion of kaolin used in this study. Due to silicate being predomi-
+nantly composing the kaolin, which induced the dissolubility of
+14
+M. A. B. Pauzan et al.
+May, 2019
+the material in high concentration of ammonia, there was the pos-
+sibility the alumina particles were also affected by the exposure to
+the ammonia, but can be neglected due to the less composition of
+alumina compared to silicate.
+Apart from that, according to Cormier et al. [52] and Ficheux
+et al. [53], the addition of zirconia in aluminosilicate not only will
+enhance the glass properties but also improve chemical durability
+or mechanical resistance, increasing viscosity and decreasing ther-
+mal expansion. Zirconia, indeed, is an efficient nucleating agent
+which will create a nucleation to the aluminosilicate structure, which
+to stabilize the glass structure. Based on their finding, explaining
+the addition of zirconia content in kaolin improves the stability of
+the membrane in high alkaline ammonia solution. Table 4 pres-
+ents a summarized comparison of using kaolin/alumina/zirconia
+membranes from previous studies in terms of the mechanical strength
+and flux. The results from this study were discovered to be com-
+parable to other studies where the highest flux was recorded and
+the mechanical strength of the ZKHFM was still considered the
+best to be used for microfiltration purpose. As there are not many
+studies of using silica and zirconia to be compared, the most simi-
+lar study of using tubular membrane was by Boussemghoune et al.
+[27]; still, this study did not mention any performance of the mem-
+brane in high concentration of ammonia.
+3-6. Statistical Comparison on ZKHFM
+The results of performance of mechanical strength, permeabil-
+ity, pore size distribution and porosity for ZKHFM sintered at dif-
+ferent sintering temperatures, which is 1,200 to 1,400 oC, ZKHFM
+with different zirconia content, which is ZK5, ZK7 and ZK10 sin-
+tered at 1,200 oC and dissolution of ZKHFM, alumina, zirconia
+only and kaolin (K40) hollow fiber membranes in ammonia were
+compared with each other statistically by comparing the means of
+the aforementioned results by one way ANOVA method. As pro-
+posed by the software used, it was discovered that F distribution
+value was the biggest in terms of the comparison on means of the
+dissolution of the membranes in the alkaline solution. This was due
+to the data not being sampled from populations with the same
+mean, which can be described as that the data was taken from dif-
+ferent population (different type of membranes). Meanwhile, p
+value of p<0.001 indicating the outcome from the comparison
+does not affect the measuring of the data and R2 close to value of 1
+which is 0.999, indicates that the comparison is valid and the dif-
+ference is significant as tabulated in Table 5 [56]. This means that
+the hypothesis can be accepted to avoid any type 1 error where the
+comparison from the means of performance of ZKHFM was valid.
+According to Kim [23], type 1 error occurs if there are compari-
+sons on means of three groups that are mutually independent sat-
+isfying the normality and equal variance assumptions. Hence, by
+following the suggestion by the software, it was discovered the com-
+parison was valid in terms of means variance, which indicated that
+there was a significant difference in comparing the membranes.
+CONCLUSION
+Kaolin based ceramic hollow fiber membrane has been success-
+fully fabricated with the addition of zirconia, namely ZKHFM.
+Kaolin was used as an alternative material for commercial ceramic
+membrane such as alumina (Al2O3) and silica (SiO2) due to its high
+cost. To overcome kaolin’s tendency to dissolve in high alkali sur-
+rounding, zirconia was added because zirconia is known to be resis-
+tant in high alkali condition. The morphology and performance of
+the ZKHFM was investigated and membrane with 10wt% Zr
+content, namely ZK10 sintered at 1,200 oC possesses the best char-
+acteristics in terms of high mechanical strength (21MPa), high
+permeation flux (~1,600L·m2/h), which also indicates low dissolu-
+tion rate as well as obvious formation of asymmetric finger-like
+void on the membrane to enhance filtration process. As the sinter-
+ing temperature increased, the weight percent of Zr reduced but
+the morphology of ZKHFM also changed as the membranes became
+denser, eventually reducing the particle size of the membrane and
+increasing the particle packing.
+ACKNOWLEDGEMENTS
+The authors gratefully acknowledge financial support from the
+Ministry of Higher Education Malaysia under the Fundamental
+Research Grant Scheme (Project Number: R.J130000.7809.5F161)
+and Higher Institution Centre of Excellence Scheme (Project Num-
+ber: R.J090301.7809.4J430) and Universiti Teknologi Malaysia under
+the Prototype Development Fund ICC (PRGS-ICC) (Project num-
+ber: R.J130000.7709.4J483), UTM Transdiciplinary Research Grant
+(Project number: Q.J130000.3551.05G09), and UTM High Impact
+Research Grant (Project number: Q.J130000.2409.08G34). The
+authors would also like to thank Research Management Centre,
+Universiti Teknologi Malaysia for the technical support.
+REFERENCES
+1.I. Sancho, E. Licon, C. Valderrama, N. de Arespacochaga, S. López-
+Palau and J.L. Cortina, Sci. Total Environ., 584-585, 244 (2017).
+2.B. Tao, J. Donnelly, I. Oliveira, R. Anthony, V. Wilson and S.R.
+Esteves, Bioresour. Technol., 232, 380 (2017).
+3.H. Liu and J. Wang, Prog. Nucl. Energy, 86, 97 (2016).
+Table5.One way ANOVA for performance of ZKHFM
+Sintering temperature
+Zirconia content
+Dissolution
+F
+27.75
+816
+2517
+P value
+<0.0001
+<0.0001
+<0.0001
+P value summary
+****
+****
+****
+Significant diff. among means (P<0.05)
+Yes
+Yes
+Yes
+R squared
+0.9922
+0.9967
+0.999
+Ammonia dissolution study by zirconia-kaolin membrane
+15
+Korean J. Chem. Eng.
+4.B. Norddahl, V.G. Horn, M. Larsson, J.H. du Preez and K. Chris-
+tensen, Desalination, 199(1-3), 172 (2006).
+5.X. Yang, T. Fraser, D. Myat, S. Smart, J. Zhang, J.C. Diniz da Costa,
+A. Liubinas and M. Duke, Membranes, 4(1), 40 (2014).
+6.M. Darestani, V. Haigh, S.J. Couperthwaite, G.J. Millar and L.D.
+Nghiem, J. Environ. Chem. Eng., 5(2). 1349 (2017).
+7.S.K. Hubadillah, M.H.D. Othman, Z. Harun, A.F. Ismail, M.A.
+Rahman, J. Jaafar, S.M. Jamil and N.H. Mohtor, Mater. Lett., 191,
+119 (2017).
+8.S.K. Hubadillah, M.H.D. Othman, A.F. Ismail, M.A. Rahman
+and J. Jaafar, Jurnal Teknologi, 79(1-2), 35 (2017).
+9.S.K. Hubadillah, M.H.D. Othman, M.A. Rahman, A.F. Ismail
+and J. Jaafar, Arabian J. Chem., 13(1), 2349 (2020).
+10.M.H. Abd Aziz, M.H.D. Othman, N.A. Hashim, M.R. Adam and
+A. Mustafa, Appl. Clay Sci., 177, 51 (2019).
+11.N.J. Ismail, M.H.D. Othman, S. Abu Bakar, J. Jaafar and M.A.
+Rahman, Clays Clay Miner., 68(4), 309 (2020).
+12.I. Jedidi, S. Khemakhem, A. Larbot and R. Ben Amar, Ceram. Int.,
+35(7), 2747 (2009).
+13.M.H.A. Aziz, M.H.D. Othman, N.A. Hashim, M.A. Rahman, J.
+Jaafar, A.F. Ismail, S.K. Hubadillah and Z.S. Tai, Ceram. Int.,
+45(2), 2069 (2019).
+14.S.H. Paiman, M.A. Rahman, M.H.D. Othman, A.F. Ismail, J.
+Jaafar and A.A. Aziz, Ceram. Int., 41(10), 12543 (2015).
+15.S.K. Hubadillah, M.H.D. Othman, T. Matsuura, M.A. Rahman,
+Z. Harun, J. Jaafar and M. Nomura, Ceram. Int., 44(5), 4538 (2018).
+16.Y. Niibori, M. Kunita, O. Tochiyama and T. Chida, J. Nucl. Sci.
+Technol., 37(4), 349 (2000).
+17.C. Yang, G. Zhang, N. Xu and J. Shi, J. Membr. Sci., 142(2), 235
+(1998).
+18.N. Nishiyama, H. Saputra, D.H. Park, Y. Egashira and K. Ueyama,
+J. Membr. Sci., 218(1-2), 165 (2003).
+19.D.H. Park, H. Saputra, N. Nishiyama, Y. Egashira and K. Ueyama,
+Stud. Surf. Sci. Catal., 146, 327 (2003).
+20.P. Rodič, J. Iskra and I. Milošev, J. Sol-Gel Sci. Technol., 70(1), 90
+(2014).
+21.N. Abdullah, M.A. Rahman, M.H.D. Othman, A.F. Ismail, J. Jaa-
+far and A.A. Aziz, Ceram. Int., 42(10), 12312 (2016).
+22.B. Gerald, Int. J. Appl. Mathematics and Theoretical Phys., 4(2), 50
+(2018).
+23.T.K. Kim, Korean J. Anesthesiol., 70(1), 22 (2017).
+24.S. Bouzid Rekik, J. Bouaziz, A. Deratani and S. Baklouti, Periodica
+Polytechnica Chem. Eng., 61(3), 206 (2017).
+25.O.H. Farhan, S.S. Ibraheem and S.M. Hussein, Biochem. Cell.
+Arch., 20(1), 949 (2020).
+26.I. Hedfi, N. Hamdi, E. Srasra and M.A. Rodríguez, Appl. Clay Sci.,
+101, 574 (2014).
+27.M. Boussemghoune, M. Chikhi, F. Balaska, Y. Ozay, N. Dizge and
+B. Kebabi, Symmetry, 12(6), 933 (2020).
+28.D.H. Park, H. Saputra, N. Nishiyama, Y. Egashira and K. Ueyama,
+Stud. Surf. Sci. Catal., 146, 327 (2003).
+29.H. Zhu, D. Yang, Z. Xi and L. Zhu, J. Am. Ceram. Soc., 90(4), 1334
+(2007).
+30.M.C. Martí-Calatayud, M. García-Gabaldón, V. Pérez-Herranz, S.
+Sales and S. Mestre, RSC Adv., 5(57), 46348 (2015).
+31.Y. Su, H. Cui, Q. Li, S. Gao and J.K. Shang, Water Res., 47(14), 5018
+(2013).
+32.X. Zhang, S. Suo, Y. Jiang, Q. Chang, G. Ji and X. Liu, Desalination
+Water Treatment, 57(45), 21273 (2016).
+33.M.R. Jamalludin, Z. Harun, M.H.D. Othman, S.K. Hubadillah,
+M.Z. Yunos and A.F. Ismail, Ceram. Int., 44(15), 18450 (2018).
+34.V. Gitis and G. Rothenberg, Ceramic membranes: New opportuni-
+ties and practical applications, Wiley Publishing, Hoboken, New
+Jersey (2016).
+35.J.E. Burke, J. Am. Ceram. Soc., 40(3), 80 (1957).
+36.I. Koltsov, J. Smalc-Koziorowska, M. Prześniak-Welenc, M. Małysa,
+G. Kimmel, J. McGlynn, A. Ganin and S. Stelmakh, Materials,
+11(5), 1 (2018).
+37.B.F.K. Kingsbury and K. Li, J. Membr. Sci., 328(1-2), 134 (2009).
+38.B.F.K. Kingsbury, Z. Wu and K. Li, Catal. Today, 156(3-4), 306
+(2010).
+39.S. Emani, R. Uppaluri and M.K. Purkait, Desalination, 341(1), 61
+(2014).
+40.J. Usman, M.H.D. Othman, A.F. Ismail, M.A. Rahman, J. Jaafar
+and T. Abdullahi, Malaysian J. Fundam. Appl. Sci., 16(2), 182 (2020).
+41.L. Li, M. Chen, Y. Dong, X. Dong, S. Cerneaux, S. Hampshire, J.
+Cao, L. Zhu, Z. Zhu and J. Liu, J. Eur. Ceram. Soc., 36(8), 2057
+(2016).
+42.S. Emani, R. Uppaluri and M.K. Purkait, Ceram. Int., 40(1), 1155
+(2014).
+43.N.H. Mohtor, M.H.D. Othman, A.F. Ismail, M.A. Rahman, J. Jaa-
+far and N.A. Hashim, Environ. Sci. Pollut. Res., 24(19), 15905
+(2017).
+44.K. Li, Comprehensive membrane science and engineering, Elsevier
+Publication, London, United Kingdom (2010).
+45.W. Puthai, M. Kanezashi, H. Nagasawa, K. Wakamura, H. Ohni-
+shi and T. Tsuru, J. Membr. Sci., 497, 348 (2016).
+46.P.R. Rauta, P. Manivasakan, V. Rajendran, B.B. Sahu, B.K. Panda
+and P. Mohapatra, Phase Transitions, 85(1-2), 13 (2012).
+47.S. Boullosa-Eiras, E. Vanhaecke, T. Zhao, D. Chen and A. Hol-
+men, Catal. Today, 166(1), 10 (2011).
+48.S.W. Lee and R.A. Condrate, J. Mater. Sci., 23(8), 2951 (1988).
+49.G. Bruno and M. Kachanov, J. Am. Ceram. Soc., 99(12), 3829
+(2016).
+50.M. Sobhani, H.R. Rezaie and R. Naghizadeh, J. Mater. Process.
+Technol., 206(1-3), 282 (2008).
+51.Y.H. Wang, G. Chen, Z.S. Wang, J.W. Liu and P.F. Luo, Ceram.
+Int., 44(2), 2077 (2018).
+52.L. Cormier, O. Dargaud, G. Calas, C. Jousseaume, S. Papin, N.
+Trcera and A. Cognigni, Mater. Chem. Phys., 152, 41 (2015).
+53.M. Ficheux, E. Burov, G. Aquilanti, N. Trcera, V. Montouillout and
+L. Cormier, J. Non-Crystalline Solids, 539, 120050 (2020).
+54.N.H. Mohtor, M.H.D. Othman, S. Abu Bakar, T.A. Kurniawan,
+H. Dzinun, M.N.A. Mohd Norddin and Z. Rajis, Chemosphere,
+208, 595 (2018).
+55.L.F. Han, Z.L. Xu, Y. Cao, Y.M. Wei and H.T. Xu, J. Membr. Sci.,
+372(1-2), 154 (2011).
+56.R. Mavrevski, M. Traykov, I. Trenchev and M. Trencheva WSEAS
+Trans. Syst. Control., 13, 242 (2018).

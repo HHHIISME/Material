@@ -1,0 +1,983 @@
+# Yin-2017-The application of highly flexible Zr
+
+ENERGY MATERIALS
+The application of highly ﬂexible ZrO2/C nanoﬁber ﬁlms
+to ﬂexible dye-sensitized solar cells
+Xin Yin1,2, Xueyao Xie1,2, Lixin Song1,2,3,*, Yangyang Zhou1,2, Pingfan Du1,2, and Jie Xiong1,2,*
+1College of Materials and Textiles, Zhejiang Sci–Tech University, Hangzhou 310018, China
+2Key Laboratory of Advanced Textile Materials and Manufacturing Technology of Ministry of Education, Zhejiang Sci–Tech
+University, Hangzhou 310018, China
+3Department of Materials Engineering, University of British Columbia, Vancouver, Canada
+Received: 9 March 2017
+Accepted: 9 June 2017
+Published online:
+19 June 2017
+ Springer Science+Business
+Media, LLC 2017
+ABSTRACT
+The highly ﬂexible ZrO2/C nanoﬁber ﬁlm was fabricated by electrospinning
+followed by heat treatment of stabilization and carbonization. The effects of
+carbonization temperature on the morphology, microstructure, and perfor-
+mance of ZrO2/C nanoﬁber ﬁlm were investigated. As the temperature
+increases, the tetragonal phase of the ZrO2 nanoparticles gradually transformed
+into monoclinic phase. As a result, the mechanical and electrical properties of
+the ZrO2/C nanoﬁber ﬁlm were improved. When the temperature reached
+1100 C, the ZrO2/C nanoﬁber ﬁlm exhibited the best ﬂexibility with the ﬂexural
+modulus of 6.24 ± 0.08 MPa, the highest conductivity of 476.5 S/m, and
+promising electrocatalytic activity. These improvements can be ascribed to the
+phase transition toughening effect of ZrO2 nanoparticles, the increase in oxygen
+vacancy concentration in ZrO2, and the improvement in graphitization of carbon
+matrix. Hence, the ZrO2/C nanoﬁber ﬁlm served as a counter electrode for
+ﬂexible dye-sensitized solar cells, and an efﬁciency of 2.97% was achieved.
+Introduction
+The carbon nanoﬁbers (CNFs) with free-standing,
+good
+conductivity
+and
+excellent
+electrochemical
+properties [1–3] have attracted considerable atten-
+tions because of their wide applications, such as dye-
+sensitized solar cells (DSSCs), supercapacitor, or
+lithium battery [4–9]. Electrospinning is an effective
+method to fabricate CNFs, owing to its controllability,
+ﬂexibility, and versatility [10–14].
+However, the electrospun CNFs have poor ﬂexi-
+bility, and hence, its applications are limited. Up to
+date, a few papers concerning the ﬂexible properties
+have reported [7, 15]. In our previous work [16], the
+zirconia nanoparticles (ZrO2 NPs) were incorporated
+into CNFs matrix. The obtained ZrO2/C composite
+nanoﬁber ﬁlm exhibited excellent ﬂexibility, whereas
+its electrical property was poor.
+As is well known, carbonization temperature has a
+signiﬁcant effect on the mechanical and electrical
+properties of carbon-based materials. Moreover, ZrO2
+Address correspondence to E-mail: lxsong12@yahoo.com; jxiong@zstu.edu.cn
+DOI 10.1007/s10853-017-1287-z
+J Mater Sci (2017) 52:11025–11035
+Energy materials
+has three polymorphs (monoclinic, tetragonal, and
+cubic), and the transition (as shown in the following
+equation) between its different phases [17–19] gives
+great impact on the thermal, chemical, and dielectric
+properties. Speciﬁcally, the phase transformation
+from tetragonal to monoclinic is widely applied to
+toughen composite materials [20, 21]. Besides, an
+increase in the oxygen vacancy concentration caused
+by the phase transition favors the improvement in the
+electrical properties [22]. Therefore, the temperature
+plays a key factor in improving the performance of
+ZrO2/C nanoﬁber ﬁlm.
+monoclinic !
+ 
+9001000 C tetragonal:
+ð1Þ
+In this work, the ZrO2/C nanoﬁber ﬁlm with
+excellent mechanical and electrical properties is pre-
+pared as shown in Figure S1. The effects of car-
+bonization
+temperature
+on
+phase
+transition,
+structural properties, and performances of the ZrO2/
+C nanoﬁber ﬁlm are investigated in detail. Further-
+more, the ﬂexible ZrO2/C nanoﬁber ﬁlm acts as
+counter electrode (CE) to fabricate Pt-free ﬂexible
+dye-sensitized solar cells (FDSSCs).
+Experimental
+Fabrication of ZrO2/C composite nanoﬁber
+ﬁlm
+According to our previous work [16], the ZrO2/C
+nanoﬁber ﬁlm is fabricated by electrospinning and
+heat treatment. Brieﬂy, PAN (0.4 g) and PVP (0.4 g)
+were dissolved in DMF (6 ml) at room temperature,
+with mechanical stirring for 3 h. Then, Zr(C3H7O)4
+(0.72 ml) and acetic acid (0.3 ml) were added to the
+solution with continuous stirring. The PAN/PVP/
+Zr(C3H7O)4 solution was electrospun on a grounded
+collector to obtain PAN/PVP/Zr(C3H7O)4 nanoﬁber
+ﬁlm. During electrospinning, a ﬂow rate is 1.1 ml/h
+and the high voltage is 15 kV. The obtained PAN/
+PVP/Zr(C3H7O)4 nanoﬁber ﬁlm was pre-oxidized at
+270 C in air for 2 h with a heating rate of 2 C/min
+and then carbonized at different temperatures (800,
+900, 1000, and 1100 C) in nitrogen for 1 h. Finally,
+the ZrO2/C nanoﬁber ﬁlms are obtained and labeled
+as ZCN-800, ZCN-900, ZCN-1000, and ZCN-1100,
+respectively. As a comparison, CNFs ﬁlm from PAN/
+PVP solution was also prepared with the same
+treatments.
+Assembling FDSSCs
+The assembly process is illustrated in Fig. 1. First, the
+photoanodes were fabricated according to Horim’s
+work [23, 24]. 0.1 g TiO2 was added in 1 ml anhy-
+drous ethanol, and the mixture was stirred for 4 h
+followed by ultrasound for 0.5 h. The obtained sus-
+pension was electrospray deposited on the ITO/PET
+(13 X/sq, Peccell). The TiO2 layer with ITO/PET was
+stored at 150 C for 6 h. Subsequently, all the TiO2
+photoanodes were immersed in 0.5 mM N719 dye
+solution for 24 h. The anodes were washed with
+absolute ethanol to remove the unanchored dyes. The
+FDSSCs were assembled by TiO2 photoanode and
+ﬂexible ZrO2/C nanoﬁber ﬁlm CE with quasi-solid
+electrolyte
+(OPV-MPV-I)
+using
+a
+60-lm
+sealing
+spacer (Surlyn 1702, DuPont). And the active area of
+the cells was 0.25 cm-2.
+Characterization and testing methods
+The morphologies and microstructures of ZrO2/C
+nanoﬁber ﬁlm were observed by X-ray diffraction
+analysis (XRD, Thermo ARL-X’TRA, USA), ﬁeld-
+emission scanning electron microscope (FE-SEM,
+Ultra 55, Zeiss, Germany), transmission electron
+microscope (TEM, JEM 2100, Japan), and X-ray pho-
+toelectron spectroscopy (XPS, K-Alpha, USA). The
+mechanical ﬂexibility of ZrO2/C nanoﬁber ﬁlm was
+measured
+by
+electronic
+stiffness
+tester
+(LLY-01,
+China), and the testing samples were prepared as
+20 9 2.5 cm. The electrical conductivity and resis-
+tance were measured by four-point probes resistivity
+tester (SZT-2A, China).
+The electrochemical measurements including cyclic
+voltammetry (CV), Tafel polarization measurements,
+and electrochemical impedance spectroscopy (EIS)
+were conducted by means of CHI760E potentiostat
+(Shanghai, Chenhua). The CV curves were carried
+out in a three-electrode system in acetonitrile solu-
+tion, which contains 10 mM LiI, 1 mM I2, and 0.1 M
+LiClO4 with a scan rate of 50 mV s-1. The resultant
+ZrO2/C nanoﬁber ﬁlm acts as the working electrode,
+where Pt wire and Ag/AgCl electrodes act as counter
+electrode and reference electrode, respectively. And
+the Tafel polarization and electrochemical impedance
+spectroscopy
+(EIS)
+curves
+were
+obtained
+using
+dummy symmetric cells. The Tafel test was con-
+ducted at 10 mV s-1 scan, and the EIS measurements
+were
+carried
+out
+in
+a
+frequency
+range
+of
+11026
+J Mater Sci (2017) 52:11025–11035
+0.01–100 kHz and AC amplitude of 10 mV at room
+temperature. The impedance spectra were analyzed
+using equivalent circuit models by Zview ﬁtting
+software. The photocurrent–voltage (I–V) character-
+istic was performed with a sourcemeter (2400-SCS,
+Keithley)
+under
+100 mW cm-2
+illumination.
+The
+solar simulator consists of a 500-W Xe lamp (Trust-
+tech, China) and an AM 1.5 ﬁlter (Oriel).
+Results and discussion
+Morphology and microstructure
+of composite nanoﬁbers
+The phase structures of the CNFs and ZrO2/C
+nanoﬁbers were characterized by XRD. As displayed
+in Fig. 2a, the main diffraction peak at 24.2 can be
+indexed to the (002) plane of graphite structure
+[25, 26]. In addition, the patterns in Fig. 2b–e illus-
+trate the structural changes of ZrO2/C nanoﬁbers
+(ZCN-800, ZCN-900, ZCN-1000 and ZCN-1100). As
+shown in Fig. 2b, the ZCN-800 possesses prominent
+diffraction peaks at 30.2, 50.4, and 60.7, which are
+assigned to (011), (112), and (121) planes of T-ZrO2
+(No. 50-1089 JCPDS card), respectively [27]. By
+comparison, a few new peaks appear for ZCN-900 in
+Fig. 2c. These new peaks locate at 28.1, 31.3, 34.2,
+39.3, and 55.4, belonging to the (-111), (111), (200),
+(220), and (031) reﬂections of M-ZrO2 (No. 37-1484
+JCPDS card), respectively [27–29]. It indicates that the
+monoclinic phase of ZrO2 transforms from tetragonal
+at 900 C. As the temperature further increases
+(1000–1100 C), the intensity of diffraction peaks
+corresponding to M-ZrO2 becomes stronger (Fig. 2d,
+e). In the meanwhile, the intensity of peaks of T-ZrO2
+becomes weaker. Especially for ZCN-1100, the peaks
+assigned to (-112), (031) planes of M-ZrO2 appear. In
+general, ZrO2 NPs are stable in the form of mono-
+clinic phase at room temperature. However, the sta-
+bility of T-ZrO2 can be greatly improved due to the
+presence of defects and impurities in ZrO2 NPs. After
+cooling down, the T-ZrO2 in ZrO2/C nanoﬁber can be
+obtained. However, as the temperature increases, the
+defects and impurities are reduced. The T-ZrO2
+would gradually transform into M-ZrO2. And the
+T-ZrO2 and M-ZrO2 can coexist in ZrO2/C nanoﬁ-
+bers. Besides, with the increase in temperature, the
+proportion of monoclinic phase increases and the
+tetragonal
+phase
+decreases,
+as
+summarized
+in
+Table 1. It is noteworthy that, as the carbonization
+temperature increases, the intensity of (002) carbon
+peak gradually becomes stronger (Figure S2), indi-
+cating the improvement in graphitization degree of
+ZrO2/C nanoﬁber.
+Figure 1 Schematic diagram of FDSSCs assembly process.
+Figure 2 XRD patterns of CNFs (a) and ZrO2/C nanoﬁbers
+annealing at 800 C (b), 900 C (c), 1000 C (d), and 1100 C (e).
+J Mater Sci (2017) 52:11025–11035
+11027
+Figure 3 shows the morphology and microstruc-
+ture of the obtained samples. As a comparative
+sample, pure CNFs (Fig. 3a) present smooth surface
+and fuse together. It is noticeable that there are many
+broken CNFs. In contrast, the ZrO2/C nanoﬁbers
+(Fig. 3b–e) are developed into a rough surface with
+evenly distributed NPs. In addition, these nanoﬁbers
+gradually become more uniform, independent, and
+continuous with the increase in temperature. The
+average
+nanoﬁber
+diameter
+(displayed
+in
+inset
+image) is summarized in Table 3. It can be found that
+the average diameter decreases as the carbonization
+temperature increases. EDX (Fig. 3f) analysis con-
+ﬁrms the presence of these elements (Zr, C, and O) in
+the composite nanoﬁbers.
+TEM was utilized to further detect the morphology
+of nanoﬁbers and the presence of ZrO2 NPs in carbon
+matrix. As displayed in Fig. 3g, it can be seen that the
+ZrO2/C nanoﬁbers exhibit the rough surface with
+many tiny pits, and the conspicuous NPs can be
+observed on the surface. Furthermore, the HRTEM
+image (Fig. 3h) clearly demonstrates that the NPs are
+embedded in the carbon matrix. The interplanar
+distance of 0.325 nm is consistent with the lattice
+spacing
+(121)
+of
+the
+tetragonal
+ZrO2,
+and
+the
+d-spacing of 0.271 nm is corresponding to the (002)
+plane of monoclinic ZrO2 [30]. It indicates that
+T-ZrO2 and M-ZrO2 coexist in ZrO2. The corre-
+sponding selected area electron diffraction (SAED)
+pattern in Fig. 3i displays the bright concentric ring
+together with a set of well-deﬁned diffraction spots,
+suggesting that ZrO2 NP has polycrystalline nature.
+Coupled with the result of XRD, these nanoparticles
+can be conﬁrmed as ZrO2.
+The surface compositions and electronic structures
+of ZrO2/C nanoﬁbers were measured by XPS tech-
+nique. Figure 4a shows full XPS spectra scanned from
+0 to 1300 eV, which provides both a compositional
+overview and information about main elemental
+components in ZCN-1000 and ZCN-1100. All samples
+produce the C1s and O1s peak at about 284.4 and
+529.3 eV, respectively. A major difference among
+them was the peaks intensity of the Zr and O. It is
+obvious that the peak intensities increase with the
+increase in carbonization temperature, implying an
+increase in the surface concentrations of Zr and O
+[31].
+To further investigate the state of these atoms,
+high-resolution XPS spectra of Zr, C, and O were
+analyzed. The Zr 3d spectra region is shown in
+Fig. 4b. These spectra are composed of two primary
+peaks, which can be assigned to Zr 3d5/2 and Zr 3d3/2,
+respectively [32, 33]. By contrast, an increase of about
+0.3 eV in the binding energy of Zr 3d of ZCN-1100
+can be found. This shift is ascribed to the increased
+oxygen vacancy concentration. Hence, the ZrO2
+attracts outer electrons of Zr atom strongly, resulting
+in an increase in binding energy. Figure 4c demon-
+strates the C1s high-resolution spectra, which reveal
+two carbon components of samples. The main carbon
+peak locates at 284.7 eV which corresponds to the
+amorphous carbon, and the other peak at 285.3 eV
+may be assigned to carboxyl carbon. The O1s spectra
+region is depicted in Fig. 4d. There are three kinds of
+oxygen states for two samples: Zr–O, O–H, and C–O.
+Obviously, the binding energy of O–H and the
+intensity of C–O were changed. An increase in
+binding energy of O–H is attributed to the fact that
+the -OH group is absorbed to balance the charge
+change
+caused
+by
+oxygen
+vacancy.
+And
+the
+decrease in intensity of C–O is due to the further
+decomposition of organic compounds in elevated
+temperature.
+Herein, the change of oxygen vacancy concentra-
+tion was investigated. To our knowledge, the oxygen
+of ZrO2 lattice will leave the equilibrium position in
+anoxic environment due to the vibration of atoms in
+high temperature, leading the generation of oxygen
+vacancies (V00
+O):
+OO ! 2e0 þ 1=2O2 þ V00
+O
+ð2Þ
+When oxygen vacancy is generated, ZrO2 would be
+present in ZrO2-x(x \ 2) to maintain the electrical
+neutrality [33]. Therefore, the Zr element not only
+Table 1 Crystallite size and
+phase composition of ZrO2/C
+nanoﬁbers samples
+Samples
+ZCN-800 C
+ZCN-900 C
+ZCN-1000 C
+ZCN-1100 C
+Crystallite size (nm)
+7.5 ± 2.2
+13.8 ± 3.4
+19.6 ± 1.8
+26.3 ± 5.5
+Phase of ZrO2
+T (100%)
+T (87%)
+M (13%)
+T (61%)
+M (39%)
+T (28%)
+M (72%)
+11028
+J Mater Sci (2017) 52:11025–11035
+exists in Zr4?, but also in Zrf? (|f| \ 4). The oxygen
+vacancy concentration can be characterized by Zrf?
+content. Figure 5 shows the ﬁtting curve of Zr4? and
+Zrf? in Zr 3d5/2 peak. It can be clearly observed that
+the oxygen vacancy concentration of ZCN-1100 is a
+litter higher than that of ZCN-1000. The calculation
+results are summarized in Table 2. This increasing
+oxygen vacancy concentration is attributed to the
+stronger movement of molecules at high temperature,
+which veriﬁes the correctness of above analysis.
+Mechanical and electrical properties
+Assuredly, the structural changes have a signiﬁcant
+effect on the performance of the ZrO2/C nanoﬁber
+ﬁlm. Accordingly, the effects of carbonization tem-
+perature on electrical and mechanical properties were
+studied.
+Figure 6
+schematically
+illustrates
+the
+excellent
+ﬂexibility and foldability of the ZrO2/C composite
+nanoﬁber ﬁlm. The ZrO2/C nanoﬁber ﬁlm sustains
+mechanical deformation without any fracture or
+structural damage. The bending test is applied to
+demonstrate the ﬂexible nature of ZrO2/C nanoﬁber
+ﬁlm as displayed in Table 3. Notably, the data of the
+CNFs ﬁlm cannot be obtained because of the poor
+ﬂexibility. For the ZrO2/C composite ﬁlm, it can be
+found that the ﬂexural modulus increases with the
+temperature. A lowest value of ﬂexural modulus is
+6.24 MPa (ZCN-1100). This indicates that the ﬂexi-
+bility of ZrO2/C nanoﬁber ﬁlm is greatly improved
+by the increase in temperature.
+According
+to
+our
+previous
+work
+[16],
+the
+improvement in the CNFs ﬁlm ﬂexibility is ascribed
+to the toughening effect of ZrO2 NPs. Differently, the
+phase transformation toughening mechanism of ZrO2
+Figure 3 SEM micrographs and diameter distributions (shown as
+the inset images): CNFs (a), ZCN-800 (b), ZCN-900 (c), ZCN-
+1000
+(d),
+and
+ZCN-1100
+(e).
+Morphology
+and
+elemental
+composition of ZrO2/C nanoﬁbers: EDX analysis (f), TEM (g),
+HRTEM (h), and SEAD pattern (i).
+J Mater Sci (2017) 52:11025–11035
+11029
+plays a major role in this work. Theoretically, the
+ZrO2 is present in tetragonal phase at high tempera-
+ture, and it would transform to monoclinic phase
+after cooling. However, in this work, the transfor-
+mation is incomplete owing to the constraints of
+carbon matrix. Of course, the presence of carbon may
+also delay the occurrence of phase transition. As
+depicted in Fig. 7, the constraint is weakened or even
+removed when bending load is applied on CNFs, and
+then, phase transition (tetragonal to monoclinic) is
+further promoted by internal stress of CNFs. Mean-
+while, the volume expansion of the ZrO2 NPs caused
+by phase transformation produces the microcrack on
+the CNFs. These cracks can absorb energy to promote
+the carrying capacity of the CNFs, thus greatly
+improving the toughness. Besides, the microcrack can
+also prevent the growth of the main cracks [16, 34]. In
+a word, under the combined action of phase trans-
+formation toughening and microcrack toughening,
+the mechanical properties of ZrO2/C composite ﬁlm
+are greatly improved.
+Figure 8a illustrates the electrical conductivity of
+the CNFs and ZrO2/C nanoﬁber ﬁlm in different
+Figure 4 Full XPS spectrum
+of ZrO2/C nanoﬁbers (a) and
+the high-resolution XPS
+spectra of Zr 3d (b), C1s (c),
+and O1s (d).
+Table 2 Oxygen vacancy content in ZCN-1000 and ZCN-1100
+Samples
+Zr4?
+Zrf?
+VO ratio
+Peak BE
+Area
+Peak BE
+Area
+ZCN-
+1000
+182.7
+95,011.2
+182.3
+5423.5
+0.054
+ZCN-
+1100
+183.0
+83,459.1
+182.8
+12,691.9
+0.132
+Figure 5 Concentration distribution of Zr4? and Zrf? of Zr 3d5/2
+peak.
+11030
+J Mater Sci (2017) 52:11025–11035
+temperatures. It can be seen that the electrical con-
+ductivity of the ZrO2/C nanoﬁber ﬁlm is lower than
+that of CNFs ﬁlm at temperature below 900 C. The
+result was related to the high resistivity of ZrO2 NPs.
+As expected, the electrical conductivity of the ZrO2/
+C nanoﬁber ﬁlm is gradually improved with the
+increases in carbonization temperature. Accordingly,
+the ZCN-1100 nanoﬁber ﬁlm possesses the best
+electrical conductivity of 476.5 S/m. Interestingly,
+this is higher than the corresponding pure CNFs
+(326.7 S/m). This is mainly due to the removal of
+impurities and improvement in the crystallinity. In
+addition, the resistance change of ZrO2/C nanoﬁber
+ﬁlm after bending at different times was investigated
+as displayed in Fig. 8b. After bending for 400 times,
+the resistance of ZCN-800 is six times higher than
+that of the original ﬁlm. In contrast, the resistance of
+ZCN-1100 increases slightly. This indicates that the
+properties of highly ﬂexible ZrO2/C nanoﬁber ﬁlm
+are stable and durable.
+The ZrO2/C ﬁlm with promising ﬂexibility and
+electrical conductivity exhibits the feasibility to apply
+in FDSSC as a CE material. For an efﬁcient CE
+material, the process of hole extraction from elec-
+trolyte should be fast, which depends on its electro-
+chemical performance. Therefore, cyclic voltammetry
+(CV), Tafel polarization, and electrochemical impe-
+dance spectra were carried out. Figure 9a presents
+the CV curves of ZCN-800, ZCN-900, ZCN-1000,
+ZCN-1100, and Pt CEs. The oxidation and reduction
+peaks can be obviously observed for ZCN-900, ZCN-
+1000, and ZCN-1100 CEs, whereas no peaks can be
+found for ZCN-800. The oxidation and reduction pair
+Figure 6 Digital photographs illustrating its ﬂexibility (folding and rolling).
+Table 3 Average diameter and ﬂexural property of nanoﬁbers
+Samples
+Average diameter/nm
+Flexural modulus/MPa
+CNFs
+315 ± 57
+–
+ZCN-800
+319 ± 43
+16.33 ± 0.32
+ZCN-900
+299 ± 46
+8.65 ± 0.06
+ZCN-1000
+285 ± 27
+7.37 ± 0.1
+ZCN-1100
+278 ± 32
+6.24 ± 0.08
+Figure 7 Schematic diagrams of phase transformation toughening mechanism.
+J Mater Sci (2017) 52:11025–11035
+11031
+on the left was attributed to the redox reaction of
+I
+3 þ 2e $ 3I, and the pairs of peaks on the right
+resulted from the redox reaction of 3I2 þ 2e $ 3I
+[35]. The current density of peak corresponding to
+reaction of I
+3 þ 2e $ 3I in lower potential is an
+important parameter for analyzing catalytic activity
+of CE [36–38]. The ZCN-1100 CE possesses a larger
+current density (4.25 mA/cm2) than others, suggest-
+ing the faster rate of triiodide reduction. Moreover,
+the current density of the ZCN-1100 CE is higher than
+that of Pt CE. It may be attributed to its higher surface
+roughness and larger active surface area.
+Tafel polarization curves in Fig. 9b were used to
+further evaluate electrocatalytic abilities of various
+ﬁlms by using the symmetric cells. In general, the
+Tafel curve can be divided into three parts: the lower
+potential polarization zone, the diffusion zone at
+higher voltage, and the Tafel zone in the middle of
+steep slope (which determines the catalytic properties
+of the electrode) [37]. It can be observed that the
+limiting diffusion current density (Jlim) increases as
+the temperature increases. On the other hand, the
+exchange current density (J0) calculated from the
+intersection of the linear cathodic and anodic Tafel
+polarization curves shows similar trend like Jlim.
+Moreover, the J0 value of a ﬁlm is inversely propor-
+tional to charge transfer resistance (RCT-Tafel) using
+the relation:
+J0 ¼
+RT
+nFRCT
+ð3Þ
+where R is the gas constant, T shows temperature,
+n accounts for the number of electrons involved in the
+reaction, and F is the Faraday’s constant. A smaller
+RCT-Tafel value implies the faster electron transfer rate
+[39]. It veriﬁes that the ZCN-1100 C CE possesses
+the better performance comparable to Pt CE, which is
+consistent with CV analysis.
+To precisely investigate the interfacial electro-
+chemical behaviors between ﬂexible ZCN ﬁlm CE
+and quasi-solid electrolyte, electrochemical impe-
+dance spectrum (EIS) was applied in the form of
+symmetric cells. The spectra in Fig. 9c are composed
+of series resistance (RS) in the high-frequency region,
+charge transfer resistance (RCT) in the middle fre-
+quency region, and Warburg diffusion resistance
+(ZW) in the low frequency, and the inset is the cor-
+responding equivalent circuit. The RS corresponds to
+onset of the ﬁrst semicircle, the ﬁrst semicircle arises
+from the RCT at the CE/electrolyte interface, and the
+second semicircle relates to the ZW. The results of the
+relevant EIS parameters are summarized in Table 4.
+As seen, the ZCN-1100 CE possesses the smaller RS
+value of 25.87 X, indicating the better electron
+transportation ability [40]. And the lower value of
+RCT (7.43 X) and ZW (5.09 X) proves its better catalyst
+activity. It may also be noted that ZCN-1100 CE
+provides a slightly higher RS value compared to Pt
+CE, indicating it beneﬁts for the electronic transport.
+These results are consistent with the investigation of
+CV and Tafel.
+Obviously, the electrocatalytic properties of ZrO2/
+C nanoﬁbers are greatly improved with the increase
+in carbonization temperature. It can be ascribed to the
+slightly increase in oxygen vacancy concentration.
+These oxygen vacancies can be used as the diffusion
+channels of O2- to effectively improved conductivity,
+increased catalytic active sites [22, 41]. Of course, the
+improvement in graphitization of carbon matrix is
+one of the factors that cannot be ignored.
+Finally, we fabricated the FDSSC devices with
+various ZCN-based CEs to assess its related photo-
+voltaic performance. Figure 10 shows the corre-
+sponding
+current–voltage
+(I–V)
+curve,
+and
+the
+photovoltaic parameters are summarized in Table 5.
+As expected, the FDSSC based on ZCN-800 exhibits
+Figure 8 Electrical
+conductivities of CNFs and
+ZrO2/C ﬁlm (a). The resistance
+change of ZrO2/C ﬁlm after
+bending test at different times
+(b).
+11032
+J Mater Sci (2017) 52:11025–11035
+the poorest cell efﬁciency of 0.58%, and the efﬁcien-
+cies of ZCN-900, ZCN-1000, and ZCN-1100-based
+FDSSC reach 1.30, 2.08, and 2.97%, respectively. The
+improved performance of FDSSCs with different
+ZCN ﬁlm CEs is essentially attributed to the better
+conductivity ability and electrocatalytic capacity as
+indicated in the aforementioned [42]. Besides, the
+efﬁciency of DSSCs based on Pt CEs is 3.24%. It is
+necessary to admit that the efﬁciency is low. This is
+mainly
+due
+to
+the
+poor
+performance
+of
+the
+photoanodes. The photoanode based on ITO/PEN
+substrate only can be prepared in low temperature
+conditions. Therefore, the insufﬁcient sintering leads
+to the dispersion of the internal structure of TiO2
+photoanode ﬁlm and further leads to poor electron
+diffusion. Besides, the residual organic material may
+become a recombination center, leading to the gen-
+eration of dark current [43]. Thus, the photoanode
+should to be further optimized.
+Conclusion
+The highly ﬂexible ZrO2/C nanoﬁber ﬁlm has been
+successfully fabricated by electrospinning and heat
+treatment. The mechanical properties and electrical
+Table 4 Electrochemical impedance parameters of symmetric
+cells based on various ZrO2/C nanoﬁber ﬁlms
+CEs
+RS (X)
+RCT (X)
+ZW (X)
+ZCN-800
+78.81
+18.37
+11.35
+ZCN-900
+43.63
+12.34
+9.22
+ZCN-1000
+31.03
+9.36
+6.61
+ZCN-1100
+25.87
+7.43
+5.09
+Pt
+21.79
+8.63
+4.37
+Table 5 Photovoltaic performances of FDSSC based on ZrO2/C
+nanoﬁber ﬁlm
+CEs
+JSC (mA cm-2)
+VOC (V)
+FF (%)
+g (%)
+ZCN-800
+1.92
+0.71
+43.13
+0.58
+ZCN-900
+4.46
+0.72
+40.51
+1.30
+ZCN-1000
+7.25
+0.71
+40.54
+2.08
+ZCN-1100
+8.73
+0.71
+48.05
+2.97
+Pt
+9.27
+0.74
+46.26
+3.24
+Figure 9 Cyclic voltammogram of ZCN-800, ZCN-900, ZCN-
+1000, ZCN-1100, and Pt CEs (a). The Tafel polarization curves of
+symmetric cells assembled with ZCN-800, ZCN-900, ZCN-1000,
+ZCN-1100, and Pt CEs (b). The Nyquist plots of the symmetric
+cells with two identical counter electrodes of ZCN-800, ZCN-900,
+ZCN-1000, ZCN-1100, and Pt CEs.
+Figure 10 I–V curves of FDSSCs based on ZCN-800, ZCN-900,
+ZCN-1000, ZCN-1100, and Pt CEs.
+J Mater Sci (2017) 52:11025–11035
+11033
+properties can be improved by increase in carboniza-
+tion temperature. After 1100 C carbonization, the
+ZrO2/C nanoﬁber ﬁlm exhibited the highest ﬂexibility
+with the ﬂexural modulus of 6.24 ± 0.08 MPa, the best
+conductivity (476.5 S/m), and excellent electrocat-
+alytic activity. This is mainly due to the phase transi-
+tion toughening effect of ZrO2 nanoparticles, the
+improved conductivity, and the increased electrocat-
+alytic capacity. Besides, the highly ﬂexible ZrO2/C
+nanoﬁber ﬁlm served as Pt-free CE for FDSSCs.
+Accordingly, a maximum cell efﬁciency of 2.97% is
+achieved using ZCN-1100 nanoﬁber ﬁlm CE. Despite
+the efﬁciency is low, this ZrO2/C nanoﬁber ﬁlm
+exhibits a considerable potential for application.
+Overall, the highly ﬂexible ZrO2/C nanoﬁber ﬁlm can
+be employed as a promising and desirable electrode
+material to be applied for ﬂexible energy device, such
+as FDSSC and lithium battery.
+Acknowledgement
+The ﬁnancial support of this work was provided by
+the Program for Zhejiang Provincial Natural Science
+Foundation
+of
+China
+(LZ16E020002),
+Innovative
+Research
+Team
+of
+Zhejiang
+Sci-Tech
+University
+(15010039-Y), and National Natural Science Founda-
+tion of China (51402260).
+Electronic
+supplementary
+material:
+The
+online
+version of this article (doi:10.1007/s10853-017-1287-
+z) contains supplementary material, which is avail-
+able to authorized users.
+References
+[1]
+Mahmut D, Ozkan Y, Lu Y, Fang XM, Jiang H, Huseyin K,
+Zhang XW (2015) Flexible binder-free silicon/silica/carbon
+nanoﬁber composites as anode for lithium–ion batteries.
+Electrochim Acta 169:52–60
+[2]
+Wan YZ, Yang ZW, Xiong GY, Guo RS, Liu Z, Luo HL
+(2015) Anchoring Fe3O4 nanoparticles on three-dimensional
+carbon nanoﬁbers toward ﬂexible high-performance anodes
+for lithium–ion batteries. J Power Sources 294:414–419
+[3]
+Zhou GY, Xiong TR, Jiang SH, Jian SJ, Zhou ZP, Hou HQ
+(2016) Flexible titanium carbide–carbon nanoﬁbers with
+high modulus and high conductivity by electrospinning.
+Mater Lett 165:91–94
+[4]
+Liu Y, Zhou JY, Chen LL, Zhang P, Fu WB, Hao ZH (2015)
+Highly ﬂexible freestanding porous carbon nanoﬁbers for
+electrodes materials of high-performance all-carbon super-
+capacitors. ACS Appl Mater Interfaces 7:23515–23520
+[5]
+Cheng Y, Huang L, Xiao X, Yao B, Yuan L, Li T, Hu Z,
+Wang B, Wan J, Zhou J (2015) Flexible and cross-linked
+N-Doped carbon nanoﬁber network for high performance
+freestanding
+supercapacitor
+electrode.
+Nano
+Energy
+15:66–74
+[6]
+Zhang F, Yuan CZ, Zhu JJ, Wang J, Zhang XG (2013)
+Flexible ﬁlms derived from electrospun carbon nanoﬁbers
+incorporated with Co3O4 hollow nanoparticles as self-sup-
+ported electrodes for electrochemical capacitors. Adv Funct
+Mater 23:3909–3915
+[7]
+Zhao BT, Cai R, Jiang SM, Sha YJ, Shao ZP (2012) Highly
+ﬂexible self-standing ﬁlm electrode composed of meso-
+porous rutile TiO2/C nanoﬁbers for lithium–ion batteries.
+Electrochim Acta 85:636–643
+[8]
+Bhavana NJ, Seongpil A, Hong SJ, Kyo YS, Hyun GP
+(2016)
+Flexible,
+freestanding,
+and
+binder-free
+SnOx-
+ZnO/carbon nanoﬁber composites for lithium ion battery
+anodes. ACS Appl Mater Interfaces 8:9446–9453
+[9]
+Jiang H, Ge YQ, Fu K, Lu Y, Chen C, Zhu JD, Dirican M,
+Zhang XW (2015) Centrifugally-spun tin-containing carbon
+nanoﬁbers as anode material for lithium-ion batteries.
+J Mater Sci 50:1094–1102. doi:10.1007/s10853-014-8666-5
+[10] Bo-Hye K, Chang HK, Kap SY (2010) SiC/SiO2 coating for
+improving the oxidation resistive property of carbon nano-
+ﬁber. Appl Surf Sci 257:1607–1611
+[11] Zhang LF, Aboagye A, Kelkar A, Lai CL, Fong H (2014) A
+review: carbon nanoﬁbers from electrospun polyacrylonitrile
+and their applications. J Mater Sci 49:463–480. doi:10.1007/
+s10853-013-7705-y
+[12] Teo W, Ramakrishna S (2006) A review on electrospinning
+design
+and
+nanoﬁbre
+assemblies.
+Nanotechnology
+17:89–106
+[13] Inagaki M, Yang Y, Kang FY (2012) Carbon nanoﬁbers
+prepared via electrospinning. Adv Mater 24:2547–2566
+[14] Zhu PW, Hong YL, Liu BB, Zou GT (2009) The synthesis of
+titanium carbide-reinforced carbon nanoﬁbers. Nanotech-
+nology 20:255603
+[15] Soojung K, Bharat B, Chang KB, Soon-Jin K, Han-Ik J,
+Kwang BY, Sungho L (2014) Preparation of ﬂexible zinc
+oxide/carbon nanoﬁber webs for mid-temperature desulfur-
+ization. Appl Surf Sci 320:218–224
+[16] Yin X, Song LX, Xie XY, Zhou YY, Guan YL, Xiong J
+(2016)
+Preparation
+of
+the
+ﬂexible
+ZrO2/C
+composite
+nanoﬁbrous ﬁlm via electrospinning. Appl Phys A 122:678
+[17] Li LP, Zhang PG, Liang JD, Guo SM (2010) Phase trans-
+formation and morphological evolution of electrospun
+11034
+J Mater Sci (2017) 52:11025–11035
+zirconia nanoﬁbers during thermal annealing. Ceram Int
+36:589–594
+[18] Din HP, Virkar AV, Liu F (2012) Defect conﬁguration and
+phase stability of cubic versus tetragonal yttria-stabilized
+zirconia. Solid State Ion 215:16–23
+[19] Beg S, Sarita, Varshney P (2007) Study of electrical con-
+ductivity changes and phase transitions in Co3O4 doped
+ZrO2. Phase Transit 80:867–873
+[20] Ajoy KP, Koushik B (2016) Effect of hydrothermal treat-
+ment on tribological properties of alumina and zirconia
+based bioceramics. Ceram Int 42:2306–2316
+[21] Vasudevan R, Karthik T, Ganesan S, Jayavel R (2013) Effect
+of microwave sintering on the structural and densiﬁcation
+behavior of sol–gel derived zirconia toughened alumina
+(ZTA) nanocomposites. Ceram Int 39:3195–3204
+[22] Samson K, Sliwa M, Socha RP, Go´ra-Marek K, Mucha D,
+Paul JF (2014) Inﬂuence of ZrO2 structure and copper
+electronic state on activity of Cu/ZrO2 catalysts in methanol
+synthesis from CO2. ACS Catal 4:3730–3741
+[23] Daesub H, Horim L, Sung-Yeon J, Seong M, Dongho K,
+Yongsok S, Dong YK (2011) Electrospray preparation of
+hierarchically-structured mesoporous TiO2 spheres for use in
+highly efﬁcient dye-sensitized solar cells. ACS Appl Mater
+Interfaces 3:2719–2725
+[24] Horim L, Daesub H, Sung-Yeon J, Seong M, Dongho K,
+Yongsok S, Dong YK (2012) Low-temperature fabrication of
+TiO2 electrodes for ﬂexible dye-sensitized solar cells using
+an
+electrospray
+process.
+ACS
+Appl
+Mater
+Interfaces
+4:3308–3315
+[25] Xiao XP, Song YH, Liu HY, Xie MY, Hou HQ, Wang L, Li
+Z (2013) Electrospun carbon nanoﬁbers with manganese
+dioxide nanoparticles for nonenzymatic hydrogen peroxide
+sensing. J Mater Sci 14:4843–4850. doi:10.1021/acssusche
+meng.5b01150
+[26] Zhou Z, Liu K, Lai C, Zhang L, Li J, Hou H, Reneker DH,
+Fong H (2010) Graphitic carbon nanoﬁbers developed from
+bundles of aligned electrospun polyacrylonitrile nanoﬁbers
+containing phosphoric acid. Polymer 51:2360–2367
+[27] Li XM (2016) Microstructure and properties of alumina
+ceramics prepared from submicrometer alumina powder with
+MgO–ZrO2 coated on alumina grain surface. J Alloys
+Compd 669:55–59
+[28] Lin CK, Zhang CM, Lin J (2007) Phase transformation and
+photo-luminescence
+properties
+of
+nanocrystalline
+ZrO2
+powders prepared via the Pechini-type sol–gel process.
+J Phys Chem C 111:3300–3307
+[29] Young KM, Kyriakidou EA, Soon CJ (2016) Enhancing
+low-temperature activity and durability of Pd-based diesel
+oxidation catalysts using ZrO2 supports. Appl Catal B
+187:181–194
+[30] Jeong C, Suh Y (2016) Role of ZrO2 in Cu/ZnO/ZrO2 cat-
+alysts prepared from the precipitated Cu/Zn/Zr precursors.
+Catal Today 265:254–263
+[31] Jung-Min O, Amar SK, Olt G, Stephen EC (2012) Meso-
+porous carbon/zirconia composites: a potential route to
+chemically
+functionalized
+electrically-conductive
+meso-
+porous materials. Langmuir 28:3259–3270
+[32] Luo JM, Luo XB, Hu CZ, Crittenden JC (2016) Zirconia
+(ZrO2) embedded in carbon nanowires via electrospinning
+for efﬁcient arsenic removal from water combined with DFT
+studies. ACS Appl Mater Interfaces 8:18912–18921
+[33] Sesha V, Fatma KS, Cagla OA, Necmi B (2015) Amorphous
+to tetragonal zirconia nanostructures and evolution of
+valence and core regions. J Phys Chem C 119:23268–23273
+[34] Lin J, Huang Y, Zhang HA (2015) Crack-healing and pre-
+oxidation behavior of ZrO2 ﬁber toughened ZrB2-based
+ceramics. Int J Refract Met H 48:5–10
+[35] Li CT, Lee C, Li S, Kuo H (2016) Composite ﬁlms of carbon
+black nanoparticles and sulfonated-polythiophene as ﬂexible
+counter electrodes for dye-sensitized solar cells. J Power
+Sources 302:155–163
+[36] Iftikhar AS, Kyung CS, Alvira AA, Sung H (2016) Flexible
+and conductive cotton fabric counter electrode coated with
+graphene nanosheets for high efﬁciency dye sensitized solar
+cell. J Power Sources 319:90–98
+[37] Mukta T, Mandakini B, Shruti A, Satishchandra O (2014)
+Electronically and catalytically functional carbon cloth as a
+permeable and ﬂexible counter electrode for dye sensitized
+solar cell. Electrochim Acta 123:248–253
+[38] Prakash J, Zhang LF, Chen QL, Qiao QQ (2010) Electrospun
+carbon nanoﬁbers as low-cost counter electrode for dye-sen-
+sitized solar cells. ACS Appl Mater Interfaces 2:3572–3577
+[39] Chen SL, Tao J, Tao HJ, Shen YZ, Wang T, Pan L (2016)
+High-performance and low-cost dye-sensitized solar cells
+based on kesterite Cu2ZnSnS4 nanoplate arrays on a ﬂexible
+carbon cloth cathode. J Power Sources 330:28–36
+[40] Duan YY, Tang QW, Li R, He BL, Yu LM (2015) An avenue
+of sealing liquid electrolyte in ﬂexible dye-sensitized solar
+cells. J Power Sources 274:304–309
+[41] Zhai T, Xie SL, Yu ML, Fang PP, Tong YX (2014) Oxygen
+vacancies enhancing capacitive properties of MnO2 nanor-
+ods for wearable asymmetric supercapacitors. Nano Energy
+8:255–263
+[42] Yue GT, Ma XP, Zhang WF, Li FM, Wu JH, Li GQ (2015) A
+highly efﬁcient ﬂexible dye-sensitized solar cell based on
+nickel sulﬁde/platinum/titanium counter electrode. Nanos-
+cale Res Lett 10:1
+[43] Minna T, Janne H, Kati M, Kerttu A (2009) Nanostructured
+dye solar cells on ﬂexible substrates-Review. Int J Energy
+Res 33:1145–1160
+J Mater Sci (2017) 52:11025–11035
+11035
