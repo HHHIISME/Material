@@ -31,6 +31,16 @@ app.add_middleware(
 )
 
 
+@app.on_event("startup")
+async def startup_event():
+    """应用启动时执行"""
+    print("🚀 正在启动应用...")
+    # 初始化数据库表（如果不存在）
+    from app.core.database import init_db
+    init_db()
+    print("✅ 应用启动完成")
+
+
 @app.get("/")
 async def root():
     """根路径健康检查"""
