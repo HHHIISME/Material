@@ -13,7 +13,7 @@ redis==5.2.1
 pymilvus==2.5.0
 
 # LLM & AI
-openai==1.57.0
+openai>=1.58.1,<2.0.0
 zhipuai==2.1.0
 langchain==0.3.14
 langchain-community==0.3.14
