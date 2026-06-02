@@ -1,6 +1,14 @@
 """
 数据库连接模块
 """
+import sys
+# 强制 stdout/stderr 使用 UTF-8（Windows GBK 会让 print 中的中文/emoji 崩溃）
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+except Exception:
+    pass
+
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker

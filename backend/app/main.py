@@ -2,7 +2,16 @@
 材料学院智能学习平台 - FastAPI 主入口
 """
 import os
+import sys
 from pathlib import Path
+
+# 强制 stdout/stderr 使用 UTF-8 编码（Windows 默认 GBK 会让 print('中文/emoji') 崩溃）
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+except Exception:
+    pass
+
 from dotenv import load_dotenv
 
 # 加载.env文件（从backend目录的上级目录）
@@ -34,11 +43,11 @@ app.add_middleware(
 @app.on_event("startup")
 async def startup_event():
     """应用启动时执行"""
-    print("🚀 正在启动应用...")
+    print("[STARTUP] Initializing application...")
     # 初始化数据库表（如果不存在）
     from app.core.database import init_db
     init_db()
-    print("✅ 应用启动完成")
+    print("[STARTUP] Application started successfully")
 
 
 @app.get("/")
@@ -59,8 +68,12 @@ async def health_check():
 
 # 注册路由
 from app.api import zhipu, documents
+from app.api.v1 import entities, relationships, graph
 app.include_router(zhipu.router, prefix="/api/v1")
 app.include_router(documents.router, prefix="/api/v1")
+app.include_router(entities.router, prefix="/api/v1")
+app.include_router(relationships.router, prefix="/api/v1")
+app.include_router(graph.router, prefix="/api/v1")
 
 # TODO: 添加更多路由
 # from app.api.v1 import chat, images, ppt, auth
